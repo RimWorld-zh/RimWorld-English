@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mental breaks: extreme -->
+
+  <Berserk.label>berserk</Berserk.label>
+  <Berserk.beginLetterLabel>berserk</Berserk.beginLetterLabel>
+  <Berserk.beginLetter>{0} has gone berserk!</Berserk.beginLetter>
+  <Berserk.recoveryMessage>{0}'s berserk rage has come to an end.</Berserk.recoveryMessage>
+  <Berserk.baseInspectLine>Mental state: Berserk</Berserk.baseInspectLine>
+
+  <FireStartingSpree.label>fire starting spree</FireStartingSpree.label>
+  <FireStartingSpree.beginLetterLabel>fire starting spree</FireStartingSpree.beginLetterLabel>
+  <FireStartingSpree.beginLetter>{0} is on a fire starting spree.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.recoveryMessage>{0} is no longer on a fire starting spree.</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.baseInspectLine>Mental state: Fire starting spree</FireStartingSpree.baseInspectLine>
+
+  <GiveUpExit.label>giving up and leaving</GiveUpExit.label>
+  <GiveUpExit.beginLetterLabel>gave up</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetter>{0} is leaving the colony.</GiveUpExit.beginLetter>
+  <GiveUpExit.recoveryMessage>{0} has had a change of heart and is coming back to the colony.</GiveUpExit.recoveryMessage>
+  <GiveUpExit.baseInspectLine>Mental state: Given up and leaving</GiveUpExit.baseInspectLine>
+
+  <BingingDrugExtreme.label>binging on drug</BingingDrugExtreme.label>
+  <BingingDrugExtreme.baseInspectLine>Mental state: Binging on {0}</BingingDrugExtreme.baseInspectLine>
+
+
+  <!-- Mental breaks: major -->
+
+  <BingingDrugMajor.label>binging on drug</BingingDrugMajor.label>
+  <BingingDrugMajor.baseInspectLine>Mental state: Binging on {0}</BingingDrugMajor.baseInspectLine>
+
+  <WanderPsychotic.label>wandering in psychosis</WanderPsychotic.label>
+  <WanderPsychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</WanderPsychotic.recoveryMessage>
+  <WanderPsychotic.beginLetterLabel>daze</WanderPsychotic.beginLetterLabel>
+  <WanderPsychotic.beginLetter>{0} is wandering around in a psychotic state.</WanderPsychotic.beginLetter>
+  <WanderPsychotic.baseInspectLine>Mental state: Psychotic wandering</WanderPsychotic.baseInspectLine>
+
+
+  <!-- Mental breaks: minor -->
+
+  <BingingFood.label>binging on food</BingingFood.label>
+  <BingingFood.beginLetterLabel>food binge</BingingFood.beginLetterLabel>
+  <BingingFood.beginLetter>{0} is pigging out on food.</BingingFood.beginLetter>
+  <BingingFood.recoveryMessage>{0} is no longer pigging out on food.</BingingFood.recoveryMessage>
+  <BingingFood.baseInspectLine>Mental state: Pigging out</BingingFood.baseInspectLine>
+
+  <WanderSad.label>sad wandering</WanderSad.label>
+  <WanderSad.recoveryMessage>{0} is no longer wandering in sadness.</WanderSad.recoveryMessage>
+  <WanderSad.beginLetterLabel>sad wander</WanderSad.beginLetterLabel>
+  <WanderSad.beginLetter>{0} is wandering around in sadness.</WanderSad.beginLetter>
+  <WanderSad.baseInspectLine>Mental state: Sad wandering</WanderSad.baseInspectLine>
+
+  <WanderOwnRoom.label>sitting alone</WanderOwnRoom.label>
+  <WanderOwnRoom.recoveryMessage>{0} is no longer hiding in HIS room.</WanderOwnRoom.recoveryMessage>
+  <WanderOwnRoom.beginLetterLabel>hide in room</WanderOwnRoom.beginLetterLabel>
+  <WanderOwnRoom.beginLetter>{0} is hiding in HIS room.</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.baseInspectLine>Mental state: Hiding in room</WanderOwnRoom.baseInspectLine>
+
+
+</LanguageData>

@@ -1,38 +1,34 @@
-# RimWorld-English
+RimWorld-English
 
 This is the standard lanugage data template for translating RimWorld!
 
-### DefInjected
+DefInjected
+fields: 5737
+generated from Defs by tool RimTrans.
 
-* fields: 5737
-* generated from Defs by tool [RimTrans](https://github.com/duduluu/RimTrans).
+Keyed
+fields: 1729
+written by Tynan Sylvester.
 
-### Keyed
+Current Version
+0.15
 
-* fields: 1729
-* written by Tynan Sylvester.
+--------------------------------
 
-### Current Version
+Format of injections
 
-* 0.15
 
-----
-
-## Format of injections
-
-### Format
+Format
 
 DefInjected\defType\fileName.xml
 
-```xml
   <defName.fieldName>Translation</defName.fieldName>
-```
 
-### Example
+
+Example
 
 Defs files: Mods\Core\Defs\XxxxxxDefs\Example.xml
 
-```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
@@ -44,15 +40,12 @@ Defs files: Mods\Core\Defs\XxxxxxDefs\Example.xml
   </XxxxxxDef>
 
 </Defs>
-```
 
-* Then, create a subdirectory in directory DefInjected, **using the defType as a name**.
-* The name of subdirectories ignore Singular and Plural from Alptha 14.
+Then, create a subdirectory in directory DefInjected, using the defType as a name.
+The name of subdirectories ignore Singular and Plural from Alptha 14.
 
+DefInjecte files: Mods\Core\Languages\English\DefInjected\XxxxxxDef\Example.xml
 
-DefInjecte files: Mods\Core\Languages\English\DefInjected\\**XxxxxxDef**\\Example.xml
-
-```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
@@ -60,4 +53,3 @@ DefInjecte files: Mods\Core\Languages\English\DefInjected\\**XxxxxxDef**\\Exampl
   <YYYYYY.description>ZZZZZZ is a example, its defType is "XxxxxxDef" and defName is "YYYYYY".</YYYYYY.description>
 
 </LanguageData>
-```

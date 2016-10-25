@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Deer.label>deer</Deer.label>
+  <Deer.description>A medium-sized herding herbivore. Generally peaceful unless disturbed.</Deer.description>
+  <Deer_Leather.label>deerhide</Deer_Leather.label>
+  <Deer_Leather.description>deerhide</Deer_Leather.description>
+  <Deer_Leather.stuffProps.stuffAdjective>deerhide</Deer_Leather.stuffProps.stuffAdjective>
+  <Deer_Meat.label>venison</Deer_Meat.label>
+  <Deer_Meat.description>venison</Deer_Meat.description>
+  <Deer_Corpse.label>deer corpse</Deer_Corpse.label>
+  <Deer_Corpse.description>deer corpse</Deer_Corpse.description>
+
+  <Ibex.label>ibex</Ibex.label>
+  <Ibex.description>The hardy wild ancestor of the domesticated goat. Ibexes live on marginal territory that most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack.</Ibex.description>
+  <Ibex_Leather.label>goathide</Ibex_Leather.label>
+  <Ibex_Leather.description>goathide</Ibex_Leather.description>
+  <Ibex_Leather.stuffProps.stuffAdjective>goathide</Ibex_Leather.stuffProps.stuffAdjective>
+  <Ibex_Meat.label>ibex meat</Ibex_Meat.label>
+  <Ibex_Meat.description>ibex meat</Ibex_Meat.description>
+  <Ibex_Corpse.label>ibex corpse</Ibex_Corpse.label>
+  <Ibex_Corpse.description>ibex corpse</Ibex_Corpse.description>
+
+  <Elk.label>elk</Elk.label>
+  <Elk.description>A large member of the deer family, well-adapted to life in cold climates.</Elk.description>
+  <Elk_Leather.label>elkhide</Elk_Leather.label>
+  <Elk_Leather.description>elkhide</Elk_Leather.description>
+  <Elk_Leather.stuffProps.stuffAdjective>elkhide</Elk_Leather.stuffProps.stuffAdjective>
+  <Elk_Meat.label>elk meat</Elk_Meat.label>
+  <Elk_Meat.description>elk meat</Elk_Meat.description>
+  <Elk_Corpse.label>elk corpse</Elk_Corpse.label>
+  <Elk_Corpse.description>elk corpse</Elk_Corpse.description>
+
+  <Caribou.label>caribou</Caribou.label>
+  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates.</Caribou.description>
+  <Caribou_Leather.label>caribou leather</Caribou_Leather.label>
+  <Caribou_Leather.description>caribou leather</Caribou_Leather.description>
+  <Caribou_Leather.stuffProps.stuffAdjective>caribou leather</Caribou_Leather.stuffProps.stuffAdjective>
+  <Caribou_Meat.label>caribou meat</Caribou_Meat.label>
+  <Caribou_Meat.description>caribou meat</Caribou_Meat.description>
+  <Caribou_Corpse.label>caribou corpse</Caribou_Corpse.label>
+  <Caribou_Corpse.description>caribou corpse</Caribou_Corpse.description>
+
+  <WildBoar.label>wild boar</WildBoar.label>
+  <WildBoar.description>Although considered impure by some cultures, this hairy ancestor of the domesticated pig is prized for the gamey flavor of its meat.</WildBoar.description>
+  <!-- Use Leather From: Pig -->
+  <!-- Use Meat From: Pig -->
+  <WildBoar_Corpse.label>wild boar corpse</WildBoar_Corpse.label>
+  <WildBoar_Corpse.description>wild boar corpse</WildBoar_Corpse.description>
+
+  <Tortoise.label>tortoise</Tortoise.label>
+  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite.</Tortoise.description>
+  <Tortoise_Leather.label>tortoise leather</Tortoise_Leather.label>
+  <Tortoise_Leather.description>tortoise leather</Tortoise_Leather.description>
+  <Tortoise_Leather.stuffProps.stuffAdjective>tortoise leather</Tortoise_Leather.stuffProps.stuffAdjective>
+  <Tortoise_Meat.label>tortoise meat</Tortoise_Meat.label>
+  <Tortoise_Meat.description>tortoise meat</Tortoise_Meat.description>
+  <Tortoise_Corpse.label>tortoise corpse</Tortoise_Corpse.label>
+  <Tortoise_Corpse.description>tortoise corpse</Tortoise_Corpse.description>
+
+
+</LanguageData>

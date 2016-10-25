@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Elephant.label>elephant</Elephant.label>
+  <Elephant.lifeStages.0.labelMale>elephant</Elephant.lifeStages.0.labelMale>
+  <Elephant.lifeStages.0.labelFemale>elephant</Elephant.lifeStages.0.labelFemale>
+  <Elephant.lifeStages.1.labelMale>elephant</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelFemale>elephant</Elephant.lifeStages.1.labelFemale>
+  <Elephant.lifeStages.2.labelMale>elephant</Elephant.lifeStages.2.labelMale>
+  <Elephant.lifeStages.2.labelFemale>elephant</Elephant.lifeStages.2.labelFemale>
+
+  <Megatherium.label>megatherium</Megatherium.label>
+  <Megatherium.lifeStages.0.labelMale>megatherium</Megatherium.lifeStages.0.labelMale>
+  <Megatherium.lifeStages.0.labelFemale>megatherium</Megatherium.lifeStages.0.labelFemale>
+  <Megatherium.lifeStages.1.labelMale>megatherium</Megatherium.lifeStages.1.labelMale>
+  <Megatherium.lifeStages.1.labelFemale>megatherium</Megatherium.lifeStages.1.labelFemale>
+  <Megatherium.lifeStages.2.labelMale>megatherium</Megatherium.lifeStages.2.labelMale>
+  <Megatherium.lifeStages.2.labelFemale>megatherium</Megatherium.lifeStages.2.labelFemale>
+
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.lifeStages.0.labelMale>thrumbo</Thrumbo.lifeStages.0.labelMale>
+  <Thrumbo.lifeStages.0.labelFemale>thrumbo</Thrumbo.lifeStages.0.labelFemale>
+  <Thrumbo.lifeStages.1.labelMale>thrumbo</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelFemale>thrumbo</Thrumbo.lifeStages.1.labelFemale>
+  <Thrumbo.lifeStages.2.labelMale>thrumbo</Thrumbo.lifeStages.2.labelMale>
+  <Thrumbo.lifeStages.2.labelFemale>thrumbo</Thrumbo.lifeStages.2.labelFemale>
+
+
+</LanguageData>

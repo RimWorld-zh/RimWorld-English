@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wild - clustering bushes (some harvestable) -->
+
+  <PlantAgave.label>agave</PlantAgave.label>
+  <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks.</PlantAgave.description>
+
+
+  <!-- Wild - Cacti -->
+
+  <PlantSaguaroCactus.label>saguaro cactus</PlantSaguaroCactus.label>
+  <PlantSaguaroCactus.description>A large cactus native to arid Earth environments.</PlantSaguaroCactus.description>
+
+  <PlantPincushionCactus.label>pincushion cactus</PlantPincushionCactus.label>
+  <PlantPincushionCactus.description>A short cactus. So named because it resembles a pincushion.</PlantPincushionCactus.description>
+
+
+</LanguageData>

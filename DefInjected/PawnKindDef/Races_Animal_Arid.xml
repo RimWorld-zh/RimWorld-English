@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Muffalo.label>muffalo</Muffalo.label>
+  <Muffalo.lifeStages.0.labelMale>muffalo</Muffalo.lifeStages.0.labelMale>
+  <Muffalo.lifeStages.0.labelFemale>muffalo</Muffalo.lifeStages.0.labelFemale>
+  <Muffalo.lifeStages.1.labelMale>muffalo</Muffalo.lifeStages.1.labelMale>
+  <Muffalo.lifeStages.1.labelFemale>muffalo</Muffalo.lifeStages.1.labelFemale>
+  <Muffalo.lifeStages.2.labelMale>muffalo</Muffalo.lifeStages.2.labelMale>
+  <Muffalo.lifeStages.2.labelFemale>muffalo</Muffalo.lifeStages.2.labelFemale>
+
+  <PackMuffalo.label>muffalo</PackMuffalo.label>
+  <PackMuffalo.lifeStages.0.labelMale>muffalo</PackMuffalo.lifeStages.0.labelMale>
+  <PackMuffalo.lifeStages.0.labelFemale>muffalo</PackMuffalo.lifeStages.0.labelFemale>
+  <PackMuffalo.lifeStages.1.labelMale>muffalo</PackMuffalo.lifeStages.1.labelMale>
+  <PackMuffalo.lifeStages.1.labelFemale>muffalo</PackMuffalo.lifeStages.1.labelFemale>
+  <PackMuffalo.lifeStages.2.labelMale>muffalo</PackMuffalo.lifeStages.2.labelMale>
+  <PackMuffalo.lifeStages.2.labelFemale>muffalo</PackMuffalo.lifeStages.2.labelFemale>
+
+  <Gazelle.label>gazelle</Gazelle.label>
+  <Gazelle.lifeStages.0.labelMale>gazelle</Gazelle.lifeStages.0.labelMale>
+  <Gazelle.lifeStages.0.labelFemale>gazelle</Gazelle.lifeStages.0.labelFemale>
+  <Gazelle.lifeStages.1.labelMale>gazelle</Gazelle.lifeStages.1.labelMale>
+  <Gazelle.lifeStages.1.labelFemale>gazelle</Gazelle.lifeStages.1.labelFemale>
+  <Gazelle.lifeStages.2.labelMale>gazelle</Gazelle.lifeStages.2.labelMale>
+  <Gazelle.lifeStages.2.labelFemale>gazelle</Gazelle.lifeStages.2.labelFemale>
+
+  <Iguana.label>iguana</Iguana.label>
+  <Iguana.lifeStages.0.labelMale>iguana</Iguana.lifeStages.0.labelMale>
+  <Iguana.lifeStages.0.labelFemale>iguana</Iguana.lifeStages.0.labelFemale>
+  <Iguana.lifeStages.1.labelMale>iguana</Iguana.lifeStages.1.labelMale>
+  <Iguana.lifeStages.1.labelFemale>iguana</Iguana.lifeStages.1.labelFemale>
+  <Iguana.lifeStages.2.labelMale>iguana</Iguana.lifeStages.2.labelMale>
+  <Iguana.lifeStages.2.labelFemale>iguana</Iguana.lifeStages.2.labelFemale>
+
+  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+  <Rhinoceros.lifeStages.0.labelMale>rhinoceros</Rhinoceros.lifeStages.0.labelMale>
+  <Rhinoceros.lifeStages.0.labelFemale>rhinoceros</Rhinoceros.lifeStages.0.labelFemale>
+  <Rhinoceros.lifeStages.1.labelMale>rhinoceros</Rhinoceros.lifeStages.1.labelMale>
+  <Rhinoceros.lifeStages.1.labelFemale>rhinoceros</Rhinoceros.lifeStages.1.labelFemale>
+  <Rhinoceros.lifeStages.2.labelMale>rhinoceros</Rhinoceros.lifeStages.2.labelMale>
+  <Rhinoceros.lifeStages.2.labelFemale>rhinoceros</Rhinoceros.lifeStages.2.labelFemale>
+
+  <Dromedary.label>dromedary</Dromedary.label>
+  <Dromedary.lifeStages.0.labelMale>dromedary</Dromedary.lifeStages.0.labelMale>
+  <Dromedary.lifeStages.0.labelFemale>dromedary</Dromedary.lifeStages.0.labelFemale>
+  <Dromedary.lifeStages.1.labelMale>dromedary</Dromedary.lifeStages.1.labelMale>
+  <Dromedary.lifeStages.1.labelFemale>dromedary</Dromedary.lifeStages.1.labelFemale>
+  <Dromedary.lifeStages.2.labelMale>dromedary</Dromedary.lifeStages.2.labelMale>
+  <Dromedary.lifeStages.2.labelFemale>dromedary</Dromedary.lifeStages.2.labelFemale>
+
+  <PackDromedary.label>dromedary</PackDromedary.label>
+  <PackDromedary.lifeStages.0.labelMale>dromedary</PackDromedary.lifeStages.0.labelMale>
+  <PackDromedary.lifeStages.0.labelFemale>dromedary</PackDromedary.lifeStages.0.labelFemale>
+  <PackDromedary.lifeStages.1.labelMale>dromedary</PackDromedary.lifeStages.1.labelMale>
+  <PackDromedary.lifeStages.1.labelFemale>dromedary</PackDromedary.lifeStages.1.labelFemale>
+  <PackDromedary.lifeStages.2.labelMale>dromedary</PackDromedary.lifeStages.2.labelMale>
+  <PackDromedary.lifeStages.2.labelFemale>dromedary</PackDromedary.lifeStages.2.labelFemale>
+
+
+</LanguageData>
