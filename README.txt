@@ -4,7 +4,7 @@ This is the standard lanugage data template for translating RimWorld!
 
 DefInjected
 fields: 5737
-generated from Defs by tool RimTrans.
+generated from the Defs by RimTrans.
 
 Keyed
 fields: 1729

@@ -5,7 +5,7 @@ This is the standard lanugage data template for translating RimWorld!
 ### DefInjected
 
 * Fields: 5737
-* Generated from Defs by tool [RimTrans](https://github.com/duduluu/RimTrans).
+* Generated from the Defs by [RimTrans](https://github.com/duduluu/RimTrans).
 
 ### Keyed
 
