@@ -4,13 +4,13 @@ This is the standard lanugage data template for translating RimWorld!
 
 ### DefInjected
 
-* fields: 5737
-* generated from Defs by tool [RimTrans](https://github.com/duduluu/RimTrans).
+* Fields: 5737
+* Generated from Defs by tool [RimTrans](https://github.com/duduluu/RimTrans).
 
 ### Keyed
 
-* fields: 1729
-* written by Tynan Sylvester.
+* Fields: 1729
+* Written by Tynan Sylvester.
 
 ### Current Version
 
@@ -30,7 +30,7 @@ DefInjected\defType\fileName.xml
 
 ### Example
 
-Defs files: Mods\Core\Defs\XxxxxxDefs\Example.xml
+**Defs** files: Mods\Core\Defs\XxxxxxDefs\Example.xml
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
@@ -50,7 +50,7 @@ Defs files: Mods\Core\Defs\XxxxxxDefs\Example.xml
 * The name of subdirectories ignore Singular and Plural from Alptha 14.
 
 
-DefInjecte files: Mods\Core\Languages\English\DefInjected\\**XxxxxxDef**\\Example.xml
+**DefInjected** files: Mods\Core\Languages\English\DefInjected\\**XxxxxxDef**\\Example.xml
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
