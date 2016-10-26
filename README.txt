@@ -24,6 +24,7 @@ DefInjected\defType\fileName.xml
 
   <defName.fieldName>Translation</defName.fieldName>
 
+Note: The field name ignore case!
 
 Example
 
@@ -44,7 +45,7 @@ Defs files: Mods\Core\Defs\XxxxxxDefs\Example.xml
 Then, create a subdirectory in directory DefInjected, using the defType as a name.
 The name of subdirectories ignore Singular and Plural from Alptha 14.
 
-DefInjecte files: Mods\Core\Languages\English\DefInjected\XxxxxxDef\Example.xml
+DefInjected files: Mods\Core\Languages\English\DefInjected\XxxxxxDef\Example.xml
 
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
