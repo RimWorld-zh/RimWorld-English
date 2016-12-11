@@ -21,14 +21,14 @@
   <Research.label>research</Research.label>
   <Research.description>Examine and decide on research projects.</Research.description>
 
-  <Factions.label>factions</Factions.label>
-  <Factions.description>Review the factions known to the colony and their relationships.</Factions.description>
-
   <World.label>world</World.label>
   <World.description>Examine the world map.</World.description>
 
   <History.label>history</History.label>
   <History.description>Review records of the colony's history.</History.description>
+
+  <Factions.label>factions</Factions.label>
+  <Factions.description>Review the factions known to the colony and their relationships.</Factions.description>
 
   <Menu.label>menu</Menu.label>
   <Menu.description>Change options, save, load, or quit the game.</Menu.description>

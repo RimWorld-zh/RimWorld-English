@@ -11,15 +11,15 @@
   <Elephant_Corpse.label>elephant corpse</Elephant_Corpse.label>
   <Elephant_Corpse.description>elephant corpse</Elephant_Corpse.description>
 
-  <Megatherium.label>megatherium</Megatherium.label>
-  <Megatherium.description>A type of ground sloth, megatheria are giant, solitary herbivores. Long extinct after being wiped out by the natives of Earth's America continent, the ground sloth was later brought back using advanced cloning and artificial gestators.</Megatherium.description>
-  <Megatherium_Leather.label>megatherium leather</Megatherium_Leather.label>
-  <Megatherium_Leather.description>megatherium leather</Megatherium_Leather.description>
-  <Megatherium_Leather.stuffProps.stuffAdjective>megatherium leather</Megatherium_Leather.stuffProps.stuffAdjective>
-  <Megatherium_Meat.label>megatherium meat</Megatherium_Meat.label>
-  <Megatherium_Meat.description>megatherium meat</Megatherium_Meat.description>
-  <Megatherium_Corpse.label>megatherium corpse</Megatherium_Corpse.label>
-  <Megatherium_Corpse.description>megatherium corpse</Megatherium_Corpse.description>
+  <Megasloth.label>Megasloth</Megasloth.label>
+  <Megasloth.description>A type of ground sloth, megatheria are giant, solitary herbivores. Long extinct after being wiped out by the natives of Earth's America continent, the ground sloth was later brought back using advanced cloning and artificial gestators.</Megasloth.description>
+  <Megasloth_Leather.label>Megasloth leather</Megasloth_Leather.label>
+  <Megasloth_Leather.description>Megasloth leather</Megasloth_Leather.description>
+  <Megasloth_Leather.stuffProps.stuffAdjective>Megasloth leather</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth_Meat.label>Megasloth meat</Megasloth_Meat.label>
+  <Megasloth_Meat.description>Megasloth meat</Megasloth_Meat.description>
+  <Megasloth_Corpse.label>Megasloth corpse</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>Megasloth corpse</Megasloth_Corpse.description>
 
   <Thrumbo.label>thrumbo</Thrumbo.label>
   <Thrumbo.description>A gigantic creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. Its long fur is exceptionally beautiful and valuable, and its razor-sharp horn is very valuable in most markets. Legends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</Thrumbo.description>

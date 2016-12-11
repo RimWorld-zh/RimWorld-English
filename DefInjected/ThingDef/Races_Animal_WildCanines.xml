@@ -51,14 +51,14 @@
 
   <!-- Fox red -->
 
-  <FoxRed.label>red Fox</FoxRed.label>
+  <FoxRed.label>red fox</FoxRed.label>
   <FoxRed.description>A small solitary canine evolved for hunting small prey in temperate climates.</FoxRed.description>
   <FoxRed_Leather.label>red foxskin</FoxRed_Leather.label>
   <FoxRed_Leather.description>red foxskin</FoxRed_Leather.description>
   <FoxRed_Leather.stuffProps.stuffAdjective>red foxskin</FoxRed_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: FoxFennec -->
-  <FoxRed_Corpse.label>red Fox corpse</FoxRed_Corpse.label>
-  <FoxRed_Corpse.description>red Fox corpse</FoxRed_Corpse.description>
+  <FoxRed_Corpse.label>red fox corpse</FoxRed_Corpse.label>
+  <FoxRed_Corpse.description>red fox corpse</FoxRed_Corpse.description>
 
 
   <!-- Fox arctic -->

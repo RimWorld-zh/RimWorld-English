@@ -15,6 +15,9 @@
   <HospitalBed.label>hospital bed</HospitalBed.label>
   <HospitalBed.description>Allows colonists to construct hospital beds which increase chance of successful medical work.</HospitalBed.description>
 
+  <TransportPod.label>transport pod</TransportPod.label>
+  <TransportPod.description>Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface.</TransportPod.description>
+
   <MedicineProduction.label>medicine production</MedicineProduction.label>
   <MedicineProduction.description>Produce medicine from herbal medicine, neutroamine, and cloth.</MedicineProduction.description>
 

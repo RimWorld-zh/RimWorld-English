@@ -28,7 +28,7 @@
   <!-- Engine -->
 
   <Ship_Engine.label>ship engine</Ship_Engine.label>
-  <Ship_Engine.description>An antimatter-powered engine capable of launching a ship into orbit and on interstellar trajectories.</Ship_Engine.description>
+  <Ship_Engine.description>An engine capable of launching a ship into orbit and on interstellar trajectories.</Ship_Engine.description>
 
 
 </LanguageData>

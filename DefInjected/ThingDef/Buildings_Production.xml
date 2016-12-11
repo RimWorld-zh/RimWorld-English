@@ -13,10 +13,10 @@
   <TableButcher.label>butcher table</TableButcher.label>
   <TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.description>
 
-  <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
-  <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+  <HandTailoringBench.label>hand tailor bench</HandTailoringBench.label>
+  <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench.description>
 
-  <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+  <ElectricTailoringBench.label>electric tailor bench</ElectricTailoringBench.label>
   <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
 
   <FueledSmithy.label>fueled smithy</FueledSmithy.label>
@@ -45,6 +45,9 @@
 
   <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
   <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
+
+  <Refinery.label>refinery</Refinery.label>
+  <Refinery.description>A chemical refining plant. Used to refine wood into chemfuel.</Refinery.description>
 
   <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
   <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>

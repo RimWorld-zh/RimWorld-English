@@ -3,7 +3,7 @@
 
   <CreateWorldParams.text>Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE!</CreateWorldParams.text>
 
-  <ChooseLandingSite.text>Here, you choose your landing site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a landing site with temperate forest biome and flat terrain, and click SELECT SITE.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Here, you choose your landing site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a landing site with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
   <ChooseLandingSite.rejectInputMessage>Please choose a temperate forest landing site with flat terrain.</ChooseLandingSite.rejectInputMessage>
 
   <RandomizeCharacter.text>Now you'll generate characters!\n\nTry randomizing a character with the RANDOMIZE button.</RandomizeCharacter.text>
@@ -89,7 +89,7 @@
   <OpenMainTabResearch.text>Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab.</OpenMainTabResearch.text>
   <OpenMainTabResearch.rejectInputMessage>Please open the 'Research' tab.</OpenMainTabResearch.rejectInputMessage>
 
-  <SelectResearchProject.text>Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct.</SelectResearchProject.text>
+  <SelectResearchProject.text>Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct.</SelectResearchProject.text>
   <SelectResearchProject.rejectInputMessage>Please choose a research project.</SelectResearchProject.rejectInputMessage>
 
   <ExpandAreaHome.text>Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map.</ExpandAreaHome.text>
@@ -106,12 +106,14 @@
   <FinishSandbags.rejectInputMessage>Please wait for your colonists to finish building the sandbags.</FinishSandbags.rejectInputMessage>
 
   <DownRaider.text>I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically.</DownRaider.text>
+  <DownRaider.rejectInputMessage>Please focus on winning the fight!</DownRaider.rejectInputMessage>
   <DownRaider.onMapInstruction>Send colonists here\ntouching sandbags for cover</DownRaider.onMapInstruction>
 
   <UndraftAll.text>Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules.</UndraftAll.text>
+  <UndraftAll.rejectInputMessage>Please un-draft your colonists.</UndraftAll.rejectInputMessage>
 
   <ChooseStoryteller.text>This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click CHOOSE STORYTELLER.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun.</ChooseStoryteller.text>
-  <ChooseStoryteller.rejectInputMessage>Please change to a normal storyteller to end the tutorial.</ChooseStoryteller.rejectInputMessage>
+  <ChooseStoryteller.rejectInputMessage>Please choose a storyteller in the Options menu to end the tutorial.</ChooseStoryteller.rejectInputMessage>
 
 
 </LanguageData>

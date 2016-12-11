@@ -58,14 +58,8 @@
   <Construction.labelShort>Construct</Construction.labelShort>
   <Construction.pawnLabel>Constructor</Construction.pawnLabel>
   <Construction.gerundLabel>Constructing</Construction.gerundLabel>
-  <Construction.description>Build things that you've designated.</Construction.description>
+  <Construction.description>Build things that you've designated, and fix damaged or broken-down buildings.</Construction.description>
   <Construction.verb>Construct</Construction.verb>
-
-  <Repair.labelShort>Repair</Repair.labelShort>
-  <Repair.pawnLabel>Repairer</Repair.pawnLabel>
-  <Repair.gerundLabel>Repairing</Repair.gerundLabel>
-  <Repair.description>Fix damaged or broken-down buildings.</Repair.description>
-  <Repair.verb>Repair</Repair.verb>
 
   <Growing.labelShort>Grow</Growing.labelShort>
   <Growing.pawnLabel>Grower</Growing.pawnLabel>

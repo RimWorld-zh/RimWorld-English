@@ -20,7 +20,7 @@
   <ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
 
   <Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
-  <Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with artillery from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
+  <Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
   <Siege.letterLabelFriendly>Friendlies</Siege.letterLabelFriendly>
   <Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
 

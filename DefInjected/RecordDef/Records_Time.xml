@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TimeAsColonist.label>time as a colonist</TimeAsColonist.label>
-  <TimeAsColonist.description>Total time spent as a colonist.</TimeAsColonist.description>
+  <TimeAsColonistOrColonyAnimal.label>time as a colonist</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsColonistOrColonyAnimal.description>Total time spent as a colonist.</TimeAsColonistOrColonyAnimal.description>
 
   <TimeAsPrisoner.label>time as a prisoner</TimeAsPrisoner.label>
   <TimeAsPrisoner.description>Total time spent as a prisoner.</TimeAsPrisoner.description>

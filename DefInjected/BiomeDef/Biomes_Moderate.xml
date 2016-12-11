@@ -10,10 +10,10 @@
   <!-- Buildable biomes -->
 
   <TemperateForest.label>temperate forest</TemperateForest.label>
-  <TemperateForest.description>A friendly biome dominated by forests of deciduous trees interspersed with fertile clearings. Many species of animals move around in the trees and on the plains.</TemperateForest.description>
+  <TemperateForest.description>Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around in the trees and on the plains. Because of snow, it is slow to travel in winter.</TemperateForest.description>
 
   <TropicalRainforest.label>tropical rainforest</TropicalRainforest.label>
-  <TropicalRainforest.description>A thick, moist jungle. Dense overgrowth and aggressive wildlife make construction and survival difficult.</TropicalRainforest.description>
+  <TropicalRainforest.description>A thick, moist jungle. Dense overgrowth and aggressive wildlife make construction and survival difficult. Disease is a constant threat here.</TropicalRainforest.description>
 
 
 </LanguageData>

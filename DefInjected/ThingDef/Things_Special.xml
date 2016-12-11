@@ -3,7 +3,8 @@
 
   <RectTrigger.label>RectTrigger</RectTrigger.label>
   <DropPodIncoming.label>drop pod (incoming)</DropPodIncoming.label>
-  <DropPod.label>drop pod</DropPod.label>
+  <DropPodLeaving.label>drop pod (leaving)</DropPodLeaving.label>
+  <ActiveDropPod.label>drop pod</ActiveDropPod.label>
   <Fire.label>fire</Fire.label>
   <Spark.label>spark</Spark.label>
   <TemporaryRegionBarrier.label>temporary region barrier</TemporaryRegionBarrier.label>

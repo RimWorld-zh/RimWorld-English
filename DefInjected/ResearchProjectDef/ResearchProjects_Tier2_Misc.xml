@@ -12,14 +12,17 @@
   <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
   <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice.</GoJuiceProduction.description>
 
-  <MalariBlockProduction.label>malari-block production</MalariBlockProduction.label>
-  <MalariBlockProduction.description>Learn to produce malari-block, a malaria prevention drug.</MalariBlockProduction.description>
+  <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>Learn to produce penoxycline, a disease prevention drug.</PenoxycylineProduction.description>
 
 
   <!-- Tier 2: Basic electricity -->
 
   <Batteries.label>batteries</Batteries.label>
   <Batteries.description>Build batteries for storing electricity.</Batteries.description>
+
+  <Refining.label>refining</Refining.label>
+  <Refining.description>Build refineries to make chemfuel from wood.</Refining.description>
 
   <NutrientPaste.label>nutrient paste</NutrientPaste.label>
   <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
@@ -48,14 +51,14 @@
   <Machining.label>machining</Machining.label>
   <Machining.description>Build machining tables to craft guns and machinery or disassemble dead mechanoids.</Machining.description>
 
-  <Mortars.label>mortars</Mortars.label>
-  <Mortars.description>Learn to build mortars which can lob shells long distances over walls.</Mortars.description>
-
   <IEDBomb.label>Explosive IEDs</IEDBomb.label>
-  <IEDBomb.description>Allows colonists to build improvised explosive device-based traps from artillery shells.</IEDBomb.description>
+  <IEDBomb.description>Allows colonists to build improvised explosive device-based traps from mortar shells.</IEDBomb.description>
 
   <IEDIncendiary.label>Incendiary IEDs</IEDIncendiary.label>
-  <IEDIncendiary.description>Allows colonists to build incendiary explosive traps from artillery shells.</IEDIncendiary.description>
+  <IEDIncendiary.description>Allows colonists to build incendiary explosive traps from mortar shells.</IEDIncendiary.description>
+
+  <Mortars.label>mortars</Mortars.label>
+  <Mortars.description>Learn to build mortars which can lob shells long distances over walls.</Mortars.description>
 
   <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
   <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>

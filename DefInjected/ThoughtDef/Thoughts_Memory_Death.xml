@@ -3,19 +3,23 @@
 
   <!-- executions and prisoner deaths -->
 
-  <KnowGuestExecuted.stages.0.label>someone was euthanized</KnowGuestExecuted.stages.0.label>
-  <KnowGuestExecuted.stages.0.description>A prisoner or guest was euthanized. It was humane, but still sad.</KnowGuestExecuted.stages.0.description>
-  <KnowGuestExecuted.stages.1.label>someone was executed</KnowGuestExecuted.stages.1.label>
-  <KnowGuestExecuted.stages.1.description>A prisoner or guest was killed in cold blood. It seemed a bit evil.</KnowGuestExecuted.stages.1.description>
-  <KnowGuestExecuted.stages.2.label>someone killed by organ harvest</KnowGuestExecuted.stages.2.label>
-  <KnowGuestExecuted.stages.2.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.0.label>justified execution</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.description>A guilty prisoner or guest was executed. It was justified, but still sad.</KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.1.label>someone was euthanized</KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.1.description>A prisoner or guest was euthanized. It was humane, but still sad.</KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.2.label>someone was executed</KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.2.description>A prisoner or guest was killed in cold blood. It seemed a bit evil.</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.3.label>someone organ-harvested</KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.3.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.3.description>
 
-  <KnowColonistExecuted.stages.0.label>colonist euthanized</KnowColonistExecuted.stages.0.label>
-  <KnowColonistExecuted.stages.0.description>A colonist was euthanized. It was humane, but still sad.</KnowColonistExecuted.stages.0.description>
-  <KnowColonistExecuted.stages.1.label>colonist executed</KnowColonistExecuted.stages.1.label>
-  <KnowColonistExecuted.stages.1.description>A colonist was killed in cold blood. It seemed a bit evil.</KnowColonistExecuted.stages.1.description>
-  <KnowColonistExecuted.stages.2.label>colonist killed by organ harvest</KnowColonistExecuted.stages.2.label>
-  <KnowColonistExecuted.stages.2.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.2.description>
+  <KnowColonistExecuted.stages.0.label>justified execution of colonist</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>A guilty colonist was executed. It was justified, but still sad.</KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.1.label>colonist euthanized</KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.1.description>A colonist was euthanized. It was humane, but still sad.</KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.2.label>colonist executed</KnowColonistExecuted.stages.2.label>
+  <KnowColonistExecuted.stages.2.description>A colonist was killed in cold blood. It seemed a bit evil.</KnowColonistExecuted.stages.2.description>
+  <KnowColonistExecuted.stages.3.label>colonist organ-harvested</KnowColonistExecuted.stages.3.label>
+  <KnowColonistExecuted.stages.3.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.3.description>
 
   <KnowPrisonerDiedInnocent.stages.0.label>innocent prisoner died</KnowPrisonerDiedInnocent.stages.0.label>
   <KnowPrisonerDiedInnocent.stages.0.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</KnowPrisonerDiedInnocent.stages.0.description>

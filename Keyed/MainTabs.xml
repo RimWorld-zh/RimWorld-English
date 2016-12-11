@@ -30,11 +30,19 @@
   <!-- Animals tab -->
   <Master>Master</Master>
   <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  <FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
+  <FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
 
   <!-- Factions tab -->
   <Hostile>Hostile</Hostile>
+  <DefeatedLower>defeated</DefeatedLower>
   <HostileTo>Enemy of {0}</HostileTo>
   <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+
+  <!-- Social tab -->
+  <Friend>Friend</Friend>
+  <Rival>Rival</Rival>
+  <Acquaintance>Acquaintance</Acquaintance>
 
   <!-- History tab - subtabs -->
   <Graph>Graph</Graph>
@@ -53,12 +61,12 @@
   <!-- History tab - Statistics -->
   <Playtime>Play time</Playtime>
   <Storyteller>Storyteller</Storyteller>
-  <ColonyWealthTotal>Colony wealth</ColonyWealthTotal>
-  <ColonyWealthItems>Colony wealth (items)</ColonyWealthItems>
-  <ColonyWealthBuildings>Colony wealth (buildings)</ColonyWealthBuildings>
+  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
   <NumThreatBigs>Major threats</NumThreatBigs>
   <NumEnemyRaids>Enemy raids</NumEnemyRaids>
-  <DamageTaken>Damage taken</DamageTaken>
+  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
   <ColonistsKilled>Colonists killed</ColonistsKilled>
   <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
 

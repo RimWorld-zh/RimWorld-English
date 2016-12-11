@@ -28,7 +28,7 @@
   <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 
   <LowFood>Low food</LowFood>
-  <LowFoodDesc>You only have {0} full bars worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
 
   <LowMedicine>Low medicine</LowMedicine>
   <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
@@ -41,7 +41,10 @@
   <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel yourself at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
 
   <Starvation>Starvation</Starvation>
   <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
@@ -62,7 +65,7 @@
   <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
 
   <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
@@ -102,5 +105,8 @@
   <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
 
 </LanguageData>

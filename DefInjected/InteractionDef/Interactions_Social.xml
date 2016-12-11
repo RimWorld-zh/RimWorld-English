@@ -17,5 +17,9 @@
   <Insult.logRulesInitiator.rulesStrings.0>logentry->Insulted [other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
   <Insult.logRulesRecipient.rulesStrings.0>logentry->Was insulted by [other_nameShortIndef].</Insult.logRulesRecipient.rulesStrings.0>
 
+  <KindWords.label>kind words</KindWords.label>
+  <KindWords.logRulesInitiator.rulesStrings.0>logentry->Said kind words to [other_nameShortIndef].</KindWords.logRulesInitiator.rulesStrings.0>
+  <KindWords.logRulesRecipient.rulesStrings.0>logentry->Had kind words bestowed by [other_nameShortIndef].</KindWords.logRulesRecipient.rulesStrings.0>
+
 
 </LanguageData>

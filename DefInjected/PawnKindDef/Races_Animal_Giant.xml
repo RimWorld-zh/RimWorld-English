@@ -9,13 +9,13 @@
   <Elephant.lifeStages.2.labelMale>elephant</Elephant.lifeStages.2.labelMale>
   <Elephant.lifeStages.2.labelFemale>elephant</Elephant.lifeStages.2.labelFemale>
 
-  <Megatherium.label>megatherium</Megatherium.label>
-  <Megatherium.lifeStages.0.labelMale>megatherium</Megatherium.lifeStages.0.labelMale>
-  <Megatherium.lifeStages.0.labelFemale>megatherium</Megatherium.lifeStages.0.labelFemale>
-  <Megatherium.lifeStages.1.labelMale>megatherium</Megatherium.lifeStages.1.labelMale>
-  <Megatherium.lifeStages.1.labelFemale>megatherium</Megatherium.lifeStages.1.labelFemale>
-  <Megatherium.lifeStages.2.labelMale>megatherium</Megatherium.lifeStages.2.labelMale>
-  <Megatherium.lifeStages.2.labelFemale>megatherium</Megatherium.lifeStages.2.labelFemale>
+  <Megasloth.label>Megasloth</Megasloth.label>
+  <Megasloth.lifeStages.0.labelMale>Megasloth</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelFemale>Megasloth</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.1.labelMale>Megasloth</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelFemale>Megasloth</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.2.labelMale>Megasloth</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelFemale>Megasloth</Megasloth.lifeStages.2.labelFemale>
 
   <Thrumbo.label>thrumbo</Thrumbo.label>
   <Thrumbo.lifeStages.0.labelMale>thrumbo</Thrumbo.lifeStages.0.labelMale>

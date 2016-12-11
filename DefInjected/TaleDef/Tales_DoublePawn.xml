@@ -208,10 +208,10 @@
 
   <KilledColonist.label>colonist killed</KilledColonist.label>
   <KilledColonyAnimal.label>colony animal killed</KilledColonyAnimal.label>
-  <KilledMajorColonyEnemy.label>major colony enemy killed</KilledMajorColonyEnemy.label>
+  <KilledMajorColonyEnemy.label>major enemy killed</KilledMajorColonyEnemy.label>
 
   <TradedWith.label>traded with someone</TradedWith.label>
-  <TradedWith.rulePack.rulesStrings.0>tale_noun->a trade between [seller_fullName] and [buyer_fullName]</TradedWith.rulePack.rulesStrings.0>
+  <TradedWith.rulePack.rulesStrings.0>tale_noun->a trade between [seller_nameFull] and [buyer_nameFull]</TradedWith.rulePack.rulesStrings.0>
   <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull] buying goods from [seller_nameFull] [circumstance_group]</TradedWith.rulePack.rulesStrings.1>
   <TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull] selling goods to [buyer_nameFull] [circumstance_group]</TradedWith.rulePack.rulesStrings.2>
   <TradedWith.rulePack.rulesStrings.3>circumstance_phrase->with greedy intent</TradedWith.rulePack.rulesStrings.3>

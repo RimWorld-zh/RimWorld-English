@@ -12,6 +12,7 @@
   <PauseOnLoad>Pause on load</PauseOnLoad>
   <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
   <CustomCursor>Custom cursor</CustomCursor>
+  <UIScale>UI scale</UIScale>
   <KeyboardConfig>Keyboard configuration</KeyboardConfig>
   <ChooseLanguage>Choose language</ChooseLanguage>
   <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
@@ -21,11 +22,15 @@
   <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
   <LogVerbose>Verbose logging</LogVerbose>
   <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
+  <NamesYouWantToSee>Names of player-created characters you want to see:</NamesYouWantToSee>
+  <AddName>Add name</AddName>
+  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
   <AutosaveInterval>Autosave interval</AutosaveInterval>
   <TemperatureMode>Temperature mode</TemperatureMode>
   <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Plant wind sway</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
 

@@ -18,6 +18,15 @@
   <GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner.description>
 
 
+  <!-- Transport pods -->
+
+  <PodLauncher.label>pod launcher</PodLauncher.label>
+  <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+
+  <TransportPod.label>transport pod</TransportPod.label>
+  <TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod.description>
+
+
   <!-- Facilities -->
 
   <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>

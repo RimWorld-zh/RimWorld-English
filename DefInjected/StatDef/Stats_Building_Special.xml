@@ -17,8 +17,8 @@
   <ResearchSpeedFactor.description>Speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
   <ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
 
-  <MedicalTreatmentQualityFactor.label>medical treatment quality factor</MedicalTreatmentQualityFactor.label>
-  <MedicalTreatmentQualityFactor.description>Medical treatment quality is multiplied by this value.</MedicalTreatmentQualityFactor.description>
+  <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
 
   <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
   <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>

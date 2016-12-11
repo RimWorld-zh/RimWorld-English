@@ -8,10 +8,10 @@
   <Release.description>The animal can be released to attack distant targets instead of just defending the master.</Release.description>
 
   <Rescue.label>rescue</Rescue.label>
-  <Rescue.description>The animal can rescue wounded allies and drag them to safety.</Rescue.description>
+  <Rescue.description>The animal will rescue wounded allies and drag them to safety.</Rescue.description>
 
   <Haul.label>haul</Haul.label>
-  <Haul.description>The animal can haul items.</Haul.description>
+  <Haul.description>The animal will randomly haul items from time to time (though it can't be directed to haul specific items).</Haul.description>
 
 
 </LanguageData>

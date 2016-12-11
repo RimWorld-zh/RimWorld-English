@@ -29,10 +29,6 @@
   <DoBillsMedicalHumanOperation.verb>operate</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>operating on</DoBillsMedicalHumanOperation.gerund>
 
-  <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
-  <DoBillsMedicalAnimalOperation.verb>operate</DoBillsMedicalAnimalOperation.verb>
-  <DoBillsMedicalAnimalOperation.gerund>operating on</DoBillsMedicalAnimalOperation.gerund>
-
   <DoctorTreat.label>give treatment</DoctorTreat.label>
   <DoctorTreat.verb>treat</DoctorTreat.verb>
   <DoctorTreat.gerund>treating</DoctorTreat.gerund>
@@ -40,6 +36,10 @@
   <DoctorFeed.label>feed patients</DoctorFeed.label>
   <DoctorFeed.verb>feed</DoctorFeed.verb>
   <DoctorFeed.gerund>feeding</DoctorFeed.gerund>
+
+  <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.verb>operate</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.gerund>operating on</DoBillsMedicalAnimalOperation.gerund>
 
   <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
   <TakeToBedToOperate.verb>take to operate</TakeToBedToOperate.verb>
@@ -146,13 +146,25 @@
 
   <!-- Construction -->
 
-  <Deconstruct.label>deconstruct structures</Deconstruct.label>
-  <Deconstruct.verb>deconstruct</Deconstruct.verb>
-  <Deconstruct.gerund>deconstructing</Deconstruct.gerund>
+  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>modify</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>modifying</DoBillsMedicalMechanoidOperation.gerund>
 
-  <Uninstall.label>uninstall structures</Uninstall.label>
-  <Uninstall.verb>uninstall</Uninstall.verb>
-  <Uninstall.gerund>uninstalling</Uninstall.gerund>
+  <FixBrokenDownBuilding.label>fix broken-down buildings</FixBrokenDownBuilding.label>
+  <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.gerund>replacing broken components in</FixBrokenDownBuilding.gerund>
+
+  <Repair.label>repair damaged things</Repair.label>
+  <Repair.verb>repair</Repair.verb>
+  <Repair.gerund>repairing</Repair.gerund>
+
+  <BuildRoofs.label>build roofs</BuildRoofs.label>
+  <BuildRoofs.verb>build roof</BuildRoofs.verb>
+  <BuildRoofs.gerund>building roof</BuildRoofs.gerund>
+
+  <RemoveRoofs.label>remove roofs</RemoveRoofs.label>
+  <RemoveRoofs.verb>remove roof</RemoveRoofs.verb>
+  <RemoveRoofs.gerund>removing roof</RemoveRoofs.gerund>
 
   <ConstructFinishFrames.label>construct placed frames</ConstructFinishFrames.label>
   <ConstructFinishFrames.verb>construct</ConstructFinishFrames.verb>
@@ -166,13 +178,13 @@
   <ConstructDeliverResourcesToBlueprints.verb>work on</ConstructDeliverResourcesToBlueprints.verb>
   <ConstructDeliverResourcesToBlueprints.gerund>working on</ConstructDeliverResourcesToBlueprints.gerund>
 
-  <BuildRoofs.label>build roofs</BuildRoofs.label>
-  <BuildRoofs.verb>build roof</BuildRoofs.verb>
-  <BuildRoofs.gerund>building roof</BuildRoofs.gerund>
+  <Deconstruct.label>deconstruct structures</Deconstruct.label>
+  <Deconstruct.verb>deconstruct</Deconstruct.verb>
+  <Deconstruct.gerund>deconstructing</Deconstruct.gerund>
 
-  <RemoveRoofs.label>remove roofs</RemoveRoofs.label>
-  <RemoveRoofs.verb>remove roof</RemoveRoofs.verb>
-  <RemoveRoofs.gerund>removing roof</RemoveRoofs.gerund>
+  <Uninstall.label>uninstall structures</Uninstall.label>
+  <Uninstall.verb>uninstall</Uninstall.verb>
+  <Uninstall.gerund>uninstalling</Uninstall.gerund>
 
   <ConstructRemoveFloors.label>remove floors</ConstructRemoveFloors.label>
   <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
@@ -181,21 +193,6 @@
   <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
   <ConstructSmoothFloors.verb>smooth</ConstructSmoothFloors.verb>
   <ConstructSmoothFloors.gerund>smoothing</ConstructSmoothFloors.gerund>
-
-
-  <!-- Repair -->
-
-  <FixBrokenDownBuilding.label>fix broken-down things</FixBrokenDownBuilding.label>
-  <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
-  <FixBrokenDownBuilding.gerund>replacing broken components in</FixBrokenDownBuilding.gerund>
-
-  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>modify</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>modifying</DoBillsMedicalMechanoidOperation.gerund>
-
-  <Repair.label>repair damaged things</Repair.label>
-  <Repair.verb>repair</Repair.verb>
-  <Repair.gerund>repairing</Repair.gerund>
 
 
   <!-- Growing -->
@@ -262,6 +259,10 @@
   <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
   <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
 
+  <DoBillsRefinery.label>works at refinery</DoBillsRefinery.label>
+  <DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
+  <DoBillsRefinery.gerund>refine chemicals at</DoBillsRefinery.gerund>
+
   <DoBillsProduceDrugs.label>produce drugs</DoBillsProduceDrugs.label>
   <DoBillsProduceDrugs.verb>produce drugs</DoBillsProduceDrugs.verb>
   <DoBillsProduceDrugs.gerund>produce drugs at</DoBillsProduceDrugs.gerund>
@@ -277,6 +278,30 @@
 
   <!-- Hauling -->
 
+  <UnloadCarriers.label>unload carriers</UnloadCarriers.label>
+  <UnloadCarriers.verb>unload</UnloadCarriers.verb>
+  <UnloadCarriers.gerund>unloading</UnloadCarriers.gerund>
+
+  <LoadTransporters.label>load transporters</LoadTransporters.label>
+  <LoadTransporters.verb>load</LoadTransporters.verb>
+  <LoadTransporters.gerund>loading</LoadTransporters.gerund>
+
+  <Strip.label>strip corpses</Strip.label>
+  <Strip.verb>strip</Strip.verb>
+  <Strip.gerund>stripping</Strip.gerund>
+
+  <HaulCorpses.label>haul corpses</HaulCorpses.label>
+  <HaulCorpses.verb>haul</HaulCorpses.verb>
+  <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
+
+  <BuryCorpses.label>bury corpses</BuryCorpses.label>
+  <BuryCorpses.verb>bury</BuryCorpses.verb>
+  <BuryCorpses.gerund>burying</BuryCorpses.gerund>
+
+  <Open.label>open containers</Open.label>
+  <Open.verb>open</Open.verb>
+  <Open.gerund>opening</Open.gerund>
+
   <Refuel.label>refuel fuelable buildings</Refuel.label>
   <Refuel.verb>refuel</Refuel.verb>
   <Refuel.gerund>refueling</Refuel.gerund>
@@ -284,22 +309,6 @@
   <RearmTraps.label>rearm traps</RearmTraps.label>
   <RearmTraps.verb>rearm</RearmTraps.verb>
   <RearmTraps.gerund>rearming</RearmTraps.gerund>
-
-  <Strip.label>strip corpses</Strip.label>
-  <Strip.verb>strip</Strip.verb>
-  <Strip.gerund>stripping</Strip.gerund>
-
-  <Open.label>open containers</Open.label>
-  <Open.verb>open</Open.verb>
-  <Open.gerund>opening</Open.gerund>
-
-  <TakeBeerOutOfFermentingBarrel.label>take beer out of fermenting barrels</TakeBeerOutOfFermentingBarrel.label>
-  <TakeBeerOutOfFermentingBarrel.verb>take beer</TakeBeerOutOfFermentingBarrel.verb>
-  <TakeBeerOutOfFermentingBarrel.gerund>taking beer from</TakeBeerOutOfFermentingBarrel.gerund>
-
-  <FillFermentingBarrel.label>fill fermenting barrels</FillFermentingBarrel.label>
-  <FillFermentingBarrel.verb>fill</FillFermentingBarrel.verb>
-  <FillFermentingBarrel.gerund>filling</FillFermentingBarrel.gerund>
 
   <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
   <DoBillsCremate.verb>cremate</DoBillsCremate.verb>
@@ -309,13 +318,13 @@
   <DoBillsHaulCampfire.verb>work at</DoBillsHaulCampfire.verb>
   <DoBillsHaulCampfire.gerund>working at</DoBillsHaulCampfire.gerund>
 
-  <BuryCorpses.label>bury corpses</BuryCorpses.label>
-  <BuryCorpses.verb>bury</BuryCorpses.verb>
-  <BuryCorpses.gerund>burying</BuryCorpses.gerund>
+  <TakeBeerOutOfFermentingBarrel.label>take beer out of fermenting barrels</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.verb>take beer</TakeBeerOutOfFermentingBarrel.verb>
+  <TakeBeerOutOfFermentingBarrel.gerund>taking beer from</TakeBeerOutOfFermentingBarrel.gerund>
 
-  <HaulCorpses.label>haul corpses</HaulCorpses.label>
-  <HaulCorpses.verb>haul</HaulCorpses.verb>
-  <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
+  <FillFermentingBarrel.label>fill fermenting barrels</FillFermentingBarrel.label>
+  <FillFermentingBarrel.verb>fill</FillFermentingBarrel.verb>
+  <FillFermentingBarrel.gerund>filling</FillFermentingBarrel.gerund>
 
   <HaulGeneral.label>haul general things</HaulGeneral.label>
   <HaulGeneral.verb>haul</HaulGeneral.verb>

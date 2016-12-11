@@ -16,14 +16,18 @@
   <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
   <Equip.reportString>equipping TargetA.</Equip.reportString>
   <TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
+  <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
   <Wear.reportString>wearing TargetA.</Wear.reportString>
   <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
+  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
   <Strip.reportString>stripping TargetA.</Strip.reportString>
   <Open.reportString>opening TargetA.</Open.reportString>
   <RearmTrap.reportString>rearming TargetA.</RearmTrap.reportString>
   <Refuel.reportString>refueling TargetA.</Refuel.reportString>
   <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
   <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
   <ManTurret.reportString>operating turret.</ManTurret.reportString>
   <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
   <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
@@ -34,6 +38,7 @@
   <Flick.reportString>flicking switch.</Flick.reportString>
   <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
   <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
+  <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
 
 
   <!-- Fire -->

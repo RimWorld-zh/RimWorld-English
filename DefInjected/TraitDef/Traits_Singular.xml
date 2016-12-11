@@ -7,6 +7,9 @@
   <Bloodlust.degreeDatas.0.label>bloodlust</Bloodlust.degreeDatas.0.label>
   <Bloodlust.degreeDatas.0.description>NAME gets a rush from hurting people, and never minds the sight of blood or death. HECAP is twice as likely to start a social fight.</Bloodlust.degreeDatas.0.description>
 
+  <Kind.degreeDatas.0.label>kind</Kind.degreeDatas.0.label>
+  <Kind.degreeDatas.0.description>NAME is a nice person. HECAP has a tendency to brighten everyone else's day and never insults others.</Kind.degreeDatas.0.description>
+
   <Psychopath.degreeDatas.0.label>psychopath</Psychopath.degreeDatas.0.label>
   <Psychopath.degreeDatas.0.description>NAME has no empathy. The suffering of others doesn't bother HIM at all. HECAP doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects HIM. HECAP also feels no mood boost from socializing.</Psychopath.degreeDatas.0.description>
 
@@ -44,7 +47,7 @@
   <Jealous.degreeDatas.0.description>For NAME, it's degrading to have a less impressive bedroom than someone else. HECAP gets a mood loss if any colonist has a more impressive bedroom.</Jealous.degreeDatas.0.description>
 
   <Ascetic.degreeDatas.0.label>ascetic</Ascetic.degreeDatas.0.label>
-  <Ascetic.degreeDatas.0.description>NAME prefers to live in asceticism. HECAP will be put in a poor mood if HE has a bedroom that's too impressive. HECAP also dislikes fancy food and prefers to eat raw - and raw food won't both HIM a bit.</Ascetic.degreeDatas.0.description>
+  <Ascetic.degreeDatas.0.description>NAME prefers to live in asceticism. HECAP will be put in a poor mood if HE has a bedroom that's too impressive. HECAP also dislikes fancy food and prefers to eat raw - and raw food won't bother HIM a bit.</Ascetic.degreeDatas.0.description>
 
   <Gay.degreeDatas.0.label>gay</Gay.degreeDatas.0.label>
   <Gay.degreeDatas.0.description>NAME is romantically attracted to people of HIS own gender.</Gay.degreeDatas.0.description>

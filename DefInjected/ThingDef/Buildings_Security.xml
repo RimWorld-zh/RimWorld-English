@@ -54,7 +54,7 @@
   <TrapDeadfall.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</TrapDeadfall.description>
 
   <TrapIEDBomb.label>IED trap</TrapIEDBomb.label>
-  <TrapIEDBomb.description>An artillery shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIEDBomb.description>
+  <TrapIEDBomb.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIEDBomb.description>
 
   <TrapIEDIncendiary.label>IED incendiary trap</TrapIEDIncendiary.label>
   <TrapIEDIncendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</TrapIEDIncendiary.description>

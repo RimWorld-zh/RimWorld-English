@@ -4,7 +4,7 @@
   <Apparel_Pants.label>pants</Apparel_Pants.label>
   <Apparel_Pants.description>A simple set of pants.</Apparel_Pants.description>
 
-  <Apparel_BasicShirt.label>t-shirt</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.label>T-shirt</Apparel_BasicShirt.label>
   <Apparel_BasicShirt.description>A simple T-shirt.</Apparel_BasicShirt.description>
 
   <Apparel_CollarShirt.description>A nice-looking collared shirt with buttons.</Apparel_CollarShirt.description>

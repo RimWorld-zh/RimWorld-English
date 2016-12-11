@@ -1,20 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Peaceful.label>Peaceful</Peaceful.label>
+  <Peaceful.description>For those who want to relax and build a colony in a sandbox-like environment.\n\nMajor threatening events are disabled, but colonists can still get grumpy and animals can still go crazy from time to time.</Peaceful.description>
+
   <VeryEasy.label>Base builder</VeryEasy.label>
-  <VeryEasy.description>For those who want to relax and build a colony in a sandbox-like environment. Threats appear, but they're extremely weak. Some of the more dangerous events are disabled.</VeryEasy.description>
+  <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
 
   <Easy.label>Some challenge</Easy.label>
-  <Easy.description>For players on their first game, or casual players who still want a challenge. Threats are dangerous but not brutal.</Easy.description>
+  <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.</Easy.description>
 
   <Medium.label>Rough</Medium.label>
-  <Medium.description>It's a rough planet. Threats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
+  <Medium.description>It's a rough planet.\n\nThreats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
 
   <Hard.label>Intense</Hard.label>
-  <Hard.description>A significant challenge. Succeeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
+  <Hard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
 
   <VeryHard.label>Extreme</VeryHard.label>
-  <VeryHard.description>As hard as a diamond-bladed dagger. Enemies are strong, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
+  <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
 
 
 </LanguageData>

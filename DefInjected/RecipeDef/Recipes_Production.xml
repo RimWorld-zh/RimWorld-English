@@ -1,21 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeStoneBlocks.label>make stone blocks</MakeStoneBlocks.label>
-  <MakeStoneBlocks.description>Cuts rock chunks into usable stone blocks.</MakeStoneBlocks.description>
-  <MakeStoneBlocks.jobString>Stonecutting.</MakeStoneBlocks.jobString>
+  <MakeStoneBlocksAny.label>make any stone blocks</MakeStoneBlocksAny.label>
+  <MakeStoneBlocksAny.description>Cuts rock chunks into usable stone blocks.</MakeStoneBlocksAny.description>
+  <MakeStoneBlocksAny.jobString>Stonecutting.</MakeStoneBlocksAny.jobString>
 
   <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
   <ExtractMetalFromSlag.description>Use heat and strong electromagnets to separate useful metal from slag chunks.</ExtractMetalFromSlag.description>
   <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
 
   <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
-  <SmeltWeapon.description>Use heat and strong electromagnets to separate useful metal from weapons.</SmeltWeapon.description>
+  <SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>
   <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
 
-  <MakeArtilleryShell.label>make artillery shell</MakeArtilleryShell.label>
-  <MakeArtilleryShell.description>Craft an artillery shell.</MakeArtilleryShell.description>
-  <MakeArtilleryShell.jobString>Making artillery shell.</MakeArtilleryShell.jobString>
+  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
+  <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+
+  <MakeMortarShell.label>make mortal shell</MakeMortarShell.label>
+  <MakeMortarShell.description>Craft an mortar shell.</MakeMortarShell.description>
+  <MakeMortarShell.jobString>Making mortar shell.</MakeMortarShell.jobString>
+
+  <MakeChemfuelFromWood.label>make chemfuel from wood</MakeChemfuelFromWood.label>
+  <MakeChemfuelFromWood.description>Make a batch of chemfuel by gasifying wood logs.</MakeChemfuelFromWood.description>
+  <MakeChemfuelFromWood.jobString>Refining chemfuel from wood.</MakeChemfuelFromWood.jobString>
+
+  <MakeChemfuelFromOrganics.label>make chemfuel from organics</MakeChemfuelFromOrganics.label>
+  <MakeChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</MakeChemfuelFromOrganics.description>
+  <MakeChemfuelFromOrganics.jobString>Refining chemfuel from organics.</MakeChemfuelFromOrganics.jobString>
 
   <MakeComponent.label>make component</MakeComponent.label>
   <MakeComponent.description>Make a component.</MakeComponent.description>

@@ -2,13 +2,9 @@
 <LanguageData>
 
   <Autosaving>Autosaving</Autosaving>
-
   <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
-
   <Colony>Colony</Colony>
-
   <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
-
   <AndLower>and</AndLower>
   <DisabledLower>disabled</DisabledLower>
 
@@ -67,6 +63,11 @@
   <!-- History events -->
   <ColonistDied>Colonist died</ColonistDied>
 
+  <!-- Rotation -->
+  <North>North</North>
+  <South>South</South>
+  <West>West</West>
+  <East>East</East>
 
 
 </LanguageData>

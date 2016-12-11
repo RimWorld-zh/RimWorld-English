@@ -4,8 +4,12 @@
   <MaxHitPoints.label>max hit points</MaxHitPoints.label>
   <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
 
+  <Mass.label>mass</Mass.label>
+  <Mass.description>The physical mass of an object.</Mass.description>
+  <Mass.formatString>{0} kg</Mass.formatString>
+
   <MarketValue.label>market value</MarketValue.label>
-  <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
+  <MarketValue.description>The market value of an object. The actual trade price will be further modified by negotiation skill, relationship status, and other contextual factors.</MarketValue.description>
   <MarketValue.formatString>${0}</MarketValue.formatString>
 
   <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
@@ -17,9 +21,12 @@
   <WorkToMake.label>work to make</WorkToMake.label>
   <WorkToMake.description>The base amount of work it takes to make this, once all materials and tools are gathered.</WorkToMake.description>
 
+  <WorkToBuild.label>work to build</WorkToBuild.label>
+  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials and tools are gathered.</WorkToBuild.description>
+
   <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
   <DeteriorationRate.description>The rate at which this item deteriorates when left outside, especially in the rain.</DeteriorationRate.description>
-  <DeteriorationRate.formatString>{0}/d</DeteriorationRate.formatString>
+  <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
 
   <Beauty.label>beauty</Beauty.label>
   <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
@@ -28,7 +35,7 @@
   <Cleanliness.description>How clean an object is.</Cleanliness.description>
 
   <Comfort.label>comfort</Comfort.label>
-  <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+  <Comfort.description>How comfortable an object is to sit or lay on.</Comfort.description>
 
 
 </LanguageData>

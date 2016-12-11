@@ -15,6 +15,12 @@
   <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
   <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
 
+  <StonecuttingSpeed.label>stonecutting speed</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>Speed at which this person cuts rough stone into blocks.</StonecuttingSpeed.description>
+
+  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Speed at which this person smelts things.</SmeltingSpeed.description>
+
 
   <!-- Production recipes - speed affected by skill. -->
 
@@ -38,12 +44,6 @@
 
   <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
   <ButcheryMechanoidEfficiency.description>Multiplier on the amount of materials yielded when this person disassembles a dead mechanoid.</ButcheryMechanoidEfficiency.description>
-
-  <StonecuttingSpeed.label>stonecutting speed</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Speed at which this person cuts rough stone into blocks.</StonecuttingSpeed.description>
-
-  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
-  <SmeltingSpeed.description>Speed at which this person smelts things.</SmeltingSpeed.description>
 
 
 </LanguageData>

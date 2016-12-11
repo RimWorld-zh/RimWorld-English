@@ -10,11 +10,12 @@
   <AllowRotten.label>allow rotten</AllowRotten.label>
   <AllowRotten.description>Allow organic things which have started to rot.</AllowRotten.description>
 
-  <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
-  <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
-
   <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
   <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+
+  <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
+  <AllowNonDeadmansApparel.label>allow non-deadman's apparel</AllowNonDeadmansApparel.label>
 
 
 </LanguageData>

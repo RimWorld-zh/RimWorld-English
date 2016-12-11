@@ -15,8 +15,8 @@
 
   <!-- Shells -->
 
-  <ArtilleryShell.label>artillery shell</ArtilleryShell.label>
-  <ArtilleryShell.description>Fired from artillery cannons.</ArtilleryShell.description>
+  <MortarShell.label>mortar shell</MortarShell.label>
+  <MortarShell.description>An explosive shell to be fired from mortars. Explodes when damaged.</MortarShell.description>
 
 
   <!-- Component -->
@@ -29,6 +29,12 @@
 
   <Neutroamine.label>neutroamine</Neutroamine.label>
   <Neutroamine.description>A synthetic precursor chemical. Useless on its own, many drugs require neutroamine as an ingredient.</Neutroamine.description>
+
+
+  <!-- Chemfuel -->
+
+  <Chemfuel.label>chemfuel</Chemfuel.label>
+  <Chemfuel.description>Volatile liquid chemical compound. Used to fuel rockets and other machines.</Chemfuel.description>
 
 
 </LanguageData>

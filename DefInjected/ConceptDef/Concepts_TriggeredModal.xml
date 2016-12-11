@@ -12,5 +12,8 @@
   <SwitchFlickingDesignation.label>Flick designations only designate</SwitchFlickingDesignation.label>
   <SwitchFlickingDesignation.helpText>Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist (with the Flicker work type) comes and flicks the switch by hand.</SwitchFlickingDesignation.helpText>
 
+  <MaxNumberOfPlayerHomes.label>Maximum number of player colonies</MaxNumberOfPlayerHomes.label>
+  <MaxNumberOfPlayerHomes.helpText>Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum.</MaxNumberOfPlayerHomes.helpText>
+
 
 </LanguageData>

@@ -2,13 +2,16 @@
 <LanguageData>
 
   <BorealForest.label>boreal forest</BorealForest.label>
-  <BorealForest.description>Northern forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals.</BorealForest.description>
+  <BorealForest.description>Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. Snow makes it extremely slow to travel in winter.</BorealForest.description>
 
   <Tundra.label>tundra</Tundra.label>
-  <Tundra.description>These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspesed with large herds of migratory grazers and their predators.</Tundra.description>
+  <Tundra.description>These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspesed with large herds of migratory grazers and their predators. Snow makes it extremely slow to travel in winter.</Tundra.description>
 
   <IceSheet.label>ice sheet</IceSheet.label>
-  <IceSheet.description>The surface is covered with sheets of ice which can be kilometers thick. There is no access to soil, so there are no plants. The only animals seen here are migrating to somewhere else - or badly lost.</IceSheet.description>
+  <IceSheet.description>The surface is covered with sheets of ice which can be kilometers thick. No soil, no plants. The only animals here are migrating to somewhere else - or badly lost. Snow slows down travel, but there are ice sheets that provide smooth walking.</IceSheet.description>
+
+  <SeaIce.label>sea ice</SeaIce.label>
+  <SeaIce.description>Permanent ice sheets floating on water. There is no soil, no plants, no minerals to mine, and very few animals. Travel is very slow due to the deep snow and crevasses.</SeaIce.description>
 
 
 </LanguageData>
