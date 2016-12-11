@@ -28,7 +28,7 @@
   <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
 
   <Cousin.label>cousin</Cousin.label>
-  <Cousin.labelFemale>Cousin</Cousin.labelFemale>
+  <Cousin.labelFemale>cousin</Cousin.labelFemale>
 
 
   <!-- distant family -->
@@ -46,16 +46,16 @@
   <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
 
   <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>CousinOnceRemoved</CousinOnceRemoved.labelFemale>
+  <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
 
   <SecondCousin.label>second cousin</SecondCousin.label>
-  <SecondCousin.labelFemale>SecondCousin</SecondCousin.labelFemale>
+  <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
 
 
   <!-- kin -->
 
   <Kin.label>kin</Kin.label>
-  <Kin.labelFemale>Kin</Kin.labelFemale>
+  <Kin.labelFemale>kin</Kin.labelFemale>
 
 
 </LanguageData>

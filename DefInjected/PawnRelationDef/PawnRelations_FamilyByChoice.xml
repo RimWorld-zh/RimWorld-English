@@ -10,7 +10,7 @@
   <Fiance.labelFemale>fiancée</Fiance.labelFemale>
 
   <Lover.label>lover</Lover.label>
-  <Lover.labelFemale>Lover</Lover.labelFemale>
+  <Lover.labelFemale>lover</Lover.labelFemale>
 
 
   <!-- step family -->
@@ -37,7 +37,7 @@
   <ExSpouse.labelFemale>ex-wife</ExSpouse.labelFemale>
 
   <ExLover.label>ex-lover</ExLover.label>
-  <ExLover.labelFemale>ExLover</ExLover.labelFemale>
+  <ExLover.labelFemale>ex-lover</ExLover.labelFemale>
 
 
 </LanguageData>
