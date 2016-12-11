@@ -14,7 +14,7 @@ This is the standard lanugage data template for translating RimWorld!
 
 ### Current Version
 
-* 0.15
+* 0.16.1382
 
 ----
 
