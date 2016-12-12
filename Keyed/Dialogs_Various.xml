@@ -223,6 +223,7 @@
   <TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
   <minimum>minimum</minimum>
   <FinalPrice>Final price</FinalPrice>
+  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
 
   <!-- Form caravan -->
   <FormCaravan>Form caravan</FormCaravan>

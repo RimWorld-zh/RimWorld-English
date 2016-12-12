@@ -26,6 +26,7 @@
 
   <ForbiddenLower>forbidden</ForbiddenLower>
   <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>not in home area</NotInHomeArea>
   <SociallyImproperLower>socially improper</SociallyImproperLower>
   <PrisonerRoomLower>prisoner room</PrisonerRoomLower>
   <BurningLower>burning</BurningLower>
