@@ -5,35 +5,35 @@
 
   <MakeStoneBlocksSandstone.label>make sandstone blocks</MakeStoneBlocksSandstone.label>
   <MakeStoneBlocksSandstone.description>Cuts sandstone chunks into usable blocks.</MakeStoneBlocksSandstone.description>
-  <MakeStoneBlocksSandstone.jobString>Stonecutting.</MakeStoneBlocksSandstone.jobString>
+  <MakeStoneBlocksSandstone.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksSandstone.jobString>
 
 
   <!-- Granite -->
 
   <MakeStoneBlocksGranite.label>make granite blocks</MakeStoneBlocksGranite.label>
   <MakeStoneBlocksGranite.description>Cuts granite chunks into usable blocks.</MakeStoneBlocksGranite.description>
-  <MakeStoneBlocksGranite.jobString>Stonecutting.</MakeStoneBlocksGranite.jobString>
+  <MakeStoneBlocksGranite.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksGranite.jobString>
 
 
   <!-- Limestone -->
 
   <MakeStoneBlocksLimestone.label>make limestone blocks</MakeStoneBlocksLimestone.label>
   <MakeStoneBlocksLimestone.description>Cuts limestone chunks into usable blocks.</MakeStoneBlocksLimestone.description>
-  <MakeStoneBlocksLimestone.jobString>Stonecutting.</MakeStoneBlocksLimestone.jobString>
+  <MakeStoneBlocksLimestone.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksLimestone.jobString>
 
 
   <!-- Slate -->
 
   <MakeStoneBlocksSlate.label>make slate blocks</MakeStoneBlocksSlate.label>
   <MakeStoneBlocksSlate.description>Cuts slate chunks into usable blocks.</MakeStoneBlocksSlate.description>
-  <MakeStoneBlocksSlate.jobString>Stonecutting.</MakeStoneBlocksSlate.jobString>
+  <MakeStoneBlocksSlate.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksSlate.jobString>
 
 
   <!-- Marble -->
 
   <MakeStoneBlocksMarble.label>make marble blocks</MakeStoneBlocksMarble.label>
   <MakeStoneBlocksMarble.description>Cuts marble chunks into usable blocks.</MakeStoneBlocksMarble.description>
-  <MakeStoneBlocksMarble.jobString>Stonecutting.</MakeStoneBlocksMarble.jobString>
+  <MakeStoneBlocksMarble.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksMarble.jobString>
 
 
 </LanguageData>

@@ -3,22 +3,22 @@
 
   <MakeStoneBlocksAny.label>make any stone blocks</MakeStoneBlocksAny.label>
   <MakeStoneBlocksAny.description>Cuts rock chunks into usable stone blocks.</MakeStoneBlocksAny.description>
-  <MakeStoneBlocksAny.jobString>Stonecutting.</MakeStoneBlocksAny.jobString>
+  <MakeStoneBlocksAny.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksAny.jobString>
 
   <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
   <ExtractMetalFromSlag.description>Use heat and strong electromagnets to separate useful metal from slag chunks.</ExtractMetalFromSlag.description>
   <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
 
-  <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
+  <SmeltWeapon.label>smelt weapon</SmeltWeapon.label>
   <SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>
-  <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>Smelting weapon.</SmeltWeapon.jobString>
 
   <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
   <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
   <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
 
   <MakeMortarShell.label>make mortal shell</MakeMortarShell.label>
-  <MakeMortarShell.description>Craft an mortar shell.</MakeMortarShell.description>
+  <MakeMortarShell.description>Craft a mortar shell.</MakeMortarShell.description>
   <MakeMortarShell.jobString>Making mortar shell.</MakeMortarShell.jobString>
 
   <MakeChemfuelFromWood.label>make chemfuel from wood</MakeChemfuelFromWood.label>

@@ -36,11 +36,11 @@
   <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
   <ButcheryFleshSpeed.description>Speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
 
-  <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
-  <ButcheryFleshEfficiency.description>Multiplier on the amount of meat produced when butchering flesh animals.</ButcheryFleshEfficiency.description>
-
   <ButcheryMechanoidSpeed.label>mechanoid disassembly speed</ButcheryMechanoidSpeed.label>
   <ButcheryMechanoidSpeed.description>Speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
+
+  <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>Multiplier on the amount of meat produced when butchering flesh creatures.</ButcheryFleshEfficiency.description>
 
   <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
   <ButcheryMechanoidEfficiency.description>Multiplier on the amount of materials yielded when this person disassembles a dead mechanoid.</ButcheryMechanoidEfficiency.description>

@@ -199,4 +199,8 @@
 
   <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {0} will make {1} unhappy.</MessageSlaughteringBondedAnimal>
 
+  <MessageCaravanRunOutOfFood>{0} has run out of food ({1}).</MessageCaravanRunOutOfFood>
+
+  <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony.</MessageSelectOwnBaseToFormCaravan>
+
 </LanguageData>
