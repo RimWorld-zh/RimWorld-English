@@ -161,7 +161,7 @@
 
   <MessageSettledInExistingMap>You have successfully settled in a new area.</MessageSettledInExistingMap>
 
-  <MessageAmbushVictory>Victory! You have {0} hours to collect items before your colonists reform the caravan.</MessageAmbushVictory>
+  <MessageAmbushVictory>Victory! In {0} hours, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageAmbushVictory>
 
   <MessageAutomaticallyReformedCaravan>Your colonists have reformed the caravan.</MessageAutomaticallyReformedCaravan>
 
@@ -201,6 +201,8 @@
 
   <MessageCaravanRunOutOfFood>{0} has run out of food ({1}).</MessageCaravanRunOutOfFood>
 
-  <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony.</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony or a site where you have people.</MessageSelectOwnBaseToFormCaravan>
+
+  <MessageScreenResTooSmallForUIScale>At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution.</MessageScreenResTooSmallForUIScale>
 
 </LanguageData>
