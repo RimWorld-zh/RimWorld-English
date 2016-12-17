@@ -290,13 +290,13 @@
   <Strip.verb>strip</Strip.verb>
   <Strip.gerund>stripping</Strip.gerund>
 
-  <BuryCorpses.label>bury corpses</BuryCorpses.label>
-  <BuryCorpses.verb>bury</BuryCorpses.verb>
-  <BuryCorpses.gerund>burying</BuryCorpses.gerund>
-
   <HaulCorpses.label>haul corpses</HaulCorpses.label>
   <HaulCorpses.verb>haul</HaulCorpses.verb>
   <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
+
+  <BuryCorpses.label>bury corpses</BuryCorpses.label>
+  <BuryCorpses.verb>bury</BuryCorpses.verb>
+  <BuryCorpses.gerund>burying</BuryCorpses.gerund>
 
   <Open.label>open containers</Open.label>
   <Open.verb>open</Open.verb>
