@@ -193,6 +193,8 @@
   <TimeRecordsCategory>Time</TimeRecordsCategory>
   <MiscRecordsCategory>Misc</MiscRecordsCategory>
   <Addictiveness>Addictiveness</Addictiveness>
+  <PackAnimal>Pack animal</PackAnimal>
+  <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
