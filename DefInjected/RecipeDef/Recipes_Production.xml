@@ -17,7 +17,7 @@
   <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
   <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
 
-  <MakeMortarShell.label>make mortal shell</MakeMortarShell.label>
+  <MakeMortarShell.label>make mortar shell</MakeMortarShell.label>
   <MakeMortarShell.description>Craft a mortar shell.</MakeMortarShell.description>
   <MakeMortarShell.jobString>Making mortar shell.</MakeMortarShell.jobString>
 
