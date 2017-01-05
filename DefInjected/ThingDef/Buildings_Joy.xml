@@ -3,24 +3,39 @@
 
   <HorseshoesPin.label>horseshoes pin</HorseshoesPin.label>
   <HorseshoesPin.description>A simple ancient game played with a few horseshoes and a large pin in the ground. Players toss horseshoes from a distance and attempt to get them to land close to or around the pin. It's relaxing, and even trains hand-eye coordination.</HorseshoesPin.description>
+  <HorseshoesPin_Blueprint.label>horseshoes pin (blueprint)</HorseshoesPin_Blueprint.label>
+  <HorseshoesPin_Blueprint_Install.label>horseshoes pin (blueprint)</HorseshoesPin_Blueprint_Install.label>
+  <HorseshoesPin_Frame.label>horseshoes pin (building)</HorseshoesPin_Frame.label>
 
   <ChessTable.label>chess table</ChessTable.label>
   <ChessTable.description>The ancient game of kings. Fun for a few hours here and there, even playing alone.</ChessTable.description>
+  <ChessTable_Blueprint.label>chess table (blueprint)</ChessTable_Blueprint.label>
+  <ChessTable_Blueprint_Install.label>chess table (blueprint)</ChessTable_Blueprint_Install.label>
+  <ChessTable_Frame.label>chess table (building)</ChessTable_Frame.label>
 
   <BilliardsTable.label>billiards table</BilliardsTable.label>
   <BilliardsTable.description>A soft-topped bounded table for playing a variety of billiards-type games.</BilliardsTable.description>
+  <BilliardsTable_Blueprint.label>billiards table (blueprint)</BilliardsTable_Blueprint.label>
+  <BilliardsTable_Blueprint_Install.label>billiards table (blueprint)</BilliardsTable_Blueprint_Install.label>
+  <BilliardsTable_Frame.label>billiards table (building)</BilliardsTable_Frame.label>
 
   <TubeTelevision.label>tube television</TubeTelevision.label>
   <TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision.description>
+  <TubeTelevision_Blueprint.label>tube television (blueprint)</TubeTelevision_Blueprint.label>
+  <TubeTelevision_Blueprint_Install.label>tube television (blueprint)</TubeTelevision_Blueprint_Install.label>
+  <TubeTelevision_Frame.label>tube television (building)</TubeTelevision_Frame.label>
 
   <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
   <FlatscreenTelevision.description>A high-tech flat-screen television with crystal-clear image and rich color. More entertaining than a grainy tube TV.</FlatscreenTelevision.description>
+  <FlatscreenTelevision_Blueprint_Install.label>flatscreen television (blueprint)</FlatscreenTelevision_Blueprint_Install.label>
 
   <MegascreenTelevision.label>megascreen television</MegascreenTelevision.label>
   <MegascreenTelevision.description>A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining.</MegascreenTelevision.description>
+  <MegascreenTelevision_Blueprint_Install.label>megascreen television (blueprint)</MegascreenTelevision_Blueprint_Install.label>
 
   <Telescope.label>telescope</Telescope.label>
   <Telescope.description>A telescope for doing amateur astronomy. It's a relaxing and fun hobby for a certain kind of person.</Telescope.description>
+  <Telescope_Blueprint_Install.label>telescope (blueprint)</Telescope_Blueprint_Install.label>
 
 
 </LanguageData>

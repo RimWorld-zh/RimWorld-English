@@ -2,18 +2,18 @@
 <LanguageData>
 
   <Deer.label>deer</Deer.label>
-  <Deer.lifeStages.0.labelMale>deer</Deer.lifeStages.0.labelMale>
-  <Deer.lifeStages.0.labelFemale>deer</Deer.lifeStages.0.labelFemale>
-  <Deer.lifeStages.1.labelMale>deer</Deer.lifeStages.1.labelMale>
-  <Deer.lifeStages.1.labelFemale>deer</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.0.labelMale>buck</Deer.lifeStages.0.labelMale>
+  <Deer.lifeStages.0.labelFemale>doe</Deer.lifeStages.0.labelFemale>
+  <Deer.lifeStages.1.labelMale>buck</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelFemale>doe</Deer.lifeStages.1.labelFemale>
   <Deer.lifeStages.2.labelMale>buck</Deer.lifeStages.2.labelMale>
   <Deer.lifeStages.2.labelFemale>doe</Deer.lifeStages.2.labelFemale>
 
   <Ibex.label>ibex</Ibex.label>
-  <Ibex.lifeStages.0.labelMale>ibex</Ibex.lifeStages.0.labelMale>
-  <Ibex.lifeStages.0.labelFemale>ibex</Ibex.lifeStages.0.labelFemale>
-  <Ibex.lifeStages.1.labelMale>ibex</Ibex.lifeStages.1.labelMale>
-  <Ibex.lifeStages.1.labelFemale>ibex</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.0.labelMale>ibex ram</Ibex.lifeStages.0.labelMale>
+  <Ibex.lifeStages.0.labelFemale>ibex doe</Ibex.lifeStages.0.labelFemale>
+  <Ibex.lifeStages.1.labelMale>ibex ram</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelFemale>ibex doe</Ibex.lifeStages.1.labelFemale>
   <Ibex.lifeStages.2.labelMale>ibex ram</Ibex.lifeStages.2.labelMale>
   <Ibex.lifeStages.2.labelFemale>ibex doe</Ibex.lifeStages.2.labelFemale>
 

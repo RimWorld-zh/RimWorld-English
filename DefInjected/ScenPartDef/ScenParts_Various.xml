@@ -4,10 +4,6 @@
   <!-- player pawn filters -->
 
   <GameStartDialog.label>game start dialog</GameStartDialog.label>
-
-
-  <!-- player pawn filters -->
-
   <PawnFilter_Age.label>allowed age range</PawnFilter_Age.label>
 
 

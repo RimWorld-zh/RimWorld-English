@@ -3,55 +3,85 @@
 
   <OrbitalTradeBeacon.label>orbital trade beacon</OrbitalTradeBeacon.label>
   <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon_Blueprint.label>orbital trade beacon (blueprint)</OrbitalTradeBeacon_Blueprint.label>
+  <OrbitalTradeBeacon_Frame.label>orbital trade beacon (building)</OrbitalTradeBeacon_Frame.label>
 
   <CommsConsole.label>comms console</CommsConsole.label>
   <CommsConsole.description>Allows radio contact with remote traders as well as other factions for trade and diplomacy.</CommsConsole.description>
+  <CommsConsole_Blueprint.label>comms console (blueprint)</CommsConsole_Blueprint.label>
+  <CommsConsole_Frame.label>comms console (building)</CommsConsole_Frame.label>
 
   <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
   <FirefoamPopper.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper.description>
   <FirefoamPopper.comps.1.useLabel>Trigger firefoam popper</FirefoamPopper.comps.1.useLabel>
+  <FirefoamPopper_Blueprint.label>firefoam popper (blueprint)</FirefoamPopper_Blueprint.label>
+  <FirefoamPopper_Blueprint_Install.label>firefoam popper (blueprint)</FirefoamPopper_Blueprint_Install.label>
+  <FirefoamPopper_Frame.label>firefoam popper (building)</FirefoamPopper_Frame.label>
 
   <MoisturePump.label>moisture pump</MoisturePump.label>
   <MoisturePump.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</MoisturePump.description>
+  <MoisturePump_Blueprint.label>moisture pump (blueprint)</MoisturePump_Blueprint.label>
+  <MoisturePump_Frame.label>moisture pump (building)</MoisturePump_Frame.label>
 
   <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner_Blueprint.label>ground-penetrating scanner (blueprint)</GroundPenetratingScanner_Blueprint.label>
+  <GroundPenetratingScanner_Frame.label>ground-penetrating scanner (building)</GroundPenetratingScanner_Frame.label>
 
 
   <!-- Transport pods -->
 
   <PodLauncher.label>pod launcher</PodLauncher.label>
   <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+  <PodLauncher_Blueprint.label>pod launcher (blueprint)</PodLauncher_Blueprint.label>
+  <PodLauncher_Frame.label>pod launcher (building)</PodLauncher_Frame.label>
 
   <TransportPod.label>transport pod</TransportPod.label>
   <TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod.description>
+  <TransportPod_Blueprint.label>transport pod (blueprint)</TransportPod_Blueprint.label>
+  <TransportPod_Frame.label>transport pod (building)</TransportPod_Frame.label>
 
 
   <!-- Facilities -->
 
   <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
   <MultiAnalyzer.description>Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer.description>
+  <MultiAnalyzer_Blueprint.label>multi-analyzer (blueprint)</MultiAnalyzer_Blueprint.label>
+  <MultiAnalyzer_Blueprint_Install.label>multi-analyzer (blueprint)</MultiAnalyzer_Blueprint_Install.label>
+  <MultiAnalyzer_Frame.label>multi-analyzer (building)</MultiAnalyzer_Frame.label>
 
   <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
   <VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor.description>
+  <VitalsMonitor_Blueprint.label>vitals monitor (blueprint)</VitalsMonitor_Blueprint.label>
+  <VitalsMonitor_Blueprint_Install.label>vitals monitor (blueprint)</VitalsMonitor_Blueprint_Install.label>
+  <VitalsMonitor_Frame.label>vitals monitor (building)</VitalsMonitor_Frame.label>
 
   <ToolCabinet.label>tool cabinet</ToolCabinet.label>
   <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>
+  <ToolCabinet_Blueprint.label>tool cabinet (blueprint)</ToolCabinet_Blueprint.label>
+  <ToolCabinet_Blueprint_Install.label>tool cabinet (blueprint)</ToolCabinet_Blueprint_Install.label>
+  <ToolCabinet_Frame.label>tool cabinet (building)</ToolCabinet_Frame.label>
 
 
   <!-- Graves -->
 
   <Grave.label>grave</Grave.label>
   <Grave.description>Place the dead in graves to give them a decent final resting place. Colonists will visit full graves to gain meditative joy.</Grave.description>
+  <Grave_Blueprint.label>grave (blueprint)</Grave_Blueprint.label>
+  <Grave_Frame.label>grave (building)</Grave_Frame.label>
 
   <Sarcophagus.label>sarcophagus</Sarcophagus.label>
   <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
+  <Sarcophagus_Blueprint.label>sarcophagus (blueprint)</Sarcophagus_Blueprint.label>
+  <Sarcophagus_Frame.label>sarcophagus (building)</Sarcophagus_Frame.label>
 
 
   <!-- Cryptosleep caskets -->
 
   <CryptosleepCasket.label>cryptosleep casket</CryptosleepCasket.label>
   <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
+  <CryptosleepCasket_Blueprint.label>cryptosleep casket (blueprint)</CryptosleepCasket_Blueprint.label>
+  <CryptosleepCasket_Frame.label>cryptosleep casket (building)</CryptosleepCasket_Frame.label>
 
   <AncientCryptosleepCasket.label>ancient cryptosleep casket</AncientCryptosleepCasket.label>
   <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
@@ -61,9 +91,13 @@
 
   <MarriageSpot.label>marriage spot</MarriageSpot.label>
   <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+  <MarriageSpot_Blueprint.label>marriage spot (blueprint)</MarriageSpot_Blueprint.label>
+  <MarriageSpot_Frame.label>marriage spot (building)</MarriageSpot_Frame.label>
 
   <PartySpot.label>party spot</PartySpot.label>
   <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
+  <PartySpot_Blueprint.label>party spot (blueprint)</PartySpot_Blueprint.label>
+  <PartySpot_Frame.label>party spot (building)</PartySpot_Frame.label>
 
 
 </LanguageData>
