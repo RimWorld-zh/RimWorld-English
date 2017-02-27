@@ -2,7 +2,10 @@
 <LanguageData>
 
   <SpaceRefugee.label>space refugee</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>space refugees</SpaceRefugee.labelPlural>
+
   <SpaceSoldier.label>space soldier</SpaceSoldier.label>
+  <SpaceSoldier.labelPlural>space soldiers</SpaceSoldier.labelPlural>
 
 
 </LanguageData>

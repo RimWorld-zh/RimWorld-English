@@ -2,9 +2,16 @@
 <LanguageData>
 
   <Drifter.label>drifter</Drifter.label>
+  <Drifter.labelPlural>drifters</Drifter.labelPlural>
+
   <Scavenger.label>scavenger</Scavenger.label>
+  <Scavenger.labelPlural>scavengers</Scavenger.labelPlural>
+
   <Thrasher.label>thrasher</Thrasher.label>
+  <Thrasher.labelPlural>thrashers</Thrasher.labelPlural>
+
   <Pirate.label>pirate</Pirate.label>
+  <Pirate.labelPlural>pirates</Pirate.labelPlural>
 
 
 </LanguageData>

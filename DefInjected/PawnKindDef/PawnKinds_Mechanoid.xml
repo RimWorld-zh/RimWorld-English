@@ -2,7 +2,10 @@
 <LanguageData>
 
   <Centipede.label>centipede</Centipede.label>
+  <Centipede.labelPlural>centipedes</Centipede.labelPlural>
+
   <Scyther.label>scyther</Scyther.label>
+  <Scyther.labelPlural>scythers</Scyther.labelPlural>
 
 
 </LanguageData>

@@ -2,9 +2,16 @@
 <LanguageData>
 
   <Villager.label>villager</Villager.label>
+  <Villager.labelPlural>villagers</Villager.labelPlural>
+
   <TownCouncilman.label>town councilman</TownCouncilman.label>
+  <TownCouncilman.labelPlural>town councilmen</TownCouncilman.labelPlural>
+
   <TownTrader.label>town trader</TownTrader.label>
+  <TownTrader.labelPlural>town traders</TownTrader.labelPlural>
+
   <TownGuard.label>town guard</TownGuard.label>
+  <TownGuard.labelPlural>town guards</TownGuard.labelPlural>
 
 
 </LanguageData>

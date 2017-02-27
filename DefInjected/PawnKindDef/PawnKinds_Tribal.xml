@@ -2,9 +2,16 @@
 <LanguageData>
 
   <TribalWarrior.label>warrior</TribalWarrior.label>
+  <TribalWarrior.labelPlural>warriors</TribalWarrior.labelPlural>
+
   <TribalTrader.label>trader</TribalTrader.label>
+  <TribalTrader.labelPlural>traders</TribalTrader.labelPlural>
+
   <TribalArcher.label>archer</TribalArcher.label>
+  <TribalArcher.labelPlural>archers</TribalArcher.labelPlural>
+
   <TribalChief.label>chief</TribalChief.label>
+  <TribalChief.labelPlural>chiefs</TribalChief.labelPlural>
 
 
 </LanguageData>

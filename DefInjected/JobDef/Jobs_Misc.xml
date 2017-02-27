@@ -14,6 +14,7 @@
   <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
   <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
   <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
   <Equip.reportString>equipping TargetA.</Equip.reportString>
   <TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
   <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
