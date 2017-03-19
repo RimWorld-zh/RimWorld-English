@@ -29,17 +29,29 @@
   <DoBillsMedicalHumanOperation.verb>operate</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>operating on</DoBillsMedicalHumanOperation.gerund>
 
-  <DoctorTreat.label>give treatment</DoctorTreat.label>
-  <DoctorTreat.verb>treat</DoctorTreat.verb>
-  <DoctorTreat.gerund>treating</DoctorTreat.gerund>
+  <DoctorTendToHumanlikes.label>tend to patients</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.verb>tend to</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.gerund>tending to</DoctorTendToHumanlikes.gerund>
 
-  <DoctorFeed.label>feed patients</DoctorFeed.label>
-  <DoctorFeed.verb>feed</DoctorFeed.verb>
-  <DoctorFeed.gerund>feeding</DoctorFeed.gerund>
+  <DoctorTendToSelf.label>tend to self</DoctorTendToSelf.label>
+  <DoctorTendToSelf.verb>tend to</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.gerund>tending to</DoctorTendToSelf.gerund>
+
+  <DoctorFeedHumanlikes.label>feed patients</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.verb>feed</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.gerund>feeding</DoctorFeedHumanlikes.gerund>
 
   <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
   <DoBillsMedicalAnimalOperation.verb>operate</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>operating on</DoBillsMedicalAnimalOperation.gerund>
+
+  <DoctorTendToAnimals.label>tend to animals</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.verb>tend to</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.gerund>tending to</DoctorTendToAnimals.gerund>
+
+  <DoctorFeedAnimals.label>feed animals</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>feed</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.gerund>feeding</DoctorFeedAnimals.gerund>
 
   <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
   <TakeToBedToOperate.verb>take to operate</TakeToBedToOperate.verb>
@@ -118,11 +130,11 @@
 
   <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
   <DoBillsCook.verb>cook</DoBillsCook.verb>
-  <DoBillsCook.gerund>cooking</DoBillsCook.gerund>
+  <DoBillsCook.gerund>cooking at</DoBillsCook.gerund>
 
   <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
   <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
-  <DoBillsCookCampfire.gerund>cooking</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.gerund>cooking at</DoBillsCookCampfire.gerund>
 
   <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
   <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
@@ -134,7 +146,7 @@
 
   <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
   <DoBillsBrew.verb>brew</DoBillsBrew.verb>
-  <DoBillsBrew.gerund>brewing</DoBillsBrew.gerund>
+  <DoBillsBrew.gerund>brewing at</DoBillsBrew.gerund>
 
 
   <!-- Hunting -->
@@ -145,10 +157,6 @@
 
 
   <!-- Construction -->
-
-  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>modify</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>modifying</DoBillsMedicalMechanoidOperation.gerund>
 
   <FixBrokenDownBuilding.label>fix broken-down buildings</FixBrokenDownBuilding.label>
   <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
@@ -255,17 +263,21 @@
 
   <!-- Crafting -->
 
+  <DoBillsMedicalMechanoidOperation.label>operate on mechanoids</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>modify</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>modifying</DoBillsMedicalMechanoidOperation.gerund>
+
   <DoBillsUseCraftingSpot.label>do bills at crafting spot</DoBillsUseCraftingSpot.label>
   <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
   <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
 
   <DoBillsRefinery.label>works at refinery</DoBillsRefinery.label>
   <DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
-  <DoBillsRefinery.gerund>refine chemicals at</DoBillsRefinery.gerund>
+  <DoBillsRefinery.gerund>refining chemicals at</DoBillsRefinery.gerund>
 
   <DoBillsProduceDrugs.label>produce drugs</DoBillsProduceDrugs.label>
   <DoBillsProduceDrugs.verb>produce drugs</DoBillsProduceDrugs.verb>
-  <DoBillsProduceDrugs.gerund>produce drugs at</DoBillsProduceDrugs.gerund>
+  <DoBillsProduceDrugs.gerund>producing drugs at</DoBillsProduceDrugs.gerund>
 
   <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
   <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
@@ -285,6 +297,10 @@
   <LoadTransporters.label>load transporters</LoadTransporters.label>
   <LoadTransporters.verb>load</LoadTransporters.verb>
   <LoadTransporters.gerund>loading</LoadTransporters.gerund>
+
+  <HelpGatheringItemsForCaravan.label>load caravan</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.verb>load</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
 
   <Strip.label>strip corpses</Strip.label>
   <Strip.verb>strip</Strip.verb>

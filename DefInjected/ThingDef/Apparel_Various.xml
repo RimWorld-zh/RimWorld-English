@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Neolithic -->
+
+  <Apparel_TribalA.label>tribalwear</Apparel_TribalA.label>
+  <Apparel_TribalA.description>A garment crafted without machines using neolithic tools.</Apparel_TribalA.description>
+
+  <Apparel_Parka.label>parka</Apparel_Parka.label>
+  <Apparel_Parka.description>A thick parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
+
+
+  <!-- Medieval -->
+
   <Apparel_Pants.label>pants</Apparel_Pants.label>
   <Apparel_Pants.description>A simple set of pants.</Apparel_Pants.description>
 
@@ -16,17 +27,14 @@
   <Apparel_Jacket.label>jacket</Apparel_Jacket.label>
   <Apparel_Jacket.description>A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather.</Apparel_Jacket.description>
 
-  <Apparel_Parka.label>parka</Apparel_Parka.label>
-  <Apparel_Parka.description>A thick parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
 
-  <Apparel_TribalA.label>tribalwear</Apparel_TribalA.label>
-  <Apparel_TribalA.description>A garment crafted without machines using neolithic tools.</Apparel_TribalA.description>
-
-
-  <!-- Stuff-less apparel -->
+  <!-- Industrial -->
 
   <Apparel_VestPlate.label>armor vest</Apparel_VestPlate.label>
   <Apparel_VestPlate.description>A vest with armor plates inserted on the chest and back. Protects against gunfire.</Apparel_VestPlate.description>
+
+
+  <!-- Spacer -->
 
   <Apparel_PowerArmor.label>power armor</Apparel_PowerArmor.label>
   <Apparel_PowerArmor.description>Powered armor usually used by assault troops from advanced glitterworld planets.</Apparel_PowerArmor.description>

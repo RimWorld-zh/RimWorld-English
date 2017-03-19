@@ -17,5 +17,9 @@
   <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
   <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
 
+  <CookMealSurvival.label>cook survival meal</CookMealSurvival.label>
+  <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
+
 
 </LanguageData>

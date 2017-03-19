@@ -4,62 +4,50 @@
   <Shooting.label>Shooting</Shooting.label>
   <Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
   <Shooting.skillLabel>Shooting</Shooting.skillLabel>
-  <Shooting.pawnLabel>Shooter</Shooting.pawnLabel>
 
   <Melee.label>Melee</Melee.label>
   <Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
   <Melee.skillLabel>Melee</Melee.skillLabel>
-  <Melee.pawnLabel>Brawler</Melee.pawnLabel>
 
   <Social.label>Social</Social.label>
   <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
   <Social.skillLabel>Social</Social.skillLabel>
-  <Social.pawnLabel>Socialite</Social.pawnLabel>
 
   <Animals.label>Animals</Animals.label>
   <Animals.description>Taming, training, managing, and controlling animals.</Animals.description>
   <Animals.skillLabel>Animals</Animals.skillLabel>
-  <Animals.pawnLabel>Handler</Animals.pawnLabel>
 
   <Medicine.label>Medicine</Medicine.label>
   <Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
   <Medicine.skillLabel>Medicine</Medicine.skillLabel>
-  <Medicine.pawnLabel>Doctor</Medicine.pawnLabel>
 
   <Cooking.label>Cooking</Cooking.label>
   <Cooking.description>Creating meals from raw ingredients.</Cooking.description>
   <Cooking.skillLabel>Cooking</Cooking.skillLabel>
-  <Cooking.pawnLabel>Cook</Cooking.pawnLabel>
 
   <Construction.label>Construction</Construction.label>
   <Construction.description>Better constructors build structures and furniture faster and of higher quality.</Construction.description>
   <Construction.skillLabel>Construction</Construction.skillLabel>
-  <Construction.pawnLabel>Constructor</Construction.pawnLabel>
 
   <Growing.label>Growing</Growing.label>
   <Growing.description>Sowing, caring for, and harvesting crops.</Growing.description>
   <Growing.skillLabel>Growing</Growing.skillLabel>
-  <Growing.pawnLabel>Grower</Growing.pawnLabel>
 
   <Mining.label>Mining</Mining.label>
   <Mining.description>Digging tunnels and extracting mineral or buried resources.</Mining.description>
   <Mining.skillLabel>Mining</Mining.skillLabel>
-  <Mining.pawnLabel>Miner</Mining.pawnLabel>
 
   <Artistic.label>Artistic</Artistic.label>
   <Artistic.description>Crafting art.</Artistic.description>
   <Artistic.skillLabel>Artistic</Artistic.skillLabel>
-  <Artistic.pawnLabel>Artist</Artistic.pawnLabel>
 
   <Crafting.label>Crafting</Crafting.label>
   <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
   <Crafting.skillLabel>Crafting</Crafting.skillLabel>
-  <Crafting.pawnLabel>Craftsman</Crafting.pawnLabel>
 
-  <Research.label>Research</Research.label>
-  <Research.description>Investigating evidence, doing experiments, and learning.</Research.description>
-  <Research.skillLabel>Research</Research.skillLabel>
-  <Research.pawnLabel>Researcher</Research.pawnLabel>
+  <Intellectual.label>Intellectual</Intellectual.label>
+  <Intellectual.description>Investigating evidence, making connections, calculating and using logic.</Intellectual.description>
+  <Intellectual.skillLabel>Intellectual</Intellectual.skillLabel>
 
 
 </LanguageData>

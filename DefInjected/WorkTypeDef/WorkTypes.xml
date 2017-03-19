@@ -79,7 +79,7 @@
   <Growing.verb>Grow</Growing.verb>
 
   <Mining.label>Mine</Mining.label>
-  <Mining.description>Dig out areas which are have designated for mining.</Mining.description>
+  <Mining.description>Digging and drilling.</Mining.description>
   <Mining.labelShort>Mine</Mining.labelShort>
   <Mining.pawnLabel>Miner</Mining.pawnLabel>
   <Mining.gerundLabel>Mining</Mining.gerundLabel>

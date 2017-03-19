@@ -18,7 +18,7 @@
   <Heater_Frame.label>heater (building)</Heater_Frame.label>
 
   <Cooler.label>cooler</Cooler.label>
-  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer. </Cooler.description>
+  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Cooler.description>
   <Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>
   <Cooler_Frame.label>cooler (building)</Cooler_Frame.label>
 

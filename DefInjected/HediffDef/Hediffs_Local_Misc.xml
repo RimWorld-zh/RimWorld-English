@@ -2,8 +2,8 @@
 <LanguageData>
 
   <TraumaSavant.label>trauma savant</TraumaSavant.label>
-  <ChemicalDamageBrain.label>chemical damage</ChemicalDamageBrain.label>
-  <ChemicalDamageKidney.label>chemical damage</ChemicalDamageKidney.label>
+  <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
+  <ChemicalDamageSevere.label>chemical damage</ChemicalDamageSevere.label>
   <Cirrhosis.label>Cirrhosis</Cirrhosis.label>
 
 

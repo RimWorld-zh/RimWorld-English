@@ -4,6 +4,18 @@
   <Cut.label>cut</Cut.label>
   <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
 
+
+  <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
+
+  <SurgicalCut.label>surgical cut</SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
+
+
+  <!-- Execution cut: Makes it possible to distinguish execution damage from others -->
+
+  <ExecutionCut.label>execution cut</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0} has been executed by cutting.</ExecutionCut.deathMessage>
+
   <Crush.label>crush</Crush.label>
   <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
 
@@ -42,20 +54,6 @@
 
   <Frostbite.label>frostbite</Frostbite.label>
   <Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>
-
-
-  <!-- Surgical cut should not harm outer layers.
-       This makes it possible to remove inner organs without harming outer body parts -->
-
-  <SurgicalCut.label>surgical cut</SurgicalCut.label>
-  <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
-
-
-  <!-- Execution cut
-       This makes it possible to distinguish execution damage from others -->
-
-  <ExecutionCut.label>execution cut</ExecutionCut.label>
-  <ExecutionCut.deathMessage>{0} has been executed.</ExecutionCut.deathMessage>
 
 
 </LanguageData>

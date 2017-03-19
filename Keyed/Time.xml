@@ -14,6 +14,11 @@
   <SeasonFall>fall</SeasonFall>
   <SeasonWinter>winter</SeasonWinter>
 
+  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumJugust>Jugust</QuadrumJugust>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <QuadrumDecembary>Decembary</QuadrumDecembary>
+
   <Born>Born: {0}</Born>
   <AgeChronological>Chronological age: {0} years, {1} seasons, {2} days</AgeChronological>
   <AgeBiological>Biological age: {0} years, {1} seasons, {2} days</AgeBiological>

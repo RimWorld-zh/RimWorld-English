@@ -1,17 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Shooting -->
+
   <MeleeDPS.label>melee DPS</MeleeDPS.label>
-  <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
+  <MeleeDPS.description>Average damage per second in melee combat. This stat ignores target defenses like dodging and armor.</MeleeDPS.description>
+
+  <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
+  <MeleeHitChance.description>Chance to hit a target in melee. The target can still dodge even if we hit.</MeleeHitChance.description>
+
+  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
 
   <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
   <ShootingAccuracy.description>Base chance to not miss per square of shot distance.</ShootingAccuracy.description>
 
   <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
   <AimingDelayFactor.description>How long it takes to strike after aiming.</AimingDelayFactor.description>
-
-  <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
-  <MeleeHitChance.description>Base chance to hit a target in melee.</MeleeHitChance.description>
 
 
 </LanguageData>

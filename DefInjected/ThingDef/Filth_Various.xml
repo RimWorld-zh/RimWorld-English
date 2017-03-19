@@ -6,6 +6,7 @@
   <FilthSand.label>sand</FilthSand.label>
   <RockRubble.label>rock rubble</RockRubble.label>
   <BuildingRubble.label>building rubble</BuildingRubble.label>
+  <SlagRubble.label>scattered slag</SlagRubble.label>
   <SandbagRubble.label>scattered sandbags</SandbagRubble.label>
 
 
@@ -18,8 +19,10 @@
   <FilthVomit.label>vomit</FilthVomit.label>
   <FilthFireFoam.label>firefoam</FilthFireFoam.label>
 
-  <FilthFuel.label>fuel puddle</FilthFuel.label>
-  <FilthFuel.description>Burns on the ground.</FilthFuel.description>
+  <FilthFuel.label>chemfuel puddle</FilthFuel.label>
+  <FilthFuel.description>A puddle of flammable chemfuel.</FilthFuel.description>
+
+  <FilthCorpseBile.label>corpse bile</FilthCorpseBile.label>
 
 
 </LanguageData>

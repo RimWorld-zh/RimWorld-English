@@ -1,23 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bedroom.stages.0.label>awful bedroom</Bedroom.stages.0.label>
-  <Bedroom.stages.0.description>My bedroom is an awful place.</Bedroom.stages.0.description>
-  <Bedroom.stages.3.label>decent bedroom</Bedroom.stages.3.label>
-  <Bedroom.stages.3.description>My bedroom is very interesting. I like it.</Bedroom.stages.3.description>
-  <Bedroom.stages.4.label>slightly impressive bedroom</Bedroom.stages.4.label>
-  <Bedroom.stages.4.description>My bedroom is actually slightly impressive. I like it.</Bedroom.stages.4.description>
-  <Bedroom.stages.5.label>impressive bedroom</Bedroom.stages.5.label>
-  <Bedroom.stages.5.description>My bedroom is impressive. I love it!</Bedroom.stages.5.description>
-  <Bedroom.stages.6.label>very impressive bedroom</Bedroom.stages.6.label>
-  <Bedroom.stages.6.description>My bedroom is very impressive. This is the best place ever!</Bedroom.stages.6.description>
-  <Bedroom.stages.7.label>extremely impressive bedroom</Bedroom.stages.7.label>
-  <Bedroom.stages.7.description>My bedroom is extremely impressive. This is the best place ever!</Bedroom.stages.7.description>
-  <Bedroom.stages.8.label>unbelievably impressive bedroom</Bedroom.stages.8.label>
-  <Bedroom.stages.8.description>My bedroom is unbelievably impressive. This is the best place ever!</Bedroom.stages.8.description>
-  <Bedroom.stages.9.label>wondrously impressive bedroom</Bedroom.stages.9.label>
-  <Bedroom.stages.9.description>My bedroom is the best place one can ever imagine. It's wonderful.</Bedroom.stages.9.description>
-
   <PrisonCell.stages.0.label>awful prison cell</PrisonCell.stages.0.label>
   <PrisonCell.stages.0.description>My prison cell is an awful place.</PrisonCell.stages.0.description>
   <PrisonCell.stages.3.label>decent prison cell</PrisonCell.stages.3.label>
@@ -35,30 +18,13 @@
   <PrisonCell.stages.9.label>wondrously impressive prison cell</PrisonCell.stages.9.label>
   <PrisonCell.stages.9.description>My prison cell is the best place one can ever imagine. I can stay here forever.</PrisonCell.stages.9.description>
 
-  <Barracks.stages.0.label>awful barrack</Barracks.stages.0.label>
-  <Barracks.stages.0.description>My barrack is an awful place.</Barracks.stages.0.description>
-  <Barracks.stages.1.label>dull barrack</Barracks.stages.1.label>
-  <Barracks.stages.1.description>I'm living in a dull barrack.</Barracks.stages.1.description>
-  <Barracks.stages.4.label>slightly impressive barrack</Barracks.stages.4.label>
-  <Barracks.stages.4.description>My barrack is a nice place. I wish I had my own bedroom, though.</Barracks.stages.4.description>
-  <Barracks.stages.5.label>impressive barrack</Barracks.stages.5.label>
-  <Barracks.stages.5.description>My barrack is impressive. I like it. I wish I had my own bedroom, though.</Barracks.stages.5.description>
-  <Barracks.stages.6.label>very impressive barrack</Barracks.stages.6.label>
-  <Barracks.stages.6.description>My barrack is very impressive. I love it!</Barracks.stages.6.description>
-  <Barracks.stages.7.label>extremely impressive barrack</Barracks.stages.7.label>
-  <Barracks.stages.7.description>My barrack is extremely impressive. This is the best place ever!</Barracks.stages.7.description>
-  <Barracks.stages.8.label>unbelievably impressive barrack</Barracks.stages.8.label>
-  <Barracks.stages.8.description>My barrack is unbelievably impressive. This is the best place ever!</Barracks.stages.8.description>
-  <Barracks.stages.9.label>wondrously impressive barrack</Barracks.stages.9.label>
-  <Barracks.stages.9.description>My barrack is the best place one can ever imagine. It's wonderful.</Barracks.stages.9.description>
-
   <PrisonBarracks.stages.0.label>awful barrack</PrisonBarracks.stages.0.label>
   <PrisonBarracks.stages.0.description>My prison barrack is an awful place.</PrisonBarracks.stages.0.description>
   <PrisonBarracks.stages.1.label>dull barrack</PrisonBarracks.stages.1.label>
   <PrisonBarracks.stages.1.description>I'm living in a dull barrack.</PrisonBarracks.stages.1.description>
   <PrisonBarracks.stages.4.label>slightly impressive barrack</PrisonBarracks.stages.4.label>
   <PrisonBarracks.stages.4.description>My prison barrack is slightly impressive.</PrisonBarracks.stages.4.description>
-  <PrisonBarracks.stages.5.label>somwhat impressive barrack</PrisonBarracks.stages.5.label>
+  <PrisonBarracks.stages.5.label>somewhat impressive barrack</PrisonBarracks.stages.5.label>
   <PrisonBarracks.stages.5.description>My prison barrack is impressive. I like it.</PrisonBarracks.stages.5.description>
   <PrisonBarracks.stages.6.label>very impressive barrack</PrisonBarracks.stages.6.label>
   <PrisonBarracks.stages.6.description>My prison barrack is very impressive. I like it.</PrisonBarracks.stages.6.description>
@@ -75,7 +41,7 @@
   <HospitalPatientRoomStats.stages.1.description>I'm stuck in a dull hospital.</HospitalPatientRoomStats.stages.1.description>
   <HospitalPatientRoomStats.stages.4.label>slightly impressive hospital</HospitalPatientRoomStats.stages.4.label>
   <HospitalPatientRoomStats.stages.4.description>My hospital is slightly impressive. It makes me feel a bit better.</HospitalPatientRoomStats.stages.4.description>
-  <HospitalPatientRoomStats.stages.5.label>somwhat impressive hospital</HospitalPatientRoomStats.stages.5.label>
+  <HospitalPatientRoomStats.stages.5.label>somewhat impressive hospital</HospitalPatientRoomStats.stages.5.label>
   <HospitalPatientRoomStats.stages.5.description>My hospital is impressive. It makes me feel better.</HospitalPatientRoomStats.stages.5.description>
   <HospitalPatientRoomStats.stages.6.label>very impressive hospital</HospitalPatientRoomStats.stages.6.label>
   <HospitalPatientRoomStats.stages.6.description>My hospital is very impressive. It makes me feel better.</HospitalPatientRoomStats.stages.6.description>

@@ -4,6 +4,7 @@
   <OrbitalTradeBeacon.label>orbital trade beacon</OrbitalTradeBeacon.label>
   <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
   <OrbitalTradeBeacon_Blueprint.label>orbital trade beacon (blueprint)</OrbitalTradeBeacon_Blueprint.label>
+  <OrbitalTradeBeacon_Blueprint_Install.label>orbital trade beacon (blueprint)</OrbitalTradeBeacon_Blueprint_Install.label>
   <OrbitalTradeBeacon_Frame.label>orbital trade beacon (building)</OrbitalTradeBeacon_Frame.label>
 
   <CommsConsole.label>comms console</CommsConsole.label>
@@ -98,6 +99,11 @@
   <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
   <PartySpot_Blueprint.label>party spot (blueprint)</PartySpot_Blueprint.label>
   <PartySpot_Frame.label>party spot (building)</PartySpot_Frame.label>
+
+  <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
+  <CaravanPackingSpot.description>Designates a spot where caravans will be formed.</CaravanPackingSpot.description>
+  <CaravanPackingSpot_Blueprint.label>caravan packing spot (blueprint)</CaravanPackingSpot_Blueprint.label>
+  <CaravanPackingSpot_Frame.label>caravan packing spot (building)</CaravanPackingSpot_Frame.label>
 
 
 </LanguageData>

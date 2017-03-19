@@ -3,14 +3,14 @@
 
   <!-- Food crops -->
 
+  <PlantRice.label>rice plant</PlantRice.label>
+  <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
+
   <PlantPotato.label>potato plant</PlantPotato.label>
   <PlantPotato.description>A simple, highly nutritious tuber. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>
 
   <PlantCorn.label>corn plant</PlantCorn.label>
   <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, and takes a long time to spoil. Needs fertile soil to grow well.</PlantCorn.description>
-
-  <PlantRice.label>rice plant</PlantRice.label>
-  <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
 
   <PlantStrawberry.label>strawberry plant</PlantStrawberry.label>
   <PlantStrawberry.description>A fragile but tasty fruit. Delicious even when raw.</PlantStrawberry.description>
@@ -36,11 +36,11 @@
   <PlantHops.label>hop plant</PlantHops.label>
   <PlantHops.description>A flowering plant that yields hops, an essential ingredient in beer.</PlantHops.description>
 
-  <PlantPsychoid.label>psychoid plant</PlantPsychoid.label>
-  <PlantPsychoid.description>A leafy plant. Its leaves can be refined into various forms of the psychoid drug.</PlantPsychoid.description>
-
   <PlantSmokeleaf.label>smokeleaf plant</PlantSmokeleaf.label>
   <PlantSmokeleaf.description>A leafy plant cultivated for its psychological effects. Smokeleaf leaves can be prepared into joints at the crafting spot.</PlantSmokeleaf.description>
+
+  <PlantPsychoid.label>psychoid plant</PlantPsychoid.label>
+  <PlantPsychoid.description>A leafy plant. Its leaves can be refined into various forms of the psychoid drug.</PlantPsychoid.description>
 
 
 </LanguageData>

@@ -47,7 +47,7 @@
   <BuildingUnassign>Unassign</BuildingUnassign>
   <CommandBedSetForPrisonersLabel>For prisoners</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Whether beds in this room should be used by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
   <CommandBedSetAsMedicalLabel>Medical</CommandBedSetAsMedicalLabel>
   <CommandBedSetAsMedicalDesc>Whether this bed is for medical use.</CommandBedSetAsMedicalDesc>
   <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
@@ -170,6 +170,8 @@
   <CommandSettleFailOtherWorldObjectsHere>Your caravan must be the only object on this tile in order to settle the area.</CommandSettleFailOtherWorldObjectsHere>
   <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailBiomeNotImplemented>Biome not implemented.</CommandSettleFailBiomeNotImplemented>
+  <CommandSettleFailFactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</CommandSettleFailFactionBaseAdjacent>
 
   <!-- Abandon home -->
   <CommandAbandonHome>Abandon</CommandAbandonHome>
@@ -226,5 +228,13 @@
   <!-- Select next transporter -->
   <CommandSelectNextTransporter>Select next in launch group</CommandSelectNextTransporter>
   <CommandSelectNextTransporterDesc>Select next transport pod in this launch group.</CommandSelectNextTransporterDesc>
+
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Remove this waypoint.</CommandRemoveWaypointDesc>
 
 </LanguageData>

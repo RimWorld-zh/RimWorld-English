@@ -26,5 +26,9 @@
   <PersonalShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</PersonalShieldRechargeRate.description>
   <PersonalShieldRechargeRate.formatString>{0}/s</PersonalShieldRechargeRate.formatString>
 
+  <SmokepopBeltRadius.label>Smokepop belt radius</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>The area obscured when a smokepop belt detonates.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+
 
 </LanguageData>

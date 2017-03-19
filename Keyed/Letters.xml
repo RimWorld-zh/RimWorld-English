@@ -62,7 +62,7 @@
   <LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
 
   <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
+  <FinalStraw>The final straw was: {0}.</FinalStraw>
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
@@ -70,7 +70,7 @@
   <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithFactionBase>The faction base is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
   <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
@@ -104,7 +104,7 @@
 
   <!-- Prison break -->
   <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
 
   <!-- Party -->
   <LetterLabelNewParty>Party</LetterLabelNewParty>

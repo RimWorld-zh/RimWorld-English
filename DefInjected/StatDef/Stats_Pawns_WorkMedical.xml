@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</MedicalTendSpeed.description>
+
+  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Quality of tending given to patients when acting as a doctor.</MedicalTendQuality.description>
+
   <MedicalOperationSpeed.label>medical operation speed</MedicalOperationSpeed.label>
   <MedicalOperationSpeed.description>Speed at which the character performs medical operations.</MedicalOperationSpeed.description>
 
-  <SurgerySuccessChance.label>surgery success chance</SurgerySuccessChance.label>
-  <SurgerySuccessChance.description>The likelihood that a character will succeed when attempting to perform a surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient.</SurgerySuccessChance.description>
-
-  <HealingQuality.label>healing quality</HealingQuality.label>
-  <HealingQuality.description>Quality of tending given to patients when acting as a doctor.</HealingQuality.description>
-
-  <HealingSpeed.label>healing speed</HealingSpeed.label>
-  <HealingSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</HealingSpeed.description>
+  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient.</MedicalSurgerySuccessChance.description>
 
 
 </LanguageData>

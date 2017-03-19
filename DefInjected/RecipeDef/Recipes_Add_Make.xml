@@ -59,11 +59,22 @@
   <Make_Medicine.jobString>Making medicine.</Make_Medicine.jobString>
 
 
+  <!-- Recipe Users: TableMachining -->
+
+  <Make_Apparel_SmokepopBelt.label>Make smokepop belt</Make_Apparel_SmokepopBelt.label>
+  <Make_Apparel_SmokepopBelt.description>Make smokepop belt.</Make_Apparel_SmokepopBelt.description>
+  <Make_Apparel_SmokepopBelt.jobString>Making smokepop belt.</Make_Apparel_SmokepopBelt.jobString>
+
+
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
   <Make_Apparel_CowboyHat.label>Make cowboy hat</Make_Apparel_CowboyHat.label>
   <Make_Apparel_CowboyHat.description>Make cowboy hat.</Make_Apparel_CowboyHat.description>
   <Make_Apparel_CowboyHat.jobString>Making cowboy hat.</Make_Apparel_CowboyHat.jobString>
+
+  <Make_Apparel_BowlerHat.label>Make bowler hat</Make_Apparel_BowlerHat.label>
+  <Make_Apparel_BowlerHat.description>Make bowler hat.</Make_Apparel_BowlerHat.description>
+  <Make_Apparel_BowlerHat.jobString>Making bowler hat.</Make_Apparel_BowlerHat.jobString>
 
   <Make_Apparel_Tuque.label>Make tuque</Make_Apparel_Tuque.label>
   <Make_Apparel_Tuque.description>Make tuque.</Make_Apparel_Tuque.description>
@@ -72,20 +83,31 @@
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_MilitaryHelmet.label>Make military helmet</Make_Apparel_MilitaryHelmet.label>
-  <Make_Apparel_MilitaryHelmet.description>Make military helmet.</Make_Apparel_MilitaryHelmet.description>
-  <Make_Apparel_MilitaryHelmet.jobString>Making military helmet.</Make_Apparel_MilitaryHelmet.jobString>
+  <Make_Apparel_SimpleHelmet.label>Make simple helmet</Make_Apparel_SimpleHelmet.label>
+  <Make_Apparel_SimpleHelmet.description>Make simple helmet.</Make_Apparel_SimpleHelmet.description>
+  <Make_Apparel_SimpleHelmet.jobString>Making simple helmet.</Make_Apparel_SimpleHelmet.jobString>
 
-  <Make_Apparel_KevlarHelmet.label>Make kevlar helmet</Make_Apparel_KevlarHelmet.label>
-  <Make_Apparel_KevlarHelmet.description>Make kevlar helmet.</Make_Apparel_KevlarHelmet.description>
-  <Make_Apparel_KevlarHelmet.jobString>Making kevlar helmet.</Make_Apparel_KevlarHelmet.jobString>
+  <Make_Apparel_AdvancedHelmet.label>Make advanced helmet</Make_Apparel_AdvancedHelmet.label>
+  <Make_Apparel_AdvancedHelmet.description>Make advanced helmet.</Make_Apparel_AdvancedHelmet.description>
+  <Make_Apparel_AdvancedHelmet.jobString>Making advanced helmet.</Make_Apparel_AdvancedHelmet.jobString>
 
   <Make_Apparel_PowerArmorHelmet.label>Make power armor helmet</Make_Apparel_PowerArmorHelmet.label>
   <Make_Apparel_PowerArmorHelmet.description>Make power armor helmet.</Make_Apparel_PowerArmorHelmet.description>
   <Make_Apparel_PowerArmorHelmet.jobString>Making power armor helmet.</Make_Apparel_PowerArmorHelmet.jobString>
 
 
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
+
+  <Make_Apparel_TribalA.label>Make tribalwear</Make_Apparel_TribalA.label>
+  <Make_Apparel_TribalA.description>Make tribalwear.</Make_Apparel_TribalA.description>
+  <Make_Apparel_TribalA.jobString>Making tribalwear.</Make_Apparel_TribalA.jobString>
+
+
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
+
+  <Make_Apparel_Parka.label>Make parka</Make_Apparel_Parka.label>
+  <Make_Apparel_Parka.description>Make parka.</Make_Apparel_Parka.description>
+  <Make_Apparel_Parka.jobString>Making parka.</Make_Apparel_Parka.jobString>
 
   <Make_Apparel_Pants.label>Make pants</Make_Apparel_Pants.label>
   <Make_Apparel_Pants.description>Make pants.</Make_Apparel_Pants.description>
@@ -106,17 +128,6 @@
   <Make_Apparel_Jacket.label>Make jacket</Make_Apparel_Jacket.label>
   <Make_Apparel_Jacket.description>Make jacket.</Make_Apparel_Jacket.description>
   <Make_Apparel_Jacket.jobString>Making jacket.</Make_Apparel_Jacket.jobString>
-
-  <Make_Apparel_Parka.label>Make parka</Make_Apparel_Parka.label>
-  <Make_Apparel_Parka.description>Make parka.</Make_Apparel_Parka.description>
-  <Make_Apparel_Parka.jobString>Making parka.</Make_Apparel_Parka.jobString>
-
-
-  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
-
-  <Make_Apparel_TribalA.label>Make tribalwear</Make_Apparel_TribalA.label>
-  <Make_Apparel_TribalA.description>Make tribalwear.</Make_Apparel_TribalA.description>
-  <Make_Apparel_TribalA.jobString>Making tribalwear.</Make_Apparel_TribalA.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
@@ -145,9 +156,9 @@
   <Make_Gun_SurvivalRifle.description>Make survival rifle.</Make_Gun_SurvivalRifle.description>
   <Make_Gun_SurvivalRifle.jobString>Making survival rifle.</Make_Gun_SurvivalRifle.jobString>
 
-  <Make_Gun_MachinePistol.label>Make Machine pistol</Make_Gun_MachinePistol.label>
-  <Make_Gun_MachinePistol.description>Make Machine pistol.</Make_Gun_MachinePistol.description>
-  <Make_Gun_MachinePistol.jobString>Making Machine pistol.</Make_Gun_MachinePistol.jobString>
+  <Make_Gun_MachinePistol.label>Make machine pistol</Make_Gun_MachinePistol.label>
+  <Make_Gun_MachinePistol.description>Make machine pistol.</Make_Gun_MachinePistol.description>
+  <Make_Gun_MachinePistol.jobString>Making machine pistol.</Make_Gun_MachinePistol.jobString>
 
   <Make_Gun_HeavySMG.label>Make heavy SMG</Make_Gun_HeavySMG.label>
   <Make_Gun_HeavySMG.description>Make heavy SMG.</Make_Gun_HeavySMG.description>

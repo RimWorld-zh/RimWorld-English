@@ -44,6 +44,16 @@
   <SoldMyBondedAnimal.stages.0.labelSocial>sold my bonded animal</SoldMyBondedAnimal.stages.0.labelSocial>
   <SoldMyBondedAnimal.stages.0.description>My special bonded animal was sold to a trader!</SoldMyBondedAnimal.stages.0.description>
 
+  <ForcedMeToTakeDrugs.stages.0.label>forced me to take drugs</ForcedMeToTakeDrugs.stages.0.label>
+
+  <ForcedMeToTakeDrugsMood.stages.0.label>forced to take drugs</ForcedMeToTakeDrugsMood.stages.0.label>
+  <ForcedMeToTakeDrugsMood.stages.0.description>I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean.</ForcedMeToTakeDrugsMood.stages.0.description>
+
+  <ForcedMeToTakeLuciferium.stages.0.label>forced me to take luciferium</ForcedMeToTakeLuciferium.stages.0.label>
+
+  <ForcedMeToTakeLuciferiumMood.stages.0.label>forced to take luciferium</ForcedMeToTakeLuciferiumMood.stages.0.label>
+  <ForcedMeToTakeLuciferiumMood.stages.0.description>I'm a prosthophobe; I would never take luciferium by choice. But I was forced! I feel unclean.</ForcedMeToTakeLuciferiumMood.stages.0.description>
+
 
   <!-- Romance -->
 

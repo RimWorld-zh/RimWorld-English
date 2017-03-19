@@ -7,6 +7,7 @@
   <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
   <GotoWander.reportString>wandering.</GotoWander.reportString>
   <Wait.reportString>standing.</Wait.reportString>
+  <WaitMaintainPosture.reportString>standing.</WaitMaintainPosture.reportString>
   <WaitDowned.reportString>downed.</WaitDowned.reportString>
   <WaitSafeTemperature.reportString>waiting in safe temperature.</WaitSafeTemperature.reportString>
   <WaitWander.reportString>wandering.</WaitWander.reportString>
@@ -38,6 +39,7 @@
   <Vomit.reportString>vomiting.</Vomit.reportString>
   <Flick.reportString>flicking switch.</Flick.reportString>
   <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
+  <Flee.reportString>fleeing.</Flee.reportString>
   <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
   <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
 

@@ -135,11 +135,11 @@
 
   <!-- Storage -->
 
-  <EquipmentRack.label>equipment rack</EquipmentRack.label>
-  <EquipmentRack.description>Items stored in this will not deteriorate, even if outside.</EquipmentRack.description>
-  <EquipmentRack_Blueprint.label>equipment rack (blueprint)</EquipmentRack_Blueprint.label>
-  <EquipmentRack_Blueprint_Install.label>equipment rack (blueprint)</EquipmentRack_Blueprint_Install.label>
-  <EquipmentRack_Frame.label>equipment rack (building)</EquipmentRack_Frame.label>
+  <Shelf.label>shelf</Shelf.label>
+  <Shelf.description>Items stored in this will not deteriorate, even if outside.</Shelf.description>
+  <Shelf_Blueprint.label>shelf (blueprint)</Shelf_Blueprint.label>
+  <Shelf_Blueprint_Install.label>shelf (blueprint)</Shelf_Blueprint_Install.label>
+  <Shelf_Frame.label>shelf (building)</Shelf_Frame.label>
 
 
 </LanguageData>

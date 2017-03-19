@@ -42,6 +42,9 @@
   <ElectricSmelting.label>electric smelting</ElectricSmelting.label>
   <ElectricSmelting.description>Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.</ElectricSmelting.description>
 
+  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.description>Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.</PackagedSurvivalMeal.description>
+
   <ElectricCremation.label>electric cremation</ElectricCremation.label>
   <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
 
@@ -59,6 +62,9 @@
 
   <Mortars.label>mortars</Mortars.label>
   <Mortars.description>Learn to build mortars which can lob shells long distances over walls.</Mortars.description>
+
+  <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
+  <SmokepopBelt.description>Learn to build smokepop belts which can provide an automatic defensive smokescreen.</SmokepopBelt.description>
 
   <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
   <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>

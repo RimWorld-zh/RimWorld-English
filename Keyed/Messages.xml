@@ -17,6 +17,7 @@
 
   <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
 
   <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
 
@@ -153,7 +154,7 @@
 
   <MessageCaravanArrivedAtDestination>{0} has arrived at its destination.</MessageCaravanArrivedAtDestination>
 
-  <MessageCaravanIsVisitingFaction>{0} has arrived in {1}.</MessageCaravanIsVisitingFaction>
+  <MessageCaravanIsVisitingSettlement>{0} has arrived in {1}.</MessageCaravanIsVisitingSettlement>
 
   <MessageCaravanEnteredWorldObject>{0} has arrived in {1}.</MessageCaravanEnteredWorldObject>
 
@@ -170,6 +171,8 @@
   <MessageRescueeJoined>Since you rescued HIM, {0} has joined your group!</MessageRescueeJoined>
 
   <MessageAttackedCaravanIsNowHostile>Because you attacked a caravan of {0}, this faction is now hostile to you.</MessageAttackedCaravanIsNowHostile>
+  <MessageFactionPawnCrushed>{0} lost people to a roof collapse. Faction relation: {1}</MessageFactionPawnCrushed>
+  <MessageFactionPawnLost>{0} has lost {1}. Faction relation: {2}</MessageFactionPawnLost>
 
   <MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
   <MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
@@ -181,6 +184,7 @@
 
   <MessageTransportPodsArrived>Your transport pods have arrived.</MessageTransportPodsArrived>
   <MessageTransportPodsArrivedAndLost>Your transport pods have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to your caravan.</MessageTransportPodsArrivedAndAddedToCaravan>
   <MessageTransportPodsArrived_BecameHostile>{0} is now hostile to you.</MessageTransportPodsArrived_BecameHostile>
 
   <MessageFailedToLoadTransportersBecauseColonistLost>The loading process has been canceled because one of the colonists has been lost.</MessageFailedToLoadTransportersBecauseColonistLost>
@@ -204,5 +208,18 @@
   <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony or a site where you have people.</MessageSelectOwnBaseToFormCaravan>
 
   <MessageScreenResTooSmallForUIScale>At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution.</MessageScreenResTooSmallForUIScale>
+
+  <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will become inaccessible.</MessageYouHaveToReformCaravanNow>
+
+  <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
+
+  <MessageSelfTendUnsatisfied>{0} is allowed to self-tend, but is not assigned to Doctoring.</MessageSelfTendUnsatisfied>
+
+  <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>You can't add more than {0} waypoints.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
+
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
 
 </LanguageData>

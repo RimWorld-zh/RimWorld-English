@@ -5,7 +5,10 @@
   <WorkSpeedGlobal.description>A multiplier on someone's speed at doing any work.</WorkSpeedGlobal.description>
 
   <MiningSpeed.label>mining speed</MiningSpeed.label>
-  <MiningSpeed.description>A multiplier on the speed at which this person mines rock.</MiningSpeed.description>
+  <MiningSpeed.description>A speed at which this person digs at walls and drills for deep resources.</MiningSpeed.description>
+
+  <MiningYield.label>mining yield</MiningYield.label>
+  <MiningYield.description>The percentage yield a miner will achieve. Higher percentages reduce the chance of wasting the yield. This applies to both wall mining and deep drill mining.</MiningYield.description>
 
   <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
   <SmoothingSpeed.description>A multiplier on the speed at which this person smooths floors.</SmoothingSpeed.description>
@@ -16,17 +19,23 @@
   <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
   <ConstructionSpeed.description>Speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>
 
+  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
+
+  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
+  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
+
   <PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
   <PlantWorkSpeed.description>Speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
 
-  <HarvestFailChance.label>harvest fail chance</HarvestFailChance.label>
-  <HarvestFailChance.description>The chance that this person will accidentally destroy the harvest instead of collecting it.</HarvestFailChance.description>
+  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
+  <PlantHarvestYield.description>The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally destroy the harvest.</PlantHarvestYield.description>
 
-  <ConstructFailChance.label>construct fail chance</ConstructFailChance.label>
-  <ConstructFailChance.description>The chance that this person will fail in constructing something, wasting time and resources.</ConstructFailChance.description>
+  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something. Failing means wasting time and resources.</ConstructSuccessChance.description>
 
-  <FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
-  <FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
+  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
 
 
 </LanguageData>

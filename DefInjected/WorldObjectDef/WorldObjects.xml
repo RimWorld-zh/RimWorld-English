@@ -22,5 +22,8 @@
   <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
   <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
 
+  <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
+
 
 </LanguageData>

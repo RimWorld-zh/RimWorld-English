@@ -12,15 +12,22 @@
   <RemoveMechanoidBodyPart.jobString>Removing body part.</RemoveMechanoidBodyPart.jobString>
 
 
+  <!-- Anesthetize -->
+
+  <Anesthetize.label>anesthetize</Anesthetize.label>
+  <Anesthetize.description>Makes a creature unconscious by administering an anesthetic.</Anesthetize.description>
+  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+
+
   <!-- Euthanasia -->
 
-  <Euthanize.label>euthanize</Euthanize.label>
-  <Euthanize.description>Euthanizes.</Euthanize.description>
-  <Euthanize.jobString>Euthanizing.</Euthanize.jobString>
+  <Euthanize.label>euthanize by cut</Euthanize.label>
+  <Euthanize.description>Euthanizes a creature by cutting.</Euthanize.description>
+  <Euthanize.jobString>Euthanizing by cutting.</Euthanize.jobString>
 
   <ShutDownMechanoid.label>shut down</ShutDownMechanoid.label>
-  <ShutDownMechanoid.description>Shuts down.</ShutDownMechanoid.description>
-  <ShutDownMechanoid.jobString>Shutting down.</ShutDownMechanoid.jobString>
+  <ShutDownMechanoid.description>Shuts down a mechanoid.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Shutting down mechanoid.</ShutDownMechanoid.jobString>
 
 
   <!-- removing hediffs (e.g. diseases) -->

@@ -39,6 +39,9 @@
   <ButcheryMechanoidSpeed.label>mechanoid disassembly speed</ButcheryMechanoidSpeed.label>
   <ButcheryMechanoidSpeed.description>Speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
 
+  <MechanoidOperationSuccessChance.label>mechanoid operation success chance</MechanoidOperationSuccessChance.label>
+  <MechanoidOperationSuccessChance.description>The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.</MechanoidOperationSuccessChance.description>
+
   <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
   <ButcheryFleshEfficiency.description>Multiplier on the amount of meat produced when butchering flesh creatures.</ButcheryFleshEfficiency.description>
 

@@ -13,5 +13,9 @@
   <BurnApparelCampfire.description>Burn apparel to completely destroy it.</BurnApparelCampfire.description>
   <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
 
+  <BurnDrugs.label>burn drugs</BurnDrugs.label>
+  <BurnDrugs.description>Burn drugs to completely destroy them.</BurnDrugs.description>
+  <BurnDrugs.jobString>Burning drugs.</BurnDrugs.jobString>
+
 
 </LanguageData>

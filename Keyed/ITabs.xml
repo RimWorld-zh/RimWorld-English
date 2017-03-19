@@ -46,6 +46,8 @@
   <!-- Medical - general -->
   <MoveSpeed>Move speed</MoveSpeed>
   <Efficiency>Efficiency</Efficiency>
+  <PartEfficiency>Part efficiency</PartEfficiency>
+  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
   <MissingBodyPart>Gone</MissingBodyPart>
   <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
   <ShatteredBodyPart>Shattered</ShatteredBodyPart>
@@ -75,6 +77,8 @@
   <Tiredness>Tiredness</Tiredness>
   <PainFactor>Pain</PainFactor>
   <PreventsInfection>Prevents infection</PreventsInfection>
+  <SelfTend>Self-tend</SelfTend>
+  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
 
 
   <!-- Medical - Body and activities condition -->

@@ -84,6 +84,7 @@
   <BeaversArrived>A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last tree in the region.</BeaversArrived>
 
   <!-- Refugee chased -->
+  <RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
   <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
@@ -112,6 +113,7 @@
   <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
 
   <!-- Ransom demand -->
+  <RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
   <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
   <RansomDemand_Accept>Accept</RansomDemand_Accept>
   <RansomDemand_Reject>Reject</RansomDemand_Reject>
@@ -120,6 +122,7 @@
   <JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nIf you travel to the ship, Charlon will take you off this rim world, to the stars.</JourneyOffer>
 
   <!-- Caravan meeting -->
+  <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
   <CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
   <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
