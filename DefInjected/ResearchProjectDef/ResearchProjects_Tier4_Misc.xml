@@ -24,6 +24,9 @@
   <PoweredArmor.label>powered armor</PoweredArmor.label>
   <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
 
+  <ShieldBelt.label>shield belt</ShieldBelt.label>
+  <ShieldBelt.description>Momenum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.</ShieldBelt.description>
+
   <ChargedShot.label>charged shot</ChargedShot.label>
   <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
 

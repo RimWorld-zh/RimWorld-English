@@ -52,10 +52,10 @@
   <Gay.degreeDatas.0.label>gay</Gay.degreeDatas.0.label>
   <Gay.degreeDatas.0.description>NAME is romantically attracted to people of HIS own gender.</Gay.degreeDatas.0.description>
 
-  <DislikesMen.degreeDatas.0.label>dislikes men</DislikesMen.degreeDatas.0.label>
+  <DislikesMen.degreeDatas.0.label>misandrist</DislikesMen.degreeDatas.0.label>
   <DislikesMen.degreeDatas.0.description>NAME really dislikes and distrusts men.</DislikesMen.degreeDatas.0.description>
 
-  <DislikesWomen.degreeDatas.0.label>dislikes women</DislikesWomen.degreeDatas.0.label>
+  <DislikesWomen.degreeDatas.0.label>misogynist</DislikesWomen.degreeDatas.0.label>
   <DislikesWomen.degreeDatas.0.description>NAME really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
 
   <AnnoyingVoice.degreeDatas.0.label>annoying voice</AnnoyingVoice.degreeDatas.0.label>

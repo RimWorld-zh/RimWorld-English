@@ -115,9 +115,11 @@
   <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
   <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
   <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
+  <TileOccupied>This tile is occupied.</TileOccupied>
   <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
   <Biome>Biome</Biome>
   <Terrain>Terrain</Terrain>
+  <Road>Road</Road>
   <Elevation>Elevation</Elevation>
   <Fertility>Fertility</Fertility>
   <AvgTemp>Average temperature</AvgTemp>

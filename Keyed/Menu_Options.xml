@@ -34,6 +34,7 @@
   <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Plant wind sway</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Mod Settings</ModSettings>
 
   <!-- Resolution -->
   <Resolution>Resolution</Resolution>

@@ -4,7 +4,7 @@
   <!-- Concepts taught through the learning readout, with no opportunity needed -->
 
   <CameraDolly.label>Camera dolly</CameraDolly.label>
-  <CameraDolly.helpText>Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle or right button) or with the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys.</CameraDolly.helpText>
+  <CameraDolly.helpText>Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys.</CameraDolly.helpText>
 
   <CameraZoom.label>Camera zoom</CameraZoom.label>
   <CameraZoom.helpText>Zoom in and out with the MOUSEWHEEL or the {Key:MapZoomIn} and {Key:MapZoomOut} keys.</CameraZoom.helpText>

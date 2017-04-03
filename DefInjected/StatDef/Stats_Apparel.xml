@@ -19,12 +19,12 @@
   <Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>
   <Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn.</Insulation_Heat.description>
 
-  <PersonalShieldEnergyMax.label>Shield max energy</PersonalShieldEnergyMax.label>
-  <PersonalShieldEnergyMax.description>The maximum energy a personal shield can have at one time. More energy can absorb more damage.</PersonalShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.label>Shield max energy</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.description>The maximum energy a shield belt can have at one time. More energy can absorb more damage.</EnergyShieldEnergyMax.description>
 
-  <PersonalShieldRechargeRate.label>Shield recharge rate</PersonalShieldRechargeRate.label>
-  <PersonalShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</PersonalShieldRechargeRate.description>
-  <PersonalShieldRechargeRate.formatString>{0}/s</PersonalShieldRechargeRate.formatString>
+  <EnergyShieldRechargeRate.label>Shield recharge rate</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
 
   <SmokepopBeltRadius.label>Smokepop belt radius</SmokepopBeltRadius.label>
   <SmokepopBeltRadius.description>The area obscured when a smokepop belt detonates.</SmokepopBeltRadius.description>

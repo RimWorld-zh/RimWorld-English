@@ -121,6 +121,7 @@
 
   <EnterMap>Enter {0}</EnterMap>
   <VisitSettlement>Visit {0}</VisitSettlement>
+  <VisitSite>Visit</VisitSite>
   <AttackSettlement>Attack {0}</AttackSettlement>
 
   <!-- Specific thing interactions -->

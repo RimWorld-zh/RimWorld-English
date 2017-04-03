@@ -127,7 +127,7 @@
   <StandingLamp_Blue_Frame.label>standing lamp (blue) (building)</StandingLamp_Blue_Frame.label>
 
   <SunLamp.label>sun lamp</SunLamp.label>
-  <SunLamp.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power.</SunLamp.description>
+  <SunLamp.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
   <SunLamp_Blueprint.label>sun lamp (blueprint)</SunLamp_Blueprint.label>
   <SunLamp_Blueprint_Install.label>sun lamp (blueprint)</SunLamp_Blueprint_Install.label>
   <SunLamp_Frame.label>sun lamp (building)</SunLamp_Frame.label>

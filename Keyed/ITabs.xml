@@ -108,6 +108,7 @@
   <!-- Social tab -->
   <NoRelationships>(no relationships)</NoRelationships>
   <Kidnapped>Kidnapped</Kidnapped>
+  <Missing>Missing</Missing>
   <Slave>Slave</Slave>
   <FactionLeader>Faction leader</FactionLeader>
   <OpinionOf>Opinion of {0}</OpinionOf>

@@ -19,10 +19,15 @@
   <Gun_PumpShotgun.label>pump shotgun</Gun_PumpShotgun.label>
   <Gun_PumpShotgun.description>Ancient design. Deadly, but short range.</Gun_PumpShotgun.description>
 
+  <Bullet_ChainShotgun.label>shotgun blast</Bullet_ChainShotgun.label>
+
+  <Gun_ChainShotgun.label>chain shotgun</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.description>A magazine-fed fully automatic shotgun. Short range and very low accuracy, but extraordinarily dangerous.</Gun_ChainShotgun.description>
+
   <Bullet_SurvivalRifle.label>survival rifle bullet</Bullet_SurvivalRifle.label>
 
   <Gun_SurvivalRifle.label>survival rifle</Gun_SurvivalRifle.label>
-  <Gun_SurvivalRifle.description>Ancient bolt-action rifle. Good range, Good power, low rate of fire.</Gun_SurvivalRifle.description>
+  <Gun_SurvivalRifle.description>Ancient bolt-action rifle. Good range, good power, low rate of fire.</Gun_SurvivalRifle.description>
 
   <Bullet_MachinePistol.label>machine pistol bullet</Bullet_MachinePistol.label>
 

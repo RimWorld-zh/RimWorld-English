@@ -61,6 +61,10 @@
 
   <!-- Recipe Users: TableMachining -->
 
+  <Make_Apparel_ShieldBelt.label>Make shield belt</Make_Apparel_ShieldBelt.label>
+  <Make_Apparel_ShieldBelt.description>Make shield belt.</Make_Apparel_ShieldBelt.description>
+  <Make_Apparel_ShieldBelt.jobString>Making shield belt.</Make_Apparel_ShieldBelt.jobString>
+
   <Make_Apparel_SmokepopBelt.label>Make smokepop belt</Make_Apparel_SmokepopBelt.label>
   <Make_Apparel_SmokepopBelt.description>Make smokepop belt.</Make_Apparel_SmokepopBelt.description>
   <Make_Apparel_SmokepopBelt.jobString>Making smokepop belt.</Make_Apparel_SmokepopBelt.jobString>
@@ -151,6 +155,10 @@
   <Make_Gun_PumpShotgun.label>Make pump shotgun</Make_Gun_PumpShotgun.label>
   <Make_Gun_PumpShotgun.description>Make pump shotgun.</Make_Gun_PumpShotgun.description>
   <Make_Gun_PumpShotgun.jobString>Making pump shotgun.</Make_Gun_PumpShotgun.jobString>
+
+  <Make_Gun_ChainShotgun.label>Make chain shotgun</Make_Gun_ChainShotgun.label>
+  <Make_Gun_ChainShotgun.description>Make chain shotgun.</Make_Gun_ChainShotgun.description>
+  <Make_Gun_ChainShotgun.jobString>Making chain shotgun.</Make_Gun_ChainShotgun.jobString>
 
   <Make_Gun_SurvivalRifle.label>Make survival rifle</Make_Gun_SurvivalRifle.label>
   <Make_Gun_SurvivalRifle.description>Make survival rifle.</Make_Gun_SurvivalRifle.description>

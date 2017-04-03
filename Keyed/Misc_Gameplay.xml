@@ -107,6 +107,8 @@
   <RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
   <RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
   <VentClosed>Closed</VentClosed>
+  <WornBy>worn by {0}</WornBy>
+  <EquippedBy>equipped by {0}</EquippedBy>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
@@ -465,5 +467,11 @@
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
   <EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
+
+  <!-- Outfits -->
+  <OutfitAnything>Anything</OutfitAnything>
+  <OutfitWorker>Worker</OutfitWorker>
+  <OutfitSoldier>Soldier</OutfitSoldier>
+  <OutfitNudist>Nudist</OutfitNudist>
 
 </LanguageData>

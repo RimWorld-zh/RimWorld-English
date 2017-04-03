@@ -12,8 +12,8 @@
   <Capturing.label>Capturing</Capturing.label>
   <Capturing.helpText>When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</Capturing.helpText>
 
-  <PersonalShields.label>Personal shields</PersonalShields.label>
-  <PersonalShields.helpText>Personal shields stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against personal shields, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</PersonalShields.helpText>
+  <ShieldBelts.label>Shield belts</ShieldBelts.label>
+  <ShieldBelts.helpText>Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</ShieldBelts.helpText>
 
   <InteractingWithTraders.label>Interacting with traders</InteractingWithTraders.label>
   <InteractingWithTraders.helpText>You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head.</InteractingWithTraders.helpText>

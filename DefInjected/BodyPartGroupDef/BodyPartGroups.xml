@@ -7,11 +7,13 @@
   <Eyes.label>eyes</Eyes.label>
   <Teeth.label>teeth</Teeth.label>
   <Mouth.label>mouth</Mouth.label>
+  <Neck.label>neck</Neck.label>
   <Arms.label>arms</Arms.label>
   <Shoulders.label>shoulders</Shoulders.label>
   <Hands.label>hands</Hands.label>
   <LeftHand.label>left fist</LeftHand.label>
   <RightHand.label>right fist</RightHand.label>
+  <Waist.label>waist</Waist.label>
   <Legs.label>legs</Legs.label>
   <Feet.label>feet</Feet.label>
   <FrontLeftPaw.label>front left paw</FrontLeftPaw.label>

@@ -172,6 +172,8 @@
   <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
   <CommandSettleFailBiomeNotImplemented>Biome not implemented.</CommandSettleFailBiomeNotImplemented>
   <CommandSettleFailFactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</CommandSettleFailFactionBaseAdjacent>
+  <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
 
   <!-- Abandon home -->
   <CommandAbandonHome>Abandon</CommandAbandonHome>
@@ -190,6 +192,12 @@
   <CommandTrade>Trade</CommandTrade>
   <CommandTradeDesc>Trade with this faction.</CommandTradeDesc>
   <CommandTradeFailNoNegotiator>There isn't any conscious, not broken negotiator.</CommandTradeFailNoNegotiator>
+
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Fulfill the settlement's request for goods and claim your reward.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
 
   <!-- Take off -->
   <CommandTakeOff>Take off</CommandTakeOff>
