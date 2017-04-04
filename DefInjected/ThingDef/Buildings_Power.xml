@@ -17,7 +17,7 @@
   <FueledGenerator_Frame.label>fueled generator (building)</FueledGenerator_Frame.label>
 
   <Battery.label>battery</Battery.label>
-  <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when heated or wet.</Battery.description>
+  <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Battery.description>
   <Battery_Blueprint.label>battery (blueprint)</Battery_Blueprint.label>
   <Battery_Blueprint_Install.label>battery (blueprint)</Battery_Blueprint_Install.label>
   <Battery_Frame.label>battery (building)</Battery_Frame.label>

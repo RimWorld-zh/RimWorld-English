@@ -54,5 +54,8 @@
   <TileMarble_Blueprint.label>marble tile (blueprint)</TileMarble_Blueprint.label>
   <TileMarble_Frame.label>marble tile (building)</TileMarble_Frame.label>
 
+  <BrokenAsphalt_Blueprint.label>broken asphalt (blueprint)</BrokenAsphalt_Blueprint.label>
+  <BrokenAsphalt_Frame.label>broken asphalt (building)</BrokenAsphalt_Frame.label>
+
 
 </LanguageData>

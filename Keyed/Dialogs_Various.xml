@@ -367,7 +367,7 @@
   <!-- Abandon home -->
   <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
   <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>

@@ -51,5 +51,8 @@
   <DrugBurning.label>Drug burning</DrugBurning.label>
   <DrugBurning.helpText>Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire.</DrugBurning.helpText>
 
+  <DoorOpenSpeed.label>Door opening speeds</DoorOpenSpeed.label>
+  <DoorOpenSpeed.helpText>Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.</DoorOpenSpeed.helpText>
+
 
 </LanguageData>
