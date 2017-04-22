@@ -137,11 +137,15 @@
 
   <!-- Faction base defeated -->
   <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} hours to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
   <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Pawns lost due to map countdown -->
   <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
   <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
 </LanguageData>

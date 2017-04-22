@@ -120,6 +120,7 @@
   <Biome>Biome</Biome>
   <Terrain>Terrain</Terrain>
   <Road>Road</Road>
+  <River>River</River>
   <Elevation>Elevation</Elevation>
   <Fertility>Fertility</Fertility>
   <AvgTemp>Average temperature</AvgTemp>

@@ -29,6 +29,11 @@
   <GroundPenetratingScanner_Blueprint.label>ground-penetrating scanner (blueprint)</GroundPenetratingScanner_Blueprint.label>
   <GroundPenetratingScanner_Frame.label>ground-penetrating scanner (building)</GroundPenetratingScanner_Frame.label>
 
+  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner_Blueprint.label>long-range mineral scanner (blueprint)</LongRangeMineralScanner_Blueprint.label>
+  <LongRangeMineralScanner_Frame.label>long-range mineral scanner (building)</LongRangeMineralScanner_Frame.label>
+
 
   <!-- Transport pods -->
 
@@ -91,17 +96,17 @@
   <!-- Spots -->
 
   <MarriageSpot.label>marriage spot</MarriageSpot.label>
-  <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+  <MarriageSpot.Description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.Description>
   <MarriageSpot_Blueprint.label>marriage spot (blueprint)</MarriageSpot_Blueprint.label>
   <MarriageSpot_Frame.label>marriage spot (building)</MarriageSpot_Frame.label>
 
   <PartySpot.label>party spot</PartySpot.label>
-  <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
+  <PartySpot.Description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.Description>
   <PartySpot_Blueprint.label>party spot (blueprint)</PartySpot_Blueprint.label>
   <PartySpot_Frame.label>party spot (building)</PartySpot_Frame.label>
 
   <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
-  <CaravanPackingSpot.description>Designates a spot where caravans will be formed.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.Description>Designates a spot where caravans will be formed.</CaravanPackingSpot.Description>
   <CaravanPackingSpot_Blueprint.label>caravan packing spot (blueprint)</CaravanPackingSpot_Blueprint.label>
   <CaravanPackingSpot_Frame.label>caravan packing spot (building)</CaravanPackingSpot_Frame.label>
 

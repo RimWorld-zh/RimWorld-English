@@ -89,8 +89,8 @@
   <WornByCorpseChar>D</WornByCorpseChar>
   <DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
   <Map>Map</Map>
-  <ForceExitAndRemoveMapCountdown>{0} hours until leaving</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0} hours.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0}.</ForceExitAndRemoveMapCountdownTip>
   <Room>Room</Room>
   <BeautyHere>Beauty here</BeautyHere>
   <NoPower>No power</NoPower>
@@ -109,6 +109,9 @@
   <VentClosed>Closed</VentClosed>
   <WornBy>worn by {0}</WornBy>
   <EquippedBy>equipped by {0}</EquippedBy>
+  <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
+  <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
+  <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
@@ -333,8 +336,8 @@
   <Burning>Burning</Burning>
   <FireSizeLower>fire size {0}</FireSizeLower>
 
-  <!-- Map conditions -->
-  <MapConditionsTip>Special conditions affecting the area right now.</MapConditionsTip>
+  <!-- Game conditions -->
+  <GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>
   <TimeLeft>time left</TimeLeft>
   <ImpactDate>impact date</ImpactDate>
 

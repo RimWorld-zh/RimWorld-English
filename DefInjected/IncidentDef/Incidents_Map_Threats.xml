@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Big threats -->
+
   <RaidEnemy.label>enemy raid</RaidEnemy.label>
 
   <Infestation.label>infestation</Infestation.label>
@@ -18,6 +20,11 @@
   <PoisonShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIt is leaking toxic material and will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible.</PoisonShipPartCrash.letterText>
 
   <AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>
+
+
+  <!-- Small threats -->
+
+  <AnimalInsanitySingle.label>single animal insanity</AnimalInsanitySingle.label>
 
 
 </LanguageData>

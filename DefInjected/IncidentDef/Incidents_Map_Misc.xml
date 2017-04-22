@@ -1,13 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Eclipse.label>eclipse</Eclipse.label>
-  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
-  <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
+  <!-- Good -->
 
-  <SolarFlare.label>solar flare</SolarFlare.label>
-  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
-  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
+  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+  <SelfTame.label>self-tame</SelfTame.label>
+
+  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+
+  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>wanderer join</WandererJoin.label>
+  <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
+
+
+  <!-- Neutral -->
+
+  <RefugeeChased.label>chased refugee</RefugeeChased.label>
+  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+  <RansomDemand.label>ransom demand</RansomDemand.label>
+  <CaravanRequest.label>caravan request</CaravanRequest.label>
+
+
+  <!-- Bad -->
 
   <PsychicDrone.label>psychic drone</PsychicDrone.label>
 

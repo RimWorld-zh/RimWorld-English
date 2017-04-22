@@ -14,7 +14,7 @@
   <ForcedHediff.label>forced health condition</ForcedHediff.label>
   <SetNeedLevel.label>set need level</SetNeedLevel.label>
   <StartingResearch.label>start with research</StartingResearch.label>
-  <MapCondition_Planetkiller.label>planetkiller weapon incoming</MapCondition_Planetkiller.label>
+  <GameCondition_Planetkiller.label>planetkiller weapon incoming</GameCondition_Planetkiller.label>
 
 
   <!-- rules changes -->
@@ -39,7 +39,7 @@
   <DisableIncident.label>disable incident</DisableIncident.label>
   <CreateIncident.label>create incident</CreateIncident.label>
   <Rule_DisallowBuilding.label>disallow building</Rule_DisallowBuilding.label>
-  <PermanentMapCondition.label>permanent map condition</PermanentMapCondition.label>
+  <PermanentGameCondition.label>permanent game condition</PermanentGameCondition.label>
   <StartingAnimal.label>start with animal(s)</StartingAnimal.label>
   <StartingThing_Defined.label>start with</StartingThing_Defined.label>
   <ScatterThingsNearPlayerStart.label>start near</ScatterThingsNearPlayerStart.label>

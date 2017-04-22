@@ -4,43 +4,43 @@
   <!-- Misc -->
 
   <MetalTile.label>metal tile</MetalTile.label>
-  <MetalTile.description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>
+  <MetalTile.Description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.Description>
 
   <SilverTile.label>silver tile</SilverTile.label>
-  <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+  <SilverTile.Description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.Description>
 
   <GoldTile.label>gold tile</GoldTile.label>
-  <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+  <GoldTile.Description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.Description>
 
   <SterileTile.label>sterile tile</SterileTile.label>
-  <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+  <SterileTile.Description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.Description>
 
   <PavedTile.label>paved tile</PavedTile.label>
-  <PavedTile.description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <PavedTile.Description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.Description>
 
   <Concrete.label>concrete</Concrete.label>
-  <Concrete.description>Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.description>
+  <Concrete.Description>Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.Description>
 
   <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling.</WoodPlankFloor.description>
+  <WoodPlankFloor.Description>Wood plank flooring. For that warm, homey feeling.</WoodPlankFloor.Description>
 
 
   <!-- Carpets -->
 
   <CarpetRed.label>red carpet</CarpetRed.label>
-  <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
+  <CarpetRed.Description>Plush carpet in a lovely rose hue.</CarpetRed.Description>
 
   <CarpetGreen.label>green carpet</CarpetGreen.label>
-  <CarpetGreen.description>Naturalistic-feeling green carpet.</CarpetGreen.description>
+  <CarpetGreen.Description>Naturalistic-feeling green carpet.</CarpetGreen.Description>
 
   <CarpetBlue.label>blue carpet</CarpetBlue.label>
-  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
+  <CarpetBlue.Description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.Description>
 
   <CarpetCream.label>cream carpet</CarpetCream.label>
-  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+  <CarpetCream.Description>Inviting cream-colored carpet.</CarpetCream.Description>
 
   <CarpetDark.label>dark carpet</CarpetDark.label>
-  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+  <CarpetDark.Description>Professional-looking dark gray carpet.</CarpetDark.Description>
 
 
 </LanguageData>

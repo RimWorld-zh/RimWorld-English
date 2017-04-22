@@ -2,7 +2,9 @@
 <LanguageData>
 
   <WaterDeep.label>deep water</WaterDeep.label>
+  <WaterMovingDeep.label>deep moving water</WaterMovingDeep.label>
   <WaterShallow.label>shallow water</WaterShallow.label>
+  <WaterMovingShallow.label>shallow moving water</WaterMovingShallow.label>
 
 
 </LanguageData>

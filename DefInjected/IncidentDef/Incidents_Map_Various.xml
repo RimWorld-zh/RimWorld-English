@@ -18,19 +18,9 @@
   <TravelerGroup.label>traveler group</TravelerGroup.label>
 
 
-  <!-- Population gain -->
+  <!-- AllyAssistance -->
 
-  <WandererJoin.label>wanderer join</WandererJoin.label>
-  <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
-
-
-  <!-- Misc -->
-
-  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
   <RaidFriendly.label>friendly raid</RaidFriendly.label>
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
-  <SelfTame.label>self-tame</SelfTame.label>
-  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
 
 
 </LanguageData>

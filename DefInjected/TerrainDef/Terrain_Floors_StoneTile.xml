@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TileSandstone.label>sandstone tile</TileSandstone.label>
+  <TileSandstone.Description>Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSandstone.Description>
+
+  <TileGranite.label>granite tile</TileGranite.label>
+  <TileGranite.Description>Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileGranite.Description>
+
+  <TileLimestone.label>limestone tile</TileLimestone.label>
+  <TileLimestone.Description>Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileLimestone.Description>
+
+  <TileSlate.label>slate tile</TileSlate.label>
+  <TileSlate.Description>Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSlate.Description>
+
+  <TileMarble.label>marble tile</TileMarble.label>
+  <TileMarble.Description>Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileMarble.Description>
+
+  <FlagstoneSandstone.label>sandstone flagstone</FlagstoneSandstone.label>
+  <FlagstoneSandstone.Description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.</FlagstoneSandstone.Description>
+
+  <FlagstoneGranite.label>granite flagstone</FlagstoneGranite.label>
+  <FlagstoneGranite.Description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.</FlagstoneGranite.Description>
+
+  <FlagstoneLimestone.label>limestone flagstone</FlagstoneLimestone.label>
+  <FlagstoneLimestone.Description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.</FlagstoneLimestone.Description>
+
+  <FlagstoneSlate.label>slate flagstone</FlagstoneSlate.label>
+  <FlagstoneSlate.Description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.</FlagstoneSlate.Description>
+
+  <FlagstoneMarble.label>marble flagstone</FlagstoneMarble.label>
+  <FlagstoneMarble.Description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.</FlagstoneMarble.Description>
+
+
+</LanguageData>

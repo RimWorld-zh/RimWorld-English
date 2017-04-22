@@ -162,7 +162,7 @@
 
   <MessageSettledInExistingMap>You have successfully settled in a new area.</MessageSettledInExistingMap>
 
-  <MessageAmbushVictory>Victory! In {0} hours, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageAmbushVictory>
+  <MessageAmbushVictory>Victory! In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageAmbushVictory>
 
   <MessageAutomaticallyReformedCaravan>Your colonists have reformed the caravan.</MessageAutomaticallyReformedCaravan>
 
@@ -209,11 +209,12 @@
 
   <MessageScreenResTooSmallForUIScale>At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution.</MessageScreenResTooSmallForUIScale>
 
-  <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will become inaccessible.</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
 
   <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
 
-  <MessageSelfTendUnsatisfied>{0} is allowed to self-tend, but is not assigned to Doctoring.</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>To self-tend, {0} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
+  <MessageCannotSelfTendEver>{0} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
 
   <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
   <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
@@ -221,5 +222,8 @@
   <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
 
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+
+  <MessageSiteCountdownBecauseNoMoreEnemies>You have defeated all enemies. In {0}, the caravan will automatically be reformed.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
 </LanguageData>
