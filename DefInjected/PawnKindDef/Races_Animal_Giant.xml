@@ -3,10 +3,6 @@
 
   <Elephant.label>elephant</Elephant.label>
   <Elephant.labelPlural>elephants</Elephant.labelPlural>
-  <Elephant.labelMale>male elephant</Elephant.labelMale>
-  <Elephant.labelMalePlural>male elephants</Elephant.labelMalePlural>
-  <Elephant.labelFemale>female elephant</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>female elephants</Elephant.labelFemalePlural>
   <Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
   <Elephant.lifeStages.0.labelPlural>elephant calfs</Elephant.lifeStages.0.labelPlural>
   <Elephant.lifeStages.0.labelMale>male elephant calf</Elephant.lifeStages.0.labelMale>
@@ -25,13 +21,13 @@
   <Elephant.lifeStages.2.labelMalePlural>male elephants</Elephant.lifeStages.2.labelMalePlural>
   <Elephant.lifeStages.2.labelFemale>female elephant</Elephant.lifeStages.2.labelFemale>
   <Elephant.lifeStages.2.labelFemalePlural>female elephants</Elephant.lifeStages.2.labelFemalePlural>
+  <Elephant.labelMale>male elephant</Elephant.labelMale>
+  <Elephant.labelMalePlural>male elephants</Elephant.labelMalePlural>
+  <Elephant.labelFemale>female elephant</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>female elephants</Elephant.labelFemalePlural>
 
   <Megasloth.label>Megasloth</Megasloth.label>
   <Megasloth.labelPlural>Megasloths</Megasloth.labelPlural>
-  <Megasloth.labelMale>male Megasloth</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>male Megasloths</Megasloth.labelMalePlural>
-  <Megasloth.labelFemale>female Megasloth</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>female Megasloths</Megasloth.labelFemalePlural>
   <Megasloth.lifeStages.0.label>Megasloth</Megasloth.lifeStages.0.label>
   <Megasloth.lifeStages.0.labelPlural>Megasloth</Megasloth.lifeStages.0.labelPlural>
   <Megasloth.lifeStages.0.labelMale>male Megasloth</Megasloth.lifeStages.0.labelMale>
@@ -50,13 +46,13 @@
   <Megasloth.lifeStages.2.labelMalePlural>male Megasloths</Megasloth.lifeStages.2.labelMalePlural>
   <Megasloth.lifeStages.2.labelFemale>female Megasloth</Megasloth.lifeStages.2.labelFemale>
   <Megasloth.lifeStages.2.labelFemalePlural>female Megasloths</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.labelMale>male Megasloth</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>male Megasloths</Megasloth.labelMalePlural>
+  <Megasloth.labelFemale>female Megasloth</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>female Megasloths</Megasloth.labelFemalePlural>
 
   <Thrumbo.label>thrumbo</Thrumbo.label>
   <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>
-  <Thrumbo.labelMale>male thrumbo</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>male thrumbos</Thrumbo.labelMalePlural>
-  <Thrumbo.labelFemale>female thrumbo</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>female thrumbos</Thrumbo.labelFemalePlural>
   <Thrumbo.lifeStages.0.label>thrumbo calf</Thrumbo.lifeStages.0.label>
   <Thrumbo.lifeStages.0.labelPlural>thrumbo calves</Thrumbo.lifeStages.0.labelPlural>
   <Thrumbo.lifeStages.0.labelMale>male thrumbo calf</Thrumbo.lifeStages.0.labelMale>
@@ -75,6 +71,10 @@
   <Thrumbo.lifeStages.2.labelMalePlural>male thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
   <Thrumbo.lifeStages.2.labelFemale>female thrumbo</Thrumbo.lifeStages.2.labelFemale>
   <Thrumbo.lifeStages.2.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.2.labelFemalePlural>
+  <Thrumbo.labelMale>male thrumbo</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>male thrumbos</Thrumbo.labelMalePlural>
+  <Thrumbo.labelFemale>female thrumbo</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>female thrumbos</Thrumbo.labelFemalePlural>
 
 
 </LanguageData>

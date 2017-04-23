@@ -4,30 +4,30 @@
   <!-- Beds -->
 
   <SleepingSpot.label>sleeping spot</SleepingSpot.label>
-  <SleepingSpot.Description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.Description>
+  <SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.description>
   <SleepingSpot_Blueprint.label>sleeping spot (blueprint)</SleepingSpot_Blueprint.label>
   <SleepingSpot_Frame.label>sleeping spot (building)</SleepingSpot_Frame.label>
 
   <Bed.label>bed</Bed.label>
-  <Bed.Description>A cozy mattress and sheets on a frame for resting.</Bed.Description>
+  <Bed.description>A cozy mattress and sheets on a frame for resting.</Bed.description>
   <Bed_Blueprint.label>bed (blueprint)</Bed_Blueprint.label>
   <Bed_Blueprint_Install.label>bed (blueprint)</Bed_Blueprint_Install.label>
   <Bed_Frame.label>bed (building)</Bed_Frame.label>
 
   <DoubleBed.label>double bed</DoubleBed.label>
-  <DoubleBed.Description>A simple double-wide bed that fits two people.</DoubleBed.Description>
+  <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
   <DoubleBed_Blueprint.label>double bed (blueprint)</DoubleBed_Blueprint.label>
   <DoubleBed_Blueprint_Install.label>double bed (blueprint)</DoubleBed_Blueprint_Install.label>
   <DoubleBed_Frame.label>double bed (building)</DoubleBed_Frame.label>
 
   <RoyalBed.label>royal bed</RoyalBed.label>
-  <RoyalBed.Description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful. Fits two.</RoyalBed.Description>
+  <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful. Fits two.</RoyalBed.description>
   <RoyalBed_Blueprint.label>royal bed (blueprint)</RoyalBed_Blueprint.label>
   <RoyalBed_Blueprint_Install.label>royal bed (blueprint)</RoyalBed_Blueprint_Install.label>
   <RoyalBed_Frame.label>royal bed (building)</RoyalBed_Frame.label>
 
   <HospitalBed.label>hospital bed</HospitalBed.label>
-  <HospitalBed.Description>A bed specially designed for injured people. Improves chance of successful medical work.</HospitalBed.Description>
+  <HospitalBed.description>A bed specially designed for injured people. Improves chance of successful medical work.</HospitalBed.description>
   <HospitalBed_Blueprint.label>hospital bed (blueprint)</HospitalBed_Blueprint.label>
   <HospitalBed_Blueprint_Install.label>hospital bed (blueprint)</HospitalBed_Blueprint_Install.label>
   <HospitalBed_Frame.label>hospital bed (building)</HospitalBed_Frame.label>

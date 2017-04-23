@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->This drove [recipient_nameShortDef] into a rage and [recipient_pronoun] began a fight!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>

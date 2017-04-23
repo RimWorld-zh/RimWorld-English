@@ -2,7 +2,7 @@
 <LanguageData>
 
   <CraftingSpot.label>crafting spot</CraftingSpot.label>
-  <CraftingSpot.Description>A place for crafting simple things like shivs or bows.</CraftingSpot.Description>
+  <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
   <CraftingSpot_Blueprint.label>crafting spot (blueprint)</CraftingSpot_Blueprint.label>
   <CraftingSpot_Frame.label>crafting spot (building)</CraftingSpot_Frame.label>
 
@@ -10,67 +10,67 @@
   <!-- Work tables -->
 
   <TableSculpting.label>sculptor's table</TableSculpting.label>
-  <TableSculpting.Description>A workbench equipped for artistic sculpting.</TableSculpting.Description>
+  <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
   <TableSculpting_Blueprint.label>sculptor's table (blueprint)</TableSculpting_Blueprint.label>
   <TableSculpting_Frame.label>sculptor's table (building)</TableSculpting_Frame.label>
 
   <TableButcher.label>butcher table</TableButcher.label>
-  <TableButcher.Description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.Description>
+  <TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.description>
   <TableButcher_Blueprint.label>butcher table (blueprint)</TableButcher_Blueprint.label>
   <TableButcher_Frame.label>butcher table (building)</TableButcher_Frame.label>
 
   <HandTailoringBench.label>hand tailor bench</HandTailoringBench.label>
-  <HandTailoringBench.Description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench.Description>
+  <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench.description>
   <HandTailoringBench_Blueprint.label>hand tailor bench (blueprint)</HandTailoringBench_Blueprint.label>
   <HandTailoringBench_Frame.label>hand tailor bench (building)</HandTailoringBench_Frame.label>
 
   <ElectricTailoringBench.label>electric tailor bench</ElectricTailoringBench.label>
-  <ElectricTailoringBench.Description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.Description>
+  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
   <ElectricTailoringBench_Blueprint.label>electric tailor bench (blueprint)</ElectricTailoringBench_Blueprint.label>
   <ElectricTailoringBench_Frame.label>electric tailor bench (building)</ElectricTailoringBench_Frame.label>
 
   <FueledSmithy.label>fueled smithy</FueledSmithy.label>
-  <FueledSmithy.Description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.Description>
+  <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
   <FueledSmithy_Blueprint.label>fueled smithy (blueprint)</FueledSmithy_Blueprint.label>
   <FueledSmithy_Frame.label>fueled smithy (building)</FueledSmithy_Frame.label>
 
   <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
-  <ElectricSmithy.Description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.Description>
+  <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
   <ElectricSmithy_Blueprint.label>electric smithy (blueprint)</ElectricSmithy_Blueprint.label>
   <ElectricSmithy_Frame.label>electric smithy (building)</ElectricSmithy_Frame.label>
 
   <TableMachining.label>machining table</TableMachining.label>
-  <TableMachining.Description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</TableMachining.Description>
+  <TableMachining.description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</TableMachining.description>
   <TableMachining_Blueprint.label>machining table (blueprint)</TableMachining_Blueprint.label>
   <TableMachining_Frame.label>machining table (building)</TableMachining_Frame.label>
 
   <ElectricStove.label>electric stove</ElectricStove.label>
-  <ElectricStove.Description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.Description>
+  <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
   <ElectricStove_Blueprint.label>electric stove (blueprint)</ElectricStove_Blueprint.label>
   <ElectricStove_Frame.label>electric stove (building)</ElectricStove_Frame.label>
 
   <FueledStove.label>fueled stove</FueledStove.label>
-  <FueledStove.Description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.Description>
+  <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
   <FueledStove_Blueprint.label>fueled stove (blueprint)</FueledStove_Blueprint.label>
   <FueledStove_Frame.label>fueled stove (building)</FueledStove_Frame.label>
 
   <TableStonecutter.label>stonecutter's table</TableStonecutter.label>
-  <TableStonecutter.Description>A work table equipped to cut rough stone into usable blocks.</TableStonecutter.Description>
+  <TableStonecutter.description>A work table equipped to cut rough stone into usable blocks.</TableStonecutter.description>
   <TableStonecutter_Blueprint.label>stonecutter's table (blueprint)</TableStonecutter_Blueprint.label>
   <TableStonecutter_Frame.label>stonecutter's table (building)</TableStonecutter_Frame.label>
 
   <Brewery.label>brewery</Brewery.label>
-  <Brewery.Description>A work station with all the equipment needed to brew beer.</Brewery.Description>
+  <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
   <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>
   <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>
 
   <DrugLab.label>drug lab</DrugLab.label>
-  <DrugLab.Description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.Description>
+  <DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.description>
   <DrugLab_Blueprint.label>drug lab (blueprint)</DrugLab_Blueprint.label>
   <DrugLab_Frame.label>drug lab (building)</DrugLab_Frame.label>
 
   <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
-  <ElectricSmelter.Description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.Description>
+  <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
   <ElectricSmelter_Blueprint.label>electric smelter (blueprint)</ElectricSmelter_Blueprint.label>
   <ElectricSmelter_Frame.label>electric smelter (building)</ElectricSmelter_Frame.label>
 
@@ -98,7 +98,7 @@
   <HiTechResearchBench_Frame.label>hi-tech research bench (building)</HiTechResearchBench_Frame.label>
 
   <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
-  <ElectricCrematorium.Description>Cremates corpses. Electrically-powered.</ElectricCrematorium.Description>
+  <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
   <ElectricCrematorium_Blueprint.label>electric crematorium (blueprint)</ElectricCrematorium_Blueprint.label>
   <ElectricCrematorium_Frame.label>electric crematorium (building)</ElectricCrematorium_Frame.label>
 

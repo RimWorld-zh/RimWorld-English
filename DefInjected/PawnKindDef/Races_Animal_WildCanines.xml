@@ -5,10 +5,6 @@
 
   <Warg.label>warg</Warg.label>
   <Warg.labelPlural>wargs</Warg.labelPlural>
-  <Warg.labelMale>male warg</Warg.labelMale>
-  <Warg.labelMalePlural>male wargs</Warg.labelMalePlural>
-  <Warg.labelFemale>female warg</Warg.labelFemale>
-  <Warg.labelFemalePlural>female wargs</Warg.labelFemalePlural>
   <Warg.lifeStages.0.label>warg puppy</Warg.lifeStages.0.label>
   <Warg.lifeStages.0.labelPlural>warg puppies</Warg.lifeStages.0.labelPlural>
   <Warg.lifeStages.0.labelMale>male warg puppy</Warg.lifeStages.0.labelMale>
@@ -27,16 +23,16 @@
   <Warg.lifeStages.2.labelMalePlural>male wargs</Warg.lifeStages.2.labelMalePlural>
   <Warg.lifeStages.2.labelFemale>female warg</Warg.lifeStages.2.labelFemale>
   <Warg.lifeStages.2.labelFemalePlural>female wargs</Warg.lifeStages.2.labelFemalePlural>
+  <Warg.labelMale>male warg</Warg.labelMale>
+  <Warg.labelMalePlural>male wargs</Warg.labelMalePlural>
+  <Warg.labelFemale>female warg</Warg.labelFemale>
+  <Warg.labelFemalePlural>female wargs</Warg.labelFemalePlural>
 
 
   <!-- Wolves -->
 
   <WolfTimber.label>timber wolf</WolfTimber.label>
   <WolfTimber.labelPlural>timber wolves</WolfTimber.labelPlural>
-  <WolfTimber.labelMale>male timber wolf</WolfTimber.labelMale>
-  <WolfTimber.labelMalePlural>male timber wolves</WolfTimber.labelMalePlural>
-  <WolfTimber.labelFemale>female timber wolf</WolfTimber.labelFemale>
-  <WolfTimber.labelFemalePlural>female timber wolves</WolfTimber.labelFemalePlural>
   <WolfTimber.lifeStages.0.label>timber wolf puppy</WolfTimber.lifeStages.0.label>
   <WolfTimber.lifeStages.0.labelPlural>timber wolf puppies</WolfTimber.lifeStages.0.labelPlural>
   <WolfTimber.lifeStages.0.labelMale>male timber wolf puppy</WolfTimber.lifeStages.0.labelMale>
@@ -55,13 +51,13 @@
   <WolfTimber.lifeStages.2.labelMalePlural>male timber wolfs</WolfTimber.lifeStages.2.labelMalePlural>
   <WolfTimber.lifeStages.2.labelFemale>female timber wolf</WolfTimber.lifeStages.2.labelFemale>
   <WolfTimber.lifeStages.2.labelFemalePlural>female timber wolfs</WolfTimber.lifeStages.2.labelFemalePlural>
+  <WolfTimber.labelMale>male timber wolf</WolfTimber.labelMale>
+  <WolfTimber.labelMalePlural>male timber wolves</WolfTimber.labelMalePlural>
+  <WolfTimber.labelFemale>female timber wolf</WolfTimber.labelFemale>
+  <WolfTimber.labelFemalePlural>female timber wolves</WolfTimber.labelFemalePlural>
 
   <WolfArctic.label>arctic wolf</WolfArctic.label>
   <WolfArctic.labelPlural>arctic wolves</WolfArctic.labelPlural>
-  <WolfArctic.labelMale>male arctic wolf</WolfArctic.labelMale>
-  <WolfArctic.labelMalePlural>male arctic wolves</WolfArctic.labelMalePlural>
-  <WolfArctic.labelFemale>female arctic wolf</WolfArctic.labelFemale>
-  <WolfArctic.labelFemalePlural>female arctic wolves</WolfArctic.labelFemalePlural>
   <WolfArctic.lifeStages.0.label>arctic wolf puppy</WolfArctic.lifeStages.0.label>
   <WolfArctic.lifeStages.0.labelPlural>arctic wolf puppies</WolfArctic.lifeStages.0.labelPlural>
   <WolfArctic.lifeStages.0.labelMale>male arctic wolf puppy</WolfArctic.lifeStages.0.labelMale>
@@ -80,16 +76,16 @@
   <WolfArctic.lifeStages.2.labelMalePlural>male arctic wolfs</WolfArctic.lifeStages.2.labelMalePlural>
   <WolfArctic.lifeStages.2.labelFemale>female arctic wolf</WolfArctic.lifeStages.2.labelFemale>
   <WolfArctic.lifeStages.2.labelFemalePlural>female arctic wolfs</WolfArctic.lifeStages.2.labelFemalePlural>
+  <WolfArctic.labelMale>male arctic wolf</WolfArctic.labelMale>
+  <WolfArctic.labelMalePlural>male arctic wolves</WolfArctic.labelMalePlural>
+  <WolfArctic.labelFemale>female arctic wolf</WolfArctic.labelFemale>
+  <WolfArctic.labelFemalePlural>female arctic wolves</WolfArctic.labelFemalePlural>
 
 
   <!-- Fox fennec -->
 
   <FoxFennec.label>fennec fox</FoxFennec.label>
   <FoxFennec.labelPlural>fennec foxes</FoxFennec.labelPlural>
-  <FoxFennec.labelMale>male fennec fox</FoxFennec.labelMale>
-  <FoxFennec.labelMalePlural>male fennec foxes</FoxFennec.labelMalePlural>
-  <FoxFennec.labelFemale>female fennec fox</FoxFennec.labelFemale>
-  <FoxFennec.labelFemalePlural>female fennec foxes</FoxFennec.labelFemalePlural>
   <FoxFennec.lifeStages.0.label>fennec fox puppy</FoxFennec.lifeStages.0.label>
   <FoxFennec.lifeStages.0.labelPlural>fennec fox puppies</FoxFennec.lifeStages.0.labelPlural>
   <FoxFennec.lifeStages.0.labelMale>male fennec fox puppy</FoxFennec.lifeStages.0.labelMale>
@@ -108,16 +104,16 @@
   <FoxFennec.lifeStages.2.labelMalePlural>male fennec foxs</FoxFennec.lifeStages.2.labelMalePlural>
   <FoxFennec.lifeStages.2.labelFemale>female fennec fox</FoxFennec.lifeStages.2.labelFemale>
   <FoxFennec.lifeStages.2.labelFemalePlural>female fennec foxs</FoxFennec.lifeStages.2.labelFemalePlural>
+  <FoxFennec.labelMale>male fennec fox</FoxFennec.labelMale>
+  <FoxFennec.labelMalePlural>male fennec foxes</FoxFennec.labelMalePlural>
+  <FoxFennec.labelFemale>female fennec fox</FoxFennec.labelFemale>
+  <FoxFennec.labelFemalePlural>female fennec foxes</FoxFennec.labelFemalePlural>
 
 
   <!-- Fox red -->
 
   <FoxRed.label>red fox</FoxRed.label>
   <FoxRed.labelPlural>red foxes</FoxRed.labelPlural>
-  <FoxRed.labelMale>male red fox</FoxRed.labelMale>
-  <FoxRed.labelMalePlural>male red foxes</FoxRed.labelMalePlural>
-  <FoxRed.labelFemale>female red fox</FoxRed.labelFemale>
-  <FoxRed.labelFemalePlural>female red foxes</FoxRed.labelFemalePlural>
   <FoxRed.lifeStages.0.label>red fox puppy</FoxRed.lifeStages.0.label>
   <FoxRed.lifeStages.0.labelPlural>red fox puppies</FoxRed.lifeStages.0.labelPlural>
   <FoxRed.lifeStages.0.labelMale>male red fox puppy</FoxRed.lifeStages.0.labelMale>
@@ -136,16 +132,16 @@
   <FoxRed.lifeStages.2.labelMalePlural>male red foxs</FoxRed.lifeStages.2.labelMalePlural>
   <FoxRed.lifeStages.2.labelFemale>female red fox</FoxRed.lifeStages.2.labelFemale>
   <FoxRed.lifeStages.2.labelFemalePlural>female red foxs</FoxRed.lifeStages.2.labelFemalePlural>
+  <FoxRed.labelMale>male red fox</FoxRed.labelMale>
+  <FoxRed.labelMalePlural>male red foxes</FoxRed.labelMalePlural>
+  <FoxRed.labelFemale>female red fox</FoxRed.labelFemale>
+  <FoxRed.labelFemalePlural>female red foxes</FoxRed.labelFemalePlural>
 
 
   <!-- Fox arctic -->
 
   <FoxArctic.label>arctic fox</FoxArctic.label>
   <FoxArctic.labelPlural>arctic foxes</FoxArctic.labelPlural>
-  <FoxArctic.labelMale>male arctic fox</FoxArctic.labelMale>
-  <FoxArctic.labelMalePlural>male arctic foxes</FoxArctic.labelMalePlural>
-  <FoxArctic.labelFemale>female arctic fox</FoxArctic.labelFemale>
-  <FoxArctic.labelFemalePlural>female arctic foxes</FoxArctic.labelFemalePlural>
   <FoxArctic.lifeStages.0.label>arctic fox puppy</FoxArctic.lifeStages.0.label>
   <FoxArctic.lifeStages.0.labelPlural>arctic fox puppies</FoxArctic.lifeStages.0.labelPlural>
   <FoxArctic.lifeStages.0.labelMale>male arctic fox puppy</FoxArctic.lifeStages.0.labelMale>
@@ -164,6 +160,10 @@
   <FoxArctic.lifeStages.2.labelMalePlural>male arctic foxs</FoxArctic.lifeStages.2.labelMalePlural>
   <FoxArctic.lifeStages.2.labelFemale>female arctic fox</FoxArctic.lifeStages.2.labelFemale>
   <FoxArctic.lifeStages.2.labelFemalePlural>female arctic foxs</FoxArctic.lifeStages.2.labelFemalePlural>
+  <FoxArctic.labelMale>male arctic fox</FoxArctic.labelMale>
+  <FoxArctic.labelMalePlural>male arctic foxes</FoxArctic.labelMalePlural>
+  <FoxArctic.labelFemale>female arctic fox</FoxArctic.labelFemale>
+  <FoxArctic.labelFemalePlural>female arctic foxes</FoxArctic.labelFemalePlural>
 
 
 </LanguageData>

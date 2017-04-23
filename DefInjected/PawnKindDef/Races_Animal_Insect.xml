@@ -3,10 +3,6 @@
 
   <Megascarab.label>megascarab</Megascarab.label>
   <Megascarab.labelPlural>megascarabs</Megascarab.labelPlural>
-  <Megascarab.labelMale>male megascarab</Megascarab.labelMale>
-  <Megascarab.labelMalePlural>male megascarabs</Megascarab.labelMalePlural>
-  <Megascarab.labelFemale>female megascarab</Megascarab.labelFemale>
-  <Megascarab.labelFemalePlural>female megascarabs</Megascarab.labelFemalePlural>
   <Megascarab.lifeStages.0.label>megascarab</Megascarab.lifeStages.0.label>
   <Megascarab.lifeStages.0.labelPlural>megascarab</Megascarab.lifeStages.0.labelPlural>
   <Megascarab.lifeStages.0.labelMale>male megascarab</Megascarab.lifeStages.0.labelMale>
@@ -25,13 +21,13 @@
   <Megascarab.lifeStages.2.labelMalePlural>male megascarabs</Megascarab.lifeStages.2.labelMalePlural>
   <Megascarab.lifeStages.2.labelFemale>female megascarab</Megascarab.lifeStages.2.labelFemale>
   <Megascarab.lifeStages.2.labelFemalePlural>female megascarabs</Megascarab.lifeStages.2.labelFemalePlural>
+  <Megascarab.labelMale>male megascarab</Megascarab.labelMale>
+  <Megascarab.labelMalePlural>male megascarabs</Megascarab.labelMalePlural>
+  <Megascarab.labelFemale>female megascarab</Megascarab.labelFemale>
+  <Megascarab.labelFemalePlural>female megascarabs</Megascarab.labelFemalePlural>
 
   <Spelopede.label>spelopede</Spelopede.label>
   <Spelopede.labelPlural>spelopedes</Spelopede.labelPlural>
-  <Spelopede.labelMale>male spelopede</Spelopede.labelMale>
-  <Spelopede.labelMalePlural>male spelopedes</Spelopede.labelMalePlural>
-  <Spelopede.labelFemale>female spelopede</Spelopede.labelFemale>
-  <Spelopede.labelFemalePlural>female spelopedes</Spelopede.labelFemalePlural>
   <Spelopede.lifeStages.0.label>spelopede</Spelopede.lifeStages.0.label>
   <Spelopede.lifeStages.0.labelPlural>spelopede</Spelopede.lifeStages.0.labelPlural>
   <Spelopede.lifeStages.0.labelMale>male spelopede</Spelopede.lifeStages.0.labelMale>
@@ -50,13 +46,13 @@
   <Spelopede.lifeStages.2.labelMalePlural>male spelopedes</Spelopede.lifeStages.2.labelMalePlural>
   <Spelopede.lifeStages.2.labelFemale>female spelopede</Spelopede.lifeStages.2.labelFemale>
   <Spelopede.lifeStages.2.labelFemalePlural>female spelopedes</Spelopede.lifeStages.2.labelFemalePlural>
+  <Spelopede.labelMale>male spelopede</Spelopede.labelMale>
+  <Spelopede.labelMalePlural>male spelopedes</Spelopede.labelMalePlural>
+  <Spelopede.labelFemale>female spelopede</Spelopede.labelFemale>
+  <Spelopede.labelFemalePlural>female spelopedes</Spelopede.labelFemalePlural>
 
   <Megaspider.label>megaspider</Megaspider.label>
   <Megaspider.labelPlural>megaspiders</Megaspider.labelPlural>
-  <Megaspider.labelMale>male megaspider</Megaspider.labelMale>
-  <Megaspider.labelMalePlural>male megaspiders</Megaspider.labelMalePlural>
-  <Megaspider.labelFemale>female megaspider</Megaspider.labelFemale>
-  <Megaspider.labelFemalePlural>female megaspiders</Megaspider.labelFemalePlural>
   <Megaspider.lifeStages.0.label>megaspider</Megaspider.lifeStages.0.label>
   <Megaspider.lifeStages.0.labelPlural>megaspider</Megaspider.lifeStages.0.labelPlural>
   <Megaspider.lifeStages.0.labelMale>male megaspider</Megaspider.lifeStages.0.labelMale>
@@ -75,6 +71,10 @@
   <Megaspider.lifeStages.2.labelMalePlural>male megaspiders</Megaspider.lifeStages.2.labelMalePlural>
   <Megaspider.lifeStages.2.labelFemale>female megaspider</Megaspider.lifeStages.2.labelFemale>
   <Megaspider.lifeStages.2.labelFemalePlural>female megaspiders</Megaspider.lifeStages.2.labelFemalePlural>
+  <Megaspider.labelMale>male megaspider</Megaspider.labelMale>
+  <Megaspider.labelMalePlural>male megaspiders</Megaspider.labelMalePlural>
+  <Megaspider.labelFemale>female megaspider</Megaspider.labelFemale>
+  <Megaspider.labelFemalePlural>female megaspiders</Megaspider.labelFemalePlural>
 
 
 </LanguageData>

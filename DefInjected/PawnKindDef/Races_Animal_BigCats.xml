@@ -3,10 +3,6 @@
 
   <Cougar.label>cougar</Cougar.label>
   <Cougar.labelPlural>cougars</Cougar.labelPlural>
-  <Cougar.labelMale>male cougar</Cougar.labelMale>
-  <Cougar.labelMalePlural>male cougars</Cougar.labelMalePlural>
-  <Cougar.labelFemale>female cougar</Cougar.labelFemale>
-  <Cougar.labelFemalePlural>female cougars</Cougar.labelFemalePlural>
   <Cougar.lifeStages.0.label>cougar</Cougar.lifeStages.0.label>
   <Cougar.lifeStages.0.labelPlural>cougar</Cougar.lifeStages.0.labelPlural>
   <Cougar.lifeStages.0.labelMale>male cougar</Cougar.lifeStages.0.labelMale>
@@ -25,13 +21,13 @@
   <Cougar.lifeStages.2.labelMalePlural>male cougars</Cougar.lifeStages.2.labelMalePlural>
   <Cougar.lifeStages.2.labelFemale>female cougar</Cougar.lifeStages.2.labelFemale>
   <Cougar.lifeStages.2.labelFemalePlural>female cougars</Cougar.lifeStages.2.labelFemalePlural>
+  <Cougar.labelMale>male cougar</Cougar.labelMale>
+  <Cougar.labelMalePlural>male cougars</Cougar.labelMalePlural>
+  <Cougar.labelFemale>female cougar</Cougar.labelFemale>
+  <Cougar.labelFemalePlural>female cougars</Cougar.labelFemalePlural>
 
   <Panther.label>panther</Panther.label>
   <Panther.labelPlural>panthers</Panther.labelPlural>
-  <Panther.labelMale>male panther</Panther.labelMale>
-  <Panther.labelMalePlural>male panthers</Panther.labelMalePlural>
-  <Panther.labelFemale>female panther</Panther.labelFemale>
-  <Panther.labelFemalePlural>female panthers</Panther.labelFemalePlural>
   <Panther.lifeStages.0.label>panther</Panther.lifeStages.0.label>
   <Panther.lifeStages.0.labelPlural>panther</Panther.lifeStages.0.labelPlural>
   <Panther.lifeStages.0.labelMale>male panther</Panther.lifeStages.0.labelMale>
@@ -50,13 +46,13 @@
   <Panther.lifeStages.2.labelMalePlural>male panthers</Panther.lifeStages.2.labelMalePlural>
   <Panther.lifeStages.2.labelFemale>female panther</Panther.lifeStages.2.labelFemale>
   <Panther.lifeStages.2.labelFemalePlural>female panthers</Panther.lifeStages.2.labelFemalePlural>
+  <Panther.labelMale>male panther</Panther.labelMale>
+  <Panther.labelMalePlural>male panthers</Panther.labelMalePlural>
+  <Panther.labelFemale>female panther</Panther.labelFemale>
+  <Panther.labelFemalePlural>female panthers</Panther.labelFemalePlural>
 
   <Lynx.label>lynx</Lynx.label>
   <Lynx.labelPlural>lynx</Lynx.labelPlural>
-  <Lynx.labelMale>male lynx</Lynx.labelMale>
-  <Lynx.labelMalePlural>male lynx</Lynx.labelMalePlural>
-  <Lynx.labelFemale>female lynx</Lynx.labelFemale>
-  <Lynx.labelFemalePlural>female lynx</Lynx.labelFemalePlural>
   <Lynx.lifeStages.0.label>lynx kitten</Lynx.lifeStages.0.label>
   <Lynx.lifeStages.0.labelPlural>lynx kittens</Lynx.lifeStages.0.labelPlural>
   <Lynx.lifeStages.0.labelMale>male lynx kitten</Lynx.lifeStages.0.labelMale>
@@ -75,6 +71,10 @@
   <Lynx.lifeStages.2.labelMalePlural>male lynxs</Lynx.lifeStages.2.labelMalePlural>
   <Lynx.lifeStages.2.labelFemale>female lynx</Lynx.lifeStages.2.labelFemale>
   <Lynx.lifeStages.2.labelFemalePlural>female lynxs</Lynx.lifeStages.2.labelFemalePlural>
+  <Lynx.labelMale>male lynx</Lynx.labelMale>
+  <Lynx.labelMalePlural>male lynx</Lynx.labelMalePlural>
+  <Lynx.labelFemale>female lynx</Lynx.labelFemale>
+  <Lynx.labelFemalePlural>female lynx</Lynx.labelFemalePlural>
 
 
 </LanguageData>

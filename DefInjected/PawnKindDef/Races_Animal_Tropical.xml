@@ -3,10 +3,6 @@
 
   <Cobra.label>cobra</Cobra.label>
   <Cobra.labelPlural>cobras</Cobra.labelPlural>
-  <Cobra.labelMale>male cobra</Cobra.labelMale>
-  <Cobra.labelMalePlural>male cobras</Cobra.labelMalePlural>
-  <Cobra.labelFemale>female cobra</Cobra.labelFemale>
-  <Cobra.labelFemalePlural>female cobras</Cobra.labelFemalePlural>
   <Cobra.lifeStages.0.label>cobra</Cobra.lifeStages.0.label>
   <Cobra.lifeStages.0.labelPlural>cobra</Cobra.lifeStages.0.labelPlural>
   <Cobra.lifeStages.0.labelMale>male cobra</Cobra.lifeStages.0.labelMale>
@@ -25,13 +21,13 @@
   <Cobra.lifeStages.2.labelMalePlural>male cobras</Cobra.lifeStages.2.labelMalePlural>
   <Cobra.lifeStages.2.labelFemale>female cobra</Cobra.lifeStages.2.labelFemale>
   <Cobra.lifeStages.2.labelFemalePlural>female cobras</Cobra.lifeStages.2.labelFemalePlural>
+  <Cobra.labelMale>male cobra</Cobra.labelMale>
+  <Cobra.labelMalePlural>male cobras</Cobra.labelMalePlural>
+  <Cobra.labelFemale>female cobra</Cobra.labelFemale>
+  <Cobra.labelFemalePlural>female cobras</Cobra.labelFemalePlural>
 
   <Monkey.label>monkey</Monkey.label>
   <Monkey.labelPlural>monkeys</Monkey.labelPlural>
-  <Monkey.labelMale>male monkey</Monkey.labelMale>
-  <Monkey.labelMalePlural>male monkeys</Monkey.labelMalePlural>
-  <Monkey.labelFemale>female monkey</Monkey.labelFemale>
-  <Monkey.labelFemalePlural>female monkeys</Monkey.labelFemalePlural>
   <Monkey.lifeStages.0.label>monkey</Monkey.lifeStages.0.label>
   <Monkey.lifeStages.0.labelPlural>monkey</Monkey.lifeStages.0.labelPlural>
   <Monkey.lifeStages.0.labelMale>male monkey</Monkey.lifeStages.0.labelMale>
@@ -50,13 +46,13 @@
   <Monkey.lifeStages.2.labelMalePlural>male monkeys</Monkey.lifeStages.2.labelMalePlural>
   <Monkey.lifeStages.2.labelFemale>female monkey</Monkey.lifeStages.2.labelFemale>
   <Monkey.lifeStages.2.labelFemalePlural>female monkeys</Monkey.lifeStages.2.labelFemalePlural>
+  <Monkey.labelMale>male monkey</Monkey.labelMale>
+  <Monkey.labelMalePlural>male monkeys</Monkey.labelMalePlural>
+  <Monkey.labelFemale>female monkey</Monkey.labelFemale>
+  <Monkey.labelFemalePlural>female monkeys</Monkey.labelFemalePlural>
 
   <Boomalope.label>boomalope</Boomalope.label>
   <Boomalope.labelPlural>boomalopes</Boomalope.labelPlural>
-  <Boomalope.labelMale>male boomalope</Boomalope.labelMale>
-  <Boomalope.labelMalePlural>male boomalopes</Boomalope.labelMalePlural>
-  <Boomalope.labelFemale>female boomalope</Boomalope.labelFemale>
-  <Boomalope.labelFemalePlural>female boomalopes</Boomalope.labelFemalePlural>
   <Boomalope.lifeStages.0.label>boomalope calf</Boomalope.lifeStages.0.label>
   <Boomalope.lifeStages.0.labelPlural>boomalope calves</Boomalope.lifeStages.0.labelPlural>
   <Boomalope.lifeStages.0.labelMale>male boomalope calf</Boomalope.lifeStages.0.labelMale>
@@ -75,6 +71,10 @@
   <Boomalope.lifeStages.2.labelMalePlural>male boomalopes</Boomalope.lifeStages.2.labelMalePlural>
   <Boomalope.lifeStages.2.labelFemale>female boomalope</Boomalope.lifeStages.2.labelFemale>
   <Boomalope.lifeStages.2.labelFemalePlural>female boomalopes</Boomalope.lifeStages.2.labelFemalePlural>
+  <Boomalope.labelMale>male boomalope</Boomalope.labelMale>
+  <Boomalope.labelMalePlural>male boomalopes</Boomalope.labelMalePlural>
+  <Boomalope.labelFemale>female boomalope</Boomalope.labelFemale>
+  <Boomalope.labelFemalePlural>female boomalopes</Boomalope.labelFemalePlural>
 
 
 </LanguageData>

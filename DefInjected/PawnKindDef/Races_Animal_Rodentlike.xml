@@ -3,10 +3,6 @@
 
   <Squirrel.label>squirrel</Squirrel.label>
   <Squirrel.labelPlural>squirrels</Squirrel.labelPlural>
-  <Squirrel.labelMale>male squirrel</Squirrel.labelMale>
-  <Squirrel.labelMalePlural>male squirrels</Squirrel.labelMalePlural>
-  <Squirrel.labelFemale>female squirrel</Squirrel.labelFemale>
-  <Squirrel.labelFemalePlural>female squirrels</Squirrel.labelFemalePlural>
   <Squirrel.lifeStages.0.label>squirrel</Squirrel.lifeStages.0.label>
   <Squirrel.lifeStages.0.labelPlural>squirrel</Squirrel.lifeStages.0.labelPlural>
   <Squirrel.lifeStages.0.labelMale>male squirrel</Squirrel.lifeStages.0.labelMale>
@@ -25,13 +21,13 @@
   <Squirrel.lifeStages.2.labelMalePlural>male squirrels</Squirrel.lifeStages.2.labelMalePlural>
   <Squirrel.lifeStages.2.labelFemale>female squirrel</Squirrel.lifeStages.2.labelFemale>
   <Squirrel.lifeStages.2.labelFemalePlural>female squirrels</Squirrel.lifeStages.2.labelFemalePlural>
+  <Squirrel.labelMale>male squirrel</Squirrel.labelMale>
+  <Squirrel.labelMalePlural>male squirrels</Squirrel.labelMalePlural>
+  <Squirrel.labelFemale>female squirrel</Squirrel.labelFemale>
+  <Squirrel.labelFemalePlural>female squirrels</Squirrel.labelFemalePlural>
 
   <Alphabeaver.label>alphabeaver</Alphabeaver.label>
   <Alphabeaver.labelPlural>alphabeavers</Alphabeaver.labelPlural>
-  <Alphabeaver.labelMale>male alphabeaver</Alphabeaver.labelMale>
-  <Alphabeaver.labelMalePlural>male alphabeavers</Alphabeaver.labelMalePlural>
-  <Alphabeaver.labelFemale>female alphabeaver</Alphabeaver.labelFemale>
-  <Alphabeaver.labelFemalePlural>female alphabeavers</Alphabeaver.labelFemalePlural>
   <Alphabeaver.lifeStages.0.label>alphabeaver</Alphabeaver.lifeStages.0.label>
   <Alphabeaver.lifeStages.0.labelPlural>alphabeaver</Alphabeaver.lifeStages.0.labelPlural>
   <Alphabeaver.lifeStages.0.labelMale>male alphabeaver</Alphabeaver.lifeStages.0.labelMale>
@@ -50,13 +46,13 @@
   <Alphabeaver.lifeStages.2.labelMalePlural>male alphabeavers</Alphabeaver.lifeStages.2.labelMalePlural>
   <Alphabeaver.lifeStages.2.labelFemale>female alphabeaver</Alphabeaver.lifeStages.2.labelFemale>
   <Alphabeaver.lifeStages.2.labelFemalePlural>female alphabeavers</Alphabeaver.lifeStages.2.labelFemalePlural>
+  <Alphabeaver.labelMale>male alphabeaver</Alphabeaver.labelMale>
+  <Alphabeaver.labelMalePlural>male alphabeavers</Alphabeaver.labelMalePlural>
+  <Alphabeaver.labelFemale>female alphabeaver</Alphabeaver.labelFemale>
+  <Alphabeaver.labelFemalePlural>female alphabeavers</Alphabeaver.labelFemalePlural>
 
   <Capybara.label>capybara</Capybara.label>
   <Capybara.labelPlural>capybaras</Capybara.labelPlural>
-  <Capybara.labelMale>male capybara</Capybara.labelMale>
-  <Capybara.labelMalePlural>male capybaras</Capybara.labelMalePlural>
-  <Capybara.labelFemale>female capybara</Capybara.labelFemale>
-  <Capybara.labelFemalePlural>female capybaras</Capybara.labelFemalePlural>
   <Capybara.lifeStages.0.label>capybara</Capybara.lifeStages.0.label>
   <Capybara.lifeStages.0.labelPlural>capybara</Capybara.lifeStages.0.labelPlural>
   <Capybara.lifeStages.0.labelMale>male capybara</Capybara.lifeStages.0.labelMale>
@@ -75,13 +71,13 @@
   <Capybara.lifeStages.2.labelMalePlural>male capybaras</Capybara.lifeStages.2.labelMalePlural>
   <Capybara.lifeStages.2.labelFemale>female capybara</Capybara.lifeStages.2.labelFemale>
   <Capybara.lifeStages.2.labelFemalePlural>female capybaras</Capybara.lifeStages.2.labelFemalePlural>
+  <Capybara.labelMale>male capybara</Capybara.labelMale>
+  <Capybara.labelMalePlural>male capybaras</Capybara.labelMalePlural>
+  <Capybara.labelFemale>female capybara</Capybara.labelFemale>
+  <Capybara.labelFemalePlural>female capybaras</Capybara.labelFemalePlural>
 
   <Chinchilla.label>chinchilla</Chinchilla.label>
   <Chinchilla.labelPlural>chinchillas</Chinchilla.labelPlural>
-  <Chinchilla.labelMale>male chinchilla</Chinchilla.labelMale>
-  <Chinchilla.labelMalePlural>male chinchillas</Chinchilla.labelMalePlural>
-  <Chinchilla.labelFemale>female chinchilla</Chinchilla.labelFemale>
-  <Chinchilla.labelFemalePlural>female chinchillas</Chinchilla.labelFemalePlural>
   <Chinchilla.lifeStages.0.label>chinchilla</Chinchilla.lifeStages.0.label>
   <Chinchilla.lifeStages.0.labelPlural>chinchilla</Chinchilla.lifeStages.0.labelPlural>
   <Chinchilla.lifeStages.0.labelMale>male chinchilla</Chinchilla.lifeStages.0.labelMale>
@@ -100,13 +96,13 @@
   <Chinchilla.lifeStages.2.labelMalePlural>male chinchillas</Chinchilla.lifeStages.2.labelMalePlural>
   <Chinchilla.lifeStages.2.labelFemale>female chinchilla</Chinchilla.lifeStages.2.labelFemale>
   <Chinchilla.lifeStages.2.labelFemalePlural>female chinchillas</Chinchilla.lifeStages.2.labelFemalePlural>
+  <Chinchilla.labelMale>male chinchilla</Chinchilla.labelMale>
+  <Chinchilla.labelMalePlural>male chinchillas</Chinchilla.labelMalePlural>
+  <Chinchilla.labelFemale>female chinchilla</Chinchilla.labelFemale>
+  <Chinchilla.labelFemalePlural>female chinchillas</Chinchilla.labelFemalePlural>
 
   <Boomrat.label>boomrat</Boomrat.label>
   <Boomrat.labelPlural>boomrats</Boomrat.labelPlural>
-  <Boomrat.labelMale>male boomrat</Boomrat.labelMale>
-  <Boomrat.labelMalePlural>male boomrats</Boomrat.labelMalePlural>
-  <Boomrat.labelFemale>female boomrat</Boomrat.labelFemale>
-  <Boomrat.labelFemalePlural>female boomrats</Boomrat.labelFemalePlural>
   <Boomrat.lifeStages.0.label>boomrat</Boomrat.lifeStages.0.label>
   <Boomrat.lifeStages.0.labelPlural>boomrat</Boomrat.lifeStages.0.labelPlural>
   <Boomrat.lifeStages.0.labelMale>male boomrat</Boomrat.lifeStages.0.labelMale>
@@ -125,13 +121,13 @@
   <Boomrat.lifeStages.2.labelMalePlural>male boomrats</Boomrat.lifeStages.2.labelMalePlural>
   <Boomrat.lifeStages.2.labelFemale>female boomrat</Boomrat.lifeStages.2.labelFemale>
   <Boomrat.lifeStages.2.labelFemalePlural>female boomrats</Boomrat.lifeStages.2.labelFemalePlural>
+  <Boomrat.labelMale>male boomrat</Boomrat.labelMale>
+  <Boomrat.labelMalePlural>male boomrats</Boomrat.labelMalePlural>
+  <Boomrat.labelFemale>female boomrat</Boomrat.labelFemale>
+  <Boomrat.labelFemalePlural>female boomrats</Boomrat.labelFemalePlural>
 
   <Raccoon.label>raccoon</Raccoon.label>
   <Raccoon.labelPlural>raccoons</Raccoon.labelPlural>
-  <Raccoon.labelMale>male raccoon</Raccoon.labelMale>
-  <Raccoon.labelMalePlural>male raccoons</Raccoon.labelMalePlural>
-  <Raccoon.labelFemale>female raccoon</Raccoon.labelFemale>
-  <Raccoon.labelFemalePlural>female raccoons</Raccoon.labelFemalePlural>
   <Raccoon.lifeStages.0.label>raccoon</Raccoon.lifeStages.0.label>
   <Raccoon.lifeStages.0.labelPlural>raccoon</Raccoon.lifeStages.0.labelPlural>
   <Raccoon.lifeStages.0.labelMale>male raccoon</Raccoon.lifeStages.0.labelMale>
@@ -150,13 +146,13 @@
   <Raccoon.lifeStages.2.labelMalePlural>male raccoons</Raccoon.lifeStages.2.labelMalePlural>
   <Raccoon.lifeStages.2.labelFemale>female raccoon</Raccoon.lifeStages.2.labelFemale>
   <Raccoon.lifeStages.2.labelFemalePlural>female raccoons</Raccoon.lifeStages.2.labelFemalePlural>
+  <Raccoon.labelMale>male raccoon</Raccoon.labelMale>
+  <Raccoon.labelMalePlural>male raccoons</Raccoon.labelMalePlural>
+  <Raccoon.labelFemale>female raccoon</Raccoon.labelFemale>
+  <Raccoon.labelFemalePlural>female raccoons</Raccoon.labelFemalePlural>
 
   <Rat.label>rat</Rat.label>
   <Rat.labelPlural>rats</Rat.labelPlural>
-  <Rat.labelMale>male rat</Rat.labelMale>
-  <Rat.labelMalePlural>male rats</Rat.labelMalePlural>
-  <Rat.labelFemale>female rat</Rat.labelFemale>
-  <Rat.labelFemalePlural>female rats</Rat.labelFemalePlural>
   <Rat.lifeStages.0.label>rat</Rat.lifeStages.0.label>
   <Rat.lifeStages.0.labelPlural>rat</Rat.lifeStages.0.labelPlural>
   <Rat.lifeStages.0.labelMale>male rat</Rat.lifeStages.0.labelMale>
@@ -175,6 +171,10 @@
   <Rat.lifeStages.2.labelMalePlural>male rats</Rat.lifeStages.2.labelMalePlural>
   <Rat.lifeStages.2.labelFemale>female rat</Rat.lifeStages.2.labelFemale>
   <Rat.lifeStages.2.labelFemalePlural>female rats</Rat.lifeStages.2.labelFemalePlural>
+  <Rat.labelMale>male rat</Rat.labelMale>
+  <Rat.labelMalePlural>male rats</Rat.labelMalePlural>
+  <Rat.labelFemale>female rat</Rat.labelFemale>
+  <Rat.labelFemalePlural>female rats</Rat.labelFemalePlural>
 
 
 </LanguageData>

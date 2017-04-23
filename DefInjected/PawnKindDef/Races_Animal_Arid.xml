@@ -3,10 +3,6 @@
 
   <Muffalo.label>muffalo</Muffalo.label>
   <Muffalo.labelPlural>muffalos</Muffalo.labelPlural>
-  <Muffalo.labelMale>male muffalo</Muffalo.labelMale>
-  <Muffalo.labelMalePlural>male muffalos</Muffalo.labelMalePlural>
-  <Muffalo.labelFemale>female muffalo</Muffalo.labelFemale>
-  <Muffalo.labelFemalePlural>female muffalos</Muffalo.labelFemalePlural>
   <Muffalo.lifeStages.0.label>muffalo calf</Muffalo.lifeStages.0.label>
   <Muffalo.lifeStages.0.labelPlural>muffalo calves</Muffalo.lifeStages.0.labelPlural>
   <Muffalo.lifeStages.0.labelMale>male muffalo calf</Muffalo.lifeStages.0.labelMale>
@@ -25,13 +21,13 @@
   <Muffalo.lifeStages.2.labelMalePlural>male muffalos</Muffalo.lifeStages.2.labelMalePlural>
   <Muffalo.lifeStages.2.labelFemale>female muffalo</Muffalo.lifeStages.2.labelFemale>
   <Muffalo.lifeStages.2.labelFemalePlural>female muffalos</Muffalo.lifeStages.2.labelFemalePlural>
+  <Muffalo.labelMale>male muffalo</Muffalo.labelMale>
+  <Muffalo.labelMalePlural>male muffalos</Muffalo.labelMalePlural>
+  <Muffalo.labelFemale>female muffalo</Muffalo.labelFemale>
+  <Muffalo.labelFemalePlural>female muffalos</Muffalo.labelFemalePlural>
 
   <Gazelle.label>gazelle</Gazelle.label>
   <Gazelle.labelPlural>gazelles</Gazelle.labelPlural>
-  <Gazelle.labelMale>male gazelle</Gazelle.labelMale>
-  <Gazelle.labelMalePlural>male gazelles</Gazelle.labelMalePlural>
-  <Gazelle.labelFemale>female gazelle</Gazelle.labelFemale>
-  <Gazelle.labelFemalePlural>female gazelles</Gazelle.labelFemalePlural>
   <Gazelle.lifeStages.0.label>gazelle</Gazelle.lifeStages.0.label>
   <Gazelle.lifeStages.0.labelPlural>gazelle</Gazelle.lifeStages.0.labelPlural>
   <Gazelle.lifeStages.0.labelMale>male gazelle</Gazelle.lifeStages.0.labelMale>
@@ -50,13 +46,13 @@
   <Gazelle.lifeStages.2.labelMalePlural>male gazelles</Gazelle.lifeStages.2.labelMalePlural>
   <Gazelle.lifeStages.2.labelFemale>female gazelle</Gazelle.lifeStages.2.labelFemale>
   <Gazelle.lifeStages.2.labelFemalePlural>female gazelles</Gazelle.lifeStages.2.labelFemalePlural>
+  <Gazelle.labelMale>male gazelle</Gazelle.labelMale>
+  <Gazelle.labelMalePlural>male gazelles</Gazelle.labelMalePlural>
+  <Gazelle.labelFemale>female gazelle</Gazelle.labelFemale>
+  <Gazelle.labelFemalePlural>female gazelles</Gazelle.labelFemalePlural>
 
   <Iguana.label>iguana</Iguana.label>
   <Iguana.labelPlural>iguanas</Iguana.labelPlural>
-  <Iguana.labelMale>male iguana</Iguana.labelMale>
-  <Iguana.labelMalePlural>male iguanas</Iguana.labelMalePlural>
-  <Iguana.labelFemale>female iguana</Iguana.labelFemale>
-  <Iguana.labelFemalePlural>female iguanas</Iguana.labelFemalePlural>
   <Iguana.lifeStages.0.label>iguana</Iguana.lifeStages.0.label>
   <Iguana.lifeStages.0.labelPlural>iguana</Iguana.lifeStages.0.labelPlural>
   <Iguana.lifeStages.0.labelMale>male iguana</Iguana.lifeStages.0.labelMale>
@@ -75,13 +71,13 @@
   <Iguana.lifeStages.2.labelMalePlural>male iguanas</Iguana.lifeStages.2.labelMalePlural>
   <Iguana.lifeStages.2.labelFemale>female iguana</Iguana.lifeStages.2.labelFemale>
   <Iguana.lifeStages.2.labelFemalePlural>female iguanas</Iguana.lifeStages.2.labelFemalePlural>
+  <Iguana.labelMale>male iguana</Iguana.labelMale>
+  <Iguana.labelMalePlural>male iguanas</Iguana.labelMalePlural>
+  <Iguana.labelFemale>female iguana</Iguana.labelFemale>
+  <Iguana.labelFemalePlural>female iguanas</Iguana.labelFemalePlural>
 
   <Rhinoceros.label>rhinoceros</Rhinoceros.label>
   <Rhinoceros.labelPlural>rhinoceroses</Rhinoceros.labelPlural>
-  <Rhinoceros.labelMale>male rhinoceros</Rhinoceros.labelMale>
-  <Rhinoceros.labelMalePlural>male rhinoceroses</Rhinoceros.labelMalePlural>
-  <Rhinoceros.labelFemale>female rhinoceros</Rhinoceros.labelFemale>
-  <Rhinoceros.labelFemalePlural>female rhinoceroses</Rhinoceros.labelFemalePlural>
   <Rhinoceros.lifeStages.0.label>rhinoceros</Rhinoceros.lifeStages.0.label>
   <Rhinoceros.lifeStages.0.labelPlural>rhinoceroses</Rhinoceros.lifeStages.0.labelPlural>
   <Rhinoceros.lifeStages.0.labelMale>male rhinoceros</Rhinoceros.lifeStages.0.labelMale>
@@ -100,13 +96,13 @@
   <Rhinoceros.lifeStages.2.labelMalePlural>male rhinoceross</Rhinoceros.lifeStages.2.labelMalePlural>
   <Rhinoceros.lifeStages.2.labelFemale>female rhinoceros</Rhinoceros.lifeStages.2.labelFemale>
   <Rhinoceros.lifeStages.2.labelFemalePlural>female rhinoceross</Rhinoceros.lifeStages.2.labelFemalePlural>
+  <Rhinoceros.labelMale>male rhinoceros</Rhinoceros.labelMale>
+  <Rhinoceros.labelMalePlural>male rhinoceroses</Rhinoceros.labelMalePlural>
+  <Rhinoceros.labelFemale>female rhinoceros</Rhinoceros.labelFemale>
+  <Rhinoceros.labelFemalePlural>female rhinoceroses</Rhinoceros.labelFemalePlural>
 
   <Dromedary.label>dromedary</Dromedary.label>
   <Dromedary.labelPlural>dromedaries</Dromedary.labelPlural>
-  <Dromedary.labelMale>male dromedary</Dromedary.labelMale>
-  <Dromedary.labelMalePlural>male dromedaries</Dromedary.labelMalePlural>
-  <Dromedary.labelFemale>female dromedary</Dromedary.labelFemale>
-  <Dromedary.labelFemalePlural>female dromedaries</Dromedary.labelFemalePlural>
   <Dromedary.lifeStages.0.label>dromedary calf</Dromedary.lifeStages.0.label>
   <Dromedary.lifeStages.0.labelPlural>dromedary calves</Dromedary.lifeStages.0.labelPlural>
   <Dromedary.lifeStages.0.labelMale>male dromedary calf</Dromedary.lifeStages.0.labelMale>
@@ -125,6 +121,10 @@
   <Dromedary.lifeStages.2.labelMalePlural>male dromedarys</Dromedary.lifeStages.2.labelMalePlural>
   <Dromedary.lifeStages.2.labelFemale>female dromedary</Dromedary.lifeStages.2.labelFemale>
   <Dromedary.lifeStages.2.labelFemalePlural>female dromedarys</Dromedary.lifeStages.2.labelFemalePlural>
+  <Dromedary.labelMale>male dromedary</Dromedary.labelMale>
+  <Dromedary.labelMalePlural>male dromedaries</Dromedary.labelMalePlural>
+  <Dromedary.labelFemale>female dromedary</Dromedary.labelFemale>
+  <Dromedary.labelFemalePlural>female dromedaries</Dromedary.labelFemalePlural>
 
 
 </LanguageData>
