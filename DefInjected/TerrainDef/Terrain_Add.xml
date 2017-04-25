@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- SPECIAL: Floors from natural stones -->
+  <!-- SPECIAL: Terrains from natural stones -->
 
   <Sandstone_Rough.label>rough sandstone</Sandstone_Rough.label>
   <Sandstone_Rough.description>Rough, natural sandstone ground.</Sandstone_Rough.description>
