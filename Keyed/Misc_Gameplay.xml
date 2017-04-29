@@ -112,6 +112,9 @@
   <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
   <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
+  <ItemStashContents>Contents: {0}.</ItemStashContents>
+  <SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
+  <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
