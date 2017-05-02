@@ -115,6 +115,10 @@
   <ItemStashContents>Contents: {0}.</ItemStashContents>
   <SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
   <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>

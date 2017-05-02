@@ -3,26 +3,26 @@
 
   <!-- Misc -->
 
+  <Concrete.label>concrete</Concrete.label>
+  <Concrete.description>Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.description>
+
+  <PavedTile.label>paved tile</PavedTile.label>
+  <PavedTile.description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+
+  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling.</WoodPlankFloor.description>
+
   <MetalTile.label>metal tile</MetalTile.label>
   <MetalTile.description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>
 
   <SilverTile.label>silver tile</SilverTile.label>
-  <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+  <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into luxurious rooms.</SilverTile.description>
 
   <GoldTile.label>gold tile</GoldTile.label>
   <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
 
   <SterileTile.label>sterile tile</SterileTile.label>
   <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
-
-  <PavedTile.label>paved tile</PavedTile.label>
-  <PavedTile.description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
-
-  <Concrete.label>concrete</Concrete.label>
-  <Concrete.description>Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.description>
-
-  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling.</WoodPlankFloor.description>
 
 
   <!-- Carpets -->
