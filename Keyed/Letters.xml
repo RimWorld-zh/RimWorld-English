@@ -2,7 +2,8 @@
 <LanguageData>
 
   <JumpToLocation>Jump to location</JumpToLocation>
-  <Postpone>Postpone</Postpone>
+  <PostponeLetter>Postpone</PostponeLetter>
+  <RejectLetter>Reject</RejectLetter>
 
   <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store several days' worth of food now, while you still can.\n\nYou can build a walk-in refrigeration room to prevent food from spoiling.\n\nAnd try to buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
