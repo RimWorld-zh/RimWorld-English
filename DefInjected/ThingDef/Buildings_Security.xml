@@ -5,6 +5,7 @@
   <Sandbags.description>Cover from gunfire.</Sandbags.description>
   <Sandbags_Blueprint.label>sandbags (blueprint)</Sandbags_Blueprint.label>
   <Sandbags_Frame.label>sandbags (building)</Sandbags_Frame.label>
+  <Sandbags_Frame.description>Cover from gunfire.</Sandbags_Frame.description>
 
 
   <!-- Improvised turret -->
@@ -14,6 +15,7 @@
   <TurretGun_Blueprint.label>improvised turret (blueprint)</TurretGun_Blueprint.label>
   <TurretGun_Blueprint_Install.label>improvised turret (blueprint)</TurretGun_Blueprint_Install.label>
   <TurretGun_Frame.label>improvised turret (building)</TurretGun_Frame.label>
+  <TurretGun_Frame.description>An improvised turret that automatically fires at nearby enemies. Explodes when damaged. Its hacked-together AI brain isn't very smart, and can't be directly controlled, so beware of friendly fire.</TurretGun_Frame.description>
 
   <Bullet_TurretImprovised.label>improvised turret bullet</Bullet_TurretImprovised.label>
 
@@ -28,6 +30,7 @@
   <Turret_MortarBomb_Blueprint.label>mortar (blueprint)</Turret_MortarBomb_Blueprint.label>
   <Turret_MortarBomb_Blueprint_Install.label>mortar (blueprint)</Turret_MortarBomb_Blueprint_Install.label>
   <Turret_MortarBomb_Frame.label>mortar (building)</Turret_MortarBomb_Frame.label>
+  <Turret_MortarBomb_Frame.description>A mortar that launches explosive shells. Must be manned. Explodes when damaged.</Turret_MortarBomb_Frame.description>
 
   <Artillery_MortarBomb.label>explosive mortar</Artillery_MortarBomb.label>
   <Artillery_MortarBomb.description>Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged.</Artillery_MortarBomb.description>
@@ -42,6 +45,7 @@
   <Turret_MortarIncendiary_Blueprint.label>incendiary mortar (blueprint)</Turret_MortarIncendiary_Blueprint.label>
   <Turret_MortarIncendiary_Blueprint_Install.label>incendiary mortar (blueprint)</Turret_MortarIncendiary_Blueprint_Install.label>
   <Turret_MortarIncendiary_Frame.label>incendiary mortar (building)</Turret_MortarIncendiary_Frame.label>
+  <Turret_MortarIncendiary_Frame.description>A mortar that launches incendiary shells. Must be manned. Explodes when damaged.</Turret_MortarIncendiary_Frame.description>
 
   <Artillery_MortarIncendiary.label>incendiary mortar</Artillery_MortarIncendiary.label>
   <Artillery_MortarIncendiary.description>Incendiary mortar launcher. Lobs fire-starting bombs over walls. Very inaccurate but long-ranged.</Artillery_MortarIncendiary.description>
@@ -56,6 +60,7 @@
   <Turret_MortarEMP_Blueprint.label>EMP mortar (blueprint)</Turret_MortarEMP_Blueprint.label>
   <Turret_MortarEMP_Blueprint_Install.label>EMP mortar (blueprint)</Turret_MortarEMP_Blueprint_Install.label>
   <Turret_MortarEMP_Frame.label>EMP mortar (building)</Turret_MortarEMP_Frame.label>
+  <Turret_MortarEMP_Frame.description>A mortar that launches EMP bombs. Must be manned. Explodes when damaged.</Turret_MortarEMP_Frame.description>
 
   <Artillery_MortarEMP.label>EMP mortar</Artillery_MortarEMP.label>
   <Artillery_MortarEMP.description>Mortar launcher. Lobs EMP bombs over walls. Very inaccurate but long-ranged.</Artillery_MortarEMP.description>
@@ -69,16 +74,19 @@
   <TrapDeadfall.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</TrapDeadfall.description>
   <TrapDeadfall_Blueprint.label>deadfall trap (blueprint)</TrapDeadfall_Blueprint.label>
   <TrapDeadfall_Frame.label>deadfall trap (building)</TrapDeadfall_Frame.label>
+  <TrapDeadfall_Frame.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</TrapDeadfall_Frame.description>
 
   <TrapIEDBomb.label>IED trap</TrapIEDBomb.label>
   <TrapIEDBomb.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIEDBomb.description>
   <TrapIEDBomb_Blueprint.label>IED trap (blueprint)</TrapIEDBomb_Blueprint.label>
   <TrapIEDBomb_Frame.label>IED trap (building)</TrapIEDBomb_Frame.label>
+  <TrapIEDBomb_Frame.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIEDBomb_Frame.description>
 
   <TrapIEDIncendiary.label>IED incendiary trap</TrapIEDIncendiary.label>
   <TrapIEDIncendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</TrapIEDIncendiary.description>
   <TrapIEDIncendiary_Blueprint.label>IED incendiary trap (blueprint)</TrapIEDIncendiary_Blueprint.label>
   <TrapIEDIncendiary_Frame.label>IED incendiary trap (building)</TrapIEDIncendiary_Frame.label>
+  <TrapIEDIncendiary_Frame.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</TrapIEDIncendiary_Frame.description>
 
 
 </LanguageData>

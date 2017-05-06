@@ -2,10 +2,19 @@
 <LanguageData>
 
   <Deterioration.label>deterioration</Deterioration.label>
+  <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
+
   <Mining.label>mining</Mining.label>
+  <Mining.deathMessage>{0} has been killed.</Mining.deathMessage>
+
   <Rotting.label>rotting</Rotting.label>
+  <Rotting.deathMessage>{0} has been killed.</Rotting.deathMessage>
+
   <Extinguish.label>extinguish</Extinguish.label>
+  <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
+
   <Smoke.label>smoke</Smoke.label>
+  <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
 
 
 </LanguageData>

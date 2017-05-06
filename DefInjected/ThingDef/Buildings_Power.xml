@@ -5,32 +5,38 @@
   <PowerConduit.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
   <PowerConduit_Blueprint.label>power conduit (blueprint)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>power conduit (building)</PowerConduit_Frame.label>
+  <PowerConduit_Frame.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit_Frame.description>
 
   <PowerSwitch.label>power switch</PowerSwitch.label>
   <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
   <PowerSwitch_Blueprint.label>power switch (blueprint)</PowerSwitch_Blueprint.label>
   <PowerSwitch_Frame.label>power switch (building)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.description>Switches power on/off.</PowerSwitch_Frame.description>
 
   <FueledGenerator.label>fueled generator</FueledGenerator.label>
   <FueledGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator.description>
   <FueledGenerator_Blueprint.label>fueled generator (blueprint)</FueledGenerator_Blueprint.label>
   <FueledGenerator_Frame.label>fueled generator (building)</FueledGenerator_Frame.label>
+  <FueledGenerator_Frame.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator_Frame.description>
 
   <Battery.label>battery</Battery.label>
   <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Battery.description>
   <Battery_Blueprint.label>battery (blueprint)</Battery_Blueprint.label>
   <Battery_Blueprint_Install.label>battery (blueprint)</Battery_Blueprint_Install.label>
   <Battery_Frame.label>battery (building)</Battery_Frame.label>
+  <Battery_Frame.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Battery_Frame.description>
 
   <SolarGenerator.label>solar generator</SolarGenerator.label>
   <SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator.description>
   <SolarGenerator_Blueprint.label>solar generator (blueprint)</SolarGenerator_Blueprint.label>
   <SolarGenerator_Frame.label>solar generator (building)</SolarGenerator_Frame.label>
+  <SolarGenerator_Frame.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator_Frame.description>
 
   <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
   <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</GeothermalGenerator.description>
   <GeothermalGenerator_Blueprint.label>geothermal generator (blueprint)</GeothermalGenerator_Blueprint.label>
   <GeothermalGenerator_Frame.label>geothermal generator (building)</GeothermalGenerator_Frame.label>
+  <GeothermalGenerator_Frame.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</GeothermalGenerator_Frame.description>
 
 
 </LanguageData>

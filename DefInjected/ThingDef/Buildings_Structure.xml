@@ -7,11 +7,13 @@
   <Door.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door.description>
   <Door_Blueprint.label>door (blueprint)</Door_Blueprint.label>
   <Door_Frame.label>door (building)</Door_Frame.label>
+  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door_Frame.description>
 
   <Autodoor.label>autodoor</Autodoor.label>
   <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
   <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
   <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor_Frame.description>
 
 
   <!-- Walls -->
@@ -20,6 +22,7 @@
   <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
   <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
   <Wall_Frame.label>wall (building)</Wall_Frame.label>
+  <Wall_Frame.description>An impassable wall. Capable of holding up a roof.</Wall_Frame.description>
 
 
 </LanguageData>

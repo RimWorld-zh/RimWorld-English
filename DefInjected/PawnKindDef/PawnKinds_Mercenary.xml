@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MercenaryGunner.label>mercenary gunner</MercenaryGunner.label>
-  <MercenaryGunner.labelPlural>mercenary gunners</MercenaryGunner.labelPlural>
-
-  <MercenarySniper.label>mercenary sniper</MercenarySniper.label>
-  <MercenarySniper.labelPlural>mercenary snipers</MercenarySniper.labelPlural>
-
   <GrenadierDestructive.label>grenadier</GrenadierDestructive.label>
   <GrenadierDestructive.labelPlural>grenadiers</GrenadierDestructive.labelPlural>
 
   <GrenadierEMP.label>EMP grenadier</GrenadierEMP.label>
   <GrenadierEMP.labelPlural>EMP grenadiers</GrenadierEMP.labelPlural>
+
+  <MercenaryGunner.label>mercenary gunner</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>mercenary gunners</MercenaryGunner.labelPlural>
+
+  <MercenarySniper.label>mercenary sniper</MercenarySniper.label>
+  <MercenarySniper.labelPlural>mercenary snipers</MercenarySniper.labelPlural>
 
   <MercenarySlasher.label>mercenary slasher</MercenarySlasher.label>
   <MercenarySlasher.labelPlural>mercenary slashers</MercenarySlasher.labelPlural>

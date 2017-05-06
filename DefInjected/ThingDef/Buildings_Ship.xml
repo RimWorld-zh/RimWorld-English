@@ -7,6 +7,7 @@
   <Ship_Beam.description>A structural beam around which a ship can be constructed.</Ship_Beam.description>
   <Ship_Beam_Blueprint.label>ship structural beam (blueprint)</Ship_Beam_Blueprint.label>
   <Ship_Beam_Frame.label>ship structural beam (building)</Ship_Beam_Frame.label>
+  <Ship_Beam_Frame.description>A structural beam around which a ship can be constructed.</Ship_Beam_Frame.description>
 
 
   <!-- Cryptosleep casket -->
@@ -15,6 +16,7 @@
   <Ship_CryptosleepCasket.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</Ship_CryptosleepCasket.description>
   <Ship_CryptosleepCasket_Blueprint.label>ship cryptosleep casket (blueprint)</Ship_CryptosleepCasket_Blueprint.label>
   <Ship_CryptosleepCasket_Frame.label>ship cryptosleep casket (building)</Ship_CryptosleepCasket_Frame.label>
+  <Ship_CryptosleepCasket_Frame.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</Ship_CryptosleepCasket_Frame.description>
 
 
   <!-- Computer core -->
@@ -23,6 +25,7 @@
   <Ship_ComputerCore.description>A computer core capable of housing a superhumanlike AI who can guide a ship through any challenge.</Ship_ComputerCore.description>
   <Ship_ComputerCore_Blueprint.label>ship computer core (blueprint)</Ship_ComputerCore_Blueprint.label>
   <Ship_ComputerCore_Frame.label>ship computer core (building)</Ship_ComputerCore_Frame.label>
+  <Ship_ComputerCore_Frame.description>A computer core capable of housing a superhumanlike AI who can guide a ship through any challenge.</Ship_ComputerCore_Frame.description>
 
 
   <!-- Reactor -->
@@ -31,6 +34,7 @@
   <Ship_Reactor.description>Powers a ship on its journey through space.</Ship_Reactor.description>
   <Ship_Reactor_Blueprint.label>ship reactor (blueprint)</Ship_Reactor_Blueprint.label>
   <Ship_Reactor_Frame.label>ship reactor (building)</Ship_Reactor_Frame.label>
+  <Ship_Reactor_Frame.description>Powers a ship on its journey through space.</Ship_Reactor_Frame.description>
 
 
   <!-- Engine -->
@@ -39,6 +43,7 @@
   <Ship_Engine.description>An engine capable of launching a ship into orbit and on interstellar trajectories.</Ship_Engine.description>
   <Ship_Engine_Blueprint.label>ship engine (blueprint)</Ship_Engine_Blueprint.label>
   <Ship_Engine_Frame.label>ship engine (building)</Ship_Engine_Frame.label>
+  <Ship_Engine_Frame.description>An engine capable of launching a ship into orbit and on interstellar trajectories.</Ship_Engine_Frame.description>
 
 
 </LanguageData>

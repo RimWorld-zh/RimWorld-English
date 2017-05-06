@@ -27,8 +27,8 @@
   <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
   <IsIncapped>{0} cannot walk.</IsIncapped>
 
-  <CommandAllowFiringLabel>Allow firing</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>Toggle allow firing.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandAllowFiringDesc>
+  <CommandFireAtWillLabel>Fire at will</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
 
   <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>

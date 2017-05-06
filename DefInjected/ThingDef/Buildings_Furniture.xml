@@ -7,30 +7,35 @@
   <SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.description>
   <SleepingSpot_Blueprint.label>sleeping spot (blueprint)</SleepingSpot_Blueprint.label>
   <SleepingSpot_Frame.label>sleeping spot (building)</SleepingSpot_Frame.label>
+  <SleepingSpot_Frame.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot_Frame.description>
 
   <Bed.label>bed</Bed.label>
   <Bed.description>A cozy mattress and sheets on a frame for resting.</Bed.description>
   <Bed_Blueprint.label>bed (blueprint)</Bed_Blueprint.label>
   <Bed_Blueprint_Install.label>bed (blueprint)</Bed_Blueprint_Install.label>
   <Bed_Frame.label>bed (building)</Bed_Frame.label>
+  <Bed_Frame.description>A cozy mattress and sheets on a frame for resting.</Bed_Frame.description>
 
   <DoubleBed.label>double bed</DoubleBed.label>
   <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
   <DoubleBed_Blueprint.label>double bed (blueprint)</DoubleBed_Blueprint.label>
   <DoubleBed_Blueprint_Install.label>double bed (blueprint)</DoubleBed_Blueprint_Install.label>
   <DoubleBed_Frame.label>double bed (building)</DoubleBed_Frame.label>
+  <DoubleBed_Frame.description>A simple double-wide bed that fits two people.</DoubleBed_Frame.description>
 
   <RoyalBed.label>royal bed</RoyalBed.label>
   <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful. Fits two.</RoyalBed.description>
   <RoyalBed_Blueprint.label>royal bed (blueprint)</RoyalBed_Blueprint.label>
   <RoyalBed_Blueprint_Install.label>royal bed (blueprint)</RoyalBed_Blueprint_Install.label>
   <RoyalBed_Frame.label>royal bed (building)</RoyalBed_Frame.label>
+  <RoyalBed_Frame.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful. Fits two.</RoyalBed_Frame.description>
 
   <HospitalBed.label>hospital bed</HospitalBed.label>
   <HospitalBed.description>A bed specially designed for injured people. Improves chance of successful medical work.</HospitalBed.description>
   <HospitalBed_Blueprint.label>hospital bed (blueprint)</HospitalBed_Blueprint.label>
   <HospitalBed_Blueprint_Install.label>hospital bed (blueprint)</HospitalBed_Blueprint_Install.label>
   <HospitalBed_Frame.label>hospital bed (building)</HospitalBed_Frame.label>
+  <HospitalBed_Frame.description>A bed specially designed for injured people. Improves chance of successful medical work.</HospitalBed_Frame.description>
 
 
   <!-- Animal beds -->
@@ -39,18 +44,21 @@
   <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
   <AnimalSleepingSpot_Blueprint.label>animal sleeping spot (blueprint)</AnimalSleepingSpot_Blueprint.label>
   <AnimalSleepingSpot_Frame.label>animal sleeping spot (building)</AnimalSleepingSpot_Frame.label>
+  <AnimalSleepingSpot_Frame.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot_Frame.description>
 
   <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
   <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
   <AnimalSleepingBox_Blueprint.label>animal sleeping box (blueprint)</AnimalSleepingBox_Blueprint.label>
   <AnimalSleepingBox_Blueprint_Install.label>animal sleeping box (blueprint)</AnimalSleepingBox_Blueprint_Install.label>
   <AnimalSleepingBox_Frame.label>animal sleeping box (building)</AnimalSleepingBox_Frame.label>
+  <AnimalSleepingBox_Frame.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox_Frame.description>
 
   <AnimalBed.label>animal bed</AnimalBed.label>
   <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
   <AnimalBed_Blueprint.label>animal bed (blueprint)</AnimalBed_Blueprint.label>
   <AnimalBed_Blueprint_Install.label>animal bed (blueprint)</AnimalBed_Blueprint_Install.label>
   <AnimalBed_Frame.label>animal bed (building)</AnimalBed_Frame.label>
+  <AnimalBed_Frame.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed_Frame.description>
 
 
   <!-- Basic domestic furniture -->
@@ -60,18 +68,21 @@
   <Stool_Blueprint.label>stool (blueprint)</Stool_Blueprint.label>
   <Stool_Blueprint_Install.label>stool (blueprint)</Stool_Blueprint_Install.label>
   <Stool_Frame.label>stool (building)</Stool_Frame.label>
+  <Stool_Frame.description>A simple platform on which to sit.</Stool_Frame.description>
 
   <DiningChair.label>dining chair</DiningChair.label>
   <DiningChair.description>A comfortable and attractive chair for sitting at a table.</DiningChair.description>
   <DiningChair_Blueprint.label>dining chair (blueprint)</DiningChair_Blueprint.label>
   <DiningChair_Blueprint_Install.label>dining chair (blueprint)</DiningChair_Blueprint_Install.label>
   <DiningChair_Frame.label>dining chair (building)</DiningChair_Frame.label>
+  <DiningChair_Frame.description>A comfortable and attractive chair for sitting at a table.</DiningChair_Frame.description>
 
   <Armchair.label>armchair</Armchair.label>
   <Armchair.description>A large, soft, comfy seat. Great for relaxation.</Armchair.description>
   <Armchair_Blueprint.label>armchair (blueprint)</Armchair_Blueprint.label>
   <Armchair_Blueprint_Install.label>armchair (blueprint)</Armchair_Blueprint_Install.label>
   <Armchair_Frame.label>armchair (building)</Armchair_Frame.label>
+  <Armchair_Frame.description>A large, soft, comfy seat. Great for relaxation.</Armchair_Frame.description>
 
 
   <!-- Table base -->
@@ -81,18 +92,21 @@
   <TableShort_Blueprint.label>table (short) (blueprint)</TableShort_Blueprint.label>
   <TableShort_Blueprint_Install.label>table (short) (blueprint)</TableShort_Blueprint_Install.label>
   <TableShort_Frame.label>table (short) (building)</TableShort_Frame.label>
+  <TableShort_Frame.description>People eat off tables when chairs are placed facing them.</TableShort_Frame.description>
 
   <TableLong.label>table (long)</TableLong.label>
   <TableLong.description>People eat off tables when chairs are placed facing them.</TableLong.description>
   <TableLong_Blueprint.label>table (long) (blueprint)</TableLong_Blueprint.label>
   <TableLong_Blueprint_Install.label>table (long) (blueprint)</TableLong_Blueprint_Install.label>
   <TableLong_Frame.label>table (long) (building)</TableLong_Frame.label>
+  <TableLong_Frame.description>People eat off tables when chairs are placed facing them.</TableLong_Frame.description>
 
   <PlantPot.label>plant pot</PlantPot.label>
   <PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</PlantPot.description>
   <PlantPot_Blueprint.label>plant pot (blueprint)</PlantPot_Blueprint.label>
   <PlantPot_Blueprint_Install.label>plant pot (blueprint)</PlantPot_Blueprint_Install.label>
   <PlantPot_Frame.label>plant pot (building)</PlantPot_Frame.label>
+  <PlantPot_Frame.description>Plant decorative flowers here to improve the mood of people nearby.</PlantPot_Frame.description>
 
 
   <!-- Lighting -->
@@ -101,36 +115,42 @@
   <TorchLamp.description>A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
   <TorchLamp_Blueprint.label>torch lamp (blueprint)</TorchLamp_Blueprint.label>
   <TorchLamp_Frame.label>torch lamp (building)</TorchLamp_Frame.label>
+  <TorchLamp_Frame.description>A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp_Frame.description>
 
   <StandingLamp.label>standing lamp</StandingLamp.label>
   <StandingLamp.description>Standing lamp that lights an area.</StandingLamp.description>
   <StandingLamp_Blueprint.label>standing lamp (blueprint)</StandingLamp_Blueprint.label>
   <StandingLamp_Blueprint_Install.label>standing lamp (blueprint)</StandingLamp_Blueprint_Install.label>
   <StandingLamp_Frame.label>standing lamp (building)</StandingLamp_Frame.label>
+  <StandingLamp_Frame.description>Standing lamp that lights an area.</StandingLamp_Frame.description>
 
   <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
   <StandingLamp_Red.description>Standing lamp that lights an area in red.</StandingLamp_Red.description>
   <StandingLamp_Red_Blueprint.label>standing lamp (red) (blueprint)</StandingLamp_Red_Blueprint.label>
   <StandingLamp_Red_Blueprint_Install.label>standing lamp (red) (blueprint)</StandingLamp_Red_Blueprint_Install.label>
   <StandingLamp_Red_Frame.label>standing lamp (red) (building)</StandingLamp_Red_Frame.label>
+  <StandingLamp_Red_Frame.description>Standing lamp that lights an area in red.</StandingLamp_Red_Frame.description>
 
   <StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>
   <StandingLamp_Green.description>Standing lamp that lights an area in green.</StandingLamp_Green.description>
   <StandingLamp_Green_Blueprint.label>standing lamp (green) (blueprint)</StandingLamp_Green_Blueprint.label>
   <StandingLamp_Green_Blueprint_Install.label>standing lamp (green) (blueprint)</StandingLamp_Green_Blueprint_Install.label>
   <StandingLamp_Green_Frame.label>standing lamp (green) (building)</StandingLamp_Green_Frame.label>
+  <StandingLamp_Green_Frame.description>Standing lamp that lights an area in green.</StandingLamp_Green_Frame.description>
 
   <StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>
   <StandingLamp_Blue.description>Standing lamp that lights an area in blue.</StandingLamp_Blue.description>
   <StandingLamp_Blue_Blueprint.label>standing lamp (blue) (blueprint)</StandingLamp_Blue_Blueprint.label>
   <StandingLamp_Blue_Blueprint_Install.label>standing lamp (blue) (blueprint)</StandingLamp_Blue_Blueprint_Install.label>
   <StandingLamp_Blue_Frame.label>standing lamp (blue) (building)</StandingLamp_Blue_Frame.label>
+  <StandingLamp_Blue_Frame.description>Standing lamp that lights an area in blue.</StandingLamp_Blue_Frame.description>
 
   <SunLamp.label>sun lamp</SunLamp.label>
   <SunLamp.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
   <SunLamp_Blueprint.label>sun lamp (blueprint)</SunLamp_Blueprint.label>
   <SunLamp_Blueprint_Install.label>sun lamp (blueprint)</SunLamp_Blueprint_Install.label>
   <SunLamp_Frame.label>sun lamp (building)</SunLamp_Frame.label>
+  <SunLamp_Frame.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp_Frame.description>
 
 
   <!-- Storage -->
@@ -140,6 +160,7 @@
   <Shelf_Blueprint.label>shelf (blueprint)</Shelf_Blueprint.label>
   <Shelf_Blueprint_Install.label>shelf (blueprint)</Shelf_Blueprint_Install.label>
   <Shelf_Frame.label>shelf (building)</Shelf_Frame.label>
+  <Shelf_Frame.description>Items stored in this will not deteriorate, even if outside.</Shelf_Frame.description>
 
 
 </LanguageData>
