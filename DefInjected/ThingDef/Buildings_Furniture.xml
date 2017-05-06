@@ -147,6 +147,7 @@
 
   <SunLamp.label>sun lamp</SunLamp.label>
   <SunLamp.description>Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
+  <SunLamp.comps.3.offMessage>Off for plant resting period</SunLamp.comps.3.offMessage>
   <SunLamp_Blueprint.label>sun lamp (blueprint)</SunLamp_Blueprint.label>
   <SunLamp_Blueprint_Install.label>sun lamp (blueprint)</SunLamp_Blueprint_Install.label>
   <SunLamp_Frame.label>sun lamp (building)</SunLamp_Frame.label>
