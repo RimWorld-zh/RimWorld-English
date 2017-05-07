@@ -8,7 +8,7 @@
   <MiningSpeed.description>A speed at which this person digs at walls and drills for deep resources.</MiningSpeed.description>
 
   <MiningYield.label>mining yield</MiningYield.label>
-  <MiningYield.description>The percentage yield a miner will achieve. Higher percentages reduce the chance of wasting the yield. This applies to both wall mining and deep drill mining.</MiningYield.description>
+  <MiningYield.description>The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.</MiningYield.description>
 
   <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
   <SmoothingSpeed.description>A multiplier on the speed at which this person smooths floors.</SmoothingSpeed.description>
