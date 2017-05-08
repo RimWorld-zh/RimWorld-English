@@ -142,6 +142,7 @@
   <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
   <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
   <TextMote_Dodge>Dodge</TextMote_Dodge>
+  <TextMote_Tended>{0} tended</TextMote_Tended>
 
   <!-- Areas -->
   <Home>Home</Home>
