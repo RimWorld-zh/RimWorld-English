@@ -167,11 +167,8 @@
   <!-- Settle -->
   <CommandSettle>Settle</CommandSettle>
   <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
-  <CommandSettleFailOtherWorldObjectsHere>Your caravan must be the only object on this tile in order to settle the area.</CommandSettleFailOtherWorldObjectsHere>
   <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
-  <CommandSettleFailBiomeNotImplemented>Biome not implemented.</CommandSettleFailBiomeNotImplemented>
-  <CommandSettleFailFactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</CommandSettleFailFactionBaseAdjacent>
   <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
   <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
 
