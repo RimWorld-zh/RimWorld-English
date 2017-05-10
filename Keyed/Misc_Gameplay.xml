@@ -119,6 +119,9 @@
   <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
   <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
   <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
+  <KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
+  <KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
+  <KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>

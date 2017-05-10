@@ -1,28 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Artistic recipes - speed not affected by skill. -->
+  <!-- Artistic recipes - speed not affected by skill because skill affects output quality -->
 
   <SculptingSpeed.label>sculpting speed</SculptingSpeed.label>
-  <SculptingSpeed.description>Speed at which this person sculpts.</SculptingSpeed.description>
+  <SculptingSpeed.description>Speed at which this person sculpts. Note: Skill affects the quality of the sculptures created, but not the sculpting speed.</SculptingSpeed.description>
 
   <TailoringSpeed.label>tailoring speed</TailoringSpeed.label>
-  <TailoringSpeed.description>Speed at which this person makes clothes.</TailoringSpeed.description>
+  <TailoringSpeed.description>Speed at which this person makes clothes. Note: Skill affects the quality of the apparel created, but not the tailoring speed.</TailoringSpeed.description>
 
   <SmithingSpeed.label>smithing speed</SmithingSpeed.label>
-  <SmithingSpeed.description>Speed at which this person smiths or crafts weapons, machines, ammunition, and tools.</SmithingSpeed.description>
+  <SmithingSpeed.description>Speed at which this person smiths or crafts weapons, machines, ammunition, and tools. Note: Skill affects the quality of the items created, but not the smithing speed.</SmithingSpeed.description>
+
+
+  <!-- Production recipes - speed affected by skill because there is no output quality -->
 
   <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
   <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
 
   <StonecuttingSpeed.label>stonecutting speed</StonecuttingSpeed.label>
   <StonecuttingSpeed.description>Speed at which this person cuts rough stone into blocks.</StonecuttingSpeed.description>
-
-  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
-  <SmeltingSpeed.description>Speed at which this person smelts things.</SmeltingSpeed.description>
-
-
-  <!-- Production recipes - speed affected by skill. -->
 
   <CookSpeed.label>cooking speed</CookSpeed.label>
   <CookSpeed.description>Speed at which this person cooks meals.</CookSpeed.description>
@@ -47,6 +44,12 @@
 
   <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
   <ButcheryMechanoidEfficiency.description>Multiplier on the amount of materials yielded when this person disassembles a dead mechanoid.</ButcheryMechanoidEfficiency.description>
+
+
+  <!-- Dumb recipes - not affected by skill because there's no skill component -->
+
+  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Speed at which this person smelts things. Note: Since this is dumb labor, its speed is not affected by any skill.</SmeltingSpeed.description>
 
 
 </LanguageData>
