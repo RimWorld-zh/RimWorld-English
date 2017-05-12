@@ -110,7 +110,7 @@
 
   <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
+  <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Construction work type goes and fixes it.</LetterBuildingBrokenDown>
 
   <!-- Ransom demand -->
   <RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>

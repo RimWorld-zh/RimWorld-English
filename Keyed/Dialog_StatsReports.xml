@@ -31,9 +31,10 @@
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
   <StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
-  <StatsReport_GearAndInventoryMass>Gear and inventory mass</StatsReport_GearAndInventoryMass>
+  <StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
   <StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
   <AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
   <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>
 
 </LanguageData>
