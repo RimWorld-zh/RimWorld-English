@@ -275,7 +275,7 @@
   <DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
   <DoBillsRefinery.gerund>refining chemicals at</DoBillsRefinery.gerund>
 
-  <DoBillsProduceDrugs.label>produce drugs</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.label>produce drugs at drug lab</DoBillsProduceDrugs.label>
   <DoBillsProduceDrugs.verb>produce drugs</DoBillsProduceDrugs.verb>
   <DoBillsProduceDrugs.gerund>producing drugs at</DoBillsProduceDrugs.gerund>
 

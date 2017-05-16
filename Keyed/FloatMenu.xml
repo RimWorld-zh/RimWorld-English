@@ -139,6 +139,8 @@
 
   <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
 
+  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+
   <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>

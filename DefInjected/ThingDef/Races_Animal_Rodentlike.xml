@@ -51,15 +51,15 @@
   <Boomrat_Corpse.label>boomrat corpse</Boomrat_Corpse.label>
   <Boomrat_Corpse.description>boomrat corpse</Boomrat_Corpse.description>
 
-  <Raccoon.label>Raccoon</Raccoon.label>
+  <Raccoon.label>raccoon</Raccoon.label>
   <Raccoon.description>A small, hardy animal that ranges wide across forests and shrubland. Eats almost anything.</Raccoon.description>
-  <Raccoon_Leather.label>Raccoon leather</Raccoon_Leather.label>
-  <Raccoon_Leather.description>Raccoon leather</Raccoon_Leather.description>
-  <Raccoon_Leather.stuffProps.stuffAdjective>Raccoon leather</Raccoon_Leather.stuffProps.stuffAdjective>
-  <Raccoon_Meat.label>Raccoon meat</Raccoon_Meat.label>
-  <Raccoon_Meat.description>Raccoon meat</Raccoon_Meat.description>
-  <Raccoon_Corpse.label>Raccoon corpse</Raccoon_Corpse.label>
-  <Raccoon_Corpse.description>Raccoon corpse</Raccoon_Corpse.description>
+  <Raccoon_Leather.label>raccoon leather</Raccoon_Leather.label>
+  <Raccoon_Leather.description>raccoon leather</Raccoon_Leather.description>
+  <Raccoon_Leather.stuffProps.stuffAdjective>raccoon leather</Raccoon_Leather.stuffProps.stuffAdjective>
+  <Raccoon_Meat.label>raccoon meat</Raccoon_Meat.label>
+  <Raccoon_Meat.description>raccoon meat</Raccoon_Meat.description>
+  <Raccoon_Corpse.label>raccoon corpse</Raccoon_Corpse.label>
+  <Raccoon_Corpse.description>raccoon corpse</Raccoon_Corpse.description>
 
   <Rat.label>rat</Rat.label>
   <Rat.description>A rodent famous for soiling kitchens and spreading disease. Eats almost anything; lives almost anywhere.</Rat.description>
