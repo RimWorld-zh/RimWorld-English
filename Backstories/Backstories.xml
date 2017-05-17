@@ -2325,13 +2325,13 @@ At age five, HE enrolled at the corporate academy where he learned loyalty and r
 		<titleShort>Soldierboy</titleShort>
 		<desc>NAME was raised on a military base in the Xennoa system. HECAP was exposed to many different strenuous activities and grew strong at an early age. HECAP also learned negotiation, medical, and military tactics.</desc>
 	</MilitaryTrainee74>
-	<AWOLSoldier46>
+	<AWOLSoldier54>
 		<title>AWOL soldier</title>
 		<titleShort>Soldier</titleShort>
 		<desc>NAME was an infantryman.
 
-When HECAP was informed of his assignment to the Xennoa-Zartza War, HECAP decided he did not want to be a soldier. He was able to escape via military spacejet.</desc>
-	</AWOLSoldier46>
+When HE was informed of his assignment to the Xennoa-Zartza War, HE decided HE did not want to be a soldier. He was able to escape via military spacejet.</desc>
+	</AWOLSoldier54>
 	<Bookworm75>
 		<title>Bookworm</title>
 		<titleShort>Bookworm</titleShort>
@@ -3616,6 +3616,20 @@ She was often put into hopeless situations where even family would try to terror
 
 After her homeworld was unexpectedly destroyed in the wars, she traveled great distances, seeking a refuge where she could build a new, free way of life.</desc>
 	</MilitiaSoldier83>
+	<MidworldCadet20>
+		<title>Midworld cadet</title>
+		<titleShort>Cadet</titleShort>
+		<desc>Growing up on a high-tech midworld with a flourishing space transit industry, NAME wished to leave for the stars and live among the growing spacer class.
+
+HECAP excelled in HIS studies, and gained entry to HIS homeworld's most prestigious naval academy.</desc>
+	</MidworldCadet20>
+	<WarshipCaptain77>
+		<title>Warship captain</title>
+		<titleShort>Captain</titleShort>
+		<desc>Years of being commanding officer of an advanced corvette taught NAME the art of leadership, the techniques of higher engineering, and how to stay calm while enemies try to kill you.
+
+Unfortunately, NAME only very rarely had contact with nature.</desc>
+	</WarshipCaptain77>
 	<Punk70>
 		<title>Punk</title>
 		<titleShort>Punk</titleShort>
