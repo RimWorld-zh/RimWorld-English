@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
+  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
+
+  <SolarFlare.label>solar flare</SolarFlare.label>
+  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
+
+
+</LanguageData>

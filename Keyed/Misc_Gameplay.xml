@@ -73,6 +73,7 @@
   <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
   <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
   <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
   <CaravanTraveling>Traveling.</CaravanTraveling>
   <CaravanWaiting>Waiting.</CaravanWaiting>
   <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>

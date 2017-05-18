@@ -40,11 +40,11 @@
   <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
 
   <HeatWave.label>heat wave</HeatWave.label>
-  <HeatWave.letterText>An unusual heat wave has begun. Watch out for heat stroke.</HeatWave.letterText>
+  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.</HeatWave.letterText>
   <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
 
   <ColdSnap.label>cold snap</ColdSnap.label>
-  <ColdSnap.letterText>An unusual cold snap has set in. Watch out for hypothermia and dying crops.</ColdSnap.letterText>
+  <ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText>
   <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
 
   <Flashstorm.label>flashstorm</Flashstorm.label>
