@@ -17,9 +17,9 @@
 
   <!-- Doctor -->
 
-  <DoctorTreatEmergency.label>give emergency treatment</DoctorTreatEmergency.label>
-  <DoctorTreatEmergency.verb>treat</DoctorTreatEmergency.verb>
-  <DoctorTreatEmergency.gerund>treating</DoctorTreatEmergency.gerund>
+  <DoctorTendEmergency.label>give emergency treatment</DoctorTendEmergency.label>
+  <DoctorTendEmergency.verb>tend to</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.gerund>tending to</DoctorTendEmergency.gerund>
 
   <DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
   <DoctorRescue.verb>rescue</DoctorRescue.verb>
