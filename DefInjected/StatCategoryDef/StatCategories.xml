@@ -21,6 +21,7 @@
   <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
   <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
   <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
+  <Surgery.label>Surgical</Surgery.label>
 
 
   <!-- Pawn -->

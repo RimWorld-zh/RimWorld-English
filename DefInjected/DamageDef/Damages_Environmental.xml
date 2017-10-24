@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Flame.label>flame</Flame.label>
+  <Flame.deathMessage>{0} has burned to death.</Flame.deathMessage>
+
+
+  <!-- Burn is like Flame, but doesn't ignite anything -->
+
+  <Burn.label>burn</Burn.label>
+  <Burn.deathMessage>{0} has burned to death.</Burn.deathMessage>
+
+  <Frostbite.label>frostbite</Frostbite.label>
+  <Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>
+
+  <TornadoScratch.label>scratch</TornadoScratch.label>
+  <TornadoScratch.deathMessage>{0} has been killed by a tornado.</TornadoScratch.deathMessage>
+
+
+</LanguageData>

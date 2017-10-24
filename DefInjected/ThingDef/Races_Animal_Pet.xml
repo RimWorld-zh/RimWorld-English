@@ -3,6 +3,9 @@
 
   <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
   <YorkshireTerrier.description>A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal.</YorkshireTerrier.description>
+  <YorkshireTerrier.tools.0.label>left claw</YorkshireTerrier.tools.0.label>
+  <YorkshireTerrier.tools.1.label>right claw</YorkshireTerrier.tools.1.label>
+  <YorkshireTerrier.tools.3.label>head</YorkshireTerrier.tools.3.label>
   <YorkshireTerrier_Leather.label>yorkieskin</YorkshireTerrier_Leather.label>
   <YorkshireTerrier_Leather.description>yorkieskin</YorkshireTerrier_Leather.description>
   <YorkshireTerrier_Leather.stuffProps.stuffAdjective>yorkieskin</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
@@ -13,6 +16,9 @@
 
   <Husky.label>husky</Husky.label>
   <Husky.description>A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments.</Husky.description>
+  <Husky.tools.0.label>left claw</Husky.tools.0.label>
+  <Husky.tools.1.label>right claw</Husky.tools.1.label>
+  <Husky.tools.3.label>head</Husky.tools.3.label>
   <Husky_Leather.label>husky fur</Husky_Leather.label>
   <Husky_Leather.description>husky fur</Husky_Leather.description>
   <Husky_Leather.stuffProps.stuffAdjective>husky fur</Husky_Leather.stuffProps.stuffAdjective>
@@ -23,6 +29,9 @@
 
   <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
   <LabradorRetriever.description>A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend.</LabradorRetriever.description>
+  <LabradorRetriever.tools.0.label>left claw</LabradorRetriever.tools.0.label>
+  <LabradorRetriever.tools.1.label>right claw</LabradorRetriever.tools.1.label>
+  <LabradorRetriever.tools.3.label>head</LabradorRetriever.tools.3.label>
   <LabradorRetriever_Leather.label>labrador fur</LabradorRetriever_Leather.label>
   <LabradorRetriever_Leather.description>labrador fur</LabradorRetriever_Leather.description>
   <LabradorRetriever_Leather.stuffProps.stuffAdjective>labrador fur</LabradorRetriever_Leather.stuffProps.stuffAdjective>
@@ -33,6 +42,9 @@
 
   <Cat.label>cat</Cat.label>
   <Cat.description>One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their calmness, independence, and fine, pettable fur.</Cat.description>
+  <Cat.tools.0.label>left claw</Cat.tools.0.label>
+  <Cat.tools.1.label>right claw</Cat.tools.1.label>
+  <Cat.tools.3.label>head</Cat.tools.3.label>
   <Cat_Leather.label>catskin</Cat_Leather.label>
   <Cat_Leather.description>catskin</Cat_Leather.description>
   <Cat_Leather.stuffProps.stuffAdjective>catskin</Cat_Leather.stuffProps.stuffAdjective>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cut.label>cut</Cut.label>
+  <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+
+  <Crush.label>crush</Crush.label>
+  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+
+  <Blunt.label>blunt</Blunt.label>
+  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+
+
+  <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
+
+  <Poke.label>blunt</Poke.label>
+  <Poke.deathMessage>{0} has been beaten to death.</Poke.deathMessage>
+
+  <Stab.label>stab</Stab.label>
+  <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+
+  <Scratch.label>scratch</Scratch.label>
+  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+
+  <Bite.label>bite</Bite.label>
+  <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
+
+  <ToxicBite.label>toxic bite</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
+
+
+</LanguageData>

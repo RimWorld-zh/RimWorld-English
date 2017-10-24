@@ -66,11 +66,11 @@
   <MultiAnalyzer_Frame.description>Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer_Frame.description>
 
   <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor.description>
+  <VitalsMonitor.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</VitalsMonitor.description>
   <VitalsMonitor_Blueprint.label>vitals monitor (blueprint)</VitalsMonitor_Blueprint.label>
   <VitalsMonitor_Blueprint_Install.label>vitals monitor (blueprint)</VitalsMonitor_Blueprint_Install.label>
   <VitalsMonitor_Frame.label>vitals monitor (building)</VitalsMonitor_Frame.label>
-  <VitalsMonitor_Frame.description>Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.</VitalsMonitor_Frame.description>
+  <VitalsMonitor_Frame.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</VitalsMonitor_Frame.description>
 
   <ToolCabinet.label>tool cabinet</ToolCabinet.label>
   <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>

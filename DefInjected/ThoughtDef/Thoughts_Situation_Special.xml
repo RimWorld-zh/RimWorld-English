@@ -1,6 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <FeelingRandom.stages.0.label>Feeling great</FeelingRandom.stages.0.label>
+  <FeelingRandom.stages.0.description>For no apparent reason, I just feel great right now.</FeelingRandom.stages.0.description>
+  <FeelingRandom.stages.1.label>Feeling good</FeelingRandom.stages.1.label>
+  <FeelingRandom.stages.1.description>For no apparent reason, I just feel good right now.</FeelingRandom.stages.1.description>
+  <FeelingRandom.stages.2.label>Feeling bad</FeelingRandom.stages.2.label>
+  <FeelingRandom.stages.2.description>For no apparent reason, I just feel bad right now.</FeelingRandom.stages.2.description>
+  <FeelingRandom.stages.3.label>Feeling terrible</FeelingRandom.stages.3.label>
+  <FeelingRandom.stages.3.description>For no apparent reason, I just feel terrible right now.</FeelingRandom.stages.3.description>
+
   <Imprisoned.stages.0.label>imprisoned</Imprisoned.stages.0.label>
   <Imprisoned.stages.0.description>I hate being locked up.</Imprisoned.stages.0.description>
 
@@ -21,6 +30,26 @@
   <Pain.stages.2.description>Make it stop... make it stop... make it stop...</Pain.stages.2.description>
   <Pain.stages.3.label>in shock from exceptional pain</Pain.stages.3.label>
   <Pain.stages.3.description>AAAAAHHH! Kill me now!</Pain.stages.3.description>
+
+  <PsychicEmanatorSoothe.stages.0.label>psychic emanator soothe</PsychicEmanatorSoothe.stages.0.label>
+  <PsychicEmanatorSoothe.stages.0.description>The psychic emanator makes me feel strange, but also very relaxed.</PsychicEmanatorSoothe.stages.0.description>
+
+  <PsychicDrone.stages.0.label>psychic soothe (medium)</PsychicDrone.stages.0.label>
+  <PsychicDrone.stages.0.description>It's like a calming voice at the back of my mind, soothing me, settling my nerves.</PsychicDrone.stages.0.description>
+  <PsychicDrone.stages.1.label>psychic drone (low)</PsychicDrone.stages.1.label>
+  <PsychicDrone.stages.1.description>It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them.</PsychicDrone.stages.1.description>
+  <PsychicDrone.stages.2.label>psychic drone (medium)</PsychicDrone.stages.2.label>
+  <PsychicDrone.stages.2.description>I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away!</PsychicDrone.stages.2.description>
+  <PsychicDrone.stages.3.label>psychic drone (high)</PsychicDrone.stages.3.label>
+  <PsychicDrone.stages.3.description>The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting!</PsychicDrone.stages.3.description>
+  <PsychicDrone.stages.4.label>psychic drone (extreme)</PsychicDrone.stages.4.label>
+  <PsychicDrone.stages.4.description>My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare...</PsychicDrone.stages.4.description>
+
+  <Joywire.stages.0.label>joywire</Joywire.stages.0.label>
+  <Joywire.stages.0.description>It feels amazing.</Joywire.stages.0.description>
+
+  <Aurora.stages.0.label>beautiful aurora</Aurora.stages.0.label>
+  <Aurora.stages.0.description>The view is amazing.</Aurora.stages.0.description>
 
 
 </LanguageData>

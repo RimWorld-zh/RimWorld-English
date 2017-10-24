@@ -19,6 +19,9 @@
   <MainTabs.label>main tabs</MainTabs.label>
   <MainTabs.description>Controls for the main tabs.</MainTabs.description>
 
+  <Modifiers.label>modifiers</Modifiers.label>
+  <Modifiers.description>Controls used to modify other actions.</Modifiers.description>
+
   <Development.label>developer tools</Development.label>
   <Development.description>Controls for developers and modders. Active in development mode only.</Development.description>
 

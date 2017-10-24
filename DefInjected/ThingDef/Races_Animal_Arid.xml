@@ -3,6 +3,7 @@
 
   <Muffalo.label>muffalo</Muffalo.label>
   <Muffalo.description>A large herding herbivore descended from buffalo and adapted for some exotic environment. Peaceful unless disturbed.</Muffalo.description>
+  <Muffalo.tools.0.label>head</Muffalo.tools.0.label>
   <Muffalo_Leather.label>muffalo leather</Muffalo_Leather.label>
   <Muffalo_Leather.description>muffalo leather</Muffalo_Leather.description>
   <Muffalo_Leather.stuffProps.stuffAdjective>muffalo leather</Muffalo_Leather.stuffProps.stuffAdjective>
@@ -13,6 +14,9 @@
 
   <Gazelle.label>gazelle</Gazelle.label>
   <Gazelle.description>A small, extremely quick antelope known for its amazingly long leap.</Gazelle.description>
+  <Gazelle.tools.0.label>left hoof</Gazelle.tools.0.label>
+  <Gazelle.tools.1.label>right hoof</Gazelle.tools.1.label>
+  <Gazelle.tools.3.label>head</Gazelle.tools.3.label>
   <Gazelle_Leather.label>gazelle leather</Gazelle_Leather.label>
   <Gazelle_Leather.description>gazelle leather</Gazelle_Leather.description>
   <Gazelle_Leather.stuffProps.stuffAdjective>gazelle leather</Gazelle_Leather.stuffProps.stuffAdjective>
@@ -23,6 +27,9 @@
 
   <Iguana.label>iguana</Iguana.label>
   <Iguana.description>These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.</Iguana.description>
+  <Iguana.tools.0.label>left claw</Iguana.tools.0.label>
+  <Iguana.tools.1.label>right claw</Iguana.tools.1.label>
+  <Iguana.tools.3.label>head</Iguana.tools.3.label>
   <Iguana_Leather.label>iguana skin</Iguana_Leather.label>
   <Iguana_Leather.description>iguana skin</Iguana_Leather.description>
   <Iguana_Leather.stuffProps.stuffAdjective>iguana skin</Iguana_Leather.stuffProps.stuffAdjective>
@@ -33,6 +40,9 @@
 
   <Rhinoceros.label>rhinoceros</Rhinoceros.label>
   <Rhinoceros.description>This large land mammal is typically quite peaceful, but it will not hesitate to charge with its horn to fend off trespassers.</Rhinoceros.description>
+  <Rhinoceros.tools.0.label>horn</Rhinoceros.tools.0.label>
+  <Rhinoceros.tools.1.label>horn</Rhinoceros.tools.1.label>
+  <Rhinoceros.tools.3.label>head</Rhinoceros.tools.3.label>
   <Rhinoceros_Leather.label>rhinohide</Rhinoceros_Leather.label>
   <Rhinoceros_Leather.description>rhinohide</Rhinoceros_Leather.description>
   <Rhinoceros_Leather.stuffProps.stuffAdjective>rhinohide</Rhinoceros_Leather.stuffProps.stuffAdjective>
@@ -43,6 +53,9 @@
 
   <Dromedary.label>dromedary</Dromedary.label>
   <Dromedary.description>Adapted to survival in arid environments, this distant cousin of the horse can go weeks without water.</Dromedary.description>
+  <Dromedary.tools.0.label>left hoof</Dromedary.tools.0.label>
+  <Dromedary.tools.1.label>right hoof</Dromedary.tools.1.label>
+  <Dromedary.tools.3.label>head</Dromedary.tools.3.label>
   <Dromedary_Leather.label>dromedary leather</Dromedary_Leather.label>
   <Dromedary_Leather.description>dromedary leather</Dromedary_Leather.description>
   <Dromedary_Leather.stuffProps.stuffAdjective>dromedary leather</Dromedary_Leather.stuffProps.stuffAdjective>

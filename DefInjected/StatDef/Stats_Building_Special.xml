@@ -29,5 +29,9 @@
   <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
   <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
 
+  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by the surgeon and medicine used.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.0.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.0.customLabel>
+
 
 </LanguageData>

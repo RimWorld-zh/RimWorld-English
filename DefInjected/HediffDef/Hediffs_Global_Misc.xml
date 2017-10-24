@@ -2,19 +2,20 @@
 <LanguageData>
 
   <BloodLoss.label>blood loss</BloodLoss.label>
-  <BloodLoss.stages.0.label>hidden</BloodLoss.stages.0.label>
+  <BloodLoss.stages.0.label>minor</BloodLoss.stages.0.label>
   <BloodLoss.stages.1.label>minor</BloodLoss.stages.1.label>
   <BloodLoss.stages.2.label>moderate</BloodLoss.stages.2.label>
   <BloodLoss.stages.3.label>severe</BloodLoss.stages.3.label>
   <BloodLoss.stages.4.label>extreme</BloodLoss.stages.4.label>
 
   <Anesthetic.label>anesthetic</Anesthetic.label>
+  <CatatonicBreakdown.label>catatonic breakdown</CatatonicBreakdown.label>
   <PsychicShock.label>psychic shock</PsychicShock.label>
   <CryptosleepSickness.label>cryptosleep sickness</CryptosleepSickness.label>
   <FoodPoisoning.label>food poisoning</FoodPoisoning.label>
 
   <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
-  <ToxicBuildup.stages.0.label>initial-hidden</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.0.label>initial</ToxicBuildup.stages.0.label>
   <ToxicBuildup.stages.1.label>initial</ToxicBuildup.stages.1.label>
   <ToxicBuildup.stages.2.label>minor</ToxicBuildup.stages.2.label>
   <ToxicBuildup.stages.3.label>moderate</ToxicBuildup.stages.3.label>
@@ -24,7 +25,7 @@
   <Pregnant.label>pregnant</Pregnant.label>
   <Pregnant.comps.0.discoverLetterLabel>{0} pregnant</Pregnant.comps.0.discoverLetterLabel>
   <Pregnant.comps.0.discoverLetterText>{0} is pregnant!</Pregnant.comps.0.discoverLetterText>
-  <Pregnant.stages.0.label>early-stage-hidden</Pregnant.stages.0.label>
+  <Pregnant.stages.0.label>early-stage</Pregnant.stages.0.label>
   <Pregnant.stages.1.label>middle-stage</Pregnant.stages.1.label>
   <Pregnant.stages.2.label>late-stage</Pregnant.stages.2.label>
 
@@ -36,9 +37,11 @@
   <DrugOverdose.label>drug overdose</DrugOverdose.label>
   <DrugOverdose.comps.1.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.1.discoverLetterLabel>
   <DrugOverdose.comps.1.discoverLetterText>{0} is overdosing!</DrugOverdose.comps.1.discoverLetterText>
-  <DrugOverdose.stages.0.label>hidden</DrugOverdose.stages.0.label>
+  <DrugOverdose.stages.0.label>minor</DrugOverdose.stages.0.label>
   <DrugOverdose.stages.1.label>minor</DrugOverdose.stages.1.label>
   <DrugOverdose.stages.2.label>major</DrugOverdose.stages.2.label>
+
+  <ResurrectionSickness.label>resurrection sickness</ResurrectionSickness.label>
 
 
 </LanguageData>

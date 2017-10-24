@@ -13,8 +13,8 @@
   <SocialImpact.label>social chat impact</SocialImpact.label>
   <SocialImpact.description>When this person interacts socially, this is how much the other person is affected.</SocialImpact.description>
 
-  <GiftImpact.label>diplomatic gift impact</GiftImpact.label>
-  <GiftImpact.description>When this person gives gifts to another faction, this multiplier is applied to their impact on faction relations.</GiftImpact.description>
+  <DiplomacyPower.label>diplomacy power</DiplomacyPower.label>
+  <DiplomacyPower.description>How effective this person is as a negotiator. Affects the impact on faction relations when this person gives gifts to another faction. It also affects the outcome of peace talks with other factions.</DiplomacyPower.description>
 
   <TradePriceImprovement.label>trade price improvement</TradePriceImprovement.label>
   <TradePriceImprovement.description>When this person negotiates prices, buy and sell prices are improved by this percentage.</TradePriceImprovement.description>

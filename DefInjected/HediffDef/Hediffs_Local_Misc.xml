@@ -4,7 +4,14 @@
   <TraumaSavant.label>trauma savant</TraumaSavant.label>
   <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
   <ChemicalDamageSevere.label>chemical damage</ChemicalDamageSevere.label>
-  <Cirrhosis.label>Cirrhosis</Cirrhosis.label>
+  <Cirrhosis.label>cirrhosis</Cirrhosis.label>
+
+  <ResurrectionPsychosis.label>resurrection psychosis</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.stages.0.label>early</ResurrectionPsychosis.stages.0.label>
+  <ResurrectionPsychosis.stages.1.label>early</ResurrectionPsychosis.stages.1.label>
+  <ResurrectionPsychosis.stages.2.label>moderate</ResurrectionPsychosis.stages.2.label>
+  <ResurrectionPsychosis.stages.3.label>advanced</ResurrectionPsychosis.stages.3.label>
+  <ResurrectionPsychosis.stages.4.label>total</ResurrectionPsychosis.stages.4.label>
 
 
 </LanguageData>

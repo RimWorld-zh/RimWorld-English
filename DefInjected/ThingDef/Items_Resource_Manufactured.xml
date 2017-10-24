@@ -13,16 +13,13 @@
   <GlitterworldMedicine.description>Advanced medical supplies from a high-tech glitterworld.</GlitterworldMedicine.description>
 
 
-  <!-- Shells -->
-
-  <MortarShell.label>mortar shell</MortarShell.label>
-  <MortarShell.description>An explosive shell to be fired from mortars. Explodes when damaged.</MortarShell.description>
-
-
   <!-- Component -->
 
   <Component.label>component</Component.label>
   <Component.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</Component.description>
+
+  <AdvancedComponent.label>advanced component</AdvancedComponent.label>
+  <AdvancedComponent.description>High-quality electronic equipment, miniaturized and hardened for the most stressful applications.</AdvancedComponent.description>
 
 
   <!-- Neutroamine -->

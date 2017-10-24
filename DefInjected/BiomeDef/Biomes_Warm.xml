@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TemperateForest.label>temperate forest</TemperateForest.label>
-  <TemperateForest.description>Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around in the trees and on the plains. Because of snow, it is slow to travel in winter.</TemperateForest.description>
-
   <TropicalRainforest.label>tropical rainforest</TropicalRainforest.label>
   <TropicalRainforest.description>A thick, moist jungle. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant disease are why some explorers call this the "green hell".</TropicalRainforest.description>
+
+  <TropicalSwamp.label>tropical swamp</TropicalSwamp.label>
+  <TropicalSwamp.description>A thick jungle with lots of marsh and mud. Difficult movement, little space to build heavy structures, aggresive animals, and constant diseases make living here a nightmare.</TropicalSwamp.description>
 
 
 </LanguageData>

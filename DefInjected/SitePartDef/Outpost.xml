@@ -3,6 +3,7 @@
 
   <Outpost.label>outpost</Outpost.label>
   <Outpost.description>A small, guarded outpost.</Outpost.description>
+  <Outpost.descriptionDialogue>there is an enemy outpost at the site</Outpost.descriptionDialogue>
 
 
 </LanguageData>

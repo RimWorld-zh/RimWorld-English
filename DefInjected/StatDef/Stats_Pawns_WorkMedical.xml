@@ -11,7 +11,7 @@
   <MedicalOperationSpeed.description>Speed at which the character performs medical operations.</MedicalOperationSpeed.description>
 
   <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
-  <MedicalSurgerySuccessChance.description>The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient. This base success chance is also affected by the facilities and medicine used in the operation, and the difficulty of the operation.</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.description>The chance that a character will perform surgery successfully. The success chance is also affected by the bed and area of the operation, medicine used, and the difficulty of the surgery.</MedicalSurgerySuccessChance.description>
 
 
 </LanguageData>

@@ -17,10 +17,6 @@
   <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
   <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
 
-  <MakeMortarShell.label>make mortar shell</MakeMortarShell.label>
-  <MakeMortarShell.description>Craft a mortar shell.</MakeMortarShell.description>
-  <MakeMortarShell.jobString>Making mortar shell.</MakeMortarShell.jobString>
-
   <MakeChemfuelFromWood.label>make chemfuel from wood</MakeChemfuelFromWood.label>
   <MakeChemfuelFromWood.description>Make a batch of chemfuel by gasifying wood logs.</MakeChemfuelFromWood.description>
   <MakeChemfuelFromWood.jobString>Refining chemfuel from wood.</MakeChemfuelFromWood.jobString>
@@ -32,6 +28,10 @@
   <MakeComponent.label>make component</MakeComponent.label>
   <MakeComponent.description>Make a component.</MakeComponent.description>
   <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+
+  <MakeAdvancedComponent.label>make advanced component</MakeAdvancedComponent.label>
+  <MakeAdvancedComponent.description>Make an advanced component.</MakeAdvancedComponent.description>
+  <MakeAdvancedComponent.jobString>Making advanced component.</MakeAdvancedComponent.jobString>
 
 
 </LanguageData>

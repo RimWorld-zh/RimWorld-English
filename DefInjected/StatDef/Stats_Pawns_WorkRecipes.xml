@@ -18,9 +18,6 @@
   <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
   <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
 
-  <StonecuttingSpeed.label>stonecutting speed</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Speed at which this person cuts rough stone into blocks.</StonecuttingSpeed.description>
-
   <CookSpeed.label>cooking speed</CookSpeed.label>
   <CookSpeed.description>Speed at which this person cooks meals.</CookSpeed.description>
 
@@ -37,7 +34,7 @@
   <ButcheryMechanoidSpeed.description>Speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
 
   <MechanoidOperationSuccessChance.label>mechanoid operation success chance</MechanoidOperationSuccessChance.label>
-  <MechanoidOperationSuccessChance.description>The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.</MechanoidOperationSuccessChance.description>
+  <MechanoidOperationSuccessChance.description>The chance that a character will perform an operation on a mechanoid successfully. Failures can result loss of harvested parts and damage to the subject.</MechanoidOperationSuccessChance.description>
 
   <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
   <ButcheryFleshEfficiency.description>Multiplier on the amount of meat produced when butchering flesh creatures.</ButcheryFleshEfficiency.description>

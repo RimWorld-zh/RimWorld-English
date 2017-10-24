@@ -4,6 +4,7 @@
   <BadBack.label>bad back</BadBack.label>
   <Frail.label>frail</Frail.label>
   <Cataract.label>cataract</Cataract.label>
+  <Blindness.label>blindness</Blindness.label>
   <HearingLoss.label>hearing loss</HearingLoss.label>
   <Dementia.label>dementia</Dementia.label>
 

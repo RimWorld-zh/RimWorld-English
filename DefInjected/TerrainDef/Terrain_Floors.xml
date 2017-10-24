@@ -10,7 +10,7 @@
   <PavedTile.description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
 
   <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling.</WoodPlankFloor.description>
+  <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling. While it is easy to lay, it is also flammable.</WoodPlankFloor.description>
 
   <MetalTile.label>metal tile</MetalTile.label>
   <MetalTile.description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>

@@ -46,8 +46,6 @@
   <CommandTogglePower.label>toggle power</CommandTogglePower.label>
   <CommandItemForbid.label>toggle forbidden</CommandItemForbid.label>
   <CommandColonistDraft.label>draft</CommandColonistDraft.label>
-  <ModifierIncrement10x.label>increment 10x</ModifierIncrement10x.label>
-  <ModifierIncrement100x.label>increment 100x</ModifierIncrement100x.label>
 
 
   <!-- Architect: Common -->
@@ -56,6 +54,13 @@
   <DesignatorDeconstruct.label>deconstruct</DesignatorDeconstruct.label>
   <DesignatorRotateLeft.label>rotate left</DesignatorRotateLeft.label>
   <DesignatorRotateRight.label>rotate right</DesignatorRotateRight.label>
+
+
+  <!-- Modifiers -->
+
+  <ModifierIncrement10x.label>increment 10x</ModifierIncrement10x.label>
+  <ModifierIncrement100x.label>increment 100x</ModifierIncrement100x.label>
+  <QueueOrder.label>queue order</QueueOrder.label>
 
 
   <!-- Debug -->

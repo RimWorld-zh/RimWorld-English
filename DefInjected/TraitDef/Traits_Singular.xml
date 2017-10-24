@@ -65,10 +65,19 @@
   <CreepyBreathing.degreeDatas.0.description>NAME breathes heavily all the time, and sweats constantly. People find it creepy.</CreepyBreathing.degreeDatas.0.description>
 
   <Pyromaniac.degreeDatas.0.label>pyromaniac</Pyromaniac.degreeDatas.0.label>
-  <Pyromaniac.degreeDatas.0.description>NAME loves fire. HECAP will occasionaly start fires and will never extinguish them.</Pyromaniac.degreeDatas.0.description>
+  <Pyromaniac.degreeDatas.0.description>NAME loves fire. HECAP will never extinguish fires. To relieve stress, HE will occasionally go on random fire starting sprees. This happens more often if HIS mood is low.</Pyromaniac.degreeDatas.0.description>
 
   <Wimp.degreeDatas.0.label>wimp</Wimp.degreeDatas.0.label>
   <Wimp.degreeDatas.0.description>NAME is weak and cowardly. Even a little pain will immobilize HIM.</Wimp.degreeDatas.0.description>
+
+  <Nimble.degreeDatas.0.label>nimble</Nimble.degreeDatas.0.label>
+  <Nimble.degreeDatas.0.description>NAME has remarkable kinesthetic intelligence. HECAP seems to dance around danger with preternatural grace.</Nimble.degreeDatas.0.description>
+
+  <FastLearner.degreeDatas.0.label>fast learner</FastLearner.degreeDatas.0.label>
+  <FastLearner.degreeDatas.0.description>NAME has a knack for learning. HECAP picks things up much faster than others.</FastLearner.degreeDatas.0.description>
+
+  <SuperImmune.degreeDatas.0.label>super-immune</SuperImmune.degreeDatas.0.label>
+  <SuperImmune.degreeDatas.0.description>NAME has a naturally powerful immune system. HECAP will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.</SuperImmune.degreeDatas.0.description>
 
 
 </LanguageData>

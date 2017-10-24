@@ -13,8 +13,8 @@
   <DestroyedFactionBase.label>destroyed faction base</DestroyedFactionBase.label>
   <DestroyedFactionBase.description>A destroyed faction base.</DestroyedFactionBase.description>
 
-  <JourneyDestination.label>journey destination</JourneyDestination.label>
-  <JourneyDestination.description>The location of a hidden ship which can help you escape the planet.</JourneyDestination.description>
+  <EscapeShip.label>landed ship</EscapeShip.label>
+  <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
 
   <AttackedCaravan.label>attacked caravan</AttackedCaravan.label>
   <AttackedCaravan.description>A caravan under attack.</AttackedCaravan.description>
@@ -24,6 +24,9 @@
 
   <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
   <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
+
+  <PeaceTalks.label>peace talks</PeaceTalks.label>
+  <PeaceTalks.description>A site designated for peace talks.</PeaceTalks.description>
 
 
 </LanguageData>

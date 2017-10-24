@@ -21,6 +21,9 @@
   <Administer_Flake.label>administer flake</Administer_Flake.label>
   <Administer_Flake.jobString>Administering flake.</Administer_Flake.jobString>
 
+  <Administer_PsychoidPekoe.label>administer psychoid pekoe</Administer_PsychoidPekoe.label>
+  <Administer_PsychoidPekoe.jobString>Administering psychoid pekoe.</Administer_PsychoidPekoe.jobString>
+
   <Administer_Yayo.label>administer yayo</Administer_Yayo.label>
   <Administer_Yayo.jobString>Administering yayo.</Administer_Yayo.jobString>
 

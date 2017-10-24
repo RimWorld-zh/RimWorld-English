@@ -3,6 +3,7 @@
 
   <Hare.label>hare</Hare.label>
   <Hare.description>This small, solitary herbivore can swiftly hop away from danger.</Hare.description>
+  <Hare.tools.1.label>head</Hare.tools.1.label>
   <Hare_Leather.label>hare leather</Hare_Leather.label>
   <Hare_Leather.description>hare leather</Hare_Leather.description>
   <Hare_Leather.stuffProps.stuffAdjective>hare leather</Hare_Leather.stuffProps.stuffAdjective>
@@ -13,6 +14,7 @@
 
   <Snowhare.label>snowhare</Snowhare.label>
   <Snowhare.description>This hardy animal survives the brutal winters of the north by burrowing through snow and finding prey underneath, or hibernating the worst days away.</Snowhare.description>
+  <Snowhare.tools.1.label>head</Snowhare.tools.1.label>
   <Snowhare_Leather.label>snowhare leather</Snowhare_Leather.label>
   <Snowhare_Leather.description>snowhare leather</Snowhare_Leather.description>
   <Snowhare_Leather.stuffProps.stuffAdjective>snowhare leather</Snowhare_Leather.stuffProps.stuffAdjective>

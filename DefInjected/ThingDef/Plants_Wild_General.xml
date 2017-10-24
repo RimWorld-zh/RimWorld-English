@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Carpets -->
+
+  <PlantGrass.label>grass</PlantGrass.label>
+  <PlantGrass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</PlantGrass.description>
+
+  <PlantTallGrass.label>tall grass</PlantTallGrass.label>
+  <PlantTallGrass.description>Wild tall grass. Slows down anyone moving over it.</PlantTallGrass.description>
+
+
+  <!-- Bushes -->
+
+  <PlantBush.label>bush</PlantBush.label>
+  <PlantBush.description>A short shrub. Does not typically talk.</PlantBush.description>
+
+  <PlantBrambles.label>brambles</PlantBrambles.label>
+  <PlantBrambles.description>Tangled, thorny, woody shoots covered with leaves. Slows down anyone moving over it a little bit.</PlantBrambles.description>
+
+  <PlantWildHealroot.label>wild healroot</PlantWildHealroot.label>
+  <PlantWildHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is difficult to cultivate. It is prized by tribespeople in colder climates.</PlantWildHealroot.description>
+
+
+</LanguageData>

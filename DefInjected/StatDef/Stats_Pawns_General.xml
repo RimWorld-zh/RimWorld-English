@@ -41,5 +41,8 @@
   <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
   <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
 
+  <PainShockThreshold.label>pain shock threshold</PainShockThreshold.label>
+  <PainShockThreshold.description>The point at which this creature is downed from pain.</PainShockThreshold.description>
+
 
 </LanguageData>

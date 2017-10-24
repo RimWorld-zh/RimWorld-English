@@ -10,7 +10,7 @@
   <DeepDrilling.description>Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
 
   <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Allows colonists to build vitals monitors which increase patients treatment quality if placed next to medical beds.</VitalsMonitor.description>
+  <VitalsMonitor.description>Allows colonists to build vitals monitors which improve medical care when placed next to hospital beds.</VitalsMonitor.description>
 
   <ComponentAssembly.label>component assembly</ComponentAssembly.label>
   <ComponentAssembly.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</ComponentAssembly.description>

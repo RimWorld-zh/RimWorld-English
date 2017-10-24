@@ -43,5 +43,9 @@
   <Planetkiller.label>planetkiller</Planetkiller.label>
   <Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.</Planetkiller.description>
 
+  <Aurora.label>aurora</Aurora.label>
+  <Aurora.description>A bright aurora has lit up the sky. The undulating colors will boost the mood of anyone outside to see them.</Aurora.description>
+  <Aurora.endMessage>The aurora is ending.</Aurora.endMessage>
+
 
 </LanguageData>

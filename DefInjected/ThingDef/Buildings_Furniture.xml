@@ -37,6 +37,20 @@
   <HospitalBed_Frame.label>hospital bed (building)</HospitalBed_Frame.label>
   <HospitalBed_Frame.description>A bed specially designed for injured people. Improves chance of successful medical work.</HospitalBed_Frame.description>
 
+  <Bedroll.label>bedroll</Bedroll.label>
+  <Bedroll.description>A cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</Bedroll.description>
+  <Bedroll_Blueprint.label>bedroll (blueprint)</Bedroll_Blueprint.label>
+  <Bedroll_Blueprint_Install.label>bedroll (blueprint)</Bedroll_Blueprint_Install.label>
+  <Bedroll_Frame.label>bedroll (building)</Bedroll_Frame.label>
+  <Bedroll_Frame.description>A cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</Bedroll_Frame.description>
+
+  <BedrollDouble.label>double bedroll</BedrollDouble.label>
+  <BedrollDouble.description>A double-wide cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</BedrollDouble.description>
+  <BedrollDouble_Blueprint.label>double bedroll (blueprint)</BedrollDouble_Blueprint.label>
+  <BedrollDouble_Blueprint_Install.label>double bedroll (blueprint)</BedrollDouble_Blueprint_Install.label>
+  <BedrollDouble_Frame.label>double bedroll (building)</BedrollDouble_Frame.label>
+  <BedrollDouble_Frame.description>A double-wide cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</BedrollDouble_Frame.description>
+
 
   <!-- Animal beds -->
 
@@ -87,19 +101,40 @@
 
   <!-- Table base -->
 
-  <TableShort.label>table (short)</TableShort.label>
-  <TableShort.description>People eat off tables when chairs are placed facing them.</TableShort.description>
-  <TableShort_Blueprint.label>table (short) (blueprint)</TableShort_Blueprint.label>
-  <TableShort_Blueprint_Install.label>table (short) (blueprint)</TableShort_Blueprint_Install.label>
-  <TableShort_Frame.label>table (short) (building)</TableShort_Frame.label>
-  <TableShort_Frame.description>People eat off tables when chairs are placed facing them.</TableShort_Frame.description>
+  <EndTable.label>end table</EndTable.label>
+  <EndTable.description>A small bedside table. Makes the nearby beds a little bit more comfortable. Must be placed directly adjacent to their head. Placing more than one end table near the same bed will have no effect.</EndTable.description>
+  <EndTable_Blueprint.label>end table (blueprint)</EndTable_Blueprint.label>
+  <EndTable_Blueprint_Install.label>end table (blueprint)</EndTable_Blueprint_Install.label>
+  <EndTable_Frame.label>end table (building)</EndTable_Frame.label>
+  <EndTable_Frame.description>A small bedside table. Makes the nearby beds a little bit more comfortable. Must be placed directly adjacent to their head. Placing more than one end table near the same bed will have no effect.</EndTable_Frame.description>
 
-  <TableLong.label>table (long)</TableLong.label>
-  <TableLong.description>People eat off tables when chairs are placed facing them.</TableLong.description>
-  <TableLong_Blueprint.label>table (long) (blueprint)</TableLong_Blueprint.label>
-  <TableLong_Blueprint_Install.label>table (long) (blueprint)</TableLong_Blueprint_Install.label>
-  <TableLong_Frame.label>table (long) (building)</TableLong_Frame.label>
-  <TableLong_Frame.description>People eat off tables when chairs are placed facing them.</TableLong_Frame.description>
+  <Table1x2c.label>table (1x2)</Table1x2c.label>
+  <Table1x2c.description>People eat off tables when chairs are placed facing them.</Table1x2c.description>
+  <Table1x2c_Blueprint.label>table (1x2) (blueprint)</Table1x2c_Blueprint.label>
+  <Table1x2c_Blueprint_Install.label>table (1x2) (blueprint)</Table1x2c_Blueprint_Install.label>
+  <Table1x2c_Frame.label>table (1x2) (building)</Table1x2c_Frame.label>
+  <Table1x2c_Frame.description>People eat off tables when chairs are placed facing them.</Table1x2c_Frame.description>
+
+  <Table2x2c.label>table (2x2)</Table2x2c.label>
+  <Table2x2c.description>People eat off tables when chairs are placed facing them.</Table2x2c.description>
+  <Table2x2c_Blueprint.label>table (2x2) (blueprint)</Table2x2c_Blueprint.label>
+  <Table2x2c_Blueprint_Install.label>table (2x2) (blueprint)</Table2x2c_Blueprint_Install.label>
+  <Table2x2c_Frame.label>table (2x2) (building)</Table2x2c_Frame.label>
+  <Table2x2c_Frame.description>People eat off tables when chairs are placed facing them.</Table2x2c_Frame.description>
+
+  <Table2x4c.label>table (2x4)</Table2x4c.label>
+  <Table2x4c.description>People eat off tables when chairs are placed facing them.</Table2x4c.description>
+  <Table2x4c_Blueprint.label>table (2x4) (blueprint)</Table2x4c_Blueprint.label>
+  <Table2x4c_Blueprint_Install.label>table (2x4) (blueprint)</Table2x4c_Blueprint_Install.label>
+  <Table2x4c_Frame.label>table (2x4) (building)</Table2x4c_Frame.label>
+  <Table2x4c_Frame.description>People eat off tables when chairs are placed facing them.</Table2x4c_Frame.description>
+
+  <Table3x3c.label>table (3x3)</Table3x3c.label>
+  <Table3x3c.description>People eat off tables when chairs are placed facing them.</Table3x3c.description>
+  <Table3x3c_Blueprint.label>table (3x3) (blueprint)</Table3x3c_Blueprint.label>
+  <Table3x3c_Blueprint_Install.label>table (3x3) (blueprint)</Table3x3c_Blueprint_Install.label>
+  <Table3x3c_Frame.label>table (3x3) (building)</Table3x3c_Frame.label>
+  <Table3x3c_Frame.description>People eat off tables when chairs are placed facing them.</Table3x3c_Frame.description>
 
   <PlantPot.label>plant pot</PlantPot.label>
   <PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</PlantPot.description>
@@ -112,17 +147,17 @@
   <!-- Lighting -->
 
   <TorchLamp.label>torch lamp</TorchLamp.label>
-  <TorchLamp.description>A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
+  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
   <TorchLamp_Blueprint.label>torch lamp (blueprint)</TorchLamp_Blueprint.label>
   <TorchLamp_Frame.label>torch lamp (building)</TorchLamp_Frame.label>
-  <TorchLamp_Frame.description>A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp_Frame.description>
+  <TorchLamp_Frame.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp_Frame.description>
 
   <StandingLamp.label>standing lamp</StandingLamp.label>
-  <StandingLamp.description>Standing lamp that lights an area.</StandingLamp.description>
+  <StandingLamp.description>Standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp.description>
   <StandingLamp_Blueprint.label>standing lamp (blueprint)</StandingLamp_Blueprint.label>
   <StandingLamp_Blueprint_Install.label>standing lamp (blueprint)</StandingLamp_Blueprint_Install.label>
   <StandingLamp_Frame.label>standing lamp (building)</StandingLamp_Frame.label>
-  <StandingLamp_Frame.description>Standing lamp that lights an area.</StandingLamp_Frame.description>
+  <StandingLamp_Frame.description>Standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp_Frame.description>
 
   <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
   <StandingLamp_Red.description>Standing lamp that lights an area in red.</StandingLamp_Red.description>
@@ -162,6 +197,16 @@
   <Shelf_Blueprint_Install.label>shelf (blueprint)</Shelf_Blueprint_Install.label>
   <Shelf_Frame.label>shelf (building)</Shelf_Frame.label>
   <Shelf_Frame.description>Items stored in this will not deteriorate, even if outside.</Shelf_Frame.description>
+
+
+  <!-- Dressers -->
+
+  <Dresser.label>dresser</Dresser.label>
+  <Dresser.description>Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed will have no effect.</Dresser.description>
+  <Dresser_Blueprint.label>dresser (blueprint)</Dresser_Blueprint.label>
+  <Dresser_Blueprint_Install.label>dresser (blueprint)</Dresser_Blueprint_Install.label>
+  <Dresser_Frame.label>dresser (building)</Dresser_Frame.label>
+  <Dresser_Frame.description>Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed will have no effect.</Dresser_Frame.description>
 
 
 </LanguageData>

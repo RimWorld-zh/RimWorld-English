@@ -21,8 +21,10 @@
   <!-- Building interaction -->
 
   <PlayHorseshoes.reportString>playing horseshoes.</PlayHorseshoes.reportString>
+  <PlayHoopstone.reportString>playing hoopstone.</PlayHoopstone.reportString>
   <PlayChess.reportString>playing chess.</PlayChess.reportString>
   <PlayBilliards.reportString>playing billiards.</PlayBilliards.reportString>
+  <PlayPoker.reportString>playing poker.</PlayPoker.reportString>
   <WatchTelevision.reportString>watching television.</WatchTelevision.reportString>
   <UseTelescope.reportString>using telescope.</UseTelescope.reportString>
 

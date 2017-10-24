@@ -26,30 +26,30 @@
   <Elephant.labelFemale>female elephant</Elephant.labelFemale>
   <Elephant.labelFemalePlural>female elephants</Elephant.labelFemalePlural>
 
-  <Megasloth.label>Megasloth</Megasloth.label>
-  <Megasloth.labelPlural>Megasloths</Megasloth.labelPlural>
-  <Megasloth.lifeStages.0.label>Megasloth</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.0.labelPlural>Megasloth</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.0.labelMale>male Megasloth</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>male Megasloths</Megasloth.lifeStages.0.labelMalePlural>
-  <Megasloth.lifeStages.0.labelFemale>female Megasloth</Megasloth.lifeStages.0.labelFemale>
-  <Megasloth.lifeStages.0.labelFemalePlural>female Megasloths</Megasloth.lifeStages.0.labelFemalePlural>
-  <Megasloth.lifeStages.1.label>Megasloth</Megasloth.lifeStages.1.label>
-  <Megasloth.lifeStages.1.labelPlural>Megasloth</Megasloth.lifeStages.1.labelPlural>
-  <Megasloth.lifeStages.1.labelMale>male Megasloth</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>male Megasloths</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelFemale>female Megasloth</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>female Megasloths</Megasloth.lifeStages.1.labelFemalePlural>
-  <Megasloth.lifeStages.2.label>Megasloth</Megasloth.lifeStages.2.label>
-  <Megasloth.lifeStages.2.labelPlural>Megasloth</Megasloth.lifeStages.2.labelPlural>
-  <Megasloth.lifeStages.2.labelMale>male Megasloth</Megasloth.lifeStages.2.labelMale>
-  <Megasloth.lifeStages.2.labelMalePlural>male Megasloths</Megasloth.lifeStages.2.labelMalePlural>
-  <Megasloth.lifeStages.2.labelFemale>female Megasloth</Megasloth.lifeStages.2.labelFemale>
-  <Megasloth.lifeStages.2.labelFemalePlural>female Megasloths</Megasloth.lifeStages.2.labelFemalePlural>
-  <Megasloth.labelMale>male Megasloth</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>male Megasloths</Megasloth.labelMalePlural>
-  <Megasloth.labelFemale>female Megasloth</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>female Megasloths</Megasloth.labelFemalePlural>
+  <Megasloth.label>megasloth</Megasloth.label>
+  <Megasloth.labelPlural>megasloths</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>megasloth</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.0.labelPlural>megasloth</Megasloth.lifeStages.0.labelPlural>
+  <Megasloth.lifeStages.0.labelMale>male megasloth</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>male megasloths</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelFemale>female megasloth</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>female megasloths</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.1.label>megasloth</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelPlural>megasloth</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.lifeStages.1.labelMale>male megasloth</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>male megasloths</Megasloth.lifeStages.1.labelMalePlural>
+  <Megasloth.lifeStages.1.labelFemale>female megasloth</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>female megasloths</Megasloth.lifeStages.1.labelFemalePlural>
+  <Megasloth.lifeStages.2.label>megasloth</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelPlural>megasloth</Megasloth.lifeStages.2.labelPlural>
+  <Megasloth.lifeStages.2.labelMale>male megasloth</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelMalePlural>male megasloths</Megasloth.lifeStages.2.labelMalePlural>
+  <Megasloth.lifeStages.2.labelFemale>female megasloth</Megasloth.lifeStages.2.labelFemale>
+  <Megasloth.lifeStages.2.labelFemalePlural>female megasloths</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.labelMale>male megasloth</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>male megasloths</Megasloth.labelMalePlural>
+  <Megasloth.labelFemale>female megasloth</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>female megasloths</Megasloth.labelFemalePlural>
 
   <Thrumbo.label>thrumbo</Thrumbo.label>
   <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>

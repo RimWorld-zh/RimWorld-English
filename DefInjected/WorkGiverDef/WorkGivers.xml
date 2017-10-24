@@ -8,11 +8,15 @@
   <FightFires.gerund>extinguishing</FightFires.gerund>
 
 
-  <!-- PatientEmergency -->
+  <!-- Patient -->
 
-  <PatientGoToBedEmergency.label>go to bed for emergency treatment</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>receive treatment in</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>receiving treatment in</PatientGoToBedEmergency.gerund>
+  <PatientGoToBedEmergencyTreatment.label>go to bed for emergency treatment</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.verb>receive treatment in</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.gerund>receiving treatment in</PatientGoToBedEmergencyTreatment.gerund>
+
+  <PatientGoToBedTreatment.label>go to bed for treatment</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.verb>receive treatment in</PatientGoToBedTreatment.verb>
+  <PatientGoToBedTreatment.gerund>receiving treatment in</PatientGoToBedTreatment.gerund>
 
 
   <!-- Doctor -->
@@ -26,7 +30,7 @@
   <DoctorRescue.gerund>rescuing</DoctorRescue.gerund>
 
   <DoBillsMedicalHumanOperation.label>operate on humanlikes</DoBillsMedicalHumanOperation.label>
-  <DoBillsMedicalHumanOperation.verb>operate</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.verb>operate on</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>operating on</DoBillsMedicalHumanOperation.gerund>
 
   <DoctorTendToHumanlikes.label>tend to patients</DoctorTendToHumanlikes.label>
@@ -42,7 +46,7 @@
   <DoctorFeedHumanlikes.gerund>feeding</DoctorFeedHumanlikes.gerund>
 
   <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
-  <DoBillsMedicalAnimalOperation.verb>operate</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.verb>operate on</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>operating on</DoBillsMedicalAnimalOperation.gerund>
 
   <DoctorTendToAnimals.label>tend to animals</DoctorTendToAnimals.label>
@@ -64,9 +68,9 @@
 
   <!-- PatientBedRest -->
 
-  <PatientGoToBed.label>recuperate in bed</PatientGoToBed.label>
-  <PatientGoToBed.verb>get bed rest in</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>getting bed rest in</PatientGoToBed.gerund>
+  <PatientGoToBedRecuperate.label>recuperate in bed</PatientGoToBedRecuperate.label>
+  <PatientGoToBedRecuperate.verb>get bed rest in</PatientGoToBedRecuperate.verb>
+  <PatientGoToBedRecuperate.gerund>getting bed rest in</PatientGoToBedRecuperate.gerund>
 
 
   <!-- Flicker -->
@@ -279,9 +283,9 @@
   <DoBillsProduceDrugs.verb>produce drugs</DoBillsProduceDrugs.verb>
   <DoBillsProduceDrugs.gerund>producing drugs at</DoBillsProduceDrugs.gerund>
 
-  <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
+  <DoBillsStonecut.label>cut stone blocks</DoBillsStonecut.label>
   <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
-  <DoBillsStonecut.gerund>stonecutting at</DoBillsStonecut.gerund>
+  <DoBillsStonecut.gerund>cutting stone blocks at</DoBillsStonecut.gerund>
 
   <DoBillsSmelter.label>smelt items</DoBillsSmelter.label>
   <DoBillsSmelter.verb>refine</DoBillsSmelter.verb>

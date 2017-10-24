@@ -3,6 +3,9 @@
 
   <!-- Tier 1: pre-electricity -->
 
+  <RecurveBow.label>recurve bow</RecurveBow.label>
+  <RecurveBow.description>Advanced construction techniques allow for production of the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
+
   <Pemmican.label>pemmican</Pemmican.label>
   <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
 
@@ -12,14 +15,23 @@
   <Devilstrand.label>devilstrand</Devilstrand.label>
   <Devilstrand.description>Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.</Devilstrand.description>
 
+  <PsychoidBrewing.label>psychoid brewing</PsychoidBrewing.label>
+  <PsychoidBrewing.description>With preparation, psychoid leaves can be boiled in water, producing a mildly euphoric and addictive tea.</PsychoidBrewing.description>
+
   <Brewing.label>brewing</Brewing.label>
   <Brewing.description>Allows you to build a brewery to transform hops into tasty, tasty beer.</Brewing.description>
+
+  <Bedrolls.label>bedrolls</Bedrolls.label>
+  <Bedrolls.description>Allows you to make bedrolls.</Bedrolls.description>
+
+  <Beds.label>beds</Beds.label>
+  <Beds.description>Allows you to build beds.</Beds.description>
 
   <CarpetMaking.label>carpet making</CarpetMaking.label>
   <CarpetMaking.description>Allows colonists to build carpets to increase the quality of their environments.</CarpetMaking.description>
 
   <Smithing.label>smithing</Smithing.label>
-  <Smithing.description>Build smithies for crafting metal weapons and tools.</Smithing.description>
+  <Smithing.description>Build smithies for crafting metal weapons and tools.\n\nAllows you to craft simple weapons like knives, gladii, and maces.</Smithing.description>
 
   <Stonecutting.label>stonecutting</Stonecutting.label>
   <Stonecutting.description>Build stonecutting tables, which allow you to refine rock chunks into stone blocks that can be used for construction.</Stonecutting.description>

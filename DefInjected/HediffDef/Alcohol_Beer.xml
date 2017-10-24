@@ -2,7 +2,7 @@
 <LanguageData>
 
   <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-  <AlcoholHigh.stages.0.label>buzzed-hidden</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.0.label>buzzed</AlcoholHigh.stages.0.label>
   <AlcoholHigh.stages.1.label>warm</AlcoholHigh.stages.1.label>
   <AlcoholHigh.stages.2.label>tipsy</AlcoholHigh.stages.2.label>
   <AlcoholHigh.stages.3.label>drunk</AlcoholHigh.stages.3.label>
@@ -18,6 +18,7 @@
   <!-- Alcohol addiction -->
 
   <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
+  <AlcoholTolerance.stages.0.label>small</AlcoholTolerance.stages.0.label>
   <AlcoholTolerance.stages.1.label>small</AlcoholTolerance.stages.1.label>
   <AlcoholTolerance.stages.2.label>large</AlcoholTolerance.stages.2.label>
   <AlcoholTolerance.stages.3.label>massive</AlcoholTolerance.stages.3.label>

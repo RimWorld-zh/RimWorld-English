@@ -8,6 +8,13 @@
   <HorseshoesPin_Frame.label>horseshoes pin (building)</HorseshoesPin_Frame.label>
   <HorseshoesPin_Frame.description>A simple ancient game played with a few horseshoes and a large pin in the ground. Players toss horseshoes from a distance and attempt to get them to land close to or around the pin. It's relaxing, and even trains hand-eye coordination.</HorseshoesPin_Frame.description>
 
+  <HoopstoneRing.label>hoopstone ring</HoopstoneRing.label>
+  <HoopstoneRing.description>A simple ancient game played with a few stones and a large ring in the ground. Players toss stones from a distance and attempt to get them to land inside the ring. It's relaxing, and even trains hand-eye coordination.</HoopstoneRing.description>
+  <HoopstoneRing_Blueprint.label>hoopstone ring (blueprint)</HoopstoneRing_Blueprint.label>
+  <HoopstoneRing_Blueprint_Install.label>hoopstone ring (blueprint)</HoopstoneRing_Blueprint_Install.label>
+  <HoopstoneRing_Frame.label>hoopstone ring (building)</HoopstoneRing_Frame.label>
+  <HoopstoneRing_Frame.description>A simple ancient game played with a few stones and a large ring in the ground. Players toss stones from a distance and attempt to get them to land inside the ring. It's relaxing, and even trains hand-eye coordination.</HoopstoneRing_Frame.description>
+
   <ChessTable.label>chess table</ChessTable.label>
   <ChessTable.description>The ancient game of kings. Fun for a few hours here and there, even playing alone.</ChessTable.description>
   <ChessTable_Blueprint.label>chess table (blueprint)</ChessTable_Blueprint.label>
@@ -21,6 +28,13 @@
   <BilliardsTable_Blueprint_Install.label>billiards table (blueprint)</BilliardsTable_Blueprint_Install.label>
   <BilliardsTable_Frame.label>billiards table (building)</BilliardsTable_Frame.label>
   <BilliardsTable_Frame.description>A soft-topped bounded table for playing a variety of billiards-type games.</BilliardsTable_Frame.description>
+
+  <PokerTable.label>poker table</PokerTable.label>
+  <PokerTable.description>A table designed for playing gambling card games, mainly poker. A great way to test your strategic skills and a bit of luck.</PokerTable.description>
+  <PokerTable_Blueprint.label>poker table (blueprint)</PokerTable_Blueprint.label>
+  <PokerTable_Blueprint_Install.label>poker table (blueprint)</PokerTable_Blueprint_Install.label>
+  <PokerTable_Frame.label>poker table (building)</PokerTable_Frame.label>
+  <PokerTable_Frame.description>A table designed for playing gambling card games, mainly poker. A great way to test your strategic skills and a bit of luck.</PokerTable_Frame.description>
 
   <TubeTelevision.label>tube television</TubeTelevision.label>
   <TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision.description>

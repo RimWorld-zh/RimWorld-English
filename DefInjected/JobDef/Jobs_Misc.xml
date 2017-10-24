@@ -34,6 +34,7 @@
   <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
   <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
   <UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
+  <UseItem.reportString>using TargetA.</UseItem.reportString>
   <TriggerFirefoamPopper.reportString>triggering firefoam popper.</TriggerFirefoamPopper.reportString>
   <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
   <Vomit.reportString>vomiting.</Vomit.reportString>
@@ -42,6 +43,10 @@
   <Flee.reportString>fleeing.</Flee.reportString>
   <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
   <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
+  <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
+  <Insult.reportString>insulting TargetA.</Insult.reportString>
+  <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
+  <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
 
 
   <!-- Fire -->

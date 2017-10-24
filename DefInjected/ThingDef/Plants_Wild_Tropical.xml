@@ -1,10 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Wild plants - carpets -->
+  <!-- Carpets -->
 
-  <PlantTallGrass.label>tall grass</PlantTallGrass.label>
-  <PlantTallGrass.description>Wild tall grass. Significantly slows down anyone moving over it.</PlantTallGrass.description>
+  <PlantShrubLow.label>low shrubs</PlantShrubLow.label>
+  <PlantShrubLow.description>Low broadleaf shrubs. These grow in clusters and slow down movement somewhat.</PlantShrubLow.description>
+
+
+  <!-- Bushes -->
+
+  <PlantAlocasia.label>alocasia</PlantAlocasia.label>
+  <PlantAlocasia.description>A common broadleaf tropical plant.</PlantAlocasia.description>
+
+  <PlantClivia.label>clivia</PlantClivia.label>
+  <PlantClivia.description>An unusual plant with tall, pretty flowers. Some call it the 'bush lily'.</PlantClivia.description>
+
+  <PlantRafflesia.label>giant rafflesia</PlantRafflesia.label>
+  <PlantRafflesia.description>A rare, giant flower. You would think a giant flower would be beautiful, but this one is quite smelly and ugly.</PlantRafflesia.description>
 
 
   <!-- Wild - Trees -->
@@ -14,6 +26,12 @@
 
   <PlantTreeCecropia.label>cecropia tree</PlantTreeCecropia.label>
   <PlantTreeCecropia.description>One of the most common rainforest trees. Grows very fast, but yields little usable wood.</PlantTreeCecropia.description>
+
+  <PlantTreePalm.label>palm tree</PlantTreePalm.label>
+  <PlantTreePalm.description>A tropical tree with a long, naked trunk topped by a cluster of leaves.</PlantTreePalm.description>
+
+  <PlantTreeBamboo.label>bamboo tree</PlantTreeBamboo.label>
+  <PlantTreeBamboo.description>A fast-growing tree-like species that grows in cluster. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.</PlantTreeBamboo.description>
 
 
 </LanguageData>

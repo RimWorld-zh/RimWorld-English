@@ -18,5 +18,8 @@
   <ShipComputerCore.label>ship computer core</ShipComputerCore.label>
   <ShipComputerCore.description>Allows coercing an existing AI persona into a usable AI computer core for ship guidance.</ShipComputerCore.description>
 
+  <ShipSensorCluster.label>ship sensor cluster</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Allows you to construct long-range sensors for a ship.</ShipSensorCluster.description>
+
 
 </LanguageData>

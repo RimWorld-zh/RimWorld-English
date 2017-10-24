@@ -3,6 +3,7 @@
 
   <Beer.label>beer</Beer.label>
   <Beer.description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol addiction.</Beer.description>
+  <Beer.tools.1.label>neck</Beer.tools.1.label>
   <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
   <Beer.ingestible.ingestReportString>Drinking {0}.</Beer.ingestible.ingestReportString>
 

@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- removing body parts -->
-
-  <RemoveBodyPart.label>remove part</RemoveBodyPart.label>
-  <RemoveBodyPart.description>Removes body part.</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
-
-  <RemoveMechanoidBodyPart.label>remove part</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>Removes body part.</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>Removing body part.</RemoveMechanoidBodyPart.jobString>
-
-
   <!-- Anesthetize -->
 
   <Anesthetize.label>anesthetize</Anesthetize.label>
@@ -36,6 +25,24 @@
   <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
   <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
   <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+
+  <!-- removing body parts -->
+
+  <RemoveBodyPart.label>remove part</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Removes body part.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
+
+  <RemoveMechanoidBodyPart.label>remove part</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Removes body part.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Removing body part.</RemoveMechanoidBodyPart.jobString>
+
+
+  <!-- special administer -->
+
+  <AdministerMechSerumHealer.label>administer healer mech serum</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.description>Administers healer mech serum.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.jobString>Administering healer mech serum.</AdministerMechSerumHealer.jobString>
 
 
 </LanguageData>

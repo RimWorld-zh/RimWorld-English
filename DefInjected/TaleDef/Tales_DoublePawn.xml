@@ -128,31 +128,32 @@
   <TamedAnimal.rulePack.rulesStrings.13>desc_sentence->[human_nameShortDef] is projecting a powerful sense of love towards [animal_nameShortDef].</TamedAnimal.rulePack.rulesStrings.13>
 
   <KilledBy.label>death</KilledBy.label>
-  <KilledBy.rulePack.rulesStrings.0>tale_noun->[victim_nameShortDef]'s killing by [killer_nameShortDef]</KilledBy.rulePack.rulesStrings.0>
-  <KilledBy.rulePack.rulesStrings.1>tale_noun->the killing of [victim_nameShortDef] by [killer_nameShortDef]</KilledBy.rulePack.rulesStrings.1>
-  <KilledBy.rulePack.rulesStrings.2>tale_noun->the killing of [victim_nameShortDef]</KilledBy.rulePack.rulesStrings.2>
-  <KilledBy.rulePack.rulesStrings.3>image->[victim_nameFull] being killed by [killer_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.3>
-  <KilledBy.rulePack.rulesStrings.4>image->[killer_nameFull] killing [victim_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.4>
-  <KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull] ending [victim_nameFull]'s life [circumstance_group]</KilledBy.rulePack.rulesStrings.5>
-  <KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull] brutally murdering [victim_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.6>
-  <KilledBy.rulePack.rulesStrings.7>image->[victim_nameFull] being killed [circumstance_group]</KilledBy.rulePack.rulesStrings.7>
-  <KilledBy.rulePack.rulesStrings.8>circumstance_phrase->seemingly without remorse</KilledBy.rulePack.rulesStrings.8>
-  <KilledBy.rulePack.rulesStrings.9>circumstance_phrase->with cold efficiency</KilledBy.rulePack.rulesStrings.9>
-  <KilledBy.rulePack.rulesStrings.10>circumstance_phrase->with passionate rage</KilledBy.rulePack.rulesStrings.10>
-  <KilledBy.rulePack.rulesStrings.11>circumstance_phrase->with quick, efficient movements</KilledBy.rulePack.rulesStrings.11>
-  <KilledBy.rulePack.rulesStrings.12>circumstance_phrase->without emotion or expression</KilledBy.rulePack.rulesStrings.12>
-  <KilledBy.rulePack.rulesStrings.13>circumstance_phrase->out of bleak necessity</KilledBy.rulePack.rulesStrings.13>
-  <KilledBy.rulePack.rulesStrings.14>circumstance_phrase->in a cowardly, halfhearted way</KilledBy.rulePack.rulesStrings.14>
-  <KilledBy.rulePack.rulesStrings.15>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</KilledBy.rulePack.rulesStrings.15>
-  <KilledBy.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal]s looks on.</KilledBy.rulePack.rulesStrings.16>
-  <KilledBy.rulePack.rulesStrings.17>desc_sentence->A [outlander] watches silently [side_position].</KilledBy.rulePack.rulesStrings.17>
-  <KilledBy.rulePack.rulesStrings.18>desc_sentence->Blood is pooling around [victim_nameShortDef]'s body.</KilledBy.rulePack.rulesStrings.18>
-  <KilledBy.rulePack.rulesStrings.19>desc_sentence->[victim_nameShortDef]'s eyes are rendered in a realistically lifeless fashion.</KilledBy.rulePack.rulesStrings.19>
-  <KilledBy.rulePack.rulesStrings.20>desc_sentence->[killer_nameShortDef] is baring [killer_possessive] teeth.</KilledBy.rulePack.rulesStrings.20>
-  <KilledBy.rulePack.rulesStrings.21>desc_sentence->[killer_nameShortDef] seems satisfied.</KilledBy.rulePack.rulesStrings.21>
-  <KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledBy.rulePack.rulesStrings.22>
-  <KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledBy.rulePack.rulesStrings.23>
-  <KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledBy.rulePack.rulesStrings.24>
+  <KilledBy.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef] killing [victim_nameShortDef]</KilledBy.rulePack.rulesStrings.0>
+  <KilledBy.rulePack.rulesStrings.1>tale_noun->[victim_nameShortDef]'s killing by [killer_nameShortDef]</KilledBy.rulePack.rulesStrings.1>
+  <KilledBy.rulePack.rulesStrings.2>tale_noun->the killing of [victim_nameShortDef] by [killer_nameShortDef]</KilledBy.rulePack.rulesStrings.2>
+  <KilledBy.rulePack.rulesStrings.3>tale_noun->the killing of [victim_nameShortDef]</KilledBy.rulePack.rulesStrings.3>
+  <KilledBy.rulePack.rulesStrings.4>image->[victim_nameFull] being killed by [killer_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.4>
+  <KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull] killing [victim_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.5>
+  <KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull] ending [victim_nameFull]'s life [circumstance_group]</KilledBy.rulePack.rulesStrings.6>
+  <KilledBy.rulePack.rulesStrings.7>image->[killer_nameFull] brutally murdering [victim_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.7>
+  <KilledBy.rulePack.rulesStrings.8>image->[victim_nameFull] being killed [circumstance_group]</KilledBy.rulePack.rulesStrings.8>
+  <KilledBy.rulePack.rulesStrings.9>circumstance_phrase->seemingly without remorse</KilledBy.rulePack.rulesStrings.9>
+  <KilledBy.rulePack.rulesStrings.10>circumstance_phrase->with cold efficiency</KilledBy.rulePack.rulesStrings.10>
+  <KilledBy.rulePack.rulesStrings.11>circumstance_phrase->with passionate rage</KilledBy.rulePack.rulesStrings.11>
+  <KilledBy.rulePack.rulesStrings.12>circumstance_phrase->with quick, efficient movements</KilledBy.rulePack.rulesStrings.12>
+  <KilledBy.rulePack.rulesStrings.13>circumstance_phrase->without emotion or expression</KilledBy.rulePack.rulesStrings.13>
+  <KilledBy.rulePack.rulesStrings.14>circumstance_phrase->out of bleak necessity</KilledBy.rulePack.rulesStrings.14>
+  <KilledBy.rulePack.rulesStrings.15>circumstance_phrase->in a cowardly, halfhearted way</KilledBy.rulePack.rulesStrings.15>
+  <KilledBy.rulePack.rulesStrings.16>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</KilledBy.rulePack.rulesStrings.16>
+  <KilledBy.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [animal]s look on.</KilledBy.rulePack.rulesStrings.17>
+  <KilledBy.rulePack.rulesStrings.18>desc_sentence->A [outlander] watches silently [side_position].</KilledBy.rulePack.rulesStrings.18>
+  <KilledBy.rulePack.rulesStrings.19>desc_sentence->Blood is pooling around [victim_nameShortDef]'s body.</KilledBy.rulePack.rulesStrings.19>
+  <KilledBy.rulePack.rulesStrings.20>desc_sentence->[victim_nameShortDef]'s eyes are rendered in a realistically lifeless fashion.</KilledBy.rulePack.rulesStrings.20>
+  <KilledBy.rulePack.rulesStrings.21>desc_sentence->[killer_nameShortDef] is baring [killer_possessive] teeth.</KilledBy.rulePack.rulesStrings.21>
+  <KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef] seems satisfied.</KilledBy.rulePack.rulesStrings.22>
+  <KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledBy.rulePack.rulesStrings.23>
+  <KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledBy.rulePack.rulesStrings.24>
+  <KilledBy.rulePack.rulesStrings.25>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledBy.rulePack.rulesStrings.25>
 
   <SoldPrisoner.label>prisoner sold</SoldPrisoner.label>
   <SoldPrisoner.rulePack.rulesStrings.0>tale_noun->the selling of [prisoner_nameShortDef] to a trader</SoldPrisoner.rulePack.rulesStrings.0>

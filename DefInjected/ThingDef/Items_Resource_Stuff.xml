@@ -28,7 +28,7 @@
   <Uranium.stuffProps.stuffAdjective>uranium</Uranium.stuffProps.stuffAdjective>
 
   <Jade.label>jade</Jade.label>
-  <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. It's hardness and density also makes it a good material for blunt weapons.</Jade.description>
+  <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons.</Jade.description>
   <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
 
 
@@ -53,9 +53,9 @@
 
   <!-- Wool -->
 
-  <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
+  <WoolMegasloth.label>megasloth wool</WoolMegasloth.label>
   <WoolMegasloth.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
-  <WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
+  <WoolMegasloth.stuffProps.stuffAdjective>megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
 
   <WoolMuffalo.label>muffalo wool</WoolMuffalo.label>
   <WoolMuffalo.description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>

@@ -6,12 +6,23 @@
   <PegLeg.label>peg leg</PegLeg.label>
   <Denture.label>denture</Denture.label>
   <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
+
   <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+
   <BionicEye.label>bionic eye</BionicEye.label>
+
   <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
+
   <BionicLeg.label>bionic leg</BionicLeg.label>
+
   <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
+
   <ScytherBlade.label>scyther blade</ScytherBlade.label>
+  <ScytherBlade.comps.0.tools.0.label>blade</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>point</ScytherBlade.comps.0.tools.1.label>
 
 
 </LanguageData>

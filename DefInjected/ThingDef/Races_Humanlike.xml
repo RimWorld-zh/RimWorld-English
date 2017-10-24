@@ -3,6 +3,9 @@
 
   <Human.label>human</Human.label>
   <Human.description>A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.</Human.description>
+  <Human.tools.0.label>left fist</Human.tools.0.label>
+  <Human.tools.1.label>right fist</Human.tools.1.label>
+  <Human.tools.2.label>head</Human.tools.2.label>
   <Human_Leather.label>human leather</Human_Leather.label>
   <Human_Leather.description>human leather</Human_Leather.description>
   <Human_Leather.stuffProps.stuffAdjective>human leather</Human_Leather.stuffProps.stuffAdjective>

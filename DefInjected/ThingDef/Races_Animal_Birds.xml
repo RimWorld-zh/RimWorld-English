@@ -3,6 +3,8 @@
 
   <Cassowary.label>cassowary</Cassowary.label>
   <Cassowary.description>A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious.</Cassowary.description>
+  <Cassowary.tools.0.label>claws</Cassowary.tools.0.label>
+  <Cassowary.tools.2.label>head</Cassowary.tools.2.label>
   <Cassowary_Leather.label>cassowary leather</Cassowary_Leather.label>
   <Cassowary_Leather.description>cassowary leather</Cassowary_Leather.description>
   <Cassowary_Leather.stuffProps.stuffAdjective>cassowary leather</Cassowary_Leather.stuffProps.stuffAdjective>
@@ -13,6 +15,8 @@
 
   <Emu.label>emu</Emu.label>
   <Emu.description>A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world.</Emu.description>
+  <Emu.tools.0.label>claws</Emu.tools.0.label>
+  <Emu.tools.2.label>head</Emu.tools.2.label>
   <Emu_Leather.label>emu leather</Emu_Leather.label>
   <Emu_Leather.description>emu leather</Emu_Leather.description>
   <Emu_Leather.stuffProps.stuffAdjective>emu leather</Emu_Leather.stuffProps.stuffAdjective>
@@ -22,6 +26,8 @@
 
   <Ostrich.label>ostrich</Ostrich.label>
   <Ostrich.description>The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick.</Ostrich.description>
+  <Ostrich.tools.0.label>claws</Ostrich.tools.0.label>
+  <Ostrich.tools.2.label>head</Ostrich.tools.2.label>
   <Ostrich_Leather.label>ostrich leather</Ostrich_Leather.label>
   <Ostrich_Leather.description>ostrich leather</Ostrich_Leather.description>
   <Ostrich_Leather.stuffProps.stuffAdjective>ostrich leather</Ostrich_Leather.stuffProps.stuffAdjective>
@@ -31,6 +37,8 @@
 
   <Turkey.label>turkey</Turkey.label>
   <Turkey.description>A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild.</Turkey.description>
+  <Turkey.tools.0.label>claws</Turkey.tools.0.label>
+  <Turkey.tools.2.label>head</Turkey.tools.2.label>
   <Turkey_Leather.label>turkey leather</Turkey_Leather.label>
   <Turkey_Leather.description>turkey leather</Turkey_Leather.description>
   <Turkey_Leather.stuffProps.stuffAdjective>turkey leather</Turkey_Leather.stuffProps.stuffAdjective>

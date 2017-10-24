@@ -3,6 +3,7 @@
 
   <Turrets.label>turrets</Turrets.label>
   <Turrets.description>A few turrets.</Turrets.description>
+  <Turrets.descriptionDialogue>a ring of enemy turrets defends the site</Turrets.descriptionDialogue>
 
 
 </LanguageData>

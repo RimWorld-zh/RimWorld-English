@@ -18,6 +18,16 @@
   <Make_Flake.description>Make flake.</Make_Flake.description>
   <Make_Flake.jobString>Making flake.</Make_Flake.jobString>
 
+
+  <!-- Recipe Users: CraftingSpot -->
+
+  <Make_PsychoidPekoe.label>make psychoid pekoe</Make_PsychoidPekoe.label>
+  <Make_PsychoidPekoe.description>Make psychoid pekoe.</Make_PsychoidPekoe.description>
+  <Make_PsychoidPekoe.jobString>Making psychoid pekoe.</Make_PsychoidPekoe.jobString>
+
+
+  <!-- Recipe Users: DrugLab -->
+
   <Make_Yayo.label>make yayo</Make_Yayo.label>
   <Make_Yayo.description>Make yayo.</Make_Yayo.description>
   <Make_Yayo.jobString>Making yayo.</Make_Yayo.jobString>
@@ -61,6 +71,22 @@
 
   <!-- Recipe Users: TableMachining -->
 
+  <Make_Shell_HighExplosive.label>make high-explosive shell</Make_Shell_HighExplosive.label>
+  <Make_Shell_HighExplosive.description>Make high-explosive shell.</Make_Shell_HighExplosive.description>
+  <Make_Shell_HighExplosive.jobString>Making high-explosive shell.</Make_Shell_HighExplosive.jobString>
+
+  <Make_Shell_Incendiary.label>make incendiary shell</Make_Shell_Incendiary.label>
+  <Make_Shell_Incendiary.description>Make incendiary shell.</Make_Shell_Incendiary.description>
+  <Make_Shell_Incendiary.jobString>Making incendiary shell.</Make_Shell_Incendiary.jobString>
+
+  <Make_Shell_EMP.label>make EMP shell</Make_Shell_EMP.label>
+  <Make_Shell_EMP.description>Make EMP shell.</Make_Shell_EMP.description>
+  <Make_Shell_EMP.jobString>Making EMP shell.</Make_Shell_EMP.jobString>
+
+  <Make_Shell_Firefoam.label>make firefoam shell</Make_Shell_Firefoam.label>
+  <Make_Shell_Firefoam.description>Make firefoam shell.</Make_Shell_Firefoam.description>
+  <Make_Shell_Firefoam.jobString>Making firefoam shell.</Make_Shell_Firefoam.jobString>
+
   <Make_Apparel_ShieldBelt.label>make shield belt</Make_Apparel_ShieldBelt.label>
   <Make_Apparel_ShieldBelt.description>Make shield belt.</Make_Apparel_ShieldBelt.description>
   <Make_Apparel_ShieldBelt.jobString>Making shield belt.</Make_Apparel_ShieldBelt.jobString>
@@ -80,9 +106,30 @@
   <Make_Apparel_BowlerHat.description>Make bowler hat.</Make_Apparel_BowlerHat.description>
   <Make_Apparel_BowlerHat.jobString>Making bowler hat.</Make_Apparel_BowlerHat.jobString>
 
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
+
+  <Make_Apparel_TribalHeaddress.label>make tribal headdress</Make_Apparel_TribalHeaddress.label>
+  <Make_Apparel_TribalHeaddress.description>Make tribal headdress.</Make_Apparel_TribalHeaddress.description>
+  <Make_Apparel_TribalHeaddress.jobString>Making tribal headdress.</Make_Apparel_TribalHeaddress.jobString>
+
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
+
   <Make_Apparel_Tuque.label>make tuque</Make_Apparel_Tuque.label>
   <Make_Apparel_Tuque.description>Make tuque.</Make_Apparel_Tuque.description>
   <Make_Apparel_Tuque.jobString>Making tuque.</Make_Apparel_Tuque.jobString>
+
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
+
+  <Make_Apparel_WarMask.label>make war mask</Make_Apparel_WarMask.label>
+  <Make_Apparel_WarMask.description>Make war mask.</Make_Apparel_WarMask.description>
+  <Make_Apparel_WarMask.jobString>Making war mask.</Make_Apparel_WarMask.jobString>
+
+  <Make_Apparel_WarVeil.label>make war veil</Make_Apparel_WarVeil.label>
+  <Make_Apparel_WarVeil.description>Make war veil.</Make_Apparel_WarVeil.description>
+  <Make_Apparel_WarVeil.jobString>Making war veil.</Make_Apparel_WarVeil.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
@@ -144,9 +191,13 @@
   <Make_Apparel_PowerArmor.description>Make power armor.</Make_Apparel_PowerArmor.description>
   <Make_Apparel_PowerArmor.jobString>Making power armor.</Make_Apparel_PowerArmor.jobString>
 
-  <Make_Gun_Pistol.label>make pistol</Make_Gun_Pistol.label>
-  <Make_Gun_Pistol.description>Make pistol.</Make_Gun_Pistol.description>
-  <Make_Gun_Pistol.jobString>Making pistol.</Make_Gun_Pistol.jobString>
+  <Make_Gun_Revolver.label>make revolver</Make_Gun_Revolver.label>
+  <Make_Gun_Revolver.description>Make revolver.</Make_Gun_Revolver.description>
+  <Make_Gun_Revolver.jobString>Making revolver.</Make_Gun_Revolver.jobString>
+
+  <Make_Gun_Autopistol.label>make autopistol</Make_Gun_Autopistol.label>
+  <Make_Gun_Autopistol.description>Make autopistol.</Make_Gun_Autopistol.description>
+  <Make_Gun_Autopistol.jobString>Making autopistol.</Make_Gun_Autopistol.jobString>
 
   <Make_Gun_IncendiaryLauncher.label>make incendiary launcher</Make_Gun_IncendiaryLauncher.label>
   <Make_Gun_IncendiaryLauncher.description>Make incendiary launcher.</Make_Gun_IncendiaryLauncher.description>
@@ -224,6 +275,10 @@
   <Make_MeleeWeapon_Gladius.description>Make gladius.</Make_MeleeWeapon_Gladius.description>
   <Make_MeleeWeapon_Gladius.jobString>Making gladius.</Make_MeleeWeapon_Gladius.jobString>
 
+  <Make_MeleeWeapon_Ikwa.label>make ikwa</Make_MeleeWeapon_Ikwa.label>
+  <Make_MeleeWeapon_Ikwa.description>Make ikwa.</Make_MeleeWeapon_Ikwa.description>
+  <Make_MeleeWeapon_Ikwa.jobString>Making ikwa.</Make_MeleeWeapon_Ikwa.jobString>
+
   <Make_MeleeWeapon_Spear.label>make spear</Make_MeleeWeapon_Spear.label>
   <Make_MeleeWeapon_Spear.description>Make spear.</Make_MeleeWeapon_Spear.description>
   <Make_MeleeWeapon_Spear.jobString>Making spear.</Make_MeleeWeapon_Spear.jobString>
@@ -246,9 +301,19 @@
   <Make_Pila.description>Make pila.</Make_Pila.description>
   <Make_Pila.jobString>Making pila.</Make_Pila.jobString>
 
-  <Make_Bow_Great.label>make great bow</Make_Bow_Great.label>
-  <Make_Bow_Great.description>Make great bow.</Make_Bow_Great.description>
-  <Make_Bow_Great.jobString>Making great bow.</Make_Bow_Great.jobString>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy, ElectricSmithy, FueledSmithy, CraftingSpot -->
+
+  <Make_Bow_Recurve.label>make recurve bow</Make_Bow_Recurve.label>
+  <Make_Bow_Recurve.description>Make recurve bow.</Make_Bow_Recurve.description>
+  <Make_Bow_Recurve.jobString>Making recurve bow.</Make_Bow_Recurve.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+
+  <Make_Bow_Great.label>make greatbow</Make_Bow_Great.label>
+  <Make_Bow_Great.description>Make greatbow.</Make_Bow_Great.description>
+  <Make_Bow_Great.jobString>Making greatbow.</Make_Bow_Great.jobString>
 
 
 </LanguageData>

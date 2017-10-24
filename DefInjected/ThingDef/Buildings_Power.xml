@@ -13,11 +13,17 @@
   <PowerSwitch_Frame.label>power switch (building)</PowerSwitch_Frame.label>
   <PowerSwitch_Frame.description>Switches power on/off.</PowerSwitch_Frame.description>
 
-  <FueledGenerator.label>fueled generator</FueledGenerator.label>
-  <FueledGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator.description>
-  <FueledGenerator_Blueprint.label>fueled generator (blueprint)</FueledGenerator_Blueprint.label>
-  <FueledGenerator_Frame.label>fueled generator (building)</FueledGenerator_Frame.label>
-  <FueledGenerator_Frame.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator_Frame.description>
+  <WoodFiredGenerator.label>wood-fired generator</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</WoodFiredGenerator.description>
+  <WoodFiredGenerator_Blueprint.label>wood-fired generator (blueprint)</WoodFiredGenerator_Blueprint.label>
+  <WoodFiredGenerator_Frame.label>wood-fired generator (building)</WoodFiredGenerator_Frame.label>
+  <WoodFiredGenerator_Frame.description>Produces power by consuming wood fuel. Must be fueled by hand.</WoodFiredGenerator_Frame.description>
+
+  <ChemfuelPoweredGenerator.label>chemfuel powered generator</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.description>Produces power by consuming chemfuel. Must be fueled by hand.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator_Blueprint.label>chemfuel powered generator (blueprint)</ChemfuelPoweredGenerator_Blueprint.label>
+  <ChemfuelPoweredGenerator_Frame.label>chemfuel powered generator (building)</ChemfuelPoweredGenerator_Frame.label>
+  <ChemfuelPoweredGenerator_Frame.description>Produces power by consuming chemfuel. Must be fueled by hand.</ChemfuelPoweredGenerator_Frame.description>
 
   <Battery.label>battery</Battery.label>
   <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Battery.description>

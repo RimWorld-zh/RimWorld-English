@@ -13,6 +13,9 @@
   <Extinguish.label>extinguish</Extinguish.label>
   <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
 
+  <Bomb.label>bomb</Bomb.label>
+  <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
+
   <Smoke.label>smoke</Smoke.label>
   <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
 
