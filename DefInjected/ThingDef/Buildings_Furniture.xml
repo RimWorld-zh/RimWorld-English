@@ -38,11 +38,11 @@
   <HospitalBed_Frame.description>A bed specially designed for injured people. Improves chance of successful medical work.</HospitalBed_Frame.description>
 
   <Bedroll.label>bedroll</Bedroll.label>
-  <Bedroll.description>A cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</Bedroll.description>
+  <Bedroll.description>A simple bed that sits on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</Bedroll.description>
   <Bedroll_Blueprint.label>bedroll (blueprint)</Bedroll_Blueprint.label>
   <Bedroll_Blueprint_Install.label>bedroll (blueprint)</Bedroll_Blueprint_Install.label>
   <Bedroll_Frame.label>bedroll (building)</Bedroll_Frame.label>
-  <Bedroll_Frame.description>A cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</Bedroll_Frame.description>
+  <Bedroll_Frame.description>A simple bed that sits on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</Bedroll_Frame.description>
 
   <BedrollDouble.label>double bedroll</BedrollDouble.label>
   <BedrollDouble.description>A double-wide cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</BedrollDouble.description>
