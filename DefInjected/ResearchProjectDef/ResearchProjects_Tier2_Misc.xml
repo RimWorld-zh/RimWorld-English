@@ -61,7 +61,7 @@
   <Machining.description>Build machining tables to craft guns and machinery or disassemble dead mechanoids.</Machining.description>
 
   <IEDs.label>IEDs</IEDs.label>
-  <IEDs.description>Allows colonists to build improvised explosive device-based traps from mortar shells.</IEDs.description>
+  <IEDs.description>Allows colonists to build improvised traps from explosive, EMP, firefoam, and antigrain warhead mortar shells.</IEDs.description>
 
   <IEDIncendiary.label>incendiary IEDs</IEDIncendiary.label>
   <IEDIncendiary.description>Allows colonists to build incendiary explosive traps from mortar shells.</IEDIncendiary.description>

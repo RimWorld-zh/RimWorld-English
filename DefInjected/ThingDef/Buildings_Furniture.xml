@@ -45,11 +45,11 @@
   <Bedroll_Frame.description>A simple bed that sits on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</Bedroll_Frame.description>
 
   <BedrollDouble.label>double bedroll</BedrollDouble.label>
-  <BedrollDouble.description>A double-wide cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</BedrollDouble.description>
+  <BedrollDouble.description>A simple double-wide bed that sits on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</BedrollDouble.description>
   <BedrollDouble_Blueprint.label>double bedroll (blueprint)</BedrollDouble_Blueprint.label>
   <BedrollDouble_Blueprint_Install.label>double bedroll (blueprint)</BedrollDouble_Blueprint_Install.label>
   <BedrollDouble_Frame.label>double bedroll (building)</BedrollDouble_Frame.label>
-  <BedrollDouble_Frame.description>A double-wide cloth bed that sits on the floor. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</BedrollDouble_Frame.description>
+  <BedrollDouble_Frame.description>A simple double-wide bed that sits on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed.</BedrollDouble_Frame.description>
 
 
   <!-- Animal beds -->

@@ -82,6 +82,9 @@
   <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
   <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
   <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Extract shell</CommandExtractShell>
+  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
+  <CommandExtractShellFailNoShell>No shell is loaded.</CommandExtractShellFailNoShell>
   <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
   <MessageTurretWontFireBecauseHoldFire>Warning: The mortar won't fire because it's set to "Hold fire".</MessageTurretWontFireBecauseHoldFire>

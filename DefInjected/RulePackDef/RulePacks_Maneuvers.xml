@@ -154,11 +154,11 @@
   <Poke.rulePack.rulesStrings.7>damaged_past->prodded</Poke.rulePack.rulesStrings.7>
   <Poke.rulePack.rulesStrings.8>damaged_past->shoved</Poke.rulePack.rulesStrings.8>
   <Poke.rulePack.rulesStrings.9>damaged_past->stabbed</Poke.rulePack.rulesStrings.9>
-  <Poke.rulePack.rulesStrings.10>maneuver_present(p=2)->poking</Poke.rulePack.rulesStrings.10>
-  <Poke.rulePack.rulesStrings.11>maneuver_present(p=2)->jabbing</Poke.rulePack.rulesStrings.11>
-  <Poke.rulePack.rulesStrings.12>maneuver_present->prodding</Poke.rulePack.rulesStrings.12>
-  <Poke.rulePack.rulesStrings.13>maneuver_present->shoving</Poke.rulePack.rulesStrings.13>
-  <Poke.rulePack.rulesStrings.14>maneuver_present->stabbing</Poke.rulePack.rulesStrings.14>
+  <Poke.rulePack.rulesStrings.10>damaged_present(p=2)->poking</Poke.rulePack.rulesStrings.10>
+  <Poke.rulePack.rulesStrings.11>damaged_present(p=2)->jabbing</Poke.rulePack.rulesStrings.11>
+  <Poke.rulePack.rulesStrings.12>damaged_present->prodding</Poke.rulePack.rulesStrings.12>
+  <Poke.rulePack.rulesStrings.13>damaged_present->shoving</Poke.rulePack.rulesStrings.13>
+  <Poke.rulePack.rulesStrings.14>damaged_present->stabbing</Poke.rulePack.rulesStrings.14>
   <Poke.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</Poke.rulePack.rulesStrings.15>
   <Poke.rulePack.rulesStrings.16>flavortextconsequence->leaving the area visibly deformed</Poke.rulePack.rulesStrings.16>
   <Poke.rulePack.rulesStrings.17>flavortextconsequence->knocking [recipient_objective] off balance</Poke.rulePack.rulesStrings.17>
@@ -186,11 +186,11 @@
   <Bite.rulePack.rulesStrings.5>damaged_past->nipped</Bite.rulePack.rulesStrings.5>
   <Bite.rulePack.rulesStrings.6>damaged_past->gnawed</Bite.rulePack.rulesStrings.6>
   <Bite.rulePack.rulesStrings.7>damaged_past->tore</Bite.rulePack.rulesStrings.7>
-  <Bite.rulePack.rulesStrings.8>maneuver_present->biting</Bite.rulePack.rulesStrings.8>
-  <Bite.rulePack.rulesStrings.9>maneuver_present->chomping</Bite.rulePack.rulesStrings.9>
-  <Bite.rulePack.rulesStrings.10>maneuver_present->nipped</Bite.rulePack.rulesStrings.10>
-  <Bite.rulePack.rulesStrings.11>maneuver_present->gnawing</Bite.rulePack.rulesStrings.11>
-  <Bite.rulePack.rulesStrings.12>maneuver_present->tearing</Bite.rulePack.rulesStrings.12>
+  <Bite.rulePack.rulesStrings.8>damaged_present->biting</Bite.rulePack.rulesStrings.8>
+  <Bite.rulePack.rulesStrings.9>damaged_present->chomping</Bite.rulePack.rulesStrings.9>
+  <Bite.rulePack.rulesStrings.10>damaged_present->nipped</Bite.rulePack.rulesStrings.10>
+  <Bite.rulePack.rulesStrings.11>damaged_present->gnawing</Bite.rulePack.rulesStrings.11>
+  <Bite.rulePack.rulesStrings.12>damaged_present->tearing</Bite.rulePack.rulesStrings.12>
   <Bite.rulePack.rulesStrings.13>flavortextconsequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</Bite.rulePack.rulesStrings.13>
   <Bite.rulePack.rulesStrings.14>flavortextconsequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</Bite.rulePack.rulesStrings.14>
   <Bite.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving grisly tears in the skin</Bite.rulePack.rulesStrings.15>
