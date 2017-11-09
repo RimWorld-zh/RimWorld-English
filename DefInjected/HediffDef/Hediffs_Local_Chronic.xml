@@ -2,8 +2,14 @@
 <LanguageData>
 
   <BadBack.label>bad back</BadBack.label>
+  <BadBack.labelNoun>a bad back</BadBack.labelNoun>
+
   <Frail.label>frail</Frail.label>
+  <Frail.labelNoun>frailty</Frail.labelNoun>
+
   <Cataract.label>cataract</Cataract.label>
+  <Cataract.labelNoun>a cataract</Cataract.labelNoun>
+
   <Blindness.label>blindness</Blindness.label>
   <HearingLoss.label>hearing loss</HearingLoss.label>
   <Dementia.label>dementia</Dementia.label>
@@ -25,6 +31,7 @@
   <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>
   <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>
   <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>
+  <HeartArteryBlockage.labelNoun>an artery blockage</HeartArteryBlockage.labelNoun>
 
   <Carcinoma.label>carcinoma</Carcinoma.label>
   <Carcinoma.stages.0.label>minor</Carcinoma.stages.0.label>
@@ -33,6 +40,7 @@
   <Carcinoma.stages.3.label>major</Carcinoma.stages.3.label>
   <Carcinoma.stages.4.label>extreme</Carcinoma.stages.4.label>
   <Carcinoma.stages.5.label>extreme</Carcinoma.stages.5.label>
+  <Carcinoma.labelNoun>a carcinoma</Carcinoma.labelNoun>
 
 
 </LanguageData>

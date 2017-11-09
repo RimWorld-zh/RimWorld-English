@@ -4,25 +4,36 @@
   <!-- Added body parts -->
 
   <PegLeg.label>peg leg</PegLeg.label>
+  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
+
   <Denture.label>denture</Denture.label>
+  <Denture.labelNoun>a denture</Denture.labelNoun>
+
   <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>a simple prosthetic leg</SimpleProstheticLeg.labelNoun>
 
   <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
   <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>a simple prosthetic arm</SimpleProstheticArm.labelNoun>
 
   <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
 
   <BionicArm.label>bionic arm</BionicArm.label>
   <BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
 
   <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
 
   <PowerClaw.label>power claw</PowerClaw.label>
   <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
 
   <ScytherBlade.label>scyther blade</ScytherBlade.label>
   <ScytherBlade.comps.0.tools.0.label>blade</ScytherBlade.comps.0.tools.0.label>
   <ScytherBlade.comps.0.tools.1.label>point</ScytherBlade.comps.0.tools.1.label>
+  <ScytherBlade.labelNoun>a scyther blade</ScytherBlade.labelNoun>
 
 
 </LanguageData>

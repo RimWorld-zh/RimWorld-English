@@ -4,6 +4,7 @@
   <!-- Missing body part -->
 
   <MissingBodyPart.label>missing body part</MissingBodyPart.label>
+  <MissingBodyPart.labelNoun>a missing body part</MissingBodyPart.labelNoun>
 
 
   <!-- Injuries -->
@@ -13,6 +14,7 @@
   <Misc.comps.0.labelTendedWellInner>sutured</Misc.comps.0.labelTendedWellInner>
   <Misc.comps.0.labelSolidTendedWell>set</Misc.comps.0.labelSolidTendedWell>
   <Misc.injuryProps.destroyedLabel>Destroyed</Misc.injuryProps.destroyedLabel>
+  <Misc.labelNoun>an injury</Misc.labelNoun>
 
   <Burn.label>burn</Burn.label>
   <Burn.comps.0.labelTendedWell>bandaged</Burn.comps.0.labelTendedWell>
@@ -21,6 +23,7 @@
   <Burn.comps.2.oldLabel>burn scar</Burn.comps.2.oldLabel>
   <Burn.injuryProps.destroyedLabel>Burned off</Burn.injuryProps.destroyedLabel>
   <Burn.injuryProps.destroyedOutLabel>Burned out</Burn.injuryProps.destroyedOutLabel>
+  <Burn.labelNoun>a burn</Burn.labelNoun>
 
   <Crush.label>crush</Crush.label>
   <Crush.comps.0.labelTendedWell>bandaged</Crush.comps.0.labelTendedWell>
@@ -28,12 +31,14 @@
   <Crush.comps.0.labelSolidTendedWell>set</Crush.comps.0.labelSolidTendedWell>
   <Crush.comps.2.oldLabel>scar</Crush.comps.2.oldLabel>
   <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
+  <Crush.labelNoun>a crush wound</Crush.labelNoun>
 
   <Crack.label>crack</Crack.label>
   <Crack.comps.0.labelTendedWell>healed</Crack.comps.0.labelTendedWell>
   <Crack.comps.0.labelTendedWellInner>healed</Crack.comps.0.labelTendedWellInner>
   <Crack.comps.0.labelSolidTendedWell>set</Crack.comps.0.labelSolidTendedWell>
   <Crack.injuryProps.destroyedLabel>Shattered</Crack.injuryProps.destroyedLabel>
+  <Crack.labelNoun>a crack wound</Crack.labelNoun>
 
   <Cut.label>cut</Cut.label>
   <Cut.comps.0.labelTendedWell>bandaged</Cut.comps.0.labelTendedWell>
@@ -42,12 +47,14 @@
   <Cut.comps.2.oldLabel>cut scar</Cut.comps.2.oldLabel>
   <Cut.injuryProps.destroyedLabel>Cut off</Cut.injuryProps.destroyedLabel>
   <Cut.injuryProps.destroyedOutLabel>Cut out</Cut.injuryProps.destroyedOutLabel>
+  <Cut.labelNoun>a cut</Cut.labelNoun>
 
   <SurgicalCut.label>surgical cut</SurgicalCut.label>
   <SurgicalCut.comps.0.labelTendedWell>bandaged</SurgicalCut.comps.0.labelTendedWell>
   <SurgicalCut.comps.0.labelTendedWellInner>sutured</SurgicalCut.comps.0.labelTendedWellInner>
   <SurgicalCut.comps.0.labelSolidTendedWell>set</SurgicalCut.comps.0.labelSolidTendedWell>
   <SurgicalCut.comps.1.oldLabel>cut scar</SurgicalCut.comps.1.oldLabel>
+  <SurgicalCut.labelNoun>a surgical cut</SurgicalCut.labelNoun>
 
   <Scratch.label>scratch</Scratch.label>
   <Scratch.comps.0.labelTendedWell>bandaged</Scratch.comps.0.labelTendedWell>
@@ -56,6 +63,7 @@
   <Scratch.comps.2.oldLabel>scratch scar</Scratch.comps.2.oldLabel>
   <Scratch.injuryProps.destroyedLabel>Torn off</Scratch.injuryProps.destroyedLabel>
   <Scratch.injuryProps.destroyedOutLabel>Torn out</Scratch.injuryProps.destroyedOutLabel>
+  <Scratch.labelNoun>a scratch</Scratch.labelNoun>
 
   <Bite.label>bite</Bite.label>
   <Bite.comps.0.labelTendedWell>bandaged</Bite.comps.0.labelTendedWell>
@@ -64,6 +72,7 @@
   <Bite.comps.2.oldLabel>bite scar</Bite.comps.2.oldLabel>
   <Bite.injuryProps.destroyedLabel>Bitten off</Bite.injuryProps.destroyedLabel>
   <Bite.injuryProps.destroyedOutLabel>Bitten out</Bite.injuryProps.destroyedOutLabel>
+  <Bite.labelNoun>a bite wound</Bite.labelNoun>
 
   <Stab.label>stab</Stab.label>
   <Stab.comps.0.labelTendedWell>bandaged</Stab.comps.0.labelTendedWell>
@@ -72,6 +81,7 @@
   <Stab.comps.2.oldLabel>stab scar</Stab.comps.2.oldLabel>
   <Stab.injuryProps.destroyedLabel>Cut off</Stab.injuryProps.destroyedLabel>
   <Stab.injuryProps.destroyedOutLabel>Cut out</Stab.injuryProps.destroyedOutLabel>
+  <Stab.labelNoun>a stab wound</Stab.labelNoun>
 
   <Gunshot.label>gunshot</Gunshot.label>
   <Gunshot.comps.0.labelTendedWell>bandaged</Gunshot.comps.0.labelTendedWell>
@@ -81,6 +91,7 @@
   <Gunshot.comps.2.instantlyOldLabel>permanent gunshot injury</Gunshot.comps.2.instantlyOldLabel>
   <Gunshot.injuryProps.destroyedLabel>Shot off</Gunshot.injuryProps.destroyedLabel>
   <Gunshot.injuryProps.destroyedOutLabel>Shot out</Gunshot.injuryProps.destroyedOutLabel>
+  <Gunshot.labelNoun>a gunshot wound</Gunshot.labelNoun>
 
   <Shredded.label>shredded</Shredded.label>
   <Shredded.comps.0.labelTendedWell>bandaged</Shredded.comps.0.labelTendedWell>
@@ -89,12 +100,14 @@
   <Shredded.comps.2.oldLabel>scar</Shredded.comps.2.oldLabel>
   <Shredded.injuryProps.destroyedLabel>Torn off</Shredded.injuryProps.destroyedLabel>
   <Shredded.injuryProps.destroyedOutLabel>Torn out</Shredded.injuryProps.destroyedOutLabel>
+  <Shredded.labelNoun>a shredded wound</Shredded.labelNoun>
 
   <Bruise.label>bruise</Bruise.label>
   <Bruise.comps.0.labelTendedWell>bandaged</Bruise.comps.0.labelTendedWell>
   <Bruise.comps.0.labelTendedWellInner>sutured</Bruise.comps.0.labelTendedWellInner>
   <Bruise.comps.0.labelSolidTendedWell>set</Bruise.comps.0.labelSolidTendedWell>
   <Bruise.injuryProps.destroyedLabel>Destroyed</Bruise.injuryProps.destroyedLabel>
+  <Bruise.labelNoun>a bruise</Bruise.labelNoun>
 
   <Frostbite.label>frostbite</Frostbite.label>
   <Frostbite.comps.0.labelTendedWell>bandaged</Frostbite.comps.0.labelTendedWell>

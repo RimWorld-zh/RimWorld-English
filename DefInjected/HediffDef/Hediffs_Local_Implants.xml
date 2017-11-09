@@ -4,7 +4,10 @@
   <!-- Implants -->
 
   <Joywire.label>joywire</Joywire.label>
+  <Joywire.labelNoun>a joywire</Joywire.labelNoun>
+
   <Painstopper.label>painstopper</Painstopper.label>
+  <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
 
 
 </LanguageData>
