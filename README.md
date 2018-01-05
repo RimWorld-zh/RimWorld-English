@@ -1,7 +1,6 @@
 # RimWorld-English
 
-<!-- orange, blue -->
-![RimWorld 0.18.1712 (development build)](https://img.shields.io/badge/RimWorld-0.18.1712%20(development%20build)-orange.svg?style=flat-square)
+![RimWorld 0.18.1722](https://img.shields.io/badge/RimWorld-0.18.1722-blue.svg?style=flat-square)
 
 This is the original text of RimWorld, as well as the standard language data template for translators.
 
