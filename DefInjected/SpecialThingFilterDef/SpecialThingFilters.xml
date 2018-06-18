@@ -2,20 +2,28 @@
 <LanguageData>
 
   <AllowCorpsesColonist.label>allow colonist corpses</AllowCorpsesColonist.label>
-  <AllowCorpsesColonist.description>Allow dead former colonists.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>Allow the dead bodies of colonists.</AllowCorpsesColonist.description>
 
   <AllowCorpsesStranger.label>allow stranger corpses</AllowCorpsesStranger.label>
-  <AllowCorpsesStranger.description>Allow dead former strangers and enemies.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.description>Allow the dead bodies of strangers and enemies.</AllowCorpsesStranger.description>
 
   <AllowRotten.label>allow rotten</AllowRotten.label>
   <AllowRotten.description>Allow organic things which have started to rot.</AllowRotten.description>
+
+  <AllowFresh.label>allow fresh</AllowFresh.label>
+  <AllowFresh.description>Allow organic things which haven't started to rot yet.</AllowFresh.description>
 
   <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
   <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
 
   <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
   <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
-  <AllowNonDeadmansApparel.label>allow non-deadman's apparel</AllowNonDeadmansApparel.label>
+
+  <AllowNonDeadmansApparel.label>allow clean apparel</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.description>Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowNonDeadmansApparel.description>
+
+  <AllowDeadmansApparel.label>allow tainted apparel</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.description>Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowDeadmansApparel.description>
 
 
 </LanguageData>

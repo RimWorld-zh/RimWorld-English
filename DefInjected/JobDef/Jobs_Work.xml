@@ -65,13 +65,15 @@
   <Mine.reportString>digging at TargetA.</Mine.reportString>
   <SmoothFloor.reportString>smoothing floor.</SmoothFloor.reportString>
   <RemoveFloor.reportString>removing floor.</RemoveFloor.reportString>
+  <SmoothWall.reportString>smoothing wall.</SmoothWall.reportString>
   <Sow.reportString>sowing TargetA.</Sow.reportString>
   <Harvest.reportString>harvesting TargetA.</Harvest.reportString>
+  <HarvestDesignated.reportString>harvesting TargetA.</HarvestDesignated.reportString>
   <CutPlant.reportString>cutting TargetA.</CutPlant.reportString>
+  <CutPlantDesignated.reportString>cutting TargetA.</CutPlantDesignated.reportString>
   <PrisonerFriendlyChat.reportString>chatting with prisoner TargetA.</PrisonerFriendlyChat.reportString>
   <PrisonerAttemptRecruit.reportString>attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
   <PrisonerExecution.reportString>executing TargetA.</PrisonerExecution.reportString>
-  <BuryCorpse.reportString>burying TargetA.</BuryCorpse.reportString>
 
 
 </LanguageData>

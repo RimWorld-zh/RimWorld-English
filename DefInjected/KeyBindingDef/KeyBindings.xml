@@ -3,26 +3,30 @@
 
   <!-- In-game camera -->
 
-  <MapDollyUp.label>dolly up</MapDollyUp.label>
-  <MapDollyDown.label>dolly down</MapDollyDown.label>
-  <MapDollyLeft.label>dolly left</MapDollyLeft.label>
-  <MapDollyRight.label>dolly right</MapDollyRight.label>
-  <MapZoomIn.label>zoom in</MapZoomIn.label>
-  <MapZoomOut.label>zoom out</MapZoomOut.label>
+  <MapDolly_Up.label>dolly up</MapDolly_Up.label>
+  <MapDolly_Down.label>dolly down</MapDolly_Down.label>
+  <MapDolly_Left.label>dolly left</MapDolly_Left.label>
+  <MapDolly_Right.label>dolly right</MapDolly_Right.label>
+  <MapZoom_In.label>zoom in</MapZoom_In.label>
+  <MapZoom_Out.label>zoom out</MapZoom_Out.label>
 
 
   <!-- Map play -->
 
+  <Accept.label>accept</Accept.label>
+  <Cancel.label>cancel</Cancel.label>
   <TakeScreenshot.label>take screenshot</TakeScreenshot.label>
   <ToggleScreenshotMode.label>toggle screenshot mode</ToggleScreenshotMode.label>
   <SelectNextInCell.label>select next in cell</SelectNextInCell.label>
   <TogglePause.label>pause/resume game</TogglePause.label>
-  <TimeSpeedNormal.label>game speed: normal</TimeSpeedNormal.label>
-  <TimeSpeedFast.label>game speed: fast</TimeSpeedFast.label>
-  <TimeSpeedSuperfast.label>game speed: super fast</TimeSpeedSuperfast.label>
-  <TimeSpeedUltrafast.label>game speed: ultra fast (debug)</TimeSpeedUltrafast.label>
+  <TimeSpeed_Normal.label>game speed: Normal</TimeSpeed_Normal.label>
+  <TimeSpeed_Fast.label>game speed: Fast</TimeSpeed_Fast.label>
+  <TimeSpeed_Superfast.label>game speed: Super fast</TimeSpeed_Superfast.label>
+  <TimeSpeed_Ultrafast.label>game speed: Ultra fast (debug)</TimeSpeed_Ultrafast.label>
   <PreviousColonist.label>previous colonist</PreviousColonist.label>
   <NextColonist.label>next colonist</NextColonist.label>
+  <ToggleRoomStatsDisplay.label>toggle room stats display</ToggleRoomStatsDisplay.label>
+  <ToggleBeautyDisplay.label>toggle beauty display</ToggleBeautyDisplay.label>
 
 
   <!-- Misc (re-used) -->
@@ -43,35 +47,35 @@
 
   <!-- Selection special -->
 
-  <CommandTogglePower.label>toggle power</CommandTogglePower.label>
-  <CommandItemForbid.label>toggle forbidden</CommandItemForbid.label>
-  <CommandColonistDraft.label>draft</CommandColonistDraft.label>
+  <Command_TogglePower.label>toggle power</Command_TogglePower.label>
+  <Command_ItemForbid.label>toggle forbidden</Command_ItemForbid.label>
+  <Command_ColonistDraft.label>draft</Command_ColonistDraft.label>
 
 
   <!-- Architect: Common -->
 
-  <DesignatorCancel.label>cancel</DesignatorCancel.label>
-  <DesignatorDeconstruct.label>deconstruct</DesignatorDeconstruct.label>
-  <DesignatorRotateLeft.label>rotate left</DesignatorRotateLeft.label>
-  <DesignatorRotateRight.label>rotate right</DesignatorRotateRight.label>
+  <Designator_Cancel.label>cancel</Designator_Cancel.label>
+  <Designator_Deconstruct.label>deconstruct</Designator_Deconstruct.label>
+  <Designator_RotateLeft.label>rotate left</Designator_RotateLeft.label>
+  <Designator_RotateRight.label>rotate right</Designator_RotateRight.label>
 
 
   <!-- Modifiers -->
 
-  <ModifierIncrement10x.label>increment 10x</ModifierIncrement10x.label>
-  <ModifierIncrement100x.label>increment 100x</ModifierIncrement100x.label>
+  <ModifierIncrement_10x.label>increment 10x</ModifierIncrement_10x.label>
+  <ModifierIncrement_100x.label>increment 100x</ModifierIncrement_100x.label>
   <QueueOrder.label>queue order</QueueOrder.label>
 
 
   <!-- Debug -->
 
-  <TickOnce.label>tick once</TickOnce.label>
-  <ToggleGodMode.label>toggle god mode</ToggleGodMode.label>
-  <ToggleDebugLog.label>toggle debug log</ToggleDebugLog.label>
-  <ToggleDebugActionsMenu.label>toggle debug actions menu</ToggleDebugActionsMenu.label>
-  <ToggleDebugLogMenu.label>toggle debug log menu</ToggleDebugLogMenu.label>
-  <ToggleDebugInspector.label>toggle debug inspector</ToggleDebugInspector.label>
-  <ToggleDebugSettingsMenu.label>toggle debug settings menu</ToggleDebugSettingsMenu.label>
+  <Dev_TickOnce.label>tick once</Dev_TickOnce.label>
+  <Dev_ToggleGodMode.label>toggle god mode</Dev_ToggleGodMode.label>
+  <Dev_ToggleDebugLog.label>toggle debug log</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugActionsMenu.label>toggle debug actions menu</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugLogMenu.label>toggle debug log menu</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugInspector.label>toggle debug inspector</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugSettingsMenu.label>toggle debug settings menu</Dev_ToggleDebugSettingsMenu.label>
 
 
 </LanguageData>

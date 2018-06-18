@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DamageEvent_Include.rulePack.rulesStrings.0>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [recipient_possessive] [destroyed_targets].</DamageEvent_Include.rulePack.rulesStrings.0>
-  <DamageEvent_Include.rulePack.rulesStrings.1>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [recipient_possessive] [destroyed_targets] and [damaged_present] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.1>
-  <DamageEvent_Include.rulePack.rulesStrings.2>logentry(recipient_part_destroyed_count==0)->[damageSource] [recipient_nameShortDef], [damaged_present] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.2>
-  <DamageEvent_Include.rulePack.rulesStrings.3>logentry(p=0.1)->[damageSource] [recipient_nameShortDef].</DamageEvent_Include.rulePack.rulesStrings.3>
+  <DamageEvent_Include.rulePack.rulesStrings.0>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</DamageEvent_Include.rulePack.rulesStrings.0>
+  <DamageEvent_Include.rulePack.rulesStrings.1>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.1>
+  <DamageEvent_Include.rulePack.rulesStrings.2>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.2>
+  <DamageEvent_Include.rulePack.rulesStrings.3>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</DamageEvent_Include.rulePack.rulesStrings.3>
 
-  <DamageEvent_Ceiling.rulePack.rulesStrings.0>damageSource->the [roof] [collapsed] on</DamageEvent_Ceiling.rulePack.rulesStrings.0>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.0>damage_source->the [roof] [collapsed] on</DamageEvent_Ceiling.rulePack.rulesStrings.0>
   <DamageEvent_Ceiling.rulePack.rulesStrings.1>roof->roof</DamageEvent_Ceiling.rulePack.rulesStrings.1>
   <DamageEvent_Ceiling.rulePack.rulesStrings.2>roof->roofing</DamageEvent_Ceiling.rulePack.rulesStrings.2>
   <DamageEvent_Ceiling.rulePack.rulesStrings.3>roof->ceiling</DamageEvent_Ceiling.rulePack.rulesStrings.3>
@@ -24,7 +24,7 @@
   <DamageEvent_Ceiling.rulePack.rulesStrings.15>destroyed_present->annihilating</DamageEvent_Ceiling.rulePack.rulesStrings.15>
   <DamageEvent_Ceiling.rulePack.rulesStrings.16>destroyed_present->breaking</DamageEvent_Ceiling.rulePack.rulesStrings.16>
 
-  <DamageEvent_Fire.rulePack.rulesStrings.0>damageSource->[fire] burned</DamageEvent_Fire.rulePack.rulesStrings.0>
+  <DamageEvent_Fire.rulePack.rulesStrings.0>damage_source->[fire] burned</DamageEvent_Fire.rulePack.rulesStrings.0>
   <DamageEvent_Fire.rulePack.rulesStrings.1>fire(p=3)->fire</DamageEvent_Fire.rulePack.rulesStrings.1>
   <DamageEvent_Fire.rulePack.rulesStrings.2>fire(p=3)->a fire</DamageEvent_Fire.rulePack.rulesStrings.2>
   <DamageEvent_Fire.rulePack.rulesStrings.3>fire(p=3)->the fire</DamageEvent_Fire.rulePack.rulesStrings.3>
@@ -40,9 +40,9 @@
   <DamageEvent_Fire.rulePack.rulesStrings.13>destroyed_present->cooking</DamageEvent_Fire.rulePack.rulesStrings.13>
   <DamageEvent_Fire.rulePack.rulesStrings.14>destroyed_present->cremating</DamageEvent_Fire.rulePack.rulesStrings.14>
 
-  <DamageEvent_PowerBeam.rulePack.rulesStrings.0>damageSource->The [sky] opened up on</DamageEvent_PowerBeam.rulePack.rulesStrings.0>
-  <DamageEvent_PowerBeam.rulePack.rulesStrings.1>damageSource->A beam of incredible [power] [damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.1>
-  <DamageEvent_PowerBeam.rulePack.rulesStrings.2>damageSource->A column of [light] [damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.2>
+  <DamageEvent_PowerBeam.rulePack.rulesStrings.0>damage_source->The [sky] opened up on</DamageEvent_PowerBeam.rulePack.rulesStrings.0>
+  <DamageEvent_PowerBeam.rulePack.rulesStrings.1>damage_source->A beam of incredible [power] [damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.1>
+  <DamageEvent_PowerBeam.rulePack.rulesStrings.2>damage_source->A column of [light] [damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.2>
   <DamageEvent_PowerBeam.rulePack.rulesStrings.3>sky->sky</DamageEvent_PowerBeam.rulePack.rulesStrings.3>
   <DamageEvent_PowerBeam.rulePack.rulesStrings.4>sky->clouds</DamageEvent_PowerBeam.rulePack.rulesStrings.4>
   <DamageEvent_PowerBeam.rulePack.rulesStrings.5>sky->heavens</DamageEvent_PowerBeam.rulePack.rulesStrings.5>
@@ -54,7 +54,7 @@
   <DamageEvent_PowerBeam.rulePack.rulesStrings.11>light->flame</DamageEvent_PowerBeam.rulePack.rulesStrings.11>
   <DamageEvent_PowerBeam.rulePack.rulesStrings.12>light(p=0.2)->incandescence</DamageEvent_PowerBeam.rulePack.rulesStrings.12>
 
-  <DamageEvent_Tornado.rulePack.rulesStrings.0>damageSource->A [spiraling] tornado [enveloped]</DamageEvent_Tornado.rulePack.rulesStrings.0>
+  <DamageEvent_Tornado.rulePack.rulesStrings.0>damage_source->A [spiraling] tornado [enveloped]</DamageEvent_Tornado.rulePack.rulesStrings.0>
   <DamageEvent_Tornado.rulePack.rulesStrings.1>destroyed_present(p=3)->tearing off</DamageEvent_Tornado.rulePack.rulesStrings.1>
   <DamageEvent_Tornado.rulePack.rulesStrings.2>spiraling->spiraling</DamageEvent_Tornado.rulePack.rulesStrings.2>
   <DamageEvent_Tornado.rulePack.rulesStrings.3>spiraling->whirling</DamageEvent_Tornado.rulePack.rulesStrings.3>

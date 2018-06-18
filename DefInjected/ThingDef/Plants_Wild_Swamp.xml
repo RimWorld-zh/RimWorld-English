@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantTreeWillow.label>willow tree</PlantTreeWillow.label>
-  <PlantTreeWillow.description>One of the fastest growing shade trees providing a beautiful, thick, leafy canopy. Doesn't yield much usable wood.</PlantTreeWillow.description>
+  <Plant_TreeWillow.label>willow tree</Plant_TreeWillow.label>
+  <Plant_TreeWillow.description>One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood.</Plant_TreeWillow.description>
 
-  <PlantTreeCypress.label>cypress tree</PlantTreeCypress.label>
-  <PlantTreeCypress.description>A tall, slow-growing tree. Typically found in swamps. Despite its slow growth, planting these trees can be profitable because they yield much usable wood.</PlantTreeCypress.description>
+  <Plant_TreeCypress.label>cypress tree</Plant_TreeCypress.label>
+  <Plant_TreeCypress.description>A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood.</Plant_TreeCypress.description>
 
-  <PlantTreeMaple.label>maple tree</PlantTreeMaple.label>
-  <PlantTreeMaple.description>A common, medium-sized tree. It's often found in swamps and on moist terrain.</PlantTreeMaple.description>
+  <Plant_TreeMaple.label>maple tree</Plant_TreeMaple.label>
+  <Plant_TreeMaple.description>A common medium-sized tree, easily identifiable by its distinct three-pointed leaf.</Plant_TreeMaple.description>
 
-  <PlantChokevine.label>chokevine</PlantChokevine.label>
-  <PlantChokevine.description>Dense shrub which slows down anyone moving over it.</PlantChokevine.description>
+  <Plant_Chokevine.label>chokevine</Plant_Chokevine.label>
+  <Plant_Chokevine.description>Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark.</Plant_Chokevine.description>
 
 
 </LanguageData>

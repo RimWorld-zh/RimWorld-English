@@ -1,12 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Deep -->
+
   <WaterDeep.label>deep water</WaterDeep.label>
+  <WaterDeep.tools.0.label>water</WaterDeep.tools.0.label>
+
   <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>
-  <WaterMovingDeep.label>deep moving water</WaterMovingDeep.label>
+  <WaterOceanDeep.tools.0.label>water</WaterOceanDeep.tools.0.label>
+
+
+  <!-- Chest-deep -->
+
+  <WaterMovingChestDeep.label>chest-deep moving water</WaterMovingChestDeep.label>
+  <WaterMovingChestDeep.tools.0.label>water</WaterMovingChestDeep.tools.0.label>
+
+
+  <!-- Shallow -->
+
   <WaterShallow.label>shallow water</WaterShallow.label>
+  <WaterShallow.tools.0.label>water</WaterShallow.tools.0.label>
+
   <WaterOceanShallow.label>shallow ocean water</WaterOceanShallow.label>
+  <WaterOceanShallow.tools.0.label>water</WaterOceanShallow.tools.0.label>
+
   <WaterMovingShallow.label>shallow moving water</WaterMovingShallow.label>
+  <WaterMovingShallow.tools.0.label>water</WaterMovingShallow.tools.0.label>
 
 
 </LanguageData>

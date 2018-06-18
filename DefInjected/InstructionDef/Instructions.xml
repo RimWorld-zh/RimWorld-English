@@ -13,10 +13,10 @@
   <RandomizeCharacter.rejectInputMessage>Please try randomizing a character first.</RandomizeCharacter.rejectInputMessage>
 
   <AcceptStartingPawns.text>Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready.</AcceptStartingPawns.text>
-  <MapCameraDolly.text>Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys, or click and drag with the middle mouse button.\n\nTry it now!</MapCameraDolly.text>
-  <MapCameraZoom.text>Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoomIn} and {Key:MapZoomOut} keys.\n\nTry it now!</MapCameraZoom.text>
+  <MapCameraDolly.text>Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now!</MapCameraDolly.text>
+  <MapCameraZoom.text>Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now!</MapCameraZoom.text>
   <Pause.text>You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right.</Pause.text>
-  <TimeControls.text>You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, and {Key:TimeSpeedSuperfast} keys, or with the time controls in the bottom right.</TimeControls.text>
+  <TimeControls.text>You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right.</TimeControls.text>
 
   <MakeStockpile.text>Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map.</MakeStockpile.text>
   <MakeStockpile.rejectInputMessage>Please make a stockpile on the indicated area.</MakeStockpile.rejectInputMessage>
@@ -36,7 +36,7 @@
   <BuildRoomDoor.rejectInputMessage>Please build a wooden door over one of your room walls.</BuildRoomDoor.rejectInputMessage>
   <BuildRoomDoor.onMapInstruction>Build a door over one wall</BuildRoomDoor.onMapInstruction>
 
-  <BuildBeds.text>Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:DesignatorRotateLeft} and {Key:DesignatorRotateRight} keys to rotate the building.</BuildBeds.text>
+  <BuildBeds.text>Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building.</BuildBeds.text>
   <BuildBeds.rejectInputMessage>Please build wooden beds inside the room.</BuildBeds.rejectInputMessage>
   <BuildBeds.onMapInstruction>Build three beds inside the room</BuildBeds.onMapInstruction>
 

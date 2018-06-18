@@ -6,15 +6,15 @@
   <CremateCorpse.jobString>Cremating.</CremateCorpse.jobString>
 
   <BurnApparel.label>burn apparel</BurnApparel.label>
-  <BurnApparel.description>Burn apparel to completely destroy it.</BurnApparel.description>
+  <BurnApparel.description>Burn unwanted apparel to completely destroy it.</BurnApparel.description>
   <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
 
   <BurnApparelCampfire.label>burn apparel</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>Burn apparel to completely destroy it.</BurnApparelCampfire.description>
+  <BurnApparelCampfire.description>Burn unwanted apparel to completely destroy it.</BurnApparelCampfire.description>
   <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
 
   <BurnDrugs.label>burn drugs</BurnDrugs.label>
-  <BurnDrugs.description>Burn drugs to completely destroy them.</BurnDrugs.description>
+  <BurnDrugs.description>Burn unwanted drugs to completely destroy them.</BurnDrugs.description>
   <BurnDrugs.jobString>Burning drugs.</BurnDrugs.jobString>
 
 

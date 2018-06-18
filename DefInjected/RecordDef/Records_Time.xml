@@ -2,16 +2,16 @@
 <LanguageData>
 
   <TimeAsColonistOrColonyAnimal.label>time as a colonist</TimeAsColonistOrColonyAnimal.label>
-  <TimeAsColonistOrColonyAnimal.description>Total time spent as a colonist.</TimeAsColonistOrColonyAnimal.description>
+  <TimeAsColonistOrColonyAnimal.description>Total time spent loyal to your community.</TimeAsColonistOrColonyAnimal.description>
 
   <TimeAsPrisoner.label>time as a prisoner</TimeAsPrisoner.label>
   <TimeAsPrisoner.description>Total time spent as a prisoner.</TimeAsPrisoner.description>
 
   <TimeInBed.label>time in a bed</TimeInBed.label>
-  <TimeInBed.description>Total time spent in a bed.</TimeInBed.description>
+  <TimeInBed.description>Total time spent in bed.</TimeInBed.description>
 
   <TimeInBedForMedicalReasons.label>time in a bed for medical reasons</TimeInBedForMedicalReasons.label>
-  <TimeInBedForMedicalReasons.description>Total time spent in a bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+  <TimeInBedForMedicalReasons.description>Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
 
   <TimeDowned.label>time downed</TimeDowned.label>
   <TimeDowned.description>Total time spent downed.</TimeDowned.description>
@@ -32,7 +32,7 @@
   <TimeOnFire.description>Total time spent on fire.</TimeOnFire.description>
 
   <TimeInMentalState.label>time in mental state</TimeInMentalState.label>
-  <TimeInMentalState.description>Total time spent in mental state.</TimeInMentalState.description>
+  <TimeInMentalState.description>Total time spent in an abnormal mental state.</TimeInMentalState.description>
 
   <TimeHauling.label>time hauling</TimeHauling.label>
   <TimeHauling.description>Total time spent hauling things.</TimeHauling.description>
@@ -50,7 +50,7 @@
   <TimeHunting.description>Total time spent hunting.</TimeHunting.description>
 
   <TimeConstructing.label>time constructing</TimeConstructing.label>
-  <TimeConstructing.description>Total time spent constructing and deconstructing.</TimeConstructing.description>
+  <TimeConstructing.description>Total time spent constructing and deconstructing buildings.</TimeConstructing.description>
 
   <TimeTreatingAndFeeding.label>time treating and feeding</TimeTreatingAndFeeding.label>
   <TimeTreatingAndFeeding.description>Total time spent treating and feeding patients.</TimeTreatingAndFeeding.description>

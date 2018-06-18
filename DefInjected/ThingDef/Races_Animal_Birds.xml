@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Cassowary.label>cassowary</Cassowary.label>
-  <Cassowary.description>A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious.</Cassowary.description>
+  <Cassowary.description>A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers.</Cassowary.description>
   <Cassowary.tools.0.label>claws</Cassowary.tools.0.label>
   <Cassowary.tools.2.label>head</Cassowary.tools.2.label>
   <Cassowary_Leather.label>cassowary leather</Cassowary_Leather.label>
@@ -14,7 +14,7 @@
   <Cassowary_Corpse.description>cassowary corpse</Cassowary_Corpse.description>
 
   <Emu.label>emu</Emu.label>
-  <Emu.description>A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world.</Emu.description>
+  <Emu.description>A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge.</Emu.description>
   <Emu.tools.0.label>claws</Emu.tools.0.label>
   <Emu.tools.2.label>head</Emu.tools.2.label>
   <Emu_Leather.label>emu leather</Emu_Leather.label>
@@ -25,7 +25,7 @@
   <Emu_Corpse.description>emu corpse</Emu_Corpse.description>
 
   <Ostrich.label>ostrich</Ostrich.label>
-  <Ostrich.description>The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick.</Ostrich.description>
+  <Ostrich.description>The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered.</Ostrich.description>
   <Ostrich.tools.0.label>claws</Ostrich.tools.0.label>
   <Ostrich.tools.2.label>head</Ostrich.tools.2.label>
   <Ostrich_Leather.label>ostrich leather</Ostrich_Leather.label>

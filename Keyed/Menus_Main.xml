@@ -10,6 +10,8 @@
   <LoadGame>Load game</LoadGame>
   <Options>Options</Options>
   <Mods>Mods</Mods>
+  <SaveTranslationReport>Save translation report</SaveTranslationReport>
+  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
   <Credits>Credits</Credits>
   <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
@@ -62,6 +64,7 @@
   <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
+  <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
   <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
   <Unsubscribe>Unsubscribe</Unsubscribe>
@@ -125,8 +128,6 @@
   <Elevation>Elevation</Elevation>
   <Fertility>Fertility</Fertility>
   <AvgTemp>Average temperature</AvgTemp>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-  <AvgWinterTemp>Winter temperature</AvgWinterTemp>
   <Rainfall>Rainfall</Rainfall>
   <SpecialFeatures>Special features</SpecialFeatures>
   <HasCoast0>northern coast</HasCoast0>
@@ -137,12 +138,12 @@
   <FactionBase>Faction base</FactionBase>
   <StoneTypesHere>Stone types</StoneTypesHere>
   <TimeZone>Time zone</TimeZone>
-  <MovementTimeNow>Current movement time</MovementTimeNow>
-  <MovementTimeSummer>Summer movement time</MovementTimeSummer>
-  <MovementTimeWinter>Winter movement time</MovementTimeWinter>
+  <MovementDifficulty>Movement difficulty</MovementDifficulty>
   <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
   <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
   <PerYear>per year</PerYear>
+  <Forageability>Forageability</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
 
   <!--=========== Character chooser ==========-->
@@ -160,6 +161,7 @@
   <NoneLower>none</NoneLower>
   <Adulthood>Adulthood</Adulthood>
   <Childhood>Childhood</Childhood>
+  <Current>Current</Current>
   <Male>male</Male>
   <Female>female</Female>
   <Pain>Pain</Pain>
@@ -177,6 +179,7 @@
   <Gameplay>Gameplay</Gameplay>
   <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
   <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
   <Quit>Quit</Quit>
   <Ignore>Ignore</Ignore>
 

@@ -3,6 +3,7 @@
 
   <DropOnFloor.label>drop on floor</DropOnFloor.label>
   <BestStockpile.label>take to best stockpile</BestStockpile.label>
+  <SpecificStockpile.label>take to {0}</SpecificStockpile.label>
 
 
 </LanguageData>

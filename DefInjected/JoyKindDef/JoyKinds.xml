@@ -1,16 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Work.label>work</Work.label>
-  <Meditative.label>meditative</Meditative.label>
-  <Lewd.label>lewd</Lewd.label>
-  <Social.label>social</Social.label>
-  <Chemical.label>chemical</Chemical.label>
-  <Gluttonous.label>gluttonous</Gluttonous.label>
-  <GamingDexterity.label>gaming (dexterity)</GamingDexterity.label>
-  <GamingCerebral.label>gaming (cerebral)</GamingCerebral.label>
-  <Passive.label>passive</Passive.label>
-  <Study.label>study</Study.label>
+  <!-- Requiring nothing -->
+
+  <Meditative.label>solitary relaxation</Meditative.label>
+  <Social.label>social interaction</Social.label>
+
+
+  <!-- horseshoes/hoopstone, billiards -->
+
+  <Gaming_Dexterity.label>dexterity play</Gaming_Dexterity.label>
+
+
+  <!-- chess, poker -->
+
+  <Gaming_Cerebral.label>cerebral play</Gaming_Cerebral.label>
+  <Television.label>television watching</Television.label>
+  <Telescope.label>telescope study</Telescope.label>
+
+
+  <!-- Item consumption -->
+
+  <Chemical.label>chemical consumption</Chemical.label>
+  <Gluttonous.label>food consumption</Gluttonous.label>
 
 
 </LanguageData>

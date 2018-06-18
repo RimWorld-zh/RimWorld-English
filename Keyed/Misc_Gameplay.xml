@@ -7,11 +7,13 @@
   <Contents>Contents</Contents>
   <ContainedResources>Contained resources</ContainedResources>
   <ForPrisonerUse>For prisoner use</ForPrisonerUse>
+  <InPrisonCell>In prison cell: For prisoner use</InPrisonCell>
   <ForColonistUse>For colonist use</ForColonistUse>
   <MedicalBed>Medical</MedicalBed>
   <Owner>Owner</Owner>
   <Owners>Owners</Owners>
   <AssignedColonist>Assigned colonist</AssignedColonist>
+  <DiedOn>Died on the {0}</DiedOn>
   <Nobody>Nobody</Nobody>
   <Unowned>Unowned</Unowned>
   <DeadTime>Dead for {0}</DeadTime>
@@ -25,7 +27,10 @@
   <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
   <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
   <NeedsTendingNow>Needs tending now</NeedsTendingNow>
-  <NextTendIn>Will need tending in {0}</NextTendIn>
+  <CanTendNow>Can tend now</CanTendNow>
+  <TreatmentExpiresIn>Tending expires in {0}</TreatmentExpiresIn>
+  <NextTendIn>Can be tended in {0}</NextTendIn>
+  <TendQuality>Tend quality</TendQuality>
   <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
   <Immunity>Immunity</Immunity>
   <Race>Race</Race>
@@ -36,12 +41,13 @@
   <ThingInfo>Information</ThingInfo>
   <DropThing>Drop</DropThing>
   <Rename>Rename</Rename>
+  <RenameAnimal>Rename animal</RenameAnimal>
   <RenameColonist>Rename colonist</RenameColonist>
   <UnknownLower>unknown</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
   <PowerSwitch_Power>Power</PowerSwitch_Power>
-  <JoyTolerances>Joy tolerances</JoyTolerances>
+  <JoyTolerances>Recreation type tolerances</JoyTolerances>
   <MilkFullness>Milk fullness</MilkFullness>
   <WoolGrowth>Wool growth</WoolGrowth>
   <EggProgress>Egg progress</EggProgress>
@@ -69,19 +75,25 @@
   <Permanent>permanent</Permanent>
   <CaravanResting>Resting.</CaravanResting>
   <CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
-  <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
+  <CaravanEstimatedDaysToDestination>Estimated days to arrive: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanImmobilizedByMass>Immobilized: Too much weight.</CaravanImmobilizedByMass>
   <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
   <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
-  <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
-  <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
-  <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
-  <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
+  <CaravanDaysOfFoodRot>Days of food: {0} (rot in {1} days)</CaravanDaysOfFoodRot>
+  <AllCaravanMembersDowned>Stopped because: Everyone is downed.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Stopped because: Everyone has a mental break.</AllCaravanMembersMentalBreak>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanAnimal>1 animal</CaravanAnimal>
+  <CaravanAnimalsCount>{0} animals</CaravanAnimalsCount>
+  <CaravanPrisoner>1 prisoner</CaravanPrisoner>
+  <CaravanPrisonersCount>{0} prisoners</CaravanPrisonersCount>
+  <CaravanPawnsInMentalState>{0} in mental state</CaravanPawnsInMentalState>
+  <CaravanPawnsDowned>{0} downed</CaravanPawnsDowned>
   <CaravanTraveling>Traveling.</CaravanTraveling>
+  <CaravanPaused>Paused.</CaravanPaused>
   <CaravanWaiting>Waiting.</CaravanWaiting>
-  <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
   <CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
-  <StealthFactor>Stealthiness</StealthFactor>
+  <Visibility>Visibility</Visibility>
   <Temperature>Temperature</Temperature>
   <BadTemperature>bad temperature</BadTemperature>
   <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
@@ -89,12 +101,15 @@
   <CaravanVisiting>Visiting {0}.</CaravanVisiting>
   <CaravanEntering>Entering {0}.</CaravanEntering>
   <CaravanAttacking>Attacking {0}.</CaravanAttacking>
-  <WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
-  <WornByCorpseChar>D</WornByCorpseChar>
-  <DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
+  <CaravanOfferingGifts>Offering gifts to {0}.</CaravanOfferingGifts>
+  <WasWornByCorpse>Tainted from being worn by a corpse.</WasWornByCorpse>
+  <WornByCorpseChar>T</WornByCorpseChar>
+  <DeterioratingUnroofed>unroofed</DeterioratingUnroofed>
+  <DeterioratingOutdoors>outdoors</DeterioratingOutdoors>
+  <DeterioratingBecauseOf>Deteriorating because of</DeterioratingBecauseOf>
   <Map>Map</Map>
   <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0}.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform the caravan and leave this area in {0}.</ForceExitAndRemoveMapCountdownTip>
   <Room>Room</Room>
   <BeautyHere>Beauty here</BeautyHere>
   <NoPower>No power</NoPower>
@@ -108,30 +123,52 @@
   <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
   <TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
   <SettlementTrader>{0} of {1}</SettlementTrader>
-  <RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
-  <RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
+  <RoomSurgerySuccessChanceFactor>Surgery success chance multiplier from room</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>Infection chance multiplier from room</RoomInfectionChanceFactor>
   <VentClosed>Closed</VentClosed>
   <WornBy>worn by {0}</WornBy>
   <EquippedBy>equipped by {0}</EquippedBy>
   <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
   <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
-  <ItemStashContents>Contents: {0}.</ItemStashContents>
-  <SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
+  <ItemStashContents>Contents: {0}</ItemStashContents>
+  <SomeItemStashContents>Some contents: {0}</SomeItemStashContents>
   <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
   <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
   <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
   <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
   <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
-  <KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
-  <KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
-  <KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
+  <KnownSiteThreat>Threat: {0}</KnownSiteThreat>
+  <KnownSiteThreats>Threats: {0}</KnownSiteThreats>
+  <KnownSiteThreatsNone>Threats: None</KnownSiteThreatsNone>
   <SkillRequirements>Skill Requirements</SkillRequirements>
   <Products>Products</Products>
-  <DeepDrillExhausted>Deep drill resources exhausted.</DeepDrillExhausted>
   <Relationship>{0} of {1}</Relationship>
   <Prisoner>Prisoner</Prisoner>
   <Refugee>Refugee</Refugee>
+  <TileMovementDifficulty>Terrain movement difficulty</TileMovementDifficulty>
+  <Impassable>Impassable</Impassable>
+  <CaravanMovementSpeedFull>Caravan movement speed</CaravanMovementSpeedFull>
+  <DownedLower>downed</DownedLower>
+  <AverageCaravanMemberMoveSpeed>Avg. person move speed</AverageCaravanMemberMoveSpeed>
+  <MultiplierForCarriedMass>Multiplier for carried mass: {0}</MultiplierForCarriedMass>
+  <FinalCaravanPawnsMovementSpeed>Caravan members speed</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanMovementSpeed>Final speed</FinalCaravanMovementSpeed>
+  <Winter>Winter</Winter>
+  <MovementDifficultyOffsetInWinter>{0} in winter</MovementDifficultyOffsetInWinter>
+  <RangeTo>to</RangeTo>
+  <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
+  <ExpiresIn>Expires in</ExpiresIn>
+  <CaravanLeaderCaravanName>{0}'s caravan</CaravanLeaderCaravanName>
+  <Reason>Reason</Reason>
+  <RelationsWith>Relations with {0}</RelationsWith>
+  <capturedBy>captured by {0}</capturedBy>
+  <yourCaravan>your caravan</yourCaravan>
+  <CreatureWildness>{0} wildness</CreatureWildness>
+  <CreatureTrainability>{0} trainability</CreatureTrainability>
+  <ProximitySingleGoodwillChange>{0} with {1}</ProximitySingleGoodwillChange>
+  <EnterCooldown>You can't re-enter for another {0} days.</EnterCooldown>
+  <Caravan>Caravan</Caravan>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
@@ -163,14 +200,12 @@
   <NoRoof>No roof</NoRoof>
   <SnowClear>Snow clear</SnowClear>
   <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
   <NoAreaAllowed>Unrestricted</NoAreaAllowed>
   <NewArea>New area</NewArea>
-  <NewAreaAnimal>New animal area</NewAreaAnimal>
   <InvertArea>Invert</InvertArea>
 
   <!-- Control -->
-  <CannotOrderNonControlled>Cannot order non-controlled units.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Cannot order characters you do not control.</CannotOrderNonControlled>
   <IsIncapableOfViolence>{0} is incapable of violence.</IsIncapableOfViolence>
   <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
   <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
@@ -186,6 +221,8 @@
   <GunInstalled>Installed</GunInstalled>
   <MinimumRange>Minimum range</MinimumRange>
   <CanFireIn>Can fire in</CanFireIn>
+  <CannotFire>Cannot fire</CannotFire>
+  <Roofed>roofed</Roofed>
   <ShellLoaded>Shell loaded: {0}</ShellLoaded>
   <ShellNotLoaded>Not loaded</ShellNotLoaded>
 
@@ -233,7 +270,7 @@
   <RecipeAdminister>administer {0}</RecipeAdminister>
   <RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
   <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
-  <ProsthophobeUnhappy>prosthophobe will be unhappy</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>body purist will be unhappy</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <ThoughtExpiresIn>Expires in: {0}</ThoughtExpiresIn>
@@ -259,13 +296,15 @@
   <Carrying>Carrying</Carrying>
   <AffectedBy>Affected by:</AffectedBy>
   <Queued>Queued</Queued>
+  <State>State</State>
+  <StunLower>stun</StunLower>
 
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
   <DefInfoTip>View information about this object.</DefInfoTip>
 
   <!-- Hostility response -->
-  <HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
+  <HostilityReponseTip>Change how this person will react to nearby enemies when not drafted.</HostilityReponseTip>
   <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
@@ -299,6 +338,7 @@
   <!-- Shooting tooltip -->
   <ShotBy>Shot by {0}</ShotBy>
   <CannotHit>Cannot hit target.</CannotHit>
+  <ManhunterPerHit>Manhunter chance per hit</ManhunterPerHit>
 
   <!-- Rotting -->
   <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
@@ -348,9 +388,11 @@
   <!-- Buttons -->
   <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
   <ZoneVisibilityToggleButton>Toggle visiblity of zones.</ZoneVisibilityToggleButton>
-  <ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
+  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
   <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
   <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
+  <AutoRebuildButton>Toggle automatic rebuild of destroyed structures.</AutoRebuildButton>
   <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
   <ShowRoofOverlayToggleButton>Toggle visibility of roofs.</ShowRoofOverlayToggleButton>
@@ -383,6 +425,7 @@
   <MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
   <MustPlaceAdjacentStandable>Must be placed with standable space on all sides.</MustPlaceAdjacentStandable>
   <MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
+  <MustPlaceOnDrillable>Must be placed on drillable resources.</MustPlaceOnDrillable>
 
   <!-- Wind Turbine -->
   <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
@@ -390,7 +433,7 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Contains</CasketContains>
-  <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
+  <CasketWarning>Warning!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Cannot launch.</ShipReportCannotLaunch>
@@ -401,8 +444,9 @@
   <ShipReportHibernating>Hibernating component</ShipReportHibernating>
   <ShipReportNotReady>Component not yet ready</ShipReportNotReady>
   <HibernateWarning>Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and treasure hunters. Make sure your defenses are prepared first.</HibernateWarning>
-  <HibernateCompleteLabel>Reactor ready</HibernateCompleteLabel>
-  <HibernateComplete>Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff.</HibernateComplete>
+  <HibernateWarningStandalone>The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and treasure hunters. Make sure your defenses are prepared first.</HibernateWarningStandalone>
+  <HibernateWarningPacifist>Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days.</HibernateWarningPacifist>
+  <HibernateWarningStandalonePacifist>The reactor is ready to power up. The process will take about 15 days.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
@@ -475,6 +519,7 @@
   <ActivityIconAttacking>Fighting</ActivityIconAttacking>
   <ActivityIconIdle>Idle</ActivityIconIdle>
   <ActivityIconBurning>Burning</ActivityIconBurning>
+  <ActivityIconFormingCaravan>Forming a caravan</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <DueForMaintenance>Due for maintenance.</DueForMaintenance>
@@ -483,6 +528,9 @@
   <!-- Deep drill -->
   <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
   <ResourceBelow>Resource below</ResourceBelow>
+  <DeepDrillNoResources>No resources below.</DeepDrillNoResources>
+  <DeepDrillExhausted>Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}.</DeepDrillExhausted>
+  <DeepDrillExhaustedNoFallback>Deep drill resources exhausted.</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
   <LearningHelper>Learning helper</LearningHelper>
@@ -493,7 +541,7 @@
   <!-- Compass -->
   <CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
 
-  <!-- Distance measure -->
+  <!-- World route planner -->
   <RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
   <RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
   <RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
@@ -503,8 +551,10 @@
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
-  <EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
+  <EstimatedTimeToWaypoint>Est. travel time: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypointFromPrevious>Est. travel time (from previous waypoint): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToTile>Est. travel time: {0}</EstimatedTimeToTile>
+  <ForagedFoodAmount>Foraged food amount</ForagedFoodAmount>
 
   <!-- Outfits -->
   <OutfitAnything>Anything</OutfitAnything>
@@ -515,5 +565,9 @@
   <!-- Hibernatable -->
   <HibernatableHibernating>Hibernating</HibernatableHibernating>
   <HibernatableStartingUp>Starting up</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: See available orders...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_Empty>See available orders...</ClickToSeeAvailableOrders_Empty>
 
 </LanguageData>

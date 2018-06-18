@@ -2,49 +2,23 @@
 <LanguageData>
 
   <Torso.label>torso</Torso.label>
-  <LeftShoulder.label>left shoulder</LeftShoulder.label>
-  <LeftArm.label>left arm</LeftArm.label>
-  <LeftHand.label>left hand</LeftHand.label>
-  <LeftHandPinky.label>left pinky</LeftHandPinky.label>
-  <LeftHandRingFinger.label>left ring finger</LeftHandRingFinger.label>
-  <LeftHandMiddleFinger.label>left middle finger</LeftHandMiddleFinger.label>
-  <LeftHandIndexFinger.label>left index finger</LeftHandIndexFinger.label>
-  <LeftHandThumb.label>left thumb</LeftHandThumb.label>
-  <RightShoulder.label>right shoulder</RightShoulder.label>
-  <RightArm.label>right arm</RightArm.label>
-  <RightHand.label>right hand</RightHand.label>
-  <RightHandPinky.label>right pinky</RightHandPinky.label>
-  <RightHandRingFinger.label>right ring finger</RightHandRingFinger.label>
-  <RightHandMiddleFinger.label>right middle finger</RightHandMiddleFinger.label>
-  <RightHandIndexFinger.label>right index finger</RightHandIndexFinger.label>
-  <RightHandThumb.label>right thumb</RightHandThumb.label>
+  <Shoulder.label>shoulder</Shoulder.label>
+  <Arm.label>arm</Arm.label>
+  <Hand.label>hand</Hand.label>
+  <Finger.label>finger</Finger.label>
   <Waist.label>waist</Waist.label>
-  <LeftFootLittleToe.label>left little toe</LeftFootLittleToe.label>
-  <LeftFootFourthToe.label>left fourth toe</LeftFootFourthToe.label>
-  <LeftFootMiddleToe.label>left middle toe</LeftFootMiddleToe.label>
-  <LeftFootSecondToe.label>left second toe</LeftFootSecondToe.label>
-  <LeftFootBigToe.label>left big toe</LeftFootBigToe.label>
-  <RightFootLittleToe.label>right little toe</RightFootLittleToe.label>
-  <RightFootFourthToe.label>right fourth toe</RightFootFourthToe.label>
-  <RightFootMiddleToe.label>right middle toe</RightFootMiddleToe.label>
-  <RightFootSecondToe.label>right second toe</RightFootSecondToe.label>
-  <RightFootBigToe.label>right big toe</RightFootBigToe.label>
+  <Toe.label>toe</Toe.label>
 
 
   <!-- Bones -->
 
-  <LeftClavicle.label>left clavicle</LeftClavicle.label>
-  <RightClavicle.label>right clavicle</RightClavicle.label>
+  <Clavicle.label>clavicle</Clavicle.label>
   <Sternum.label>sternum</Sternum.label>
-  <LeftHumerus.label>left humerus</LeftHumerus.label>
-  <RightHumerus.label>right humerus</RightHumerus.label>
-  <LeftRadius.label>left radius</LeftRadius.label>
-  <RightRadius.label>right radius</RightRadius.label>
+  <Humerus.label>humerus</Humerus.label>
+  <Radius.label>radius</Radius.label>
   <Pelvis.label>pelvis</Pelvis.label>
-  <LeftFemur.label>left femur</LeftFemur.label>
-  <RightFemur.label>right femur</RightFemur.label>
-  <LeftTibia.label>left tibia</LeftTibia.label>
-  <RightTibia.label>right tibia</RightTibia.label>
+  <Femur.label>femur</Femur.label>
+  <Tibia.label>tibia</Tibia.label>
 
 
 </LanguageData>

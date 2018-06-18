@@ -13,15 +13,9 @@
   <MiracleHeal>{0} has experienced a miraculous recovery!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>A group of {0} from {1} have arrived nearby.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>A group of {0} from {1} have arrived in drop pods nearby.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>A group of {0} from {1} have dropped in right on top of you!</EnemyRaidCenterDrop>
   <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>A group of friendly {0} from {1} have arrived nearby.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>A group of friendly {0} from {1} have dropped in from orbit nearby.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>A group of friendly {0} from {1} have dropped from orbit right on top of you!</FriendlyRaidCenterDrop>
   <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Escape pod</LetterLabelRefugeePodCrash>
@@ -39,13 +33,13 @@
 
   <TraderArrival>A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.</TraderArrival>
 
-  <SingleTravelerPassing>A {0} from {1} is passing by. HECAP is named {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>A {0} from {1} is passing by. [PAWN_pronoun] is named {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>A group of travelers from {0} are passing by.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Visitor</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>A {0} from {1} is visiting the colony.\n\nHECAP is named {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>A {0} from {1} is visiting the colony.\n\n[PAWN_pronoun] is named {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Visitors</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>A group from {0} are visiting the colony.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
@@ -53,7 +47,7 @@
   <VisitorsLeaving>Visitors from {0} are leaving.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Wanderer joins</LetterLabelWandererJoin>
-  <WandererJoin>A {0} named NAME has arrived and is joining the colony. HECAP is a {1}.</WandererJoin>
+  <WandererJoin>A {0} named [PAWN_nameDef] has arrived and is joining the colony. [PAWN_pronoun] is a {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
@@ -87,7 +81,7 @@
 
   <!-- Refugee chased -->
   <RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. [PAWN_pronoun] is being chased by {2} from {3}!\n\n[PAWN_pronoun] begs for safety and offers to join your colony. Biologically, [PAWN_pronoun] is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on [PAWN_possessive] tail.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
@@ -116,7 +110,7 @@
 
   <!-- Ransom demand -->
   <RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
-  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
+  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release [PAWN_objective] back to you in exchange for {2} silver.</RansomDemand>
   <RansomDemand_Accept>Accept</RansomDemand_Accept>
   <RansomDemand_Reject>Reject</RansomDemand_Reject>
 
@@ -129,7 +123,7 @@
 
   <!-- Caravan meeting -->
   <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
-  <CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting>{0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2}</CaravanMeeting>
   <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
@@ -137,23 +131,25 @@
 
   <!-- Caravan request -->
   <LetterLabelCaravanRequest>Caravan request</LetterLabelCaravanRequest>
-  <LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1}\n\nIn return, they offer:\n\n  {2}\n\nThis request expires after: {3}\n\nIf you want to make the trade, send a caravan with the requested supplies. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
+  <LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
   <CaravanRequestInfo>Requesting: {0}, Reward: {1} ({2} left)</CaravanRequestInfo>
 
   <!-- Caravan demand -->
   <CaravanDemandTitle>Caravan demand by {0}</CaravanDemandTitle>
-  <CaravanDemand>Your caravan has been ambushed by a group of {1} {3} from {0}. They will attack unless you give them:\n\n{2}</CaravanDemand>
+  <CaravanDemand>{0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3}</CaravanDemand>
   <CaravanDemand_Give>Give and pass</CaravanDemand_Give>
   <CaravanDemand_Fight>Refuse and fight</CaravanDemand_Fight>
 
   <!-- Temporary item stash -->
-  <ItemStashQuestTitle>Item stash opportunity</ItemStashQuestTitle>
-  <ItemStashQuest_Accept>Accept</ItemStashQuest_Accept>
-  <ItemStashQuest_Reject>Reject</ItemStashQuest_Reject>
-  <ItemStashQuestFeeDemand>{0} is willing to tell us the location of the stash in exchange for {1} silver.</ItemStashQuestFeeDemand>
   <ItemStashSitePart_Unknown>Unfortunately, {0} has no idea who or what - if anything - might be guarding the stash.</ItemStashSitePart_Unknown>
   <ItemStashSitePart_Nothing>{0} says that the stash is unguarded.</ItemStashSitePart_Nothing>
   <ItemStashSitePart_Part>{0} says that {1}.</ItemStashSitePart_Part>
+
+  <!-- Site no longer hostile -->
+  <LetterLabelSiteNoLongerHostile>Quest no longer available</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostileMulti>Quests no longer available</LetterLabelSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostile>Because you are no longer hostile with {0}, the {1} site is no longer available.</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostileMulti>Because you are no longer hostile with {0}, the following sites are no longer available</LetterSiteNoLongerHostileMulti>
 
 
 </LanguageData>

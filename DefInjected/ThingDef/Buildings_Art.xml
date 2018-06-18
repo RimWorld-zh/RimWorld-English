@@ -12,14 +12,14 @@
   <SculptureLarge_Blueprint_Install.label>large sculpture (blueprint)</SculptureLarge_Blueprint_Install.label>
 
   <SculptureGrand.label>grand sculpture</SculptureGrand.label>
-  <SculptureGrand.description>A car-sized piece of material sculpted into an artistic form.</SculptureGrand.description>
+  <SculptureGrand.description>A huge sculpture sized to dominate a room.</SculptureGrand.description>
   <SculptureGrand_Blueprint_Install.label>grand sculpture (blueprint)</SculptureGrand_Blueprint_Install.label>
 
 
   <!-- Snowman -->
 
   <Snowman.label>snowman</Snowman.label>
-  <Snowman.description>A set of large snowballs piled and shaped to resemble a person.</Snowman.description>
+  <Snowman.description>A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it.</Snowman.description>
 
 
 </LanguageData>

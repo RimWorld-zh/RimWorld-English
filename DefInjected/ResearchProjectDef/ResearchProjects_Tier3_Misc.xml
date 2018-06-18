@@ -4,28 +4,31 @@
   <!-- Tier 3: Hi-tech research bench -->
 
   <Firefoam.label>firefoam</Firefoam.label>
-  <Firefoam.description>Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
+  <Firefoam.description>Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
 
   <MoisturePump.label>moisture pump</MoisturePump.label>
-  <MoisturePump.description>Allows the construction of moisture pumps, which turn wet ground dry.</MoisturePump.description>
+  <MoisturePump.description>Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand.</MoisturePump.description>
 
-  <GeothermalPower.label>geothermal power</GeothermalPower.label>
-  <GeothermalPower.description>Allows you to build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
+  <SterileMaterials.label>sterile materials</SterileMaterials.label>
+  <SterileMaterials.description>Construct sterile tiles to make cleanrooms for more effective medical treatment and research.</SterileMaterials.description>
 
   <HospitalBed.label>hospital bed</HospitalBed.label>
-  <HospitalBed.description>Allows colonists to construct hospital beds which increase chance of successful medical work.</HospitalBed.description>
+  <HospitalBed.description>Construct hospital beds which improve medical outcomes.</HospitalBed.description>
 
   <TransportPod.label>transport pod</TransportPod.label>
-  <TransportPod.description>Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface.</TransportPod.description>
+  <TransportPod.description>Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more.</TransportPod.description>
 
   <MedicineProduction.label>medicine production</MedicineProduction.label>
-  <MedicineProduction.description>Produce medicine from herbal medicine, neutroamine, and cloth.</MedicineProduction.description>
+  <MedicineProduction.description>Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth.</MedicineProduction.description>
 
   <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Allows colonists to build multi-analyzers which increase research speed, and allow higher-level research projects, if placed near a research bench.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Build multi-analyzers which increase research speed and allow higher-level research projects. Requires advanced components to construct.</MultiAnalyzer.description>
 
   <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>Allows the construction of long-range mineral scanners which automatically detect precious minerals like gold or jade in the nearby areas (but not in which the scanners were built).\n\nThe lumps are found on average once per 30 days within a radius of 30 tiles.\n\nBuilding more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Construct long-range mineral scanners to detect precious minerals like gold or jade in across the planet. Requires advanced components to construct.</LongRangeMineralScanner.description>
+
+  <ShieldBelt.label>shield belt</ShieldBelt.label>
+  <ShieldBelt.description>Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out.</ShieldBelt.description>
 
 
 </LanguageData>

@@ -4,6 +4,7 @@
   <UnfinishedSculpture.label>unfinished sculpture</UnfinishedSculpture.label>
   <UnfinishedGun.label>unfinished gun</UnfinishedGun.label>
   <UnfinishedWeapon.label>unfinished weapon</UnfinishedWeapon.label>
+  <UnfinishedArmor.label>unfinished armor</UnfinishedArmor.label>
   <UnfinishedTechArmor.label>unfinished armor</UnfinishedTechArmor.label>
   <UnfinishedMetallicTechArmor.label>unfinished armor</UnfinishedMetallicTechArmor.label>
   <UnfinishedApparel.label>unfinished apparel</UnfinishedApparel.label>
@@ -13,8 +14,7 @@
 
   <!-- Minified things -->
 
-  <MinifiedSculpture.label>sculpture</MinifiedSculpture.label>
-  <MinifiedFurniture.label>furniture</MinifiedFurniture.label>
+  <MinifiedThing.label>minified thing</MinifiedThing.label>
 
 
 </LanguageData>

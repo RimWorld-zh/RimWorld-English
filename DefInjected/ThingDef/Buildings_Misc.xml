@@ -2,31 +2,31 @@
 <LanguageData>
 
   <OrbitalTradeBeacon.label>orbital trade beacon</OrbitalTradeBeacon.label>
-  <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
   <OrbitalTradeBeacon_Blueprint.label>orbital trade beacon (blueprint)</OrbitalTradeBeacon_Blueprint.label>
   <OrbitalTradeBeacon_Blueprint_Install.label>orbital trade beacon (blueprint)</OrbitalTradeBeacon_Blueprint_Install.label>
   <OrbitalTradeBeacon_Frame.label>orbital trade beacon (building)</OrbitalTradeBeacon_Frame.label>
-  <OrbitalTradeBeacon_Frame.description>Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon_Frame.description>
+  <OrbitalTradeBeacon_Frame.description>Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon_Frame.description>
 
   <CommsConsole.label>comms console</CommsConsole.label>
-  <CommsConsole.description>Allows radio contact with remote traders as well as other factions for trade and diplomacy.</CommsConsole.description>
+  <CommsConsole.description>Allows radio contact with other factions and orbital traders.</CommsConsole.description>
   <CommsConsole_Blueprint.label>comms console (blueprint)</CommsConsole_Blueprint.label>
   <CommsConsole_Frame.label>comms console (building)</CommsConsole_Frame.label>
-  <CommsConsole_Frame.description>Allows radio contact with remote traders as well as other factions for trade and diplomacy.</CommsConsole_Frame.description>
+  <CommsConsole_Frame.description>Allows radio contact with other factions and orbital traders.</CommsConsole_Frame.description>
 
   <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
-  <FirefoamPopper.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper.description>
+  <FirefoamPopper.description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually.</FirefoamPopper.description>
   <FirefoamPopper.comps.1.useLabel>Trigger firefoam popper</FirefoamPopper.comps.1.useLabel>
   <FirefoamPopper_Blueprint.label>firefoam popper (blueprint)</FirefoamPopper_Blueprint.label>
   <FirefoamPopper_Blueprint_Install.label>firefoam popper (blueprint)</FirefoamPopper_Blueprint_Install.label>
   <FirefoamPopper_Frame.label>firefoam popper (building)</FirefoamPopper_Frame.label>
-  <FirefoamPopper_Frame.description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</FirefoamPopper_Frame.description>
+  <FirefoamPopper_Frame.description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually.</FirefoamPopper_Frame.description>
 
   <MoisturePump.label>moisture pump</MoisturePump.label>
-  <MoisturePump.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</MoisturePump.description>
+  <MoisturePump.description>Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water.</MoisturePump.description>
   <MoisturePump_Blueprint.label>moisture pump (blueprint)</MoisturePump_Blueprint.label>
   <MoisturePump_Frame.label>moisture pump (building)</MoisturePump_Frame.label>
-  <MoisturePump_Frame.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</MoisturePump_Frame.description>
+  <MoisturePump_Frame.description>Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water.</MoisturePump_Frame.description>
 
   <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner.description>
@@ -35,10 +35,10 @@
   <GroundPenetratingScanner_Frame.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner_Frame.description>
 
   <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Automatically detects precious minerals like gold or jade in destinations across the planet. The lumps are found on average once per 30 days within a radius of 30 planet tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
   <LongRangeMineralScanner_Blueprint.label>long-range mineral scanner (blueprint)</LongRangeMineralScanner_Blueprint.label>
   <LongRangeMineralScanner_Frame.label>long-range mineral scanner (building)</LongRangeMineralScanner_Frame.label>
-  <LongRangeMineralScanner_Frame.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner_Frame.description>
+  <LongRangeMineralScanner_Frame.description>Automatically detects precious minerals like gold or jade in destinations across the planet. The lumps are found on average once per 30 days within a radius of 30 planet tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner_Frame.description>
 
 
   <!-- Transport pods -->
@@ -50,20 +50,20 @@
   <PodLauncher_Frame.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher_Frame.description>
 
   <TransportPod.label>transport pod</TransportPod.label>
-  <TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod.description>
+  <TransportPod.description>A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles.</TransportPod.description>
   <TransportPod_Blueprint.label>transport pod (blueprint)</TransportPod_Blueprint.label>
   <TransportPod_Frame.label>transport pod (building)</TransportPod_Frame.label>
-  <TransportPod_Frame.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod_Frame.description>
+  <TransportPod_Frame.description>A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles.</TransportPod_Frame.description>
 
 
   <!-- Facilities -->
 
   <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer.</MultiAnalyzer.description>
   <MultiAnalyzer_Blueprint.label>multi-analyzer (blueprint)</MultiAnalyzer_Blueprint.label>
   <MultiAnalyzer_Blueprint_Install.label>multi-analyzer (blueprint)</MultiAnalyzer_Blueprint_Install.label>
   <MultiAnalyzer_Frame.label>multi-analyzer (building)</MultiAnalyzer_Frame.label>
-  <MultiAnalyzer_Frame.description>Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.</MultiAnalyzer_Frame.description>
+  <MultiAnalyzer_Frame.description>Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer.</MultiAnalyzer_Frame.description>
 
   <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
   <VitalsMonitor.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</VitalsMonitor.description>
@@ -73,20 +73,20 @@
   <VitalsMonitor_Frame.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</VitalsMonitor_Frame.description>
 
   <ToolCabinet.label>tool cabinet</ToolCabinet.label>
-  <ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet.description>
+  <ToolCabinet.description>Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets.</ToolCabinet.description>
   <ToolCabinet_Blueprint.label>tool cabinet (blueprint)</ToolCabinet_Blueprint.label>
   <ToolCabinet_Blueprint_Install.label>tool cabinet (blueprint)</ToolCabinet_Blueprint_Install.label>
   <ToolCabinet_Frame.label>tool cabinet (building)</ToolCabinet_Frame.label>
-  <ToolCabinet_Frame.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</ToolCabinet_Frame.description>
+  <ToolCabinet_Frame.description>Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets.</ToolCabinet_Frame.description>
 
 
   <!-- Graves -->
 
   <Grave.label>grave</Grave.label>
-  <Grave.description>Place the dead in graves to give them a decent final resting place. Colonists will visit full graves to gain meditative joy.</Grave.description>
+  <Grave.description>A decent final resting place. Colonists will visit full graves to gain meditative joy.</Grave.description>
   <Grave_Blueprint.label>grave (blueprint)</Grave_Blueprint.label>
   <Grave_Frame.label>grave (building)</Grave_Frame.label>
-  <Grave_Frame.description>Place the dead in graves to give them a decent final resting place. Colonists will visit full graves to gain meditative joy.</Grave_Frame.description>
+  <Grave_Frame.description>A decent final resting place. Colonists will visit full graves to gain meditative joy.</Grave_Frame.description>
 
   <Sarcophagus.label>sarcophagus</Sarcophagus.label>
   <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
@@ -116,16 +116,16 @@
   <MarriageSpot_Frame.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot_Frame.description>
 
   <PartySpot.label>party spot</PartySpot.label>
-  <PartySpot.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot.description>
+  <PartySpot.description>Designates a spot for throwing parties.</PartySpot.description>
   <PartySpot_Blueprint.label>party spot (blueprint)</PartySpot_Blueprint.label>
   <PartySpot_Frame.label>party spot (building)</PartySpot_Frame.label>
-  <PartySpot_Frame.description>Designates a spot where parties will be centered. Parties use an area around the spot.</PartySpot_Frame.description>
+  <PartySpot_Frame.description>Designates a spot for throwing parties.</PartySpot_Frame.description>
 
   <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
-  <CaravanPackingSpot.description>Designates a spot where caravans will be formed.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process.</CaravanPackingSpot.description>
   <CaravanPackingSpot_Blueprint.label>caravan packing spot (blueprint)</CaravanPackingSpot_Blueprint.label>
   <CaravanPackingSpot_Frame.label>caravan packing spot (building)</CaravanPackingSpot_Frame.label>
-  <CaravanPackingSpot_Frame.description>Designates a spot where caravans will be formed.</CaravanPackingSpot_Frame.description>
+  <CaravanPackingSpot_Frame.description>Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process.</CaravanPackingSpot_Frame.description>
 
 
 </LanguageData>

@@ -17,7 +17,11 @@
   <PsychicShock.labelNoun>a psychic shock</PsychicShock.labelNoun>
 
   <CryptosleepSickness.label>cryptosleep sickness</CryptosleepSickness.label>
+
   <FoodPoisoning.label>food poisoning</FoodPoisoning.label>
+  <FoodPoisoning.stages.0.label>recovering</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>major</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>initial</FoodPoisoning.stages.2.label>
 
   <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
   <ToxicBuildup.stages.0.label>initial</ToxicBuildup.stages.0.label>

@@ -2,11 +2,11 @@
 <LanguageData>
 
   <PlayerColony.label>New Arrivals</PlayerColony.label>
-  <PlayerColony.description>Your own community.</PlayerColony.description>
+  <PlayerColony.description>A colony of recently-arrived off-worlders.</PlayerColony.description>
   <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
 
   <PlayerTribe.label>New Tribe</PlayerTribe.label>
-  <PlayerTribe.description>Your own tribe.</PlayerTribe.description>
+  <PlayerTribe.description>A small tribe.</PlayerTribe.description>
   <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
 
 

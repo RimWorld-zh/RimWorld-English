@@ -37,10 +37,10 @@
   <!-- friend/rival died -->
 
   <PawnWithGoodOpinionDied.stages.0.label>my friend {0} died</PawnWithGoodOpinionDied.stages.0.label>
-  <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
+  <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person, gone forever. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
 
   <PawnWithBadOpinionDied.stages.0.label>my rival {0} died</PawnWithBadOpinionDied.stages.0.label>
-  <PawnWithBadOpinionDied.stages.0.description>Serves them right. Things are looking up.</PawnWithBadOpinionDied.stages.0.description>
+  <PawnWithBadOpinionDied.stages.0.description>Serves them right. At least there's some justice in this world.</PawnWithBadOpinionDied.stages.0.description>
 
 
   <!-- Family member died thoughts -->

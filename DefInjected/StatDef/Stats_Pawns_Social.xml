@@ -2,22 +2,22 @@
 <LanguageData>
 
   <RecruitPrisonerChance.label>recruit prisoner chance</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>Base chance this person will recruit a prisoner.</RecruitPrisonerChance.description>
+  <RecruitPrisonerChance.description>The base chance this person will recruit a prisoner on any given attempt. The actual chance is also affected by factors like prisoner mood, prisoner difficulty, and so on.</RecruitPrisonerChance.description>
 
   <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
-  <TameAnimalChance.description>Base chance this person will tame an animal.</TameAnimalChance.description>
+  <TameAnimalChance.description>The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals.</TameAnimalChance.description>
 
   <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
-  <TrainAnimalChance.description>Base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on.</TrainAnimalChance.description>
+  <TrainAnimalChance.description>The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on.</TrainAnimalChance.description>
 
   <SocialImpact.label>social chat impact</SocialImpact.label>
-  <SocialImpact.description>When this person interacts socially, this is how much the other person is affected.</SocialImpact.description>
+  <SocialImpact.description>A multiplier on how much other people are affected by this person's social interactions.</SocialImpact.description>
 
   <DiplomacyPower.label>diplomacy power</DiplomacyPower.label>
-  <DiplomacyPower.description>How effective this person is as a negotiator. Affects the impact on faction relations when this person gives gifts to another faction. It also affects the outcome of peace talks with other factions.</DiplomacyPower.description>
+  <DiplomacyPower.description>How effective this person is as a diplomat. This affects the impact on relations when giving gifts to another faction, and determines the outcome of peace talks.</DiplomacyPower.description>
 
   <TradePriceImprovement.label>trade price improvement</TradePriceImprovement.label>
-  <TradePriceImprovement.description>When this person negotiates prices, buy and sell prices are improved by this percentage.</TradePriceImprovement.description>
+  <TradePriceImprovement.description>When this person acts as a trade negotiator, buy and sell prices are improved by this percentage.</TradePriceImprovement.description>
 
 
 </LanguageData>

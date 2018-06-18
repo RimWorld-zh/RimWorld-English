@@ -29,12 +29,12 @@
   <PatientBedRest.gerundLabel>resting in bed</PatientBedRest.gerundLabel>
   <PatientBedRest.verb>Become patient</PatientBedRest.verb>
 
-  <Flicker.label>Flick</Flicker.label>
-  <Flicker.description>Flick switches. For example, when you designate toggling power on a turret, a flicker must manually flick it to toggle the power.</Flicker.description>
-  <Flicker.labelShort>Flick</Flicker.labelShort>
-  <Flicker.pawnLabel>Flicker</Flicker.pawnLabel>
-  <Flicker.gerundLabel>flicking</Flicker.gerundLabel>
-  <Flicker.verb>Flick</Flicker.verb>
+  <BasicWorker.label>Basic</BasicWorker.label>
+  <BasicWorker.description>Unskilled and easy tasks. Release prisoners and flick switches on machines.</BasicWorker.description>
+  <BasicWorker.labelShort>Basic</BasicWorker.labelShort>
+  <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
+  <BasicWorker.gerundLabel>dealing with</BasicWorker.gerundLabel>
+  <BasicWorker.verb>Deal with</BasicWorker.verb>
 
   <Warden.label>Warden</Warden.label>
   <Warden.description>Manage, feed, chat with, and recruit prisoners.</Warden.description>

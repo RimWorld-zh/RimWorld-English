@@ -36,8 +36,6 @@
   <!-- Items -->
 
   <Items.label>items</Items.label>
-  <Art.label>art</Art.label>
-  <Furniture.label>furniture</Furniture.label>
   <Unfinished.label>unfinished</Unfinished.label>
   <Artifacts.label>artifacts</Artifacts.label>
   <BodyParts.label>body parts</BodyParts.label>
@@ -57,6 +55,20 @@
 
   <Apparel.label>apparel</Apparel.label>
   <Headgear.label>headgear</Headgear.label>
+
+
+  <!-- Buildings -->
+
+  <Buildings.label>buildings</Buildings.label>
+  <BuildingsArt.label>art</BuildingsArt.label>
+  <BuildingsProduction.label>production</BuildingsProduction.label>
+  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
+  <BuildingsPower.label>power</BuildingsPower.label>
+  <BuildingsSecurity.label>security</BuildingsSecurity.label>
+  <BuildingsMisc.label>misc</BuildingsMisc.label>
+  <BuildingsJoy.label>recreation</BuildingsJoy.label>
+  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
+  <BuildingsSpecial.label>special</BuildingsSpecial.label>
 
 
   <!-- Chunks -->

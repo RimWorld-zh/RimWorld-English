@@ -1,14 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Sand.label>sand</Sand.label>
+  <!-- Standard soils -->
+
   <Soil.label>soil</Soil.label>
+  <Soil.tools.0.label>dirt</Soil.tools.0.label>
+
+  <MossyTerrain.label>lichen-covered soil</MossyTerrain.label>
+
   <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+  <MarshyTerrain.tools.0.label>mud</MarshyTerrain.tools.0.label>
+
+
+  <!-- Rich soils -->
+
   <SoilRich.label>rich soil</SoilRich.label>
+  <SoilRich.tools.0.label>dirt</SoilRich.tools.0.label>
+
+
+  <!-- Poor soils -->
+
+  <Gravel.label>stony soil</Gravel.label>
+  <Gravel.tools.0.label>gravel</Gravel.tools.0.label>
+
+
+  <!-- Sand -->
+
+  <Sand.label>sand</Sand.label>
+  <Sand.tools.0.label>sand</Sand.tools.0.label>
+
+  <SoftSand.label>soft sand</SoftSand.label>
+  <SoftSand.tools.0.label>sand</SoftSand.tools.0.label>
+
+
+  <!-- Infertile ground -->
+
   <Mud.label>mud</Mud.label>
+  <Mud.tools.0.label>mud</Mud.tools.0.label>
+
   <Marsh.label>marsh</Marsh.label>
-  <Gravel.label>gravel</Gravel.label>
-  <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
+  <Marsh.tools.0.label>mud</Marsh.tools.0.label>
+
+
+  <!-- Ice -->
+
   <Ice.label>Ice</Ice.label>
 
 

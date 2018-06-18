@@ -1,17 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Povery tier - drifter -->
+
   <Drifter.label>drifter</Drifter.label>
   <Drifter.labelPlural>drifters</Drifter.labelPlural>
 
-  <Scavenger.label>scavenger</Scavenger.label>
-  <Scavenger.labelPlural>scavengers</Scavenger.labelPlural>
 
-  <Thrasher.label>thrasher</Thrasher.label>
-  <Thrasher.labelPlural>thrashers</Thrasher.labelPlural>
+  <!-- Low tier - scavenger, thrasher -->
 
-  <Pirate.label>pirate</Pirate.label>
-  <Pirate.labelPlural>pirates</Pirate.labelPlural>
+  <Scavenger.label>scavenger gunner</Scavenger.label>
+  <Scavenger.labelPlural>scavenger gunners</Scavenger.labelPlural>
+
+  <Thrasher.label>scavenger thrasher</Thrasher.label>
+  <Thrasher.labelPlural>scavenger thrashers</Thrasher.labelPlural>
+
+
+  <!-- Mid tier - pirate -->
+
+  <Pirate.label>pirate gunner</Pirate.label>
+  <Pirate.labelPlural>pirate gunners</Pirate.labelPlural>
 
 
 </LanguageData>

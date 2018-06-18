@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Weapon_Bulk.label>weapon melee bulk</Weapon_Bulk.label>
-  <Weapon_Bulk.description>How difficult to wield a weapon is in close combat. Lighter ranged weapons will fire more often in melee.</Weapon_Bulk.description>
+  <Weapon_Bulk.description>How difficult it is to wield this weapon in melee combat. Less-bulky weapons will strike more often in melee.</Weapon_Bulk.description>
 
 
 </LanguageData>

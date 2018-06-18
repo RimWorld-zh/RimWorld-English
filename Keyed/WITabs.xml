@@ -28,9 +28,13 @@
   <CaravanPrisoners>Prisoners</CaravanPrisoners>
   <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
   <NoneCapable>None capable</NoneCapable>
+  <GainingJoyBecauseCaravanNotMoving>Caravan not moving</GainingJoyBecauseCaravanNotMoving>
 
   <!-- Caravan gear -->
   <DragToRearrange>Drag to rearrange.</DragToRearrange>
+
+  <!-- Caravan items -->
+  <AssignDrugPolicies>Assign drug policies</AssignDrugPolicies>
 
   <!-- Planet -->
   <PlanetSeed>Seed</PlanetSeed>

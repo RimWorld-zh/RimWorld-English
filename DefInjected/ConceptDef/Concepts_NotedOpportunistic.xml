@@ -54,5 +54,8 @@
   <DoorOpenSpeed.label>Door opening speeds</DoorOpenSpeed.label>
   <DoorOpenSpeed.helpText>Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.</DoorOpenSpeed.helpText>
 
+  <QueueOrders.label>Order queueing</QueueOrders.label>
+  <QueueOrders.helpText>When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.</QueueOrders.helpText>
+
 
 </LanguageData>

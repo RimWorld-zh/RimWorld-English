@@ -13,13 +13,13 @@
   <AteAwfulMeal.stages.0.description>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</AteAwfulMeal.stages.0.description>
 
   <AteRawFood.stages.0.label>ate raw food</AteRawFood.stages.0.label>
-  <AteRawFood.stages.0.description>I had to eat raw food. Can't we cook it, or at least synthesize some nutrient paste?</AteRawFood.stages.0.description>
+  <AteRawFood.stages.0.description>I had to eat raw food. We should be cooking that kind of food before eating it. We're not animals.</AteRawFood.stages.0.description>
 
   <AteKibble.stages.0.label>ate kibble</AteKibble.stages.0.label>
   <AteKibble.stages.0.description>I had to eat animal kibble. It's like I don't get to be human any more.</AteKibble.stages.0.description>
 
   <AteCorpse.stages.0.label>ate corpse</AteCorpse.stages.0.label>
-  <AteCorpse.stages.0.description>I had to eat a corpse without even butchering or cooking it. It was horrible.</AteCorpse.stages.0.description>
+  <AteCorpse.stages.0.description>I had to eat the flesh of a dead creature without even butchering or cooking it.</AteCorpse.stages.0.description>
 
 
   <!-- Special nature thoughts -->

@@ -2,11 +2,11 @@
 <LanguageData>
 
   <Shooting.label>shooting</Shooting.label>
-  <Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
+  <Shooting.description>Ranged combat, with both high-tech and low-tech weapons.</Shooting.description>
   <Shooting.skillLabel>shooting</Shooting.skillLabel>
 
   <Melee.label>melee</Melee.label>
-  <Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
+  <Melee.description>Melee combat, both armed and unarmed.</Melee.description>
   <Melee.skillLabel>melee</Melee.skillLabel>
 
   <Social.label>social</Social.label>
@@ -14,27 +14,27 @@
   <Social.skillLabel>social</Social.skillLabel>
 
   <Animals.label>animals</Animals.label>
-  <Animals.description>Taming, training, managing, and controlling animals.</Animals.description>
+  <Animals.description>Taming, training, and controlling animals.</Animals.description>
   <Animals.skillLabel>animals</Animals.skillLabel>
 
-  <Medicine.label>medicine</Medicine.label>
-  <Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
-  <Medicine.skillLabel>medicine</Medicine.skillLabel>
+  <Medicine.label>medical</Medicine.label>
+  <Medicine.description>Tending wounds and diseases and performing surgery.</Medicine.description>
+  <Medicine.skillLabel>medical</Medicine.skillLabel>
 
   <Cooking.label>cooking</Cooking.label>
   <Cooking.description>Creating meals from raw ingredients.</Cooking.description>
   <Cooking.skillLabel>cooking</Cooking.skillLabel>
 
   <Construction.label>construction</Construction.label>
-  <Construction.description>Better constructors build structures and furniture faster and of higher quality.</Construction.description>
+  <Construction.description>Constructing and deconstructing structures and furniture.</Construction.description>
   <Construction.skillLabel>construction</Construction.skillLabel>
 
   <Growing.label>growing</Growing.label>
-  <Growing.description>Sowing, caring for, and harvesting crops.</Growing.description>
+  <Growing.description>Sowing, caring for and harvesting crops, and foraging for food while traveling.</Growing.description>
   <Growing.skillLabel>growing</Growing.skillLabel>
 
   <Mining.label>mining</Mining.label>
-  <Mining.description>Digging tunnels and extracting mineral or buried resources.</Mining.description>
+  <Mining.description>Digging tunnels and extracting buried resources.</Mining.description>
   <Mining.skillLabel>mining</Mining.skillLabel>
 
   <Artistic.label>artistic</Artistic.label>
@@ -42,11 +42,11 @@
   <Artistic.skillLabel>artistic</Artistic.skillLabel>
 
   <Crafting.label>crafting</Crafting.label>
-  <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
+  <Crafting.description>Crafting general items including weapons, components, and refined resources.</Crafting.description>
   <Crafting.skillLabel>crafting</Crafting.skillLabel>
 
   <Intellectual.label>intellectual</Intellectual.label>
-  <Intellectual.description>Investigating evidence, making connections, calculating and using logic.</Intellectual.description>
+  <Intellectual.description>Researching and complex item production.</Intellectual.description>
   <Intellectual.skillLabel>intellectual</Intellectual.skillLabel>
 
 

@@ -2,13 +2,13 @@
 <LanguageData>
 
   <Peaceful.label>Peaceful</Peaceful.label>
-  <Peaceful.description>For those who want to relax and build a colony in a sandbox-like environment.\n\nMajor threatening events are disabled, but colonists can still get grumpy and animals can still go crazy from time to time.</Peaceful.description>
+  <Peaceful.description>For those who want to relax and peacefully build in a sandbox environment.\n\nThis mode disables major threatening events, but your people can still get grumpy and minor challenges such as disease or mad animals can still occur.\n\nThere are bonuses to things like character mood and crop yields.</Peaceful.description>
 
   <VeryEasy.label>Base builder</VeryEasy.label>
-  <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
+  <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some extremely dangerous events are disabled.\n\nThere are bonuses to things like character mood, crop yields.</VeryEasy.description>
 
   <Easy.label>Some challenge</Easy.label>
-  <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.</Easy.description>
+  <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.\n\nThere are small bonuses to things like character mood and crop yields.</Easy.description>
 
   <Medium.label>Rough</Medium.label>
   <Medium.description>It's a rough planet.\n\nThreats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
@@ -17,7 +17,7 @@
   <Hard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
 
   <VeryHard.label>Extreme</VeryHard.label>
-  <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
+  <VeryHard.description>As hard as a diamond-bladed dagger in the iciest pit of hell.\n\nEnemies are numerous, prices are poor, crop yields are poor, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
 
 
 </LanguageData>

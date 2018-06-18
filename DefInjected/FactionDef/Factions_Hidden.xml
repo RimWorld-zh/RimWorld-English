@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Spacer.label>spacer</Spacer.label>
-  <Spacer.description>People from the distant reaches of space.</Spacer.description>
-  <Spacer.fixedName>Spacer</Spacer.fixedName>
-  <Spacer.pawnsPlural>spacers</Spacer.pawnsPlural>
+  <Ancients.label>ancients</Ancients.label>
+  <Ancients.fixedName>Ancients</Ancients.fixedName>
+  <Ancients.pawnsPlural>ancients</Ancients.pawnsPlural>
 
-  <SpacerHostile.label>spacer</SpacerHostile.label>
-  <SpacerHostile.description>People from the distant reaches of space.</SpacerHostile.description>
-  <SpacerHostile.fixedName>Spacer</SpacerHostile.fixedName>
-  <SpacerHostile.pawnsPlural>spacers</SpacerHostile.pawnsPlural>
+  <AncientsHostile.label>ancients</AncientsHostile.label>
+  <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
+  <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
 
   <Mechanoid.label>mechanoid hive</Mechanoid.label>
-  <Mechanoid.description>A hive of ancient self-replicating machines.</Mechanoid.description>
   <Mechanoid.fixedName>a mechanoid hive</Mechanoid.fixedName>
   <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
 
   <Insect.label>insects</Insect.label>
-  <Insect.description>Usually aggressive and intrusive insects.</Insect.description>
   <Insect.fixedName>insects</Insect.fixedName>
   <Insect.pawnsPlural>insects</Insect.pawnsPlural>
 

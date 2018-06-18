@@ -1,49 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Tier 1: pre-electricity -->
+  <!-- Column 1 -->
 
-  <RecurveBow.label>recurve bow</RecurveBow.label>
-  <RecurveBow.description>Advanced construction techniques allow for production of the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
+  <PsychoidBrewing.label>psychoid brewing</PsychoidBrewing.label>
+  <PsychoidBrewing.description>Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea.</PsychoidBrewing.description>
 
   <Pemmican.label>pemmican</Pemmican.label>
   <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
 
-  <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>Make passive coolers, a way to cool indoor spaces without using electricity.</PassiveCooler.description>
-
-  <Devilstrand.label>devilstrand</Devilstrand.label>
-  <Devilstrand.description>Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.</Devilstrand.description>
-
-  <PsychoidBrewing.label>psychoid brewing</PsychoidBrewing.label>
-  <PsychoidBrewing.description>With preparation, psychoid leaves can be boiled in water, producing a mildly euphoric and addictive tea.</PsychoidBrewing.description>
-
-  <Brewing.label>brewing</Brewing.label>
-  <Brewing.description>Allows you to build a brewery to transform hops into tasty, tasty beer.</Brewing.description>
-
   <Bedrolls.label>bedrolls</Bedrolls.label>
-  <Bedrolls.description>Allows you to make bedrolls.</Bedrolls.description>
+  <Bedrolls.description>Make bedrolls, easy-to-carry sleeping accomodations.</Bedrolls.description>
 
-  <Beds.label>beds</Beds.label>
-  <Beds.description>Allows you to build beds.</Beds.description>
+  <ComplexFurniture.label>complex furniture</ComplexFurniture.label>
+  <ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
 
-  <CarpetMaking.label>carpet making</CarpetMaking.label>
-  <CarpetMaking.description>Allows colonists to build carpets to increase the quality of their environments.</CarpetMaking.description>
-
-  <Smithing.label>smithing</Smithing.label>
-  <Smithing.description>Build smithies for crafting metal weapons and tools.\n\nAllows you to craft simple weapons like knives, gladii, and maces.</Smithing.description>
+  <PassiveCooler.label>passive cooler</PassiveCooler.label>
+  <PassiveCooler.description>Make passive coolers, to cool indoor spaces without using electricity.</PassiveCooler.description>
 
   <Stonecutting.label>stonecutting</Stonecutting.label>
-  <Stonecutting.description>Build stonecutting tables, which allow you to refine rock chunks into stone blocks that can be used for construction.</Stonecutting.description>
+  <Stonecutting.description>Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways.</Stonecutting.description>
 
   <ComplexClothing.label>complex clothing</ComplexClothing.label>
-  <ComplexClothing.description>Sew complicated garments like pants, dusters, and cowboy hats.</ComplexClothing.description>
+  <ComplexClothing.description>Tailor complicated garments like pants, dusters, and cowboy hats.</ComplexClothing.description>
+
+
+  <!-- Column 2 -->
 
   <DrugProduction.label>drug production</DrugProduction.label>
-  <DrugProduction.description>The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs.</DrugProduction.description>
+  <DrugProduction.description>Build a drug lab for basic drug synthesis. Further research is required to make specific drugs.</DrugProduction.description>
+
+  <Brewing.label>beer brewing</Brewing.label>
+  <Brewing.description>Build a brewery and fermenting vats to transform hops into tasty, tasty beer.</Brewing.description>
+
+  <Devilstrand.label>devilstrand</Devilstrand.label>
+  <Devilstrand.description>Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber.</Devilstrand.description>
+
+  <Bridges.label>bridges</Bridges.label>
+  <Bridges.description>Build bridges to provide passage over water or construct non-heavy structures on otherwise unbuildable terrain.</Bridges.description>
+
+  <CarpetMaking.label>carpet making</CarpetMaking.label>
+  <CarpetMaking.description>Weave beautiful carpets from cloth.</CarpetMaking.description>
+
+  <TreeSowing.label>tree sowing</TreeSowing.label>
+  <TreeSowing.description>Sow the local biome's natural trees in your fields.</TreeSowing.description>
+
+
+  <!-- Column 3+ -->
+
+  <Smithing.label>smithing</Smithing.label>
+  <Smithing.description>Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles.</Smithing.description>
+
+  <RecurveBow.label>recurve bow</RecurveBow.label>
+  <RecurveBow.description>Build the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
 
   <Electricity.label>electricity</Electricity.label>
-  <Electricity.description>Generate and use electricity for cooking and other simple tasks.</Electricity.description>
+  <Electricity.description>Harness the power of electricity for a hundred different tasks.</Electricity.description>
 
 
 </LanguageData>

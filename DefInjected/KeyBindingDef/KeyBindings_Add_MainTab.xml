@@ -8,6 +8,7 @@
   <MainTab_Restrict.label>Toggle restrict tab</MainTab_Restrict.label>
   <MainTab_Assign.label>Toggle assign tab</MainTab_Assign.label>
   <MainTab_Animals.label>Toggle animals tab</MainTab_Animals.label>
+  <MainTab_Wildlife.label>Toggle wildlife tab</MainTab_Wildlife.label>
   <MainTab_Research.label>Toggle research tab</MainTab_Research.label>
   <MainTab_World.label>Toggle world tab</MainTab_World.label>
   <MainTab_History.label>Toggle history tab</MainTab_History.label>

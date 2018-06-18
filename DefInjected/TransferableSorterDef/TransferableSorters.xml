@@ -6,6 +6,7 @@
   <MarketValue.label>market value</MarketValue.label>
   <Category.label>category</Category.label>
   <Quality.label>quality</Quality.label>
+  <Mass.label>mass</Mass.label>
   <HitPointsPercentage.label>hit points percentage</HitPointsPercentage.label>
 
 

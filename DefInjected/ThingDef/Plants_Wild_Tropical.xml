@@ -3,35 +3,35 @@
 
   <!-- Carpets -->
 
-  <PlantShrubLow.label>low shrubs</PlantShrubLow.label>
-  <PlantShrubLow.description>Low broadleaf shrubs. These grow in clusters and slow down movement somewhat.</PlantShrubLow.description>
+  <Plant_ShrubLow.label>low shrubs</Plant_ShrubLow.label>
+  <Plant_ShrubLow.description>Various low broadleaf shrubs. These grow in clusters and slow down movement.</Plant_ShrubLow.description>
 
 
   <!-- Bushes -->
 
-  <PlantAlocasia.label>alocasia</PlantAlocasia.label>
-  <PlantAlocasia.description>A common broadleaf tropical plant.</PlantAlocasia.description>
+  <Plant_Alocasia.label>alocasia</Plant_Alocasia.label>
+  <Plant_Alocasia.description>A tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests.</Plant_Alocasia.description>
 
-  <PlantClivia.label>clivia</PlantClivia.label>
-  <PlantClivia.description>An unusual plant with tall, pretty flowers. Some call it the 'bush lily'.</PlantClivia.description>
+  <Plant_Clivia.label>clivia</Plant_Clivia.label>
+  <Plant_Clivia.description>An unusual plant with tall, pretty flowers. Some call it the 'bush lily'.</Plant_Clivia.description>
 
-  <PlantRafflesia.label>giant rafflesia</PlantRafflesia.label>
-  <PlantRafflesia.description>A rare, giant flower. You would think a giant flower would be beautiful, but this one is quite smelly and ugly.</PlantRafflesia.description>
+  <Plant_Rafflesia.label>giant rafflesia</Plant_Rafflesia.label>
+  <Plant_Rafflesia.description>A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh.</Plant_Rafflesia.description>
 
 
   <!-- Wild - Trees -->
 
-  <PlantTreeTeak.label>teak tree</PlantTreeTeak.label>
-  <PlantTreeTeak.description>A very strong hardwood tree, used in ancient times to build sailing ships.</PlantTreeTeak.description>
+  <Plant_TreeTeak.label>teak tree</Plant_TreeTeak.label>
+  <Plant_TreeTeak.description>An exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times.</Plant_TreeTeak.description>
 
-  <PlantTreeCecropia.label>cecropia tree</PlantTreeCecropia.label>
-  <PlantTreeCecropia.description>One of the most common rainforest trees. Grows very fast, but yields little usable wood.</PlantTreeCecropia.description>
+  <Plant_TreeCecropia.label>cecropia tree</Plant_TreeCecropia.label>
+  <Plant_TreeCecropia.description>One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood.</Plant_TreeCecropia.description>
 
-  <PlantTreePalm.label>palm tree</PlantTreePalm.label>
-  <PlantTreePalm.description>A tropical tree with a long, naked trunk topped by a cluster of leaves.</PlantTreePalm.description>
+  <Plant_TreePalm.label>palm tree</Plant_TreePalm.label>
+  <Plant_TreePalm.description>A tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts.</Plant_TreePalm.description>
 
-  <PlantTreeBamboo.label>bamboo tree</PlantTreeBamboo.label>
-  <PlantTreeBamboo.description>A fast-growing tree-like species that grows in cluster. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.</PlantTreeBamboo.description>
+  <Plant_TreeBamboo.label>bamboo tree</Plant_TreeBamboo.label>
+  <Plant_TreeBamboo.description>A fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.</Plant_TreeBamboo.description>
 
 
 </LanguageData>

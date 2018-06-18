@@ -2,25 +2,25 @@
 <LanguageData>
 
   <MealSurvivalPack.label>packaged survival meal</MealSurvivalPack.label>
-  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations.</MealSurvivalPack.description>
+  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can stilll deteriorate if left outside. Great for traveling.</MealSurvivalPack.description>
 
   <MealNutrientPaste.label>nutrient paste meal</MealNutrientPaste.label>
   <MealNutrientPaste.description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</MealNutrientPaste.description>
 
   <MealSimple.label>simple meal</MealSimple.label>
-  <MealSimple.description>A simple meal quickly cooked from a few ingredients.</MealSimple.description>
+  <MealSimple.description>A simple meal quickly cooked from one main ingredient.</MealSimple.description>
 
   <MealFine.label>fine meal</MealFine.label>
-  <MealFine.description>A complex dish assembled with care from a wide selection of ingredients.</MealFine.description>
+  <MealFine.description>A complex dish assembled with care from a variety of ingredients.</MealFine.description>
 
   <MealLavish.label>lavish meal</MealLavish.label>
   <MealLavish.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLavish.description>
 
   <Kibble.label>kibble</Kibble.label>
-  <Kibble.description>Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
+  <Kibble.description>Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
 
   <Pemmican.label>pemmican</Pemmican.label>
-  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</Pemmican.description>
+  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling.</Pemmican.description>
 
 
 </LanguageData>

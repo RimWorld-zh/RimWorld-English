@@ -4,6 +4,8 @@
   <Slaughter.headerTip>Slaughter</Slaughter.headerTip>
   <FollowDrafted.headerTip>Follow master while the master is drafted.</FollowDrafted.headerTip>
   <FollowFieldwork.headerTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldwork.headerTip>
+  <Hunt.headerTip>Mark animals to be hunted by your hunters.</Hunt.headerTip>
+  <Tame.headerTip>Tame a wild animal.</Tame.headerTip>
 
 
 </LanguageData>

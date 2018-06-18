@@ -2,10 +2,16 @@
 <LanguageData>
 
   <CraftingSpot.label>crafting spot</CraftingSpot.label>
-  <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+  <CraftingSpot.description>A place for crafting simple items like knives or bows.</CraftingSpot.description>
   <CraftingSpot_Blueprint.label>crafting spot (blueprint)</CraftingSpot_Blueprint.label>
   <CraftingSpot_Frame.label>crafting spot (building)</CraftingSpot_Frame.label>
-  <CraftingSpot_Frame.description>A place for crafting simple things like shivs or bows.</CraftingSpot_Frame.description>
+  <CraftingSpot_Frame.description>A place for crafting simple items like knives or bows.</CraftingSpot_Frame.description>
+
+  <ButcherSpot.label>butcher spot</ButcherSpot.label>
+  <ButcherSpot.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot.description>
+  <ButcherSpot_Blueprint.label>butcher spot (blueprint)</ButcherSpot_Blueprint.label>
+  <ButcherSpot_Frame.label>butcher spot (building)</ButcherSpot_Frame.label>
+  <ButcherSpot_Frame.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot_Frame.description>
 
 
   <!-- Work tables -->
@@ -13,119 +19,133 @@
   <TableSculpting.label>sculptor's table</TableSculpting.label>
   <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
   <TableSculpting_Blueprint.label>sculptor's table (blueprint)</TableSculpting_Blueprint.label>
+  <TableSculpting_Blueprint_Install.label>sculptor's table (blueprint)</TableSculpting_Blueprint_Install.label>
   <TableSculpting_Frame.label>sculptor's table (building)</TableSculpting_Frame.label>
   <TableSculpting_Frame.description>A workbench equipped for artistic sculpting.</TableSculpting_Frame.description>
 
   <TableButcher.label>butcher table</TableButcher.label>
   <TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.description>
   <TableButcher_Blueprint.label>butcher table (blueprint)</TableButcher_Blueprint.label>
+  <TableButcher_Blueprint_Install.label>butcher table (blueprint)</TableButcher_Blueprint_Install.label>
   <TableButcher_Frame.label>butcher table (building)</TableButcher_Frame.label>
   <TableButcher_Frame.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher_Frame.description>
 
   <HandTailoringBench.label>hand tailor bench</HandTailoringBench.label>
   <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench.description>
   <HandTailoringBench_Blueprint.label>hand tailor bench (blueprint)</HandTailoringBench_Blueprint.label>
+  <HandTailoringBench_Blueprint_Install.label>hand tailor bench (blueprint)</HandTailoringBench_Blueprint_Install.label>
   <HandTailoringBench_Frame.label>hand tailor bench (building)</HandTailoringBench_Frame.label>
   <HandTailoringBench_Frame.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench_Frame.description>
 
   <ElectricTailoringBench.label>electric tailor bench</ElectricTailoringBench.label>
-  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed.</ElectricTailoringBench.description>
   <ElectricTailoringBench_Blueprint.label>electric tailor bench (blueprint)</ElectricTailoringBench_Blueprint.label>
+  <ElectricTailoringBench_Blueprint_Install.label>electric tailor bench (blueprint)</ElectricTailoringBench_Blueprint_Install.label>
   <ElectricTailoringBench_Frame.label>electric tailor bench (building)</ElectricTailoringBench_Frame.label>
-  <ElectricTailoringBench_Frame.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench_Frame.description>
+  <ElectricTailoringBench_Frame.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed.</ElectricTailoringBench_Frame.description>
 
   <FueledSmithy.label>fueled smithy</FueledSmithy.label>
-  <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+  <FueledSmithy.description>A wood-fueled station for smithing non-mechanical weapons and tools.</FueledSmithy.description>
   <FueledSmithy_Blueprint.label>fueled smithy (blueprint)</FueledSmithy_Blueprint.label>
+  <FueledSmithy_Blueprint_Install.label>fueled smithy (blueprint)</FueledSmithy_Blueprint_Install.label>
   <FueledSmithy_Frame.label>fueled smithy (building)</FueledSmithy_Frame.label>
-  <FueledSmithy_Frame.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy_Frame.description>
+  <FueledSmithy_Frame.description>A wood-fueled station for smithing non-mechanical weapons and tools.</FueledSmithy_Frame.description>
 
   <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
-  <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+  <ElectricSmithy.description>An electric-powered station for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
   <ElectricSmithy_Blueprint.label>electric smithy (blueprint)</ElectricSmithy_Blueprint.label>
+  <ElectricSmithy_Blueprint_Install.label>electric smithy (blueprint)</ElectricSmithy_Blueprint_Install.label>
   <ElectricSmithy_Frame.label>electric smithy (building)</ElectricSmithy_Frame.label>
-  <ElectricSmithy_Frame.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy_Frame.description>
+  <ElectricSmithy_Frame.description>An electric-powered station for smithing non-mechanical weapons and tools.</ElectricSmithy_Frame.description>
 
   <TableMachining.label>machining table</TableMachining.label>
-  <TableMachining.description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</TableMachining.description>
+  <TableMachining.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining.description>
   <TableMachining_Blueprint.label>machining table (blueprint)</TableMachining_Blueprint.label>
+  <TableMachining_Blueprint_Install.label>machining table (blueprint)</TableMachining_Blueprint_Install.label>
   <TableMachining_Frame.label>machining table (building)</TableMachining_Frame.label>
-  <TableMachining_Frame.description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</TableMachining_Frame.description>
+  <TableMachining_Frame.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining_Frame.description>
 
   <ElectricStove.label>electric stove</ElectricStove.label>
   <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
   <ElectricStove_Blueprint.label>electric stove (blueprint)</ElectricStove_Blueprint.label>
+  <ElectricStove_Blueprint_Install.label>electric stove (blueprint)</ElectricStove_Blueprint_Install.label>
   <ElectricStove_Frame.label>electric stove (building)</ElectricStove_Frame.label>
   <ElectricStove_Frame.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove_Frame.description>
 
   <FueledStove.label>fueled stove</FueledStove.label>
-  <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+  <FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
   <FueledStove_Blueprint.label>fueled stove (blueprint)</FueledStove_Blueprint.label>
+  <FueledStove_Blueprint_Install.label>fueled stove (blueprint)</FueledStove_Blueprint_Install.label>
   <FueledStove_Frame.label>fueled stove (building)</FueledStove_Frame.label>
-  <FueledStove_Frame.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove_Frame.description>
+  <FueledStove_Frame.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove_Frame.description>
 
   <TableStonecutter.label>stonecutter's table</TableStonecutter.label>
-  <TableStonecutter.description>A work table equipped to cut rough stone into usable blocks.</TableStonecutter.description>
+  <TableStonecutter.description>A work table with saws and chisels for cutting stone chunks into usable blocks.</TableStonecutter.description>
   <TableStonecutter_Blueprint.label>stonecutter's table (blueprint)</TableStonecutter_Blueprint.label>
+  <TableStonecutter_Blueprint_Install.label>stonecutter's table (blueprint)</TableStonecutter_Blueprint_Install.label>
   <TableStonecutter_Frame.label>stonecutter's table (building)</TableStonecutter_Frame.label>
-  <TableStonecutter_Frame.description>A work table equipped to cut rough stone into usable blocks.</TableStonecutter_Frame.description>
+  <TableStonecutter_Frame.description>A work table with saws and chisels for cutting stone chunks into usable blocks.</TableStonecutter_Frame.description>
 
   <Brewery.label>brewery</Brewery.label>
-  <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+  <Brewery.description>A work station with all the equipment needed mix wort for beer production. Wort must be fermented to finally become beer.</Brewery.description>
   <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>
+  <Brewery_Blueprint_Install.label>brewery (blueprint)</Brewery_Blueprint_Install.label>
   <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>
-  <Brewery_Frame.description>A work station with all the equipment needed to brew beer.</Brewery_Frame.description>
+  <Brewery_Frame.description>A work station with all the equipment needed mix wort for beer production. Wort must be fermented to finally become beer.</Brewery_Frame.description>
 
   <DrugLab.label>drug lab</DrugLab.label>
-  <DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.description>
+  <DrugLab.description>A work bench equipped with containers, heaters, and measurement devices for producing various drugs.</DrugLab.description>
   <DrugLab_Blueprint.label>drug lab (blueprint)</DrugLab_Blueprint.label>
+  <DrugLab_Blueprint_Install.label>drug lab (blueprint)</DrugLab_Blueprint_Install.label>
   <DrugLab_Frame.label>drug lab (building)</DrugLab_Frame.label>
-  <DrugLab_Frame.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab_Frame.description>
+  <DrugLab_Frame.description>A work bench equipped with containers, heaters, and measurement devices for producing various drugs.</DrugLab_Frame.description>
 
   <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
   <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
   <ElectricSmelter_Blueprint.label>electric smelter (blueprint)</ElectricSmelter_Blueprint.label>
+  <ElectricSmelter_Blueprint_Install.label>electric smelter (blueprint)</ElectricSmelter_Blueprint_Install.label>
   <ElectricSmelter_Frame.label>electric smelter (building)</ElectricSmelter_Frame.label>
   <ElectricSmelter_Frame.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter_Frame.description>
 
-  <Refinery.label>refinery</Refinery.label>
-  <Refinery.description>A chemical refining plant. Used to refine wood into chemfuel.</Refinery.description>
-  <Refinery_Blueprint.label>refinery (blueprint)</Refinery_Blueprint.label>
-  <Refinery_Frame.label>refinery (building)</Refinery_Frame.label>
-  <Refinery_Frame.description>A chemical refining plant. Used to refine wood into chemfuel.</Refinery_Frame.description>
+  <BiofuelRefinery.label>biofuel refinery</BiofuelRefinery.label>
+  <BiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery.description>
+  <BiofuelRefinery_Blueprint.label>biofuel refinery (blueprint)</BiofuelRefinery_Blueprint.label>
+  <BiofuelRefinery_Frame.label>biofuel refinery (building)</BiofuelRefinery_Frame.label>
+  <BiofuelRefinery_Frame.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery_Frame.description>
 
-  <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
-  <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
-  <ComponentAssemblyBench_Blueprint.label>component assembly bench (blueprint)</ComponentAssemblyBench_Blueprint.label>
-  <ComponentAssemblyBench_Frame.label>component assembly bench (building)</ComponentAssemblyBench_Frame.label>
-  <ComponentAssemblyBench_Frame.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench_Frame.description>
+  <FabricationBench.label>fabrication bench</FabricationBench.label>
+  <FabricationBench.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench.description>
+  <FabricationBench_Blueprint.label>fabrication bench (blueprint)</FabricationBench_Blueprint.label>
+  <FabricationBench_Frame.label>fabrication bench (building)</FabricationBench_Frame.label>
+  <FabricationBench_Frame.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench_Frame.description>
 
 
   <!-- Non-standard work buildings -->
 
   <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
-  <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+  <SimpleResearchBench.description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</SimpleResearchBench.description>
   <SimpleResearchBench_Blueprint.label>simple research bench (blueprint)</SimpleResearchBench_Blueprint.label>
+  <SimpleResearchBench_Blueprint_Install.label>simple research bench (blueprint)</SimpleResearchBench_Blueprint_Install.label>
   <SimpleResearchBench_Frame.label>simple research bench (building)</SimpleResearchBench_Frame.label>
-  <SimpleResearchBench_Frame.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench_Frame.description>
+  <SimpleResearchBench_Frame.description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</SimpleResearchBench_Frame.description>
 
   <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
-  <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+  <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench.description>
   <HiTechResearchBench_Blueprint.label>hi-tech research bench (blueprint)</HiTechResearchBench_Blueprint.label>
   <HiTechResearchBench_Frame.label>hi-tech research bench (building)</HiTechResearchBench_Frame.label>
-  <HiTechResearchBench_Frame.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench_Frame.description>
+  <HiTechResearchBench_Frame.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench_Frame.description>
 
   <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
-  <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
+  <ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
   <ElectricCrematorium_Blueprint.label>electric crematorium (blueprint)</ElectricCrematorium_Blueprint.label>
   <ElectricCrematorium_Frame.label>electric crematorium (building)</ElectricCrematorium_Frame.label>
-  <ElectricCrematorium_Frame.description>Cremates corpses. Electrically-powered.</ElectricCrematorium_Frame.description>
+  <ElectricCrematorium_Frame.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium_Frame.description>
 
   <HydroponicsBasin.label>hydroponics basin</HydroponicsBasin.label>
-  <HydroponicsBasin.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</HydroponicsBasin.description>
+  <HydroponicsBasin.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin.description>
   <HydroponicsBasin_Blueprint.label>hydroponics basin (blueprint)</HydroponicsBasin_Blueprint.label>
   <HydroponicsBasin_Frame.label>hydroponics basin (building)</HydroponicsBasin_Frame.label>
-  <HydroponicsBasin_Frame.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</HydroponicsBasin_Frame.description>
+  <HydroponicsBasin_Frame.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin_Frame.description>
 
   <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
   <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
@@ -135,19 +155,19 @@
   <FermentingBarrel_Frame.description>A barrel for fermenting raw wort into beer.</FermentingBarrel_Frame.description>
 
   <DeepDrill.label>deep drill</DeepDrill.label>
-  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
+  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill can also extract stone chunks if no resources are present.</DeepDrill.description>
   <DeepDrill_Blueprint.label>deep drill (blueprint)</DeepDrill_Blueprint.label>
   <DeepDrill_Frame.label>deep drill (building)</DeepDrill_Frame.label>
-  <DeepDrill_Frame.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill_Frame.description>
+  <DeepDrill_Frame.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill can also extract stone chunks if no resources are present.</DeepDrill_Frame.description>
 
 
   <!-- Nutrient dispenser -->
 
   <NutrientPasteDispenser.label>nutrient paste dispenser</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
   <NutrientPasteDispenser_Blueprint.label>nutrient paste dispenser (blueprint)</NutrientPasteDispenser_Blueprint.label>
   <NutrientPasteDispenser_Frame.label>nutrient paste dispenser (building)</NutrientPasteDispenser_Frame.label>
-  <NutrientPasteDispenser_Frame.description>Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser_Frame.description>
+  <NutrientPasteDispenser_Frame.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser_Frame.description>
 
   <Hopper.label>hopper</Hopper.label>
   <Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>

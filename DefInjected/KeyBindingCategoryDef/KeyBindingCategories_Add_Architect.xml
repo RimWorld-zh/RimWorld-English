@@ -30,8 +30,8 @@
   <Architect_Floors.label>floors tab</Architect_Floors.label>
   <Architect_Floors.description>Key bindings for the "Floors" section of the Architect menu</Architect_Floors.description>
 
-  <Architect_Joy.label>joy tab</Architect_Joy.label>
-  <Architect_Joy.description>Key bindings for the "Joy" section of the Architect menu</Architect_Joy.description>
+  <Architect_Joy.label>recreation tab</Architect_Joy.label>
+  <Architect_Joy.description>Key bindings for the "Recreation" section of the Architect menu</Architect_Joy.description>
 
   <Architect_Ship.label>ship tab</Architect_Ship.label>
   <Architect_Ship.description>Key bindings for the "Ship" section of the Architect menu</Architect_Ship.description>

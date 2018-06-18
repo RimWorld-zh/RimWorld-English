@@ -12,6 +12,7 @@
   <OnPawnDeathExplode.label>characters explode on death</OnPawnDeathExplode.label>
   <ForcedTrait.label>forced trait</ForcedTrait.label>
   <ForcedHediff.label>forced health condition</ForcedHediff.label>
+  <Naked.label>naked</Naked.label>
   <SetNeedLevel.label>set need level</SetNeedLevel.label>
   <StartingResearch.label>start with research</StartingResearch.label>
   <GameCondition_Planetkiller.label>planetkiller weapon incoming</GameCondition_Planetkiller.label>

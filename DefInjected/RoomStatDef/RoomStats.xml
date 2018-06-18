@@ -53,7 +53,7 @@
   <InfectionChanceFactor.label>infection chance factor</InfectionChanceFactor.label>
   <SurgerySuccessChanceCleanlinessFactor.label>surgery success chance cleanliness factor</SurgerySuccessChanceCleanlinessFactor.label>
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>grave visiting joy gain factor</GraveVisitingJoyGainFactor.label>
+  <GraveVisitingJoyGainFactor.label>grave visiting recreation factor</GraveVisitingJoyGainFactor.label>
   <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
 
 

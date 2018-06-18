@@ -7,10 +7,10 @@
   <SleepDisturbed.stages.0.label>disturbed sleep</SleepDisturbed.stages.0.label>
   <SleepDisturbed.stages.0.description>I was disturbed during sleep by people moving around nearby. A private room would solve this.</SleepDisturbed.stages.0.description>
 
-  <NewColonyOptimism.stages.0.label>new colony optimism</NewColonyOptimism.stages.0.label>
-  <NewColonyOptimism.stages.0.description>We just landed here. It's a tough situation, but I'm excited to be founding a new colony.</NewColonyOptimism.stages.0.description>
+  <NewColonyOptimism.stages.0.label>initial optimism</NewColonyOptimism.stages.0.label>
+  <NewColonyOptimism.stages.0.description>It's a tough situation, but I'm excited to be founding a new settlement.</NewColonyOptimism.stages.0.description>
 
-  <NewColonyHope.stages.0.label>new colony hope</NewColonyHope.stages.0.label>
+  <NewColonyHope.stages.0.label>initial hope</NewColonyHope.stages.0.label>
   <NewColonyHope.stages.0.description>I'm getting used to this, but it's still an exciting new situation. I hope this works out...</NewColonyHope.stages.0.description>
 
   <SleptOutside.stages.0.label>slept outside</SleptOutside.stages.0.label>
@@ -40,9 +40,6 @@
   <WasImprisoned.stages.0.label>was imprisoned</WasImprisoned.stages.0.label>
   <WasImprisoned.stages.0.description>The colony had me in jail for a while, like a caged animal.</WasImprisoned.stages.0.description>
 
-  <GreenThumbHappy.stages.0.label>sowed a plant</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>What the world needs is more plants!</GreenThumbHappy.stages.0.description>
-
   <Catharsis.stages.0.label>catharsis</Catharsis.stages.0.label>
   <Catharsis.stages.0.description>It felt good to finally unbottle my feelings.</Catharsis.stages.0.description>
 
@@ -52,13 +49,16 @@
   <KnowBuriedInSarcophagus.stages.0.label>buried in sarcophagus</KnowBuriedInSarcophagus.stages.0.label>
   <KnowBuriedInSarcophagus.stages.0.description>This colony buried someone in an ornamented sarcophagus. May their soul rest in peace.</KnowBuriedInSarcophagus.stages.0.description>
 
+  <SoakingWet.stages.0.label>soaking wet</SoakingWet.stages.0.label>
+  <SoakingWet.stages.0.description>I walked into water and now I'm soaking wet.</SoakingWet.stages.0.description>
+
 
   <!-- Human corpse butchering -->
 
   <ButcheredHumanlikeCorpse.stages.0.label>I butchered humanlike</ButcheredHumanlikeCorpse.stages.0.label>
   <ButcheredHumanlikeCorpse.stages.0.description>I butchered someone up like an animal.</ButcheredHumanlikeCorpse.stages.0.description>
 
-  <KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.label>we butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
   <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
 
 
@@ -88,8 +88,7 @@
   <DefeatedHostileFactionLeader.stages.0.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.0.label>
   <DefeatedHostileFactionLeader.stages.0.description>They were leading efforts to destroy us, and I took them down!</DefeatedHostileFactionLeader.stages.0.description>
 
-  <DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
+  <DefeatedHostileFactionLeaderOpinion.stages.0.label>defeated hostile leader</DefeatedHostileFactionLeaderOpinion.stages.0.label>
 
 
   <!-- Banishing pawns -->
@@ -97,10 +96,10 @@
   <ColonistBanished.stages.0.label>colonist banished</ColonistBanished.stages.0.label>
   <ColonistBanished.stages.0.description>We just banished someone. I hope they'll make it, but I'm worried.</ColonistBanished.stages.0.description>
 
-  <ColonistBanishedToDie.stages.0.label>colonist banished and left to die</ColonistBanishedToDie.stages.0.label>
+  <ColonistBanishedToDie.stages.0.label>colonist banished to death</ColonistBanishedToDie.stages.0.label>
   <ColonistBanishedToDie.stages.0.description>We banished someone in such a way that there's almost no way they'll survive.</ColonistBanishedToDie.stages.0.description>
 
-  <PrisonerBanishedToDie.stages.0.label>prisoner banished and left to die</PrisonerBanishedToDie.stages.0.label>
+  <PrisonerBanishedToDie.stages.0.label>prisoner banished to death</PrisonerBanishedToDie.stages.0.label>
   <PrisonerBanishedToDie.stages.0.description>We banished a prisoner in such a way that there's almost no way they'll survive.</PrisonerBanishedToDie.stages.0.description>
 
   <BondedAnimalBanished.stages.0.label>bonded animal {0} banished</BondedAnimalBanished.stages.0.label>
@@ -110,10 +109,10 @@
   <!-- Rescue quest -->
 
   <FailedToRescueRelative.stages.0.label>failed to rescue {0}</FailedToRescueRelative.stages.0.label>
-  <FailedToRescueRelative.stages.0.description>We failed to rescue one of my relatives. Knowing that I could have helped him makes it even harder to cope with the death of my loved one.</FailedToRescueRelative.stages.0.description>
+  <FailedToRescueRelative.stages.0.description>We had a chance to rescue my relative, and failed. I could have helped!</FailedToRescueRelative.stages.0.description>
 
   <RescuedRelative.stages.0.label>rescued {0}</RescuedRelative.stages.0.label>
-  <RescuedRelative.stages.0.description>We rescued one of my relatives. Now that I know he's safe, I'm finally able to breathe a sigh of relief.</RescuedRelative.stages.0.description>
+  <RescuedRelative.stages.0.description>We rescued one of my relatives. Finally, I can breathe a sigh of relief.</RescuedRelative.stages.0.description>
 
 
 </LanguageData>

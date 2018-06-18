@@ -21,5 +21,12 @@
   <TheRichExplorer.scenario.description>People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.</TheRichExplorer.scenario.description>
   <TheRichExplorer.scenario.parts.12.text>The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you.</TheRichExplorer.scenario.parts.12.text>
 
+  <NakedBrutality.label>Naked Brutality</NakedBrutality.label>
+  <NakedBrutality.description>You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: This is an extremely difficult scenario.</NakedBrutality.description>
+  <NakedBrutality.scenario.name>Naked Brutality</NakedBrutality.scenario.name>
+  <NakedBrutality.scenario.summary>Naked, alone, and utterly unprepared. Can you survive? Extremely difficult.</NakedBrutality.scenario.summary>
+  <NakedBrutality.scenario.description>You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: This is an extremely difficult scenario.</NakedBrutality.scenario.description>
+  <NakedBrutality.scenario.parts.3.text>It was supposed to be a minor surgery. Just an hour under anasthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive?</NakedBrutality.scenario.parts.3.text>
+
 
 </LanguageData>

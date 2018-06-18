@@ -9,5 +9,9 @@
   <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
   <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
 
+  <Aurora.label>aurora</Aurora.label>
+  <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
+  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+
 
 </LanguageData>

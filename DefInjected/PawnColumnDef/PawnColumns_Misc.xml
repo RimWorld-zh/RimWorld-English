@@ -2,8 +2,10 @@
 <LanguageData>
 
   <Master.label>master</Master.label>
+  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
   <AllowedArea.label>allowed area</AllowedArea.label>
   <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
+  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
   <Outfit.label>current outfit</Outfit.label>
   <DrugPolicy.label>drug policy</DrugPolicy.label>
 

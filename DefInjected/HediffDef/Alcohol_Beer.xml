@@ -2,12 +2,11 @@
 <LanguageData>
 
   <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-  <AlcoholHigh.stages.0.label>buzzed</AlcoholHigh.stages.0.label>
-  <AlcoholHigh.stages.1.label>warm</AlcoholHigh.stages.1.label>
-  <AlcoholHigh.stages.2.label>tipsy</AlcoholHigh.stages.2.label>
-  <AlcoholHigh.stages.3.label>drunk</AlcoholHigh.stages.3.label>
-  <AlcoholHigh.stages.4.label>hammered</AlcoholHigh.stages.4.label>
-  <AlcoholHigh.stages.5.label>blackout</AlcoholHigh.stages.5.label>
+  <AlcoholHigh.stages.0.label>warm</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>tipsy</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>drunk</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>hammered</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>blackout</AlcoholHigh.stages.4.label>
   <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
 
   <Hangover.label>hangover</Hangover.label>

@@ -4,7 +4,7 @@
   <!-- Random social interactions -->
 
   <Chitchat.stages.0.label>chitchat</Chitchat.stages.0.label>
-  <DeepTalk.stages.0.label>had deep talk</DeepTalk.stages.0.label>
+  <DeepTalk.stages.0.label>deep talk</DeepTalk.stages.0.label>
   <Slighted.stages.0.label>slighted</Slighted.stages.0.label>
   <Insulted.stages.0.label>insulted</Insulted.stages.0.label>
 
@@ -24,8 +24,8 @@
 
   <!-- Social fights -->
 
-  <HadAngeringFight.stages.0.label>had an angering fight</HadAngeringFight.stages.0.label>
-  <HadCatharticFight.stages.0.label>had a cathartic fight</HadCatharticFight.stages.0.label>
+  <HadAngeringFight.stages.0.label>angering fight</HadAngeringFight.stages.0.label>
+  <HadCatharticFight.stages.0.label>cathartic fight</HadCatharticFight.stages.0.label>
 
 
   <!-- Misc actions affecting opinion -->
@@ -52,7 +52,7 @@
   <ForcedMeToTakeLuciferium.stages.0.label>forced me to take luciferium</ForcedMeToTakeLuciferium.stages.0.label>
 
   <ForcedMeToTakeLuciferiumMood.stages.0.label>forced to take luciferium</ForcedMeToTakeLuciferiumMood.stages.0.label>
-  <ForcedMeToTakeLuciferiumMood.stages.0.description>I'm a prosthophobe; I would never take luciferium by choice. But I was forced! I feel unclean.</ForcedMeToTakeLuciferiumMood.stages.0.description>
+  <ForcedMeToTakeLuciferiumMood.stages.0.description>I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean.</ForcedMeToTakeLuciferiumMood.stages.0.description>
 
 
   <!-- Romance -->
@@ -88,10 +88,7 @@
   <RejectedMyProposalMood.stages.0.description>I thought we were meant to marry. But I was just shot down.</RejectedMyProposalMood.stages.0.description>
 
   <IRejectedTheirProposal.stages.0.label>I rejected their proposal</IRejectedTheirProposal.stages.0.label>
-
   <HoneymoonPhase.stages.0.label>honeymoon phase</HoneymoonPhase.stages.0.label>
-  <HoneymoonPhase.stages.0.labelSocial>honeymoon phase</HoneymoonPhase.stages.0.labelSocial>
-  <HoneymoonPhase.stages.0.description>It's so wonderful to be starting a new life together!</HoneymoonPhase.stages.0.description>
 
   <GotSomeLovin.stages.0.label>got some lovin’</GotSomeLovin.stages.0.label>
   <GotSomeLovin.stages.0.description>There's nothing like a tumble between the sheets to lift the mood.</GotSomeLovin.stages.0.description>

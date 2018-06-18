@@ -4,14 +4,16 @@
   <!-- General -->
 
   <Goto.reportString>moving.</Goto.reportString>
+  <Follow.reportString>following TargetA.</Follow.reportString>
+  <FollowClose.reportString>following TargetA.</FollowClose.reportString>
   <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
   <GotoWander.reportString>wandering.</GotoWander.reportString>
   <Wait.reportString>standing.</Wait.reportString>
-  <WaitMaintainPosture.reportString>standing.</WaitMaintainPosture.reportString>
-  <WaitDowned.reportString>downed.</WaitDowned.reportString>
-  <WaitSafeTemperature.reportString>waiting in safe temperature.</WaitSafeTemperature.reportString>
-  <WaitWander.reportString>wandering.</WaitWander.reportString>
-  <WaitCombat.reportString>watching for targets.</WaitCombat.reportString>
+  <Wait_MaintainPosture.reportString>standing.</Wait_MaintainPosture.reportString>
+  <Wait_Downed.reportString>downed.</Wait_Downed.reportString>
+  <Wait_SafeTemperature.reportString>waiting in safe temperature.</Wait_SafeTemperature.reportString>
+  <Wait_Wander.reportString>wandering.</Wait_Wander.reportString>
+  <Wait_Combat.reportString>watching for targets.</Wait_Combat.reportString>
   <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
   <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
   <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
@@ -25,7 +27,10 @@
   <Strip.reportString>stripping TargetA.</Strip.reportString>
   <Open.reportString>opening TargetA.</Open.reportString>
   <RearmTrap.reportString>rearming TargetA.</RearmTrap.reportString>
+  <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
+  <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
   <Refuel.reportString>refueling TargetA.</Refuel.reportString>
+  <RefuelAtomic.reportString>refueling TargetA.</RefuelAtomic.reportString>
   <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
   <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>

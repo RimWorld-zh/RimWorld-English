@@ -4,10 +4,10 @@
   <!-- Doors -->
 
   <Door.label>door</Door.label>
-  <Door.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door.description>
+  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
   <Door_Blueprint.label>door (blueprint)</Door_Blueprint.label>
   <Door_Frame.label>door (building)</Door_Frame.label>
-  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door_Frame.description>
+  <Door_Frame.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door_Frame.description>
 
   <Autodoor.label>autodoor</Autodoor.label>
   <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>

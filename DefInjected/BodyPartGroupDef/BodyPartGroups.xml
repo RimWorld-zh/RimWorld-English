@@ -11,20 +11,43 @@
   <Arms.label>arms</Arms.label>
   <Shoulders.label>shoulders</Shoulders.label>
   <Hands.label>hands</Hands.label>
+
   <LeftHand.label>left fist</LeftHand.label>
+  <LeftHand.labelShort>fist</LeftHand.labelShort>
+
   <RightHand.label>right fist</RightHand.label>
+  <RightHand.labelShort>fist</RightHand.labelShort>
+
   <Waist.label>waist</Waist.label>
   <Legs.label>legs</Legs.label>
   <Feet.label>feet</Feet.label>
+
   <FrontLeftPaw.label>front left paw</FrontLeftPaw.label>
+  <FrontLeftPaw.labelShort>paw</FrontLeftPaw.labelShort>
+
   <FrontRightPaw.label>front right paw</FrontRightPaw.label>
+  <FrontRightPaw.labelShort>paw</FrontRightPaw.labelShort>
+
   <HeadAttackTool.label>head</HeadAttackTool.label>
+
   <FrontLeftLeg.label>front left leg</FrontLeftLeg.label>
+  <FrontLeftLeg.labelShort>leg</FrontLeftLeg.labelShort>
+
   <FrontRightLeg.label>front right leg</FrontRightLeg.label>
+  <FrontRightLeg.labelShort>leg</FrontRightLeg.labelShort>
+
   <FrontLeftClaws.label>front left claws</FrontLeftClaws.label>
+  <FrontLeftClaws.labelShort>claws</FrontLeftClaws.labelShort>
+
   <FrontRightClaws.label>front right claws</FrontRightClaws.label>
+  <FrontRightClaws.labelShort>claws</FrontRightClaws.labelShort>
+
   <LeftBlade.label>left blade</LeftBlade.label>
+  <LeftBlade.labelShort>blade</LeftBlade.labelShort>
+
   <RightBlade.label>right blade</RightBlade.label>
+  <RightBlade.labelShort>blade</RightBlade.labelShort>
+
   <TuskAttackTool.label>tusks</TuskAttackTool.label>
   <HornAttackTool.label>horn</HornAttackTool.label>
   <HeadClaw.label>claw</HeadClaw.label>

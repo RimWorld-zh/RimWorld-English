@@ -3,20 +3,20 @@
 
   <!-- Bushes -->
 
-  <PlantAgave.label>agave</PlantAgave.label>
-  <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks.</PlantAgave.description>
+  <Plant_Agave.label>agave</Plant_Agave.label>
+  <Plant_Agave.description>A large-leafed desert plant with edible flowers and stalks.</Plant_Agave.description>
 
-  <PlantPincushionCactus.label>pincushion cactus</PlantPincushionCactus.label>
-  <PlantPincushionCactus.description>A short cactus. So named because it resembles a pincushion.</PlantPincushionCactus.description>
+  <Plant_PincushionCactus.label>pincushion cactus</Plant_PincushionCactus.label>
+  <Plant_PincushionCactus.description>A short cactus. It is so named because it resembles a pincushion.</Plant_PincushionCactus.description>
 
 
   <!-- Trees -->
 
-  <PlantSaguaroCactus.label>saguaro cactus</PlantSaguaroCactus.label>
-  <PlantSaguaroCactus.description>A large cactus native to arid Earth environments.</PlantSaguaroCactus.description>
+  <Plant_SaguaroCactus.label>saguaro cactus</Plant_SaguaroCactus.label>
+  <Plant_SaguaroCactus.description>A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood.</Plant_SaguaroCactus.description>
 
-  <PlantTreeDrago.label>drago tree</PlantTreeDrago.label>
-  <PlantTreeDrago.description>A hardy desert tree topped with thick, pointed leaves.</PlantTreeDrago.description>
+  <Plant_TreeDrago.label>drago tree</Plant_TreeDrago.label>
+  <Plant_TreeDrago.description>A hardy desert tree topped with thick, pointed leaves.</Plant_TreeDrago.description>
 
 
 </LanguageData>

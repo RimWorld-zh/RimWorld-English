@@ -28,7 +28,6 @@
   <ExecutedPrisoner.stages.0.label>executed prisoner</ExecutedPrisoner.stages.0.label>
   <KilledColonist.stages.0.label>killed colonist</KilledColonist.stages.0.label>
   <KilledColonyAnimal.stages.0.label>killed colony animal</KilledColonyAnimal.stages.0.label>
-  <KilledMajorColonyEnemy.stages.0.label>killed major enemy</KilledMajorColonyEnemy.stages.0.label>
 
 
   <!-- affecting mood -->

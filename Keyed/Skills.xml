@@ -5,9 +5,9 @@
   <ProgressToNextLevel>Progress to next level</ProgressToNextLevel>
   <Experience>Experience</Experience>
   <Passion>Passion</Passion>
-  <PassionNone>none (learns x{0})</PassionNone>
-  <PassionMinor>interested (learns x{0}, joy gain)</PassionMinor>
-  <PassionMajor>burning (learns x{0}, joy gain 2x)</PassionMajor>
+  <PassionNone>None\n   -Learns {0}</PassionNone>
+  <PassionMinor>Interested\n   -Learns {0}</PassionMinor>
+  <PassionMajor>Burning\n   -Learns {0}</PassionMajor>
   <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
   <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>

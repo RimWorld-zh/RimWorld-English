@@ -4,8 +4,8 @@
   <SpaceRefugee.label>space refugee</SpaceRefugee.label>
   <SpaceRefugee.labelPlural>space refugees</SpaceRefugee.labelPlural>
 
-  <SpaceSoldier.label>space soldier</SpaceSoldier.label>
-  <SpaceSoldier.labelPlural>space soldiers</SpaceSoldier.labelPlural>
+  <AncientSoldier.label>ancient soldier</AncientSoldier.label>
+  <AncientSoldier.labelPlural>ancient soldiers</AncientSoldier.labelPlural>
 
 
 </LanguageData>

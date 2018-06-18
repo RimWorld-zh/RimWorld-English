@@ -34,6 +34,8 @@
   <PeriodDays>{0} days</PeriodDays>
   <Period1Hour>1 hour</Period1Hour>
   <PeriodHours>{0} hours</PeriodHours>
+  <Period1Second>1 second</Period1Second>
+  <PeriodSeconds>{0} seconds</PeriodSeconds>
 
   <!-- Misc -->
   <Started>Started</Started>

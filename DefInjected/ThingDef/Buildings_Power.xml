@@ -2,10 +2,16 @@
 <LanguageData>
 
   <PowerConduit.label>power conduit</PowerConduit.label>
-  <PowerConduit.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
+  <PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
   <PowerConduit_Blueprint.label>power conduit (blueprint)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>power conduit (building)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit_Frame.description>
+  <PowerConduit_Frame.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit_Frame.description>
+
+  <WaterproofConduit.label>waterproof conduit</WaterproofConduit.label>
+  <WaterproofConduit.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit.description>
+  <WaterproofConduit_Blueprint.label>waterproof conduit (blueprint)</WaterproofConduit_Blueprint.label>
+  <WaterproofConduit_Frame.label>waterproof conduit (building)</WaterproofConduit_Frame.label>
+  <WaterproofConduit_Frame.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit_Frame.description>
 
   <PowerSwitch.label>power switch</PowerSwitch.label>
   <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
@@ -14,23 +20,23 @@
   <PowerSwitch_Frame.description>Switches power on/off.</PowerSwitch_Frame.description>
 
   <WoodFiredGenerator.label>wood-fired generator</WoodFiredGenerator.label>
-  <WoodFiredGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</WoodFiredGenerator.description>
+  <WoodFiredGenerator.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator.description>
   <WoodFiredGenerator_Blueprint.label>wood-fired generator (blueprint)</WoodFiredGenerator_Blueprint.label>
   <WoodFiredGenerator_Frame.label>wood-fired generator (building)</WoodFiredGenerator_Frame.label>
-  <WoodFiredGenerator_Frame.description>Produces power by consuming wood fuel. Must be fueled by hand.</WoodFiredGenerator_Frame.description>
+  <WoodFiredGenerator_Frame.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator_Frame.description>
 
   <ChemfuelPoweredGenerator.label>chemfuel powered generator</ChemfuelPoweredGenerator.label>
-  <ChemfuelPoweredGenerator.description>Produces power by consuming chemfuel. Must be fueled by hand.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.description>Produces power by consuming chemfuel. Must be periodically refueled by hand.</ChemfuelPoweredGenerator.description>
   <ChemfuelPoweredGenerator_Blueprint.label>chemfuel powered generator (blueprint)</ChemfuelPoweredGenerator_Blueprint.label>
   <ChemfuelPoweredGenerator_Frame.label>chemfuel powered generator (building)</ChemfuelPoweredGenerator_Frame.label>
-  <ChemfuelPoweredGenerator_Frame.description>Produces power by consuming chemfuel. Must be fueled by hand.</ChemfuelPoweredGenerator_Frame.description>
+  <ChemfuelPoweredGenerator_Frame.description>Produces power by consuming chemfuel. Must be periodically refueled by hand.</ChemfuelPoweredGenerator_Frame.description>
 
   <Battery.label>battery</Battery.label>
-  <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Battery.description>
+  <Battery.description>Stores electricity for later use. Charged batteries explode when exposed to rain or fire.</Battery.description>
   <Battery_Blueprint.label>battery (blueprint)</Battery_Blueprint.label>
   <Battery_Blueprint_Install.label>battery (blueprint)</Battery_Blueprint_Install.label>
   <Battery_Frame.label>battery (building)</Battery_Frame.label>
-  <Battery_Frame.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.</Battery_Frame.description>
+  <Battery_Frame.description>Stores electricity for later use. Charged batteries explode when exposed to rain or fire.</Battery_Frame.description>
 
   <SolarGenerator.label>solar generator</SolarGenerator.label>
   <SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator.description>
@@ -39,10 +45,16 @@
   <SolarGenerator_Frame.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator_Frame.description>
 
   <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
-  <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</GeothermalGenerator.description>
+  <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</GeothermalGenerator.description>
   <GeothermalGenerator_Blueprint.label>geothermal generator (blueprint)</GeothermalGenerator_Blueprint.label>
   <GeothermalGenerator_Frame.label>geothermal generator (building)</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</GeothermalGenerator_Frame.description>
+  <GeothermalGenerator_Frame.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</GeothermalGenerator_Frame.description>
+
+  <WatermillGenerator.label>watermill generator</WatermillGenerator.label>
+  <WatermillGenerator.description>Produces electricity from river. Must be placed with its wheel in moving water.</WatermillGenerator.description>
+  <WatermillGenerator_Blueprint.label>watermill generator (blueprint)</WatermillGenerator_Blueprint.label>
+  <WatermillGenerator_Frame.label>watermill generator (building)</WatermillGenerator_Frame.label>
+  <WatermillGenerator_Frame.description>Produces electricity from river. Must be placed with its wheel in moving water.</WatermillGenerator_Frame.description>
 
 
 </LanguageData>
