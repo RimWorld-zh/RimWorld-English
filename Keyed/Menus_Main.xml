@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
@@ -50,12 +50,12 @@
   <SelectWorld>Select world</SelectWorld>
   <WorldChooseButton>Select</WorldChooseButton>
   <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
-
+  
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-  <BuildUpToDate>This is the latest version.</BuildUpToDate>
-  <ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+	<BuildUpToDate>This is the latest version.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Generate world</GenerateWorld>
@@ -82,14 +82,14 @@
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Drag to reorder</DragToReorder>
-
+  
   <!--=========== Select scenario =============-->
   <ChooseScenario>Choose scenario</ChooseScenario>
   <ScenariosCustom>Custom</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Scenario editor</ScenarioEditor>
   <Delete>Delete</Delete>
-
+  
   <!--============ Scenario editor ===============-->
   <Seed>seed</Seed>
   <Load>Load</Load>
@@ -102,7 +102,7 @@
   <Incompatible>Incompatible</Incompatible>
   <TooMany>Too many (max {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
-
+  
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
   <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
@@ -128,7 +128,7 @@
   <Elevation>Elevation</Elevation>
   <Fertility>Fertility</Fertility>
   <AvgTemp>Average temperature</AvgTemp>
-  <Rainfall>Rainfall</Rainfall>
+	<Rainfall>Rainfall</Rainfall>
   <SpecialFeatures>Special features</SpecialFeatures>
   <HasCoast0>northern coast</HasCoast0>
   <HasCoast1>eastern coast</HasCoast1>
@@ -138,7 +138,7 @@
   <FactionBase>Faction base</FactionBase>
   <StoneTypesHere>Stone types</StoneTypesHere>
   <TimeZone>Time zone</TimeZone>
-  <MovementDifficulty>Movement difficulty</MovementDifficulty>
+	<MovementDifficulty>Movement difficulty</MovementDifficulty>
   <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
   <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
   <PerYear>per year</PerYear>
@@ -146,7 +146,7 @@
   <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
 
-  <!--=========== Character chooser ==========-->
+	<!--=========== Character chooser ==========-->
   <CreateCharacters>Create characters</CreateCharacters>
   <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
   <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
@@ -170,7 +170,7 @@
   <TeamSkills>Team skills</TeamSkills>
   <StartingPawnsSelected>Selected</StartingPawnsSelected>
   <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
-
+  
   <!--=========== Misc ==========-->
   <Start>Start</Start>
   <Advanced>Advanced</Advanced>
@@ -182,7 +182,7 @@
   <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
   <Quit>Quit</Quit>
   <Ignore>Ignore</Ignore>
-
+  
   <!--============ Progress bar==============-->
   <GeneratingWorld>Generating world</GeneratingWorld>
   <GeneratingPlanet>Generating planet</GeneratingPlanet>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Autosaving>Autosaving</Autosaving>
@@ -27,8 +27,8 @@
   <durationDays>duration (days)</durationDays>
   <intervalDays>interval (days)</intervalDays>
   <repeat>repeat</repeat>
-  <default>default</default>
-  <distance>distance</distance>
+	<default>default</default>
+	<distance>distance</distance>
   <YesUppercase>YES</YesUppercase>
   <NoUppercase>NO</NoUppercase>
   <kg>kg</kg>
@@ -38,14 +38,14 @@
   <Average>Average</Average>
 
   <!-- Content generation-->
-
-  <MeatLabel>{0} meat</MeatLabel>
+  
+	<MeatLabel>{0} meat</MeatLabel>
   <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
   <MeatInsectDesc>Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.</MeatInsectDesc>
   <MeatHumanDesc>Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.</MeatHumanDesc>
 
   <CorpseLabel>{0} corpse</CorpseLabel>
-  <CorpseDesc>Dead body of a {0}.</CorpseDesc>
+	<CorpseDesc>Dead body of a {0}.</CorpseDesc>
   <DeadLabel>{0} (dead)</DeadLabel>
 
   <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
@@ -67,17 +67,17 @@
 
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
   <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
-
+  
   <VariousLabel>(various)</VariousLabel>
 
   <!-- History events -->
   <ColonistDied>Colonist died</ColonistDied>
-
+  
   <!-- Rotation -->
   <North>North</North>
   <South>South</South>
   <West>West</West>
   <East>East</East>
-
-
+  
+  
 </LanguageData>

@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- glow -->
   <Dark>Dark</Dark>
   <Lit>Lit</Lit>
   <LitBrightly>Brightly lit</LitBrightly>
-
+  
   <!-- history upload pref -->
   <Unspecified>Undecided</Unspecified>
   <Always>Allow</Always>
   <Never>Do not allow</Never>
-
+  
   <!-- Price types -->
   <PriceTypeVeryCheap>very cheap</PriceTypeVeryCheap>
   <PriceTypeCheap>cheap</PriceTypeCheap>
@@ -54,7 +54,7 @@
   <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
-
+  
   <!-- Hunger -->
   <HungerLevel_Starving>Starving</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>Urgently hungry</HungerLevel_UrgentlyHungry>
@@ -73,7 +73,7 @@
   <Hilliness_LargeHills>large hills</Hilliness_LargeHills>
   <Hilliness_Mountainous>mountainous</Hilliness_Mountainous>
   <Hilliness_Impassable>impassable</Hilliness_Impassable>
-
+  
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
@@ -87,7 +87,7 @@
   <!-- Mod sources -->
   <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-
+  
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
@@ -99,7 +99,7 @@
   <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
-
+  
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
@@ -122,17 +122,17 @@
   <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
-
+  
   <!-- Animal name display mode -->
   <ShowAnimalNames>Show animal names</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
-
+  
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
   <Fahrenheit>Fahrenheit</Fahrenheit>
   <Kelvin>Kelvin</Kelvin>
-
+  
   <!-- Direction8Way -->
   <Direction8Way_North_Short>N</Direction8Way_North_Short>
   <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
@@ -142,7 +142,7 @@
   <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
   <Direction8Way_West_Short>W</Direction8Way_West_Short>
   <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
-
+  
   <!-- Diet category -->
   <DietCategory_NeverEats>Never eats</DietCategory_NeverEats>
   <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
