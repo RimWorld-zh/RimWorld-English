@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <SaveButton>Save</SaveButton>
@@ -8,5 +8,5 @@
   <BindingButtonToolTip>Left-click to bind this key or right-click for options</BindingButtonToolTip>
   <PressAnyKeyOrEsc>Press any key or Esc to cancel...</PressAnyKeyOrEsc>
   <KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
-
+  
 </LanguageData>

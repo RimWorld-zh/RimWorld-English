@@ -7,7 +7,6 @@ brewer
 weaver
 cook
 beggar
-townsman
 town guard
 town councilor
 baker
@@ -31,7 +30,6 @@ priest
 cleric
 smuggler
 comedian
-housewife
 teacher
 acrobat
 clown
@@ -58,7 +56,6 @@ hacker
 planetologist
 politician
 historian
-secretary
 writer
 engineer
 dentist

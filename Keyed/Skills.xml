@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Level>Level</Level>
@@ -31,7 +31,6 @@
   <Skill16>Region-known master</Skill16>
   <Skill17>Region-leading master</Skill17>
   <Skill18>Planet-known master</Skill18>
-  <Skill19>Planet-leading master</Skill19>
-  <Skill20>Legendary master</Skill20>
-
+	<Skill19>Planet-leading master</Skill19>
+	<Skill20>Legendary master</Skill20>
 </LanguageData>

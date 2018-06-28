@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- ITab titles -->
@@ -22,7 +22,7 @@
   <TabLog>Log</TabLog>
   <TabFormingCaravan>Caravan</TabFormingCaravan>
 
-
+  
   <!-- Bills tab  -->
   <AddBill>Add bill</AddBill>
   <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
@@ -46,15 +46,15 @@
   <DoctorsCare>Doctors care</DoctorsCare>
   <GetsMedicine>Gets medicine</GetsMedicine>
   <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
-  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+	<ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
 
 
   <!-- Medical - general -->
   <MoveSpeed>Move speed</MoveSpeed>
   <Efficiency>Efficiency</Efficiency>
-  <PartEfficiency>Part efficiency</PartEfficiency>
-  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
-  <MissingBodyPart>Gone</MissingBodyPart>
+	<PartEfficiency>Part efficiency</PartEfficiency>
+	<BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+	<MissingBodyPart>Gone</MissingBodyPart>
   <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
   <ShatteredBodyPart>Shattered</ShatteredBodyPart>
   <RemovedBodyPart>Removed</RemovedBodyPart>
@@ -62,7 +62,7 @@
   <InPain>In pain</InPain>
   <PainLevel>Pain</PainLevel>
   <Injured>Injured</Injured>
-  <NoInjuries>(no injuries)</NoInjuries>
+  <NoHealthConditions>no health conditions</NoHealthConditions>
   <WholeBody>Whole body</WholeBody>
   <DataProcessing>Data processing</DataProcessing>
   <Communication>Communication</Communication>
@@ -85,7 +85,7 @@
   <PreventsInfection>Prevents infection</PreventsInfection>
   <SelfTend>Self-tend</SelfTend>
   <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
-
+  
 
   <!-- Medical - Body and activities condition -->
   <None>None</None>
@@ -110,7 +110,7 @@
   <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
-
+  
   <!-- Social tab -->
   <NoRelationships>(no relationships)</NoRelationships>
   <Kidnapped>Kidnapped</Kidnapped>
@@ -121,7 +121,7 @@
   <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
   <IAmDead>I'm dead</IAmDead>
   <IAmPsychopath>I'm a psychopath</IAmPsychopath>
-
+  
   <!-- Gear tab -->
   <OverallArmor>Overall armor</OverallArmor>
   <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
@@ -129,7 +129,7 @@
   <ArmorBlunt>Blunt</ArmorBlunt>
   <ArmorSharp>Sharp</ArmorSharp>
   <ArmorHeat>Heat</ArmorHeat>
-
+  
   <!-- Log tab -->
   <ShowAll>Show all</ShowAll>
   <ShowCombat>Show combat</ShowCombat>

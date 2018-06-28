@@ -1,6 +1,7 @@
 ﻿clothes
 clothing choices
 fashion knowledge
+stylishness
 
 looks
 appearance
@@ -9,10 +10,14 @@ weight
 hair
 hairstyle
 body hair
-public hair
+pubic hair
+facial hair
+leg hair
 face
+eyes
 nose
 ears
+jawline
 forehead
 hands
 genitals
@@ -85,6 +90,8 @@ kindness
 eloquence
 broad-mindedness
 charm
+sincerity
+open-mindedness
 
 origins
 parents

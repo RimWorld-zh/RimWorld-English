@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Work tab -->
@@ -12,7 +12,7 @@
   <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <SelectedWorkTypeWithVeryBadSkill>Warning: the average of relevant skills is very low.</SelectedWorkTypeWithVeryBadSkill>
-
+  
   <!-- Assign tab -->
   <ManageOutfits>Manage outfits</ManageOutfits>
   <ClearForcedApparel>Clear forced</ClearForcedApparel>
@@ -20,20 +20,20 @@
   <ForcedApparel>Forced apparel</ForcedApparel>
   <AssignTabEdit>Edit...</AssignTabEdit>
   <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
-
+  
   <!-- Restrictions tab -->
   <Copy>Copy</Copy>
   <Paste>Paste</Paste>
   <AllowedArea>Allowed area</AllowedArea>
-
+  
   <!-- Animals tab -->
   <Master>Master</Master>
   <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
   <BondedTo>Bonded to</BondedTo>
-
+  
   <!-- Wildlife tab -->
   <IsPredator>This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people.</IsPredator>
-
+	
   <!-- Factions tab -->
   <Hostile>Hostile</Hostile>
   <Ally>Ally</Ally>
@@ -45,18 +45,18 @@
   <CurrentGoodwillTip_Neutral>This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you.</CurrentGoodwillTip_Neutral>
   <CurrentGoodwillTip_Hostile>This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral.</CurrentGoodwillTip_Hostile>
   <CurrentGoodwillTip_NaturalGoodwill>This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day.</CurrentGoodwillTip_NaturalGoodwill>
-
-
-  <!-- Social tab -->
-  <Friend>Friend</Friend>
-  <Rival>Rival</Rival>
-  <Acquaintance>Acquaintance</Acquaintance>
-
+  
+  
+	<!-- Social tab -->
+	<Friend>Friend</Friend>
+	<Rival>Rival</Rival>
+	<Acquaintance>Acquaintance</Acquaintance>
+	
   <!-- History tab - subtabs -->
   <Graph>Graph</Graph>
   <Messages>Messages</Messages>
   <Statistics>Statistics</Statistics>
-
+  
   <!-- History tab - Graphs -->
   <SelectGraph>Select graph</SelectGraph>
   <Last30Days>Last 30 days</Last30Days>
@@ -90,5 +90,5 @@
   <YourTechLevel>your tech level</YourTechLevel>
   <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
   <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
-
+  
 </LanguageData>

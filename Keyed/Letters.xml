@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <JumpToLocation>Jump to location</JumpToLocation>
   <PostponeLetter>Postpone</PostponeLetter>
   <RejectLetter>Reject</RejectLetter>
-
+  
   <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
 
@@ -27,7 +27,7 @@
   <TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
   <NothingCrushed>Nothing was crushed.</NothingCrushed>
   <LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
-
+  
   <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
   <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
 
@@ -62,23 +62,23 @@
 
   <LetterHealthComplications>{0} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2}</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
-
+  
   <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
-
+  
   <LetterLeadersDeathLabel>{1} died: {0}</LetterLeadersDeathLabel>
   <LetterLeadersDeath>{0}, {3} of {1}, has died.\n\nThe new {3} is {2}.</LetterLeadersDeath>
 
-  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
-  <LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
-
+	<LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+	<LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+	
   <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
   <FinalStraw>The final straw was: {0}</FinalStraw>
   <LastFactionRelationsEvent>The last event was</LastFactionRelationsEvent>
 
   <ReadMore>Read more</ReadMore>
   <LastEventsInLife>The last events in {0}'s life</LastEventsInLife>
-
+  
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
   <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
@@ -95,19 +95,18 @@
   <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
   <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] has a relationship with a colonist. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
   <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] has a relationship with one of your prisoners. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
-
+  
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Affair</LetterLabelAffair>
   <LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
   <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
-  <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
   <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
   <LetterLabelBreakup>Breakup</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>At some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
   <LetterRejectedProposal>{0} is going to be unhappy about this.</LetterRejectedProposal>
-
+  
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChange_Hostile>Hostile: {0}</LetterLabelRelationsChange_Hostile>
   <LetterLabelRelationsChange_Ally>Allied: {0}</LetterLabelRelationsChange_Ally>
@@ -115,7 +114,7 @@
   <LetterLabelRelationsChange_NeutralFromAlly>Ally now neutral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
-
+  
   <!-- Bonded animals -->
   <LetterLabelSuffixBondedAnimalDied>bonded animal</LetterLabelSuffixBondedAnimalDied>
   <LetterPartBondedAnimalDied>{0} was bonded to {1}. It will affect {1}'s mood.</LetterPartBondedAnimalDied>
@@ -124,27 +123,27 @@
   <!-- Prison break -->
   <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
   <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
-
+  
   <!-- Party -->
   <LetterLabelNewParty>Party</LetterLabelNewParty>
-  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
+  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.</LetterNewParty>
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
   <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\n[PAWN_pronoun] now has a need for {1}, visible on [PAWN_possessive] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_possessive] need. If [PAWN_pronoun] cannot get any {1}, [PAWN_pronoun] will go into withdrawal.</LetterNewlyAddicted>
-
+  
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
   <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
-
+  
   <!-- Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
   <LetterAllCaravanColonistsDied>All members of {0} have died.</LetterAllCaravanColonistsDied>
-
+  
   <!-- Caravan entered ambush map -->
   <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
   <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
-
+  
   <!-- Caravan entered enemy base -->
   <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
   <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
@@ -152,12 +151,12 @@
   <!-- Transport pods landed in enemy base -->
   <LetterLabelTransportPodsLandedInEnemyBase>Attack begun</LetterLabelTransportPodsLandedInEnemyBase>
   <LetterTransportPodsLandedInEnemyBase>Your transport pods have arrived at {0}.</LetterTransportPodsLandedInEnemyBase>
-
+  
   <!-- Faction base defeated -->
   <LetterLabelFactionBaseDefeated>Base destroyed</LetterLabelFactionBaseDefeated>
   <LetterFactionBaseDefeated>The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option.</LetterFactionBaseDefeated>
   <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means this faction doesn't exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
-
+  
   <!-- Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
   <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
@@ -165,7 +164,7 @@
   <!-- Found lump of precious resources -->
   <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
   <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
-
+  
   <!-- Ambush -->
   <LetterLabelAmbushInExistingMap>Ambush</LetterLabelAmbushInExistingMap>
   <LetterAmbushInExistingMap>Your {0} have been ambushed!</LetterAmbushInExistingMap>

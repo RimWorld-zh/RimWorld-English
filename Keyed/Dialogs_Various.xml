@@ -1,21 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Confirm>Confirm</Confirm>
   <GoBack>Go back</GoBack>
   <OK>OK</OK>
-
+  <Dismiss>Dismiss</Dismiss>
+  
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
   <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
   <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
-
+  
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
-
+  
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
   <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
@@ -24,15 +25,15 @@
   <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
-
+  
   <!-- Unloaded mod with an assembly -->
   <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
   <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
   <Restarting>Restarting</Restarting>
-
+  
   <!-- Missing Steam -->
   <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
-
+  
   <!-- Long events -->
   <InitializingInterface>Initializing interface</InitializingInterface>
   <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
@@ -43,9 +44,9 @@
   <LoadingWorld>Loading world</LoadingWorld>
   <LoadingMap>Loading map</LoadingMap>
   <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning all things</SpawningAllThings>
+  <SpawningAllThings>Spawning things</SpawningAllThings>
   <SpawningColonists>Spawning colonists</SpawningColonists>
-
+  
   <!-- Save/load -->
   <SaveGameButton>Save</SaveGameButton>
   <LoadGameButton>Load</LoadGameButton>
@@ -65,7 +66,7 @@
   <LoadAnyway>Load anyway</LoadAnyway>
   <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
   <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
-
+  
   <!-- Player faction naming -->
   <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
   <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
@@ -75,16 +76,16 @@
   <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
   <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
   <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
-
+  
   <!-- Player faction and faction base naming -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
-
+  
   <!-- Renaming -->
   <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
   <NameIsInUse>Name is already in use.</NameIsInUse>
   <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
-
+  
   <!-- Pawn naming -->
   <PawnGainsName>This person's nickname is now {0}. [PAWN_possessive] title is {1}.</PawnGainsName>
   <AnimalGainsName>The animal's name is now {0}.</AnimalGainsName>
@@ -116,7 +117,7 @@
   <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
   <RequiredResearchBench>Required research bench</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
-
+  
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
@@ -138,7 +139,7 @@
   <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
   <RepeatCount>Repeat:</RepeatCount>
   <Forever>Forever</Forever>
-  <Details>Details</Details>
+	<Details>Details</Details>
   <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
   <CurrentlyHave>Currently have</CurrentlyHave>
   <CountingProducts>Counting</CountingProducts>
@@ -147,7 +148,7 @@
   <IncompatibleLower>incompatible</IncompatibleLower>
   <AnyWorker>Any worker</AnyWorker>
   <Unlimited>Unlimited</Unlimited>
-
+  
   <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Work amount</WorkAmount>
   <MinimumSkills>Minimum skills:</MinimumSkills>
@@ -163,14 +164,16 @@
   <Paused>Paused</Paused>
   <Unpause>Unpause</Unpause>
 
-  <IncludeEquipped>Include equipped</IncludeEquipped>
-  <IncludeTainted>Include tainted</IncludeTainted>
+  <IncludeEquipped>Count equipped</IncludeEquipped>
+  <IncludeTainted>Count tainted</IncludeTainted>
   <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
   <IncludeFromAll>Look everywhere</IncludeFromAll>
   <IncludeSpecific>Look in {0}</IncludeSpecific>
-
+  
   <!-- Info card -->
   <Damage>Damage</Damage>
+  <ArmorPenetration>Armor penetration</ArmorPenetration>
+  <ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
   <Accuracy>Accuracy</Accuracy>
   <BurstShotCount>Burst shot count</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
@@ -180,6 +183,8 @@
   <Range>Range</Range>
   <StoppingPower>Stopping power</StoppingPower>
   <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
+  <DirectHitChance>Direct hit chance</DirectHitChance>
+  <MissRadius>Miss radius</MissRadius>
   <GrowsWild>Grows wild</GrowsWild>
   <Harvestable>Harvestable</Harvestable>
   <LimitedLifespan>Limited lifespan</LimitedLifespan>
@@ -200,7 +205,7 @@
   <MinFoodQuality>Min. food quality</MinFoodQuality>
   <Diet>Diet</Diet>
   <LeatherType>Leather type</LeatherType>
-  <BodySize>Body size</BodySize>
+	<BodySize>Body size</BodySize>
   <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
   <MarketValue>Base price</MarketValue>
   <Covers>Covers</Covers>
@@ -218,8 +223,8 @@
   <TimeRecordsCategory>Time</TimeRecordsCategory>
   <MiscRecordsCategory>Misc</MiscRecordsCategory>
   <Addictiveness>Addictiveness</Addictiveness>
-  <PackAnimal>Pack animal</PackAnimal>
-  <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
+	<PackAnimal>Pack animal</PackAnimal>
+	<PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
   <Skill>Skill</Skill>
   <SurgerySuccessChanceFactor>Success rate multiplier</SurgerySuccessChanceFactor>
   <SurgeryRequireBed>Requires bed</SurgeryRequireBed>
@@ -247,33 +252,33 @@
   <CancelButton>Cancel</CancelButton>
   <CloseButton>Close</CloseButton>
   <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-  <YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
   <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
   <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to trade this.</TraderWillNotTrade>
+  <TraderWillNotTrade>Trader is not willing to buy this.</TraderWillNotTrade>
   <Negotiator>Negotiator</Negotiator>
   <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.</NegotiatorTalkingImpaired>
   <NegotiatorHearingImpaired>Your negotiator {0} cannot hear properly because of poor health.</NegotiatorHearingImpaired>
   <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
   <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
   <SortBy>Sort by</SortBy>
-  <TraderTypePrice>trader type</TraderTypePrice>
-  <Selling>selling</Selling>
-  <Buying>buying</Buying>
-  <ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
-  <DifficultyLevel>difficulty level</DifficultyLevel>
-  <PostCurve>global post-process curve</PostCurve>
-  <YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
-  <TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
-  <minimum>minimum</minimum>
-  <FinalPrice>Final price</FinalPrice>
+	<TraderTypePrice>trader type</TraderTypePrice>
+	<Selling>selling</Selling>
+	<Buying>buying</Buying>
+	<ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
+	<DifficultyLevel>difficulty level</DifficultyLevel>
+	<PostCurve>global post-process curve</PostCurve>
+	<YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
+	<TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+	<minimum>minimum</minimum>
+	<FinalPrice>Final price</FinalPrice>
   <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
   <TradeModeTip>Return to trade mode.</TradeModeTip>
 
   <!-- Sellable items -->
   <SellableItemsTitle>Things this trader will buy</SellableItemsTitle>
   <PawnsTabShort>Creatures</PawnsTabShort>
-
+  
   <!-- Form caravan -->
   <FormCaravan>Form caravan</FormCaravan>
   <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
@@ -342,7 +347,7 @@
   <SplitCaravan>Split caravan</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
   <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
-
+  
   <!-- Load transporters -->
   <LoadTransporters>Load {0}</LoadTransporters>
   <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
@@ -350,14 +355,14 @@
   <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
   <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
-
+  
   <!-- Comms -->
   <SocialSkillIs>Social skill: {0}</SocialSkillIs>
-
+  
   <!--Research-->
   <ResearchFinished>Research finished: {0}</ResearchFinished>
   <ResearchScreen>Research Screen</ResearchScreen>
-
+  
   <!--HistoryUpload-->
   <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
@@ -365,7 +370,7 @@
   <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
   <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
-
+	
   <!-- Outfit management -->
   <Outfit>Outfit</Outfit>
   <SelectOutfit>Select outfit...</SelectOutfit>
@@ -373,7 +378,7 @@
   <DeleteOutfit>Delete outfit...</DeleteOutfit>
   <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
   <NoOutfitSelected>No outfit selected</NoOutfitSelected>
-
+  
   <!-- Drug policy management -->
   <DrugPolicy>Drug policy</DrugPolicy>
   <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
@@ -390,7 +395,7 @@
   <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
   <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
   <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>Only if joy below</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Only if recreation below</JoyThresholdColumnLabel>
   <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
   <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
   <EveryDay>Every day</EveryDay>
@@ -402,10 +407,10 @@
   <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
   <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
   <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
-  <JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>The colonists will take this drug only if their recreation level is below this threshold.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
-  <DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
-  <DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
+	<DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
+	<DrugUsageTipForJoy>For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
 
   <!-- Medical settings -->
@@ -416,7 +421,7 @@
   <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
   <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
   <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
-
+  
   <!-- Growing -->
   <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
 
@@ -424,10 +429,10 @@
   <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
-
+  
   <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmMoveAutoJoinableCaravan>Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan?</ConfirmMoveAutoJoinableCaravan>
-
+  
   <!-- Abandon pawn -->
   <ConfirmBanishPawnDialog>Do you really want to banish {0}?</ConfirmBanishPawnDialog>
   <ConfirmBanishPawnDialog_LeftToDie>{0} will most likely die.</ConfirmBanishPawnDialog_LeftToDie>
@@ -440,5 +445,5 @@
 
   <!-- Settle near a faction base -->
   <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
-
+  
 </LanguageData>

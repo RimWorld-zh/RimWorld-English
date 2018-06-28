@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <CallOnRadio>Call {0}</CallOnRadio>
+	<CallOnRadio>Call {0}</CallOnRadio>
   <CannotUseReason>Cannot use ({0})</CannotUseReason>
-  <CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
-  <CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
-  <CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
+	<CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
+	<CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
+	<CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
   <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
   <CannotUseFull>Cannot use (full)</CannotUseFull>
-  <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
-  <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
-
+	<LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+	<LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+  
   <FireAt>Fire at {0}</FireAt>
 
   <OutOfRange>out of range</OutOfRange>
@@ -22,33 +22,33 @@
   <CannotAttackSelf>cannot attack self</CannotAttackSelf>
 
   <OrderManThing>Man {0}</OrderManThing>
-
+  
   <MeleeAttack>Melee attack {0}</MeleeAttack>
   <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
   <NoPath>no path</NoPath>
 
-  <ForbiddenLower>forbidden</ForbiddenLower>
-  <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-  <NotInHomeArea>not in home area</NotInHomeArea>
-  <BurningLower>burning</BurningLower>
-  <NoEmptyPlaceLower>no empty, accessible spot configured to store it</NoEmptyPlaceLower>
+	<ForbiddenLower>forbidden</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
+	<NotInHomeArea>not in home area</NotInHomeArea>
+	<BurningLower>burning</BurningLower>
+	<NoEmptyPlaceLower>no empty, accessible spot configured to store it</NoEmptyPlaceLower>
   <NoMergeTarget>no stack available to merge into</NoMergeTarget>
-  <AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-  <MissingMaterials>need material</MissingMaterials>
-  <UnderRequiredSkill>under required skill {0}</UnderRequiredSkill>
+	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
+	<MissingMaterials>need material</MissingMaterials>
+	<UnderRequiredSkill>under required skill {0}</UnderRequiredSkill>
   <UnderAllowedSkill>under allowed skill {0}</UnderAllowedSkill>
   <AboveAllowedSkill>above allowed skill {0}</AboveAllowedSkill>
   <MissingRequiredSkillLevel>missing required skill level</MissingRequiredSkillLevel>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <NoFood>no food</NoFood>
-  <AnimalsSkillTooLow>animals skill too low - need {0}</AnimalsSkillTooLow>
+	<AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+	<NoUsableFood>no usable food</NoUsableFood>
+	<NoFood>no food</NoFood>
+	<AnimalsSkillTooLow>animals skill too low - need {0}</AnimalsSkillTooLow>
   <CantInteractAnimalDowned>animal downed</CantInteractAnimalDowned>
   <CantInteractAnimalAsleep>animal sleeping</CantInteractAnimalAsleep>
   <CantInteractAnimalBusy>animal busy</CantInteractAnimalBusy>
   <ConstructionSkillTooLow>construction skill too low</ConstructionSkillTooLow>
-  <NoComponentsToRepair>need components</NoComponentsToRepair>
-  <NoFuelToRefuel>need {0}</NoFuelToRefuel>
+	<NoComponentsToRepair>need components</NoComponentsToRepair>
+	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
   <NoWort>need wort</NoWort>
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
@@ -60,12 +60,12 @@
   <CantSowCavePlantBecauseOfLight>too bright</CantSowCavePlantBecauseOfLight>
   <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
   <IncapableOfDeconstruction>incapable of deconstruction</IncapableOfDeconstruction>
-
+  
   <ConsumeThing>Consume {0}</ConsumeThing>
-
+  
   <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
   <GoHere>Go here</GoHere>
-
+  
   <Arrest>Arrest {0}</Arrest>
   <TryToArrest>Try to arrest {0}</TryToArrest>
   <CannotArrest>Cannot arrest</CannotArrest>
@@ -92,30 +92,30 @@
   <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
 
   <MinSkill>min skill</MinSkill>
-
+  
   <Equip>Equip {0}</Equip>
   <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
   <CannotEquip>Cannot equip {0}</CannotEquip>
   <CannotManThing>Cannot man {0}</CannotManThing>
-
+  
   <ForceWear>Force wear {0}</ForceWear>
   <CannotWear>Cannot wear {0}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
-
+  
   <CannotPickUp>Cannot pick up {0}</CannotPickUp>
   <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
   <PickUp>Pick up {0}</PickUp>
   <PickUpAll>Pick up {0} (all)</PickUpAll>
   <PickUpSome>Pick up {0}...</PickUpSome>
   <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
-
+  
   <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
   <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
   <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
   <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
   <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
   <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
-
+  
   <CannotLoadIntoCaravan>Cannot load {0} into caravan</CannotLoadIntoCaravan>
   <CannotLoadIntoCaravanAll>Cannot load {0} (all) into caravan</CannotLoadIntoCaravanAll>
   <LoadIntoCaravan>Load {0} into caravan</LoadIntoCaravan>
@@ -127,21 +127,21 @@
   <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
   <CarryToExit>Carry {0} and leave the area</CarryToExit>
   <CarryToExitAndCapture>Capture {0} and leave the area</CarryToExitAndCapture>
-
+  
   <Strip>Strip {0}</Strip>
   <CannotStrip>Cannot strip {0}</CannotStrip>
 
   <SelfDestructHere>Self-destruct here</SelfDestructHere>
-
+  
   <Drop>Drop {0}</Drop>
 
   <UseMedicalBed>Rest until healed</UseMedicalBed>
   <NotInjured>not injured</NotInjured>
   <SomeoneElseSleeping>occupied by {0}</SomeoneElseSleeping>
-
+  
   <TradeWith>Trade with {0}</TradeWith>
   <CannotTrade>Cannot trade</CannotTrade>
-
+  
   <EnterMap>Enter {0}</EnterMap>
   <VisitSettlement>Visit {0}</VisitSettlement>
   <VisitPeaceTalks>Visit {0}</VisitPeaceTalks>
@@ -166,10 +166,10 @@
 
   <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
 
-  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+	<CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
   <WillNever>will never {0}</WillNever>
 
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+	<CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
   <NotAssigned>not assigned</NotAssigned>
 
   <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
@@ -180,15 +180,15 @@
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
-
+  
   <DropAtEdge>Drop at edge</DropAtEdge>
   <DropInCenter>Drop in center</DropInCenter>
   <AttackAndDropAtEdge>Attack {0}: Drop at edge</AttackAndDropAtEdge>
   <AttackAndDropInCenter>Attack {0}: Drop in center</AttackAndDropInCenter>
-
+  
   <VomitingLower>vomiting</VomitingLower>
   <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
-
+  
   <AddWaypoint>Add a new waypoint here</AddWaypoint>
   <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
 
@@ -209,5 +209,5 @@
   <!-- Rescue quest -->
   <FreePrisoner>Free prisoner</FreePrisoner>
   <OfferHelp>Offer help</OfferHelp>
-
+  
 </LanguageData>

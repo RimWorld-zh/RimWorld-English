@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <FactionGreetingHostile>{0} hurls some epithets into the microphone and disconnects.</FactionGreetingHostile>
@@ -21,13 +21,13 @@
   <RequestTrader>Request a trade caravan (cost: {0} goodwill)</RequestTrader>
   <ChooseTraderKind>{0} asks what kind of trade caravan you want.</ChooseTraderKind>
   <TraderSent>{0} agrees to send you a trade caravan. It will arrive within a few days.</TraderSent>
-  <WaitTime>wait {0}</WaitTime>
+	<WaitTime>wait {0}</WaitTime>
 
   <!-- AI core request -->
   <RequestAICoreInformation>Request the location of an {0} (cost: {1} silver)</RequestAICoreInformation>
   <RequestAICoreInformationResult>{0} sends the requested information and wishes you good luck.</RequestAICoreInformationResult>
-  <NoKnownAICore>no more locations known</NoKnownAICore>
-
+  <NoKnownAICore>no more locations known</NoKnownAICore>	
+  
   <!-- military aid request -->
   <RequestMilitaryAid>Request immediate military aid (cost: {0} goodwill)</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid?</MilitaryAidConfirmMutualEnemy>
