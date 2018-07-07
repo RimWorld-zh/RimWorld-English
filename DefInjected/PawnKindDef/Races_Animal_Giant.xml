@@ -1,80 +1,62 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Elephant.label>elephant</Elephant.label>
-  <Elephant.labelPlural>elephants</Elephant.labelPlural>
+  <Elephant.labelPlural>elephant</Elephant.labelPlural>
+  <Elephant.labelMale>elephant</Elephant.labelMale>
+  <Elephant.labelMalePlural>elephant</Elephant.labelMalePlural>
+  <Elephant.labelFemale>elephant</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>elephant</Elephant.labelFemalePlural>
   <Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
-  <Elephant.lifeStages.0.labelPlural>elephant calfs</Elephant.lifeStages.0.labelPlural>
-  <Elephant.lifeStages.0.labelMale>male elephant calf</Elephant.lifeStages.0.labelMale>
-  <Elephant.lifeStages.0.labelMalePlural>male elephant calfs</Elephant.lifeStages.0.labelMalePlural>
-  <Elephant.lifeStages.0.labelFemale>female elephant calf</Elephant.lifeStages.0.labelFemale>
-  <Elephant.lifeStages.0.labelFemalePlural>female elephant calfs</Elephant.lifeStages.0.labelFemalePlural>
+  <Elephant.lifeStages.0.labelPlural>elephant calf</Elephant.lifeStages.0.labelPlural>
+  <Elephant.lifeStages.0.labelMale>elephant</Elephant.lifeStages.0.labelMale>
+  <Elephant.lifeStages.0.labelMalePlural>elephant</Elephant.lifeStages.0.labelMalePlural>
+  <Elephant.lifeStages.0.labelFemale>elephant</Elephant.lifeStages.0.labelFemale>
+  <Elephant.lifeStages.0.labelFemalePlural>elephant</Elephant.lifeStages.0.labelFemalePlural>
   <Elephant.lifeStages.1.label>elephant</Elephant.lifeStages.1.label>
   <Elephant.lifeStages.1.labelPlural>elephant</Elephant.lifeStages.1.labelPlural>
-  <Elephant.lifeStages.1.labelMale>male elephant</Elephant.lifeStages.1.labelMale>
-  <Elephant.lifeStages.1.labelMalePlural>male elephants</Elephant.lifeStages.1.labelMalePlural>
-  <Elephant.lifeStages.1.labelFemale>female elephant</Elephant.lifeStages.1.labelFemale>
-  <Elephant.lifeStages.1.labelFemalePlural>female elephants</Elephant.lifeStages.1.labelFemalePlural>
-  <Elephant.lifeStages.2.label>elephant</Elephant.lifeStages.2.label>
-  <Elephant.lifeStages.2.labelPlural>elephant</Elephant.lifeStages.2.labelPlural>
-  <Elephant.lifeStages.2.labelMale>male elephant</Elephant.lifeStages.2.labelMale>
-  <Elephant.lifeStages.2.labelMalePlural>male elephants</Elephant.lifeStages.2.labelMalePlural>
-  <Elephant.lifeStages.2.labelFemale>female elephant</Elephant.lifeStages.2.labelFemale>
-  <Elephant.lifeStages.2.labelFemalePlural>female elephants</Elephant.lifeStages.2.labelFemalePlural>
-  <Elephant.labelMale>male elephant</Elephant.labelMale>
-  <Elephant.labelMalePlural>male elephants</Elephant.labelMalePlural>
-  <Elephant.labelFemale>female elephant</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>female elephants</Elephant.labelFemalePlural>
+  <Elephant.lifeStages.1.labelMale>elephant</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelMalePlural>elephant</Elephant.lifeStages.1.labelMalePlural>
+  <Elephant.lifeStages.1.labelFemale>elephant</Elephant.lifeStages.1.labelFemale>
+  <Elephant.lifeStages.1.labelFemalePlural>elephant</Elephant.lifeStages.1.labelFemalePlural>
 
   <Megasloth.label>megasloth</Megasloth.label>
-  <Megasloth.labelPlural>megasloths</Megasloth.labelPlural>
+  <Megasloth.labelPlural>megasloth</Megasloth.labelPlural>
+  <Megasloth.labelMale>megasloth</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>megasloth</Megasloth.labelMalePlural>
+  <Megasloth.labelFemale>megasloth</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>megasloth</Megasloth.labelFemalePlural>
   <Megasloth.lifeStages.0.label>megasloth</Megasloth.lifeStages.0.label>
   <Megasloth.lifeStages.0.labelPlural>megasloth</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.0.labelMale>male megasloth</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>male megasloths</Megasloth.lifeStages.0.labelMalePlural>
-  <Megasloth.lifeStages.0.labelFemale>female megasloth</Megasloth.lifeStages.0.labelFemale>
-  <Megasloth.lifeStages.0.labelFemalePlural>female megasloths</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.0.labelMale>megasloth</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>megasloth</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelFemale>megasloth</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>megasloth</Megasloth.lifeStages.0.labelFemalePlural>
   <Megasloth.lifeStages.1.label>megasloth</Megasloth.lifeStages.1.label>
   <Megasloth.lifeStages.1.labelPlural>megasloth</Megasloth.lifeStages.1.labelPlural>
-  <Megasloth.lifeStages.1.labelMale>male megasloth</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>male megasloths</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelFemale>female megasloth</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>female megasloths</Megasloth.lifeStages.1.labelFemalePlural>
-  <Megasloth.lifeStages.2.label>megasloth</Megasloth.lifeStages.2.label>
-  <Megasloth.lifeStages.2.labelPlural>megasloth</Megasloth.lifeStages.2.labelPlural>
-  <Megasloth.lifeStages.2.labelMale>male megasloth</Megasloth.lifeStages.2.labelMale>
-  <Megasloth.lifeStages.2.labelMalePlural>male megasloths</Megasloth.lifeStages.2.labelMalePlural>
-  <Megasloth.lifeStages.2.labelFemale>female megasloth</Megasloth.lifeStages.2.labelFemale>
-  <Megasloth.lifeStages.2.labelFemalePlural>female megasloths</Megasloth.lifeStages.2.labelFemalePlural>
-  <Megasloth.labelMale>male megasloth</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>male megasloths</Megasloth.labelMalePlural>
-  <Megasloth.labelFemale>female megasloth</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>female megasloths</Megasloth.labelFemalePlural>
+  <Megasloth.lifeStages.1.labelMale>megasloth</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>megasloth</Megasloth.lifeStages.1.labelMalePlural>
+  <Megasloth.lifeStages.1.labelFemale>megasloth</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>megasloth</Megasloth.lifeStages.1.labelFemalePlural>
 
   <Thrumbo.label>thrumbo</Thrumbo.label>
-  <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>
+  <Thrumbo.labelPlural>thrumbo</Thrumbo.labelPlural>
+  <Thrumbo.labelMale>thrumbo</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>thrumbo</Thrumbo.labelMalePlural>
+  <Thrumbo.labelFemale>thrumbo</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>thrumbo</Thrumbo.labelFemalePlural>
   <Thrumbo.lifeStages.0.label>thrumbo calf</Thrumbo.lifeStages.0.label>
   <Thrumbo.lifeStages.0.labelPlural>thrumbo calves</Thrumbo.lifeStages.0.labelPlural>
-  <Thrumbo.lifeStages.0.labelMale>male thrumbo calf</Thrumbo.lifeStages.0.labelMale>
-  <Thrumbo.lifeStages.0.labelMalePlural>male thrumbo calves</Thrumbo.lifeStages.0.labelMalePlural>
-  <Thrumbo.lifeStages.0.labelFemale>female thrumbo calf</Thrumbo.lifeStages.0.labelFemale>
-  <Thrumbo.lifeStages.0.labelFemalePlural>female thrumbo calves</Thrumbo.lifeStages.0.labelFemalePlural>
+  <Thrumbo.lifeStages.0.labelMale>thrumbo</Thrumbo.lifeStages.0.labelMale>
+  <Thrumbo.lifeStages.0.labelMalePlural>thrumbo</Thrumbo.lifeStages.0.labelMalePlural>
+  <Thrumbo.lifeStages.0.labelFemale>thrumbo</Thrumbo.lifeStages.0.labelFemale>
+  <Thrumbo.lifeStages.0.labelFemalePlural>thrumbo</Thrumbo.lifeStages.0.labelFemalePlural>
   <Thrumbo.lifeStages.1.label>thrumbo</Thrumbo.lifeStages.1.label>
   <Thrumbo.lifeStages.1.labelPlural>thrumbo</Thrumbo.lifeStages.1.labelPlural>
-  <Thrumbo.lifeStages.1.labelMale>male thrumbo</Thrumbo.lifeStages.1.labelMale>
-  <Thrumbo.lifeStages.1.labelMalePlural>male thrumbos</Thrumbo.lifeStages.1.labelMalePlural>
-  <Thrumbo.lifeStages.1.labelFemale>female thrumbo</Thrumbo.lifeStages.1.labelFemale>
-  <Thrumbo.lifeStages.1.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.1.labelFemalePlural>
-  <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
-  <Thrumbo.lifeStages.2.labelPlural>thrumbo</Thrumbo.lifeStages.2.labelPlural>
-  <Thrumbo.lifeStages.2.labelMale>male thrumbo</Thrumbo.lifeStages.2.labelMale>
-  <Thrumbo.lifeStages.2.labelMalePlural>male thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
-  <Thrumbo.lifeStages.2.labelFemale>female thrumbo</Thrumbo.lifeStages.2.labelFemale>
-  <Thrumbo.lifeStages.2.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.2.labelFemalePlural>
-  <Thrumbo.labelMale>male thrumbo</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>male thrumbos</Thrumbo.labelMalePlural>
-  <Thrumbo.labelFemale>female thrumbo</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>female thrumbos</Thrumbo.labelFemalePlural>
+  <Thrumbo.lifeStages.1.labelMale>thrumbo</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelMalePlural>thrumbo</Thrumbo.lifeStages.1.labelMalePlural>
+  <Thrumbo.lifeStages.1.labelFemale>thrumbo</Thrumbo.lifeStages.1.labelFemale>
+  <Thrumbo.lifeStages.1.labelFemalePlural>thrumbo</Thrumbo.lifeStages.1.labelFemalePlural>
 
 
 </LanguageData>

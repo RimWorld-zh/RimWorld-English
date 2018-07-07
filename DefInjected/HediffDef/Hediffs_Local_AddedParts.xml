@@ -1,20 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <!-- Added body parts -->
 
   <PegLeg.label>peg leg</PegLeg.label>
   <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
 
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+
   <Denture.label>denture</Denture.label>
   <Denture.labelNoun>a denture</Denture.labelNoun>
 
-  <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>a simple prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
 
-  <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
   <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>a simple prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
 
   <BionicEye.label>bionic eye</BionicEye.label>
   <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
@@ -26,14 +33,31 @@
   <BionicLeg.label>bionic leg</BionicLeg.label>
   <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
 
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+
+  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+
+  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+
+  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+
   <PowerClaw.label>power claw</PowerClaw.label>
   <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
   <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
 
-  <ScytherBlade.label>scyther blade</ScytherBlade.label>
-  <ScytherBlade.comps.0.tools.0.label>blade</ScytherBlade.comps.0.tools.0.label>
-  <ScytherBlade.comps.0.tools.1.label>point</ScytherBlade.comps.0.tools.1.label>
-  <ScytherBlade.labelNoun>a scyther blade</ScytherBlade.labelNoun>
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
+
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
 
 
 </LanguageData>

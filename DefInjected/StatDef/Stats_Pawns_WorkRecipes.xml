@@ -1,52 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+  <!-- Basic recipes - speed not affected by skill because there's no skill involved -->
+
+  <UnskilledLaborSpeed.label>unskilled labor speed</UnskilledLaborSpeed.label>
+  <UnskilledLaborSpeed.description>The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items.</UnskilledLaborSpeed.description>
+
 
   <!-- Artistic recipes - speed not affected by skill because skill affects output quality -->
 
   <SculptingSpeed.label>sculpting speed</SculptingSpeed.label>
-  <SculptingSpeed.description>Speed at which this person sculpts. Note: Skill affects the quality of the sculptures created, but not the sculpting speed.</SculptingSpeed.description>
+  <SculptingSpeed.description>The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill.</SculptingSpeed.description>
 
   <TailoringSpeed.label>tailoring speed</TailoringSpeed.label>
-  <TailoringSpeed.description>Speed at which this person makes clothes. Note: Skill affects the quality of the apparel created, but not the tailoring speed.</TailoringSpeed.description>
+  <TailoringSpeed.description>The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill.</TailoringSpeed.description>
 
   <SmithingSpeed.label>smithing speed</SmithingSpeed.label>
-  <SmithingSpeed.description>Speed at which this person smiths or crafts weapons, machines, ammunition, and tools. Note: Skill affects the quality of the items created, but not the smithing speed.</SmithingSpeed.description>
+  <SmithingSpeed.description>Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill.</SmithingSpeed.description>
 
 
   <!-- Production recipes - speed affected by skill because there is no output quality -->
 
-  <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
-  <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
+  <DrugSynthesisSpeed.label>drug synthesis speed</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.description>How fast this character synthesizes complex chemical drugs.</DrugSynthesisSpeed.description>
 
   <CookSpeed.label>cooking speed</CookSpeed.label>
-  <CookSpeed.description>Speed at which this person cooks meals.</CookSpeed.description>
+  <CookSpeed.description>The speed at which this person cooks meals.</CookSpeed.description>
 
   <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
-  <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook.</FoodPoisonChance.description>
+  <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes.</FoodPoisonChance.description>
 
-  <BrewingSpeed.label>brewing speed</BrewingSpeed.label>
-  <BrewingSpeed.description>Speed at which this person brews beer.</BrewingSpeed.description>
+  <DrugCookingSpeed.label>drug cooking speed</DrugCookingSpeed.label>
+  <DrugCookingSpeed.description>The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints.</DrugCookingSpeed.description>
 
   <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
-  <ButcheryFleshSpeed.description>Speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.description>The speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
 
   <ButcheryMechanoidSpeed.label>mechanoid disassembly speed</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidSpeed.description>Speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
-
-  <MechanoidOperationSuccessChance.label>mechanoid operation success chance</MechanoidOperationSuccessChance.label>
-  <MechanoidOperationSuccessChance.description>The chance that a character will perform an operation on a mechanoid successfully. Failures can result loss of harvested parts and damage to the subject.</MechanoidOperationSuccessChance.description>
+  <ButcheryMechanoidSpeed.description>The speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
 
   <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
-  <ButcheryFleshEfficiency.description>Multiplier on the amount of meat produced when butchering flesh creatures.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.description>The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size.</ButcheryFleshEfficiency.description>
 
   <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
-  <ButcheryMechanoidEfficiency.description>Multiplier on the amount of materials yielded when this person disassembles a dead mechanoid.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size.</ButcheryMechanoidEfficiency.description>
 
 
   <!-- Dumb recipes - not affected by skill because there's no skill component -->
 
   <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
-  <SmeltingSpeed.description>Speed at which this person smelts things. Note: Since this is dumb labor, its speed is not affected by any skill.</SmeltingSpeed.description>
+  <SmeltingSpeed.description>The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill.</SmeltingSpeed.description>
 
 
 </LanguageData>

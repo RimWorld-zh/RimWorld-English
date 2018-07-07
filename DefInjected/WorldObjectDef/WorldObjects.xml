@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Caravan.label>caravan</Caravan.label>
   <Caravan.description>A group of traveling people.</Caravan.description>
 
-  <FactionBase.label>faction base</FactionBase.label>
-  <FactionBase.description>A base of one of the factions.</FactionBase.description>
+  <Settlement.label>settlement</Settlement.label>
+  <Settlement.description>A base of one of the factions.</Settlement.description>
 
-  <AbandonedFactionBase.label>abandoned faction base</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>An abandoned base of one of the factions.</AbandonedFactionBase.description>
+  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
+  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
 
-  <DestroyedFactionBase.label>destroyed faction base</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>A destroyed faction base.</DestroyedFactionBase.description>
+  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
+  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
 
   <EscapeShip.label>landed ship</EscapeShip.label>
   <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
 
-  <AttackedCaravan.label>attacked caravan</AttackedCaravan.label>
-  <AttackedCaravan.description>A caravan under attack.</AttackedCaravan.description>
+  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
 
   <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
   <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>

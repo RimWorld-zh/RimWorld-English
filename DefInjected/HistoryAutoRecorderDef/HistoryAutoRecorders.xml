@@ -1,14 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <WealthTotal.label>wealth (total)</WealthTotal.label>
-  <WealthTotal.graphLabelY>Amount</WealthTotal.graphLabelY>
+  <Wealth_Total.label>wealth (total)</Wealth_Total.label>
+  <Wealth_Total.graphLabelY>Amount</Wealth_Total.graphLabelY>
 
-  <WealthItems.label>wealth (items)</WealthItems.label>
-  <WealthItems.graphLabelY>Amount</WealthItems.graphLabelY>
+  <Wealth_Items.label>wealth (items)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Amount</Wealth_Items.graphLabelY>
 
-  <WealthBuildings.label>wealth (buildings)</WealthBuildings.label>
-  <WealthBuildings.graphLabelY>Amount</WealthBuildings.graphLabelY>
+  <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Amount</Wealth_Buildings.graphLabelY>
+
+  <Wealth_TameAnimals.label>wealth (animals)</Wealth_TameAnimals.label>
+  <Wealth_TameAnimals.graphLabelY>Amount</Wealth_TameAnimals.graphLabelY>
 
   <FreeColonists.label>free colonists</FreeColonists.label>
   <FreeColonists.graphLabelY>Colonists</FreeColonists.graphLabelY>

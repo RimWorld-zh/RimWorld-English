@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Simple mineables -->
+  <!--============================ Simple mineables ===============================-->
 
   <CollapsedRocks.label>collapsed rocks</CollapsedRocks.label>
   <CollapsedRocks.description>Collapsed rocks, packed tightly enough to hold up a roof.</CollapsedRocks.description>
 
 
-  <!-- Resource rocks -->
+  <!--============================ Resource rocks ===============================-->
 
   <MineableSteel.label>compacted steel</MineableSteel.label>
   <MineableSteel.description>The remains of some ancient, collapsed structure. Rich in steel.</MineableSteel.description>
@@ -27,18 +27,19 @@
   <MineableJade.label>jade</MineableJade.label>
   <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
 
-  <MineableComponents.label>compacted machinery</MineableComponents.label>
-  <MineableComponents.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponents.description>
+  <MineableComponentsIndustrial.label>compacted machinery</MineableComponentsIndustrial.label>
+  <MineableComponentsIndustrial.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponentsIndustrial.description>
 
   <SteamGeyser.label>steam geyser</SteamGeyser.label>
-  <SteamGeyser.description>Natural steam source.</SteamGeyser.description>
+  <SteamGeyser.description>A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook.</SteamGeyser.description>
 
   <Hive.label>hive</Hive.label>
-  <Hive.description>A hive of giant insects. Will spawn additional insects and hives over time.</Hive.description>
+  <Hive.description>A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.</Hive.description>
 
   <GlowPod.label>glow pod</GlowPod.label>
   <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
-  <GlowPod_Blueprint_Install.label>glow pod (blueprint)</GlowPod_Blueprint_Install.label>
+
+  <Blueprint_Install_GlowPod.label>BlueprintLabelExtra</Blueprint_Install_GlowPod.label>
 
 
 </LanguageData>

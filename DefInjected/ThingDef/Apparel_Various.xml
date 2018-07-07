@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Neolithic -->
+  <!-- ====================================== Neolithic =========================================== -->
 
   <Apparel_TribalA.label>tribalwear</Apparel_TribalA.label>
-  <Apparel_TribalA.description>A garment crafted without machines using neolithic tools.</Apparel_TribalA.description>
+  <Apparel_TribalA.description>A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</Apparel_TribalA.description>
 
   <Apparel_Parka.label>parka</Apparel_Parka.label>
-  <Apparel_Parka.description>A thick parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
+  <Apparel_Parka.description>A parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
 
 
-  <!-- Medieval -->
+  <!-- ====================================== Medieval =========================================== -->
 
   <Apparel_Pants.label>pants</Apparel_Pants.label>
   <Apparel_Pants.description>A simple set of pants.</Apparel_Pants.description>
@@ -22,22 +22,31 @@
   <Apparel_CollarShirt.description>A nice-looking collared shirt with buttons.</Apparel_CollarShirt.description>
 
   <Apparel_Duster.label>duster</Apparel_Duster.label>
-  <Apparel_Duster.description>A long duster coat for blocking the sun and grit of the desert.</Apparel_Duster.description>
+  <Apparel_Duster.description>A long duster coat for blocking the sun and grit of the outdoors.</Apparel_Duster.description>
 
   <Apparel_Jacket.label>jacket</Apparel_Jacket.label>
-  <Apparel_Jacket.description>A tough jacket to stop scrapes and bruises, and keep one warm in chilly weather.</Apparel_Jacket.description>
+  <Apparel_Jacket.description>A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather.</Apparel_Jacket.description>
+
+  <Apparel_PlateArmor.label>plate armor</Apparel_PlateArmor.label>
+  <Apparel_PlateArmor.description>Overlapping solid plates of armor covering the entire body from neck to feet.</Apparel_PlateArmor.description>
 
 
-  <!-- Industrial -->
+  <!-- ======================================= Industrial =======================================-->
 
-  <Apparel_VestPlate.label>armor vest</Apparel_VestPlate.label>
-  <Apparel_VestPlate.description>A vest with armor plates inserted on the chest and back. Protects against gunfire.</Apparel_VestPlate.description>
+  <Apparel_FlakVest.label>flak vest</Apparel_FlakVest.label>
+  <Apparel_FlakVest.description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</Apparel_FlakVest.description>
+
+  <Apparel_FlakPants.label>flak pants</Apparel_FlakPants.label>
+  <Apparel_FlakPants.description>A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakPants.description>
+
+  <Apparel_FlakJacket.label>flak jacket</Apparel_FlakJacket.label>
+  <Apparel_FlakJacket.description>A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakJacket.description>
 
 
-  <!-- Spacer -->
+  <!-- ==================================== Spacer =====================================-->
 
   <Apparel_PowerArmor.label>power armor</Apparel_PowerArmor.label>
-  <Apparel_PowerArmor.description>Powered armor usually used by assault troops from advanced glitterworld planets.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks. Neuro-memetic robotics allow a human to wear the heavy armor and still be capable of moving easily.\n\nPowered armor usually used by heavy infantry and space marines from spacer-tech militaries.</Apparel_PowerArmor.description>
 
 
 </LanguageData>

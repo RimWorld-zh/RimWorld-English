@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Campfire.label>campfire</Campfire.label>
-  <Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
-  <Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>
-  <Campfire_Frame.label>campfire (building)</Campfire_Frame.label>
-  <Campfire_Frame.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire_Frame.description>
+  <Campfire.description>Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
+
+  <Blueprint_Campfire.label>BlueprintLabelExtra</Blueprint_Campfire.label>
+  <Frame_Campfire.label>FrameLabelExtra</Frame_Campfire.label>
 
   <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler.description>
-  <PassiveCooler_Blueprint.label>passive cooler (blueprint)</PassiveCooler_Blueprint.label>
-  <PassiveCooler_Frame.label>passive cooler (building)</PassiveCooler_Frame.label>
-  <PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler_Frame.description>
+  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and vanish after several days.</PassiveCooler.description>
+
+  <Blueprint_PassiveCooler.label>BlueprintLabelExtra</Blueprint_PassiveCooler.label>
+  <Frame_PassiveCooler.label>FrameLabelExtra</Frame_PassiveCooler.label>
 
   <Heater.label>heater</Heater.label>
-  <Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
-  <Heater_Blueprint.label>heater (blueprint)</Heater_Blueprint.label>
-  <Heater_Blueprint_Install.label>heater (blueprint)</Heater_Blueprint_Install.label>
-  <Heater_Frame.label>heater (building)</Heater_Frame.label>
-  <Heater_Frame.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater_Frame.description>
+  <Heater.description>An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
+
+  <Blueprint_Heater.label>BlueprintLabelExtra</Blueprint_Heater.label>
+  <Blueprint_Install_Heater.label>BlueprintLabelExtra</Blueprint_Install_Heater.label>
+  <Frame_Heater.label>FrameLabelExtra</Frame_Heater.label>
 
   <Cooler.label>cooler</Cooler.label>
-  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Cooler.description>
-  <Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>
-  <Cooler_Frame.label>cooler (building)</Cooler_Frame.label>
-  <Cooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Cooler_Frame.description>
+  <Cooler.description>An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer.</Cooler.description>
+
+  <Blueprint_Cooler.label>BlueprintLabelExtra</Blueprint_Cooler.label>
+  <Frame_Cooler.label>FrameLabelExtra</Frame_Cooler.label>
 
   <Vent.label>vent</Vent.label>
-  <Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
-  <Vent_Blueprint.label>vent (blueprint)</Vent_Blueprint.label>
-  <Vent_Frame.label>vent (building)</Vent_Frame.label>
-  <Vent_Frame.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent_Frame.description>
+  <Vent.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
+
+  <Blueprint_Vent.label>BlueprintLabelExtra</Blueprint_Vent.label>
+  <Frame_Vent.label>FrameLabelExtra</Frame_Vent.label>
 
 
 </LanguageData>

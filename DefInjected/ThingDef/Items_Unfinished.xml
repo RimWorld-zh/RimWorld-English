@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <UnfinishedSculpture.label>unfinished sculpture</UnfinishedSculpture.label>
   <UnfinishedGun.label>unfinished gun</UnfinishedGun.label>
   <UnfinishedWeapon.label>unfinished weapon</UnfinishedWeapon.label>
+  <UnfinishedArmor.label>unfinished armor</UnfinishedArmor.label>
   <UnfinishedTechArmor.label>unfinished armor</UnfinishedTechArmor.label>
   <UnfinishedMetallicTechArmor.label>unfinished armor</UnfinishedMetallicTechArmor.label>
   <UnfinishedApparel.label>unfinished apparel</UnfinishedApparel.label>
@@ -11,10 +12,9 @@
   <UnfinishedComponent.label>unfinished component</UnfinishedComponent.label>
 
 
-  <!-- Minified things -->
+  <!-- ======================= Minified things ========================= -->
 
-  <MinifiedSculpture.label>sculpture</MinifiedSculpture.label>
-  <MinifiedFurniture.label>furniture</MinifiedFurniture.label>
+  <MinifiedThing.label>minified thing</MinifiedThing.label>
 
 
 </LanguageData>

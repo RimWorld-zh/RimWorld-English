@@ -1,30 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Megascarab.label>megascarab</Megascarab.label>
-  <Megascarab.description>A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now usually seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.</Megascarab.description>
+  <Megascarab.description>A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.</Megascarab.description>
   <Megascarab.tools.1.label>head</Megascarab.tools.1.label>
-  <!-- Leather Amount: 0 -->
-  <!-- Use Meat From: Megaspider -->
-  <Megascarab_Corpse.label>megascarab corpse</Megascarab_Corpse.label>
-  <Megascarab_Corpse.description>megascarab corpse</Megascarab_Corpse.description>
+
+  <Meat_Megascarab.label>MeatLabel</Meat_Megascarab.label>
+  <Meat_Megascarab.description>MeatDesc</Meat_Megascarab.description>
+
+  <Corpse_Megascarab.label>CorpseLabel</Corpse_Megascarab.label>
+  <Corpse_Megascarab.description>CorpseDesc</Corpse_Megascarab.description>
 
   <Spelopede.label>spelopede</Spelopede.label>
-  <Spelopede.description>A medium-sized bioengineered bug the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its claws.</Spelopede.description>
+  <Spelopede.description>A medium-sized bioengineered bug the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws.</Spelopede.description>
   <Spelopede.tools.1.label>head</Spelopede.tools.1.label>
-  <!-- Leather Amount: 0 -->
-  <!-- Use Meat From: Megaspider -->
-  <Spelopede_Corpse.label>spelopede corpse</Spelopede_Corpse.label>
-  <Spelopede_Corpse.description>spelopede corpse</Spelopede_Corpse.description>
+
+  <Meat_Spelopede.label>MeatLabel</Meat_Spelopede.label>
+  <Meat_Spelopede.description>MeatDesc</Meat_Spelopede.description>
+
+  <Corpse_Spelopede.label>CorpseLabel</Corpse_Spelopede.label>
+  <Corpse_Spelopede.description>CorpseDesc</Corpse_Spelopede.description>
 
   <Megaspider.label>megaspider</Megaspider.label>
   <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long deadly ripper-blades make it deadly.</Megaspider.description>
+  <Megaspider.race.meatLabel>insect meat</Megaspider.race.meatLabel>
   <Megaspider.tools.1.label>head</Megaspider.tools.1.label>
-  <!-- Leather Amount: 0 -->
-  <Megaspider_Meat.label>insect meat</Megaspider_Meat.label>
-  <Megaspider_Meat.description>insect meat</Megaspider_Meat.description>
-  <Megaspider_Corpse.label>megaspider corpse</Megaspider_Corpse.label>
-  <Megaspider_Corpse.description>megaspider corpse</Megaspider_Corpse.description>
+
+  <Meat_Megaspider.label>MeatLabel</Meat_Megaspider.label>
+  <Meat_Megaspider.description>MeatDesc</Meat_Megaspider.description>
+
+  <Corpse_Megaspider.label>CorpseLabel</Corpse_Megaspider.label>
+  <Corpse_Megaspider.description>CorpseDesc</Corpse_Megaspider.description>
 
 
 </LanguageData>

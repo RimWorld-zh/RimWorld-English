@@ -1,28 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Doors -->
-
   <Door.label>door</Door.label>
-  <Door.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door.description>
-  <Door_Blueprint.label>door (blueprint)</Door_Blueprint.label>
-  <Door_Frame.label>door (building)</Door_Frame.label>
-  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door_Frame.description>
+  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
+
+  <Blueprint_Door.label>BlueprintLabelExtra</Blueprint_Door.label>
+  <Frame_Door.label>FrameLabelExtra</Frame_Door.label>
 
   <Autodoor.label>autodoor</Autodoor.label>
   <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
-  <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
-  <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
-  <Autodoor_Frame.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor_Frame.description>
+
+  <Blueprint_Autodoor.label>BlueprintLabelExtra</Blueprint_Autodoor.label>
+  <Frame_Autodoor.label>FrameLabelExtra</Frame_Autodoor.label>
 
 
-  <!-- Walls -->
+  <!--========================= Walls =============================-->
 
   <Wall.label>wall</Wall.label>
   <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
-  <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
-  <Wall_Frame.label>wall (building)</Wall_Frame.label>
-  <Wall_Frame.description>An impassable wall. Capable of holding up a roof.</Wall_Frame.description>
+
+
+  <!--========================= Walls =============================-->
+
+  <Blueprint_Wall.label>BlueprintLabelExtra</Blueprint_Wall.label>
+
+
+  <!--========================= Walls =============================-->
+
+  <Frame_Wall.label>FrameLabelExtra</Frame_Wall.label>
 
 
 </LanguageData>

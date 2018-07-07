@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Special mental states not from mental breaks -->
 
   <WanderConfused.label>confused wandering</WanderConfused.label>
+  <WanderConfused.baseInspectLine>Mental state: Confused and wandering</WanderConfused.baseInspectLine>
   <WanderConfused.beginLetter>{0} has broken down and is wandering around confused.</WanderConfused.beginLetter>
   <WanderConfused.beginLetterLabel>confusion</WanderConfused.beginLetterLabel>
   <WanderConfused.recoveryMessage>{0} is no longer confused.</WanderConfused.recoveryMessage>
-  <WanderConfused.baseInspectLine>Mental state: Confused and wandering</WanderConfused.baseInspectLine>
 
   <PanicFlee.label>panic fleeing</PanicFlee.label>
+  <PanicFlee.baseInspectLine>Mental state: Fleeing in panic</PanicFlee.baseInspectLine>
   <PanicFlee.beginLetter>{0} is fleeing in panic.</PanicFlee.beginLetter>
   <PanicFlee.beginLetterLabel>flee</PanicFlee.beginLetterLabel>
   <PanicFlee.recoveryMessage>{0} is no longer fleeing in panic.</PanicFlee.recoveryMessage>
-  <PanicFlee.baseInspectLine>Mental state: Fleeing in panic</PanicFlee.baseInspectLine>
 
   <Manhunter.label>manhunter</Manhunter.label>
+  <Manhunter.baseInspectLine>Maddened: Manhunter</Manhunter.baseInspectLine>
   <Manhunter.beginLetter>{0} has become a manhunter!</Manhunter.beginLetter>
   <Manhunter.beginLetterLabel>manhunter</Manhunter.beginLetterLabel>
   <Manhunter.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</Manhunter.recoveryMessage>
-  <Manhunter.baseInspectLine>Maddened: Manhunter</Manhunter.baseInspectLine>
 
   <ManhunterPermanent.label>manhunter</ManhunterPermanent.label>
+  <ManhunterPermanent.baseInspectLine>Maddened: Manhunter</ManhunterPermanent.baseInspectLine>
   <ManhunterPermanent.beginLetter>{0} has become a manhunter!</ManhunterPermanent.beginLetter>
   <ManhunterPermanent.beginLetterLabel>manhunter</ManhunterPermanent.beginLetterLabel>
   <ManhunterPermanent.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</ManhunterPermanent.recoveryMessage>
-  <ManhunterPermanent.baseInspectLine>Maddened: Manhunter</ManhunterPermanent.baseInspectLine>
 
   <SocialFighting.label>social fighting</SocialFighting.label>
   <SocialFighting.baseInspectLine>Mental state: Social fighting</SocialFighting.baseInspectLine>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Audiovisuals -->
@@ -15,7 +15,7 @@
   <CustomCursor>Custom cursor</CustomCursor>
   <HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
   <UIScale>UI scale</UIScale>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
+	<KeyboardConfig>Keyboard configuration</KeyboardConfig>
   <ChooseLanguage>Choose language</ChooseLanguage>
   <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
@@ -24,7 +24,8 @@
   <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
   <LogVerbose>Verbose logging</LogVerbose>
   <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Names of player-created characters you want to see:</NamesYouWantToSee>
+  <ShowSaveGameDataLocation>Show save data location</ShowSaveGameDataLocation>
+  <NamesYouWantToSee>Preferred player-created characters. These characters will be more likely to randomly appear during play:</NamesYouWantToSee>
   <AddName>Add name</AddName>
   <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
@@ -32,10 +33,12 @@
   <AutosaveInterval>Autosave interval</AutosaveInterval>
   <TemperatureMode>Temperature mode</TemperatureMode>
   <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
+  <MaxNumberOfPlayerSettlements>Maximum number of colonies: {0}</MaxNumberOfPlayerSettlements>
   <PlantWindSway>Plant wind sway</PlantWindSway>
+  <EnableTestMapSizes>Enable test map sizes</EnableTestMapSizes>
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
   <ModSettings>Mod Settings</ModSettings>
+  <PermanentlyDisableDevMode>Permanently disable development mode</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <Resolution>Resolution</Resolution>
@@ -50,5 +53,9 @@
   <!-- Mods -->
   <SelectMod>Select mod...</SelectMod>
   <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
-
+  
+  <!-- Options reset -->
+  <RestoreToDefaultSettings>Restore to default settings</RestoreToDefaultSettings>
+  <ResetAndRestart>Your options have been reset. The game will now restart automatically.</ResetAndRestart>
+  
 </LanguageData>

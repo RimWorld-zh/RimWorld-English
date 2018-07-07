@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <SmokeleafHigh.stages.0.label>high on smokeleaf</SmokeleafHigh.stages.0.label>
@@ -7,8 +7,8 @@
 
   <!-- Smokeleaf addiction -->
 
-  <SmokeleafWithdrawal.stages.1.label>Smokeleaf withdrawal</SmokeleafWithdrawal.stages.1.label>
-  <SmokeleafWithdrawal.stages.1.description>I really wish I could smoke.</SmokeleafWithdrawal.stages.1.description>
+  <SmokeleafWithdrawal.stages.1.label>smokeleaf withdrawal</SmokeleafWithdrawal.stages.1.label>
+  <SmokeleafWithdrawal.stages.1.description>I really wish I could smoke. I feel jittery, and my gut has that anxious sensation all the time.</SmokeleafWithdrawal.stages.1.description>
 
 
 </LanguageData>

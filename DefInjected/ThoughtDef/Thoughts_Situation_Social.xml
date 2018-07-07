@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- affecting opinion -->
@@ -22,13 +22,25 @@
   <CreepyBreathing.stages.0.label>creepy breathing</CreepyBreathing.stages.0.label>
   <Man.stages.0.label>man</Man.stages.0.label>
   <Woman.stages.0.label>woman</Woman.stages.0.label>
+
+  <TranshumanistAppreciation.stages.0.label>transhumanist appreciation</TranshumanistAppreciation.stages.0.label>
+  <TranshumanistAppreciation.stages.1.label>transhumanist appreciation</TranshumanistAppreciation.stages.1.label>
+  <TranshumanistAppreciation.stages.2.label>transhumanist appreciation</TranshumanistAppreciation.stages.2.label>
+  <TranshumanistAppreciation.stages.3.label>transhumanist appreciation</TranshumanistAppreciation.stages.3.label>
+  <TranshumanistAppreciation.stages.4.label>transhumanist appreciation</TranshumanistAppreciation.stages.4.label>
+
+  <BodyPuristDisgust.stages.0.label>body purist disgust</BodyPuristDisgust.stages.0.label>
+  <BodyPuristDisgust.stages.1.label>body purist disgust</BodyPuristDisgust.stages.1.label>
+  <BodyPuristDisgust.stages.2.label>body purist disgust</BodyPuristDisgust.stages.2.label>
+  <BodyPuristDisgust.stages.3.label>body purist disgust</BodyPuristDisgust.stages.3.label>
+  <BodyPuristDisgust.stages.4.label>body purist disgust</BodyPuristDisgust.stages.4.label>
+
   <ButcheredHumanlikeCorpseOpinion.stages.0.label>butchered humanlike corpse</ButcheredHumanlikeCorpseOpinion.stages.0.label>
   <AteRawHumanlikeMeat.stages.0.label>ate raw humanlike meat</AteRawHumanlikeMeat.stages.0.label>
   <SoldPrisoner.stages.0.label>sold prisoner to slavery</SoldPrisoner.stages.0.label>
   <ExecutedPrisoner.stages.0.label>executed prisoner</ExecutedPrisoner.stages.0.label>
   <KilledColonist.stages.0.label>killed colonist</KilledColonist.stages.0.label>
   <KilledColonyAnimal.stages.0.label>killed colony animal</KilledColonyAnimal.stages.0.label>
-  <KilledMajorColonyEnemy.stages.0.label>killed major enemy</KilledMajorColonyEnemy.stages.0.label>
 
 
   <!-- affecting mood -->

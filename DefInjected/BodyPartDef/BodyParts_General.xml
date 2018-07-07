@@ -1,22 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Head.label>head</Head.label>
   <Skull.label>skull</Skull.label>
   <Brain.label>brain</Brain.label>
-  <LeftEye.label>left eye</LeftEye.label>
-  <RightEye.label>right eye</RightEye.label>
-  <LeftEar.label>left ear</LeftEar.label>
-  <RightEar.label>right ear</RightEar.label>
+  <Eye.label>eye</Eye.label>
+  <Ear.label>ear</Ear.label>
   <Nose.label>nose</Nose.label>
   <Jaw.label>jaw</Jaw.label>
   <Neck.label>neck</Neck.label>
-  <Rib.label>rib</Rib.label>
+  <Ribcage.label>ribcage</Ribcage.label>
   <Spine.label>spine</Spine.label>
-  <LeftLeg.label>left leg</LeftLeg.label>
-  <LeftFoot.label>left foot</LeftFoot.label>
-  <RightLeg.label>right leg</RightLeg.label>
-  <RightFoot.label>right foot</RightFoot.label>
+  <Leg.label>leg</Leg.label>
+  <Foot.label>foot</Foot.label>
 
 
 </LanguageData>

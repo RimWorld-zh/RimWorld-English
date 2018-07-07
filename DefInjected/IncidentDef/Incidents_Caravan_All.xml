@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Threats -->
+  <!-- =============================== Threats =============================== -->
 
   <Ambush.label>ambush</Ambush.label>
-  <Ambush.letterText>Your caravan has been ambushed by {0} from {1}!</Ambush.letterText>
   <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
 
   <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
-  <ManhunterAmbush.letterText>Your caravan has been ambushed by manhunting {0}!</ManhunterAmbush.letterText>
   <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
 
 
-  <!-- Good -->
+  <!--================================ Good ================================-->
 
   <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
 
 
-  <!-- Bad -->
+  <!--==================================== Bad ==================================-->
 
   <CaravanDemand.label>payment demand</CaravanDemand.label>
 

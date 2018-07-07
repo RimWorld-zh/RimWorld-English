@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Manhunters.label>manhunter pack</Manhunters.label>
   <Manhunters.description>A pack of manhunting animals.</Manhunters.description>
-  <Manhunters.descriptionDialogue>there is a group of manhunting animals wandering nearby</Manhunters.descriptionDialogue>
+  <Manhunters.arrivedLetter>There are manhunting animals in this area.</Manhunters.arrivedLetter>
+  <Manhunters.arrivedLetterLabel>Manhunters</Manhunters.arrivedLetterLabel>
+  <Manhunters.descriptionDialogue>there is a group of {0} manhunting {1} wandering nearby</Manhunters.descriptionDialogue>
 
 
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <BloodLoss.label>blood loss</BloodLoss.label>
@@ -17,7 +17,11 @@
   <PsychicShock.labelNoun>a psychic shock</PsychicShock.labelNoun>
 
   <CryptosleepSickness.label>cryptosleep sickness</CryptosleepSickness.label>
+
   <FoodPoisoning.label>food poisoning</FoodPoisoning.label>
+  <FoodPoisoning.stages.0.label>recovering</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>major</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>initial</FoodPoisoning.stages.2.label>
 
   <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
   <ToxicBuildup.stages.0.label>initial</ToxicBuildup.stages.0.label>
@@ -30,24 +34,24 @@
   <Pregnant.label>pregnant</Pregnant.label>
   <Pregnant.comps.0.discoverLetterLabel>{0} pregnant</Pregnant.comps.0.discoverLetterLabel>
   <Pregnant.comps.0.discoverLetterText>{0} is pregnant!</Pregnant.comps.0.discoverLetterText>
+  <Pregnant.labelNoun>pregnancy</Pregnant.labelNoun>
   <Pregnant.stages.0.label>early-stage</Pregnant.stages.0.label>
   <Pregnant.stages.1.label>middle-stage</Pregnant.stages.1.label>
   <Pregnant.stages.2.label>late-stage</Pregnant.stages.2.label>
-  <Pregnant.labelNoun>pregnancy</Pregnant.labelNoun>
 
   <HeartAttack.label>heart attack</HeartAttack.label>
+  <HeartAttack.labelNoun>a heart attack</HeartAttack.labelNoun>
   <HeartAttack.stages.0.label>painful</HeartAttack.stages.0.label>
   <HeartAttack.stages.1.label>debilitating</HeartAttack.stages.1.label>
   <HeartAttack.stages.2.label>fatal</HeartAttack.stages.2.label>
-  <HeartAttack.labelNoun>a heart attack</HeartAttack.labelNoun>
 
   <DrugOverdose.label>drug overdose</DrugOverdose.label>
   <DrugOverdose.comps.1.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.1.discoverLetterLabel>
   <DrugOverdose.comps.1.discoverLetterText>{0} is overdosing!</DrugOverdose.comps.1.discoverLetterText>
+  <DrugOverdose.labelNoun>a drug overdose</DrugOverdose.labelNoun>
   <DrugOverdose.stages.0.label>minor</DrugOverdose.stages.0.label>
   <DrugOverdose.stages.1.label>minor</DrugOverdose.stages.1.label>
   <DrugOverdose.stages.2.label>major</DrugOverdose.stages.2.label>
-  <DrugOverdose.labelNoun>a drug overdose</DrugOverdose.labelNoun>
 
   <ResurrectionSickness.label>resurrection sickness</ResurrectionSickness.label>
 

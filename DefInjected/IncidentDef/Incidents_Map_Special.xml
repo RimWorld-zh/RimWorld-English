@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- ShipChunkDrop -->
+  <!--=============== ShipChunkDrop =============-->
 
   <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
 
 
-  <!-- OrbitalVisitor -->
+  <!--=============== OrbitalVisitor =============-->
 
   <OrbitalTraderArrival.label>orbital trader arrival</OrbitalTraderArrival.label>
 
 
-  <!-- AllyArrival -->
+  <!--================= FactionArrival ================-->
 
   <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
   <VisitorGroup.label>visitor group</VisitorGroup.label>
   <TravelerGroup.label>traveler group</TravelerGroup.label>
 
 
-  <!-- AllyAssistance -->
+  <!--================= AllyAssistance ================-->
 
   <RaidFriendly.label>friendly raid</RaidFriendly.label>
 
 
-  <!-- Raid-beacon-attracted events -->
+  <!--================= Raid-beacon-attracted events ================-->
 
-  <RaidEnemyEscapeShip.label>enemy raid</RaidEnemyEscapeShip.label>
+  <RaidEnemyBeacon.label>enemy raid (special locations)</RaidEnemyBeacon.label>
 
 
 </LanguageData>

@@ -1,30 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <GrizzlyBear.label>grizzly bear</GrizzlyBear.label>
-  <GrizzlyBear.description>Huge omnivorous mammals adapted for cold climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</GrizzlyBear.description>
-  <GrizzlyBear.tools.0.label>left claw</GrizzlyBear.tools.0.label>
-  <GrizzlyBear.tools.1.label>right claw</GrizzlyBear.tools.1.label>
-  <GrizzlyBear.tools.3.label>head</GrizzlyBear.tools.3.label>
-  <GrizzlyBear_Leather.label>bearskin</GrizzlyBear_Leather.label>
-  <GrizzlyBear_Leather.description>bearskin</GrizzlyBear_Leather.description>
-  <GrizzlyBear_Leather.stuffProps.stuffAdjective>bearskin</GrizzlyBear_Leather.stuffProps.stuffAdjective>
-  <GrizzlyBear_Meat.label>bear meat</GrizzlyBear_Meat.label>
-  <GrizzlyBear_Meat.description>bear meat</GrizzlyBear_Meat.description>
-  <GrizzlyBear_Corpse.label>grizzly bear corpse</GrizzlyBear_Corpse.label>
-  <GrizzlyBear_Corpse.description>grizzly bear corpse</GrizzlyBear_Corpse.description>
+  <Bear_Grizzly.label>grizzly bear</Bear_Grizzly.label>
+  <Bear_Grizzly.description>A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</Bear_Grizzly.description>
+  <Bear_Grizzly.race.meatLabel>bear meat</Bear_Grizzly.race.meatLabel>
+  <Bear_Grizzly.tools.0.label>left claw</Bear_Grizzly.tools.0.label>
+  <Bear_Grizzly.tools.1.label>right claw</Bear_Grizzly.tools.1.label>
+  <Bear_Grizzly.tools.3.label>head</Bear_Grizzly.tools.3.label>
 
-  <PolarBear.label>polar bear</PolarBear.label>
-  <PolarBear.description>A great white bear that lives in the far north. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear is more than capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</PolarBear.description>
-  <PolarBear.tools.0.label>left claw</PolarBear.tools.0.label>
-  <PolarBear.tools.1.label>right claw</PolarBear.tools.1.label>
-  <PolarBear.tools.3.label>head</PolarBear.tools.3.label>
-  <PolarBear_Leather.label>polarbearskin</PolarBear_Leather.label>
-  <PolarBear_Leather.description>polarbearskin</PolarBear_Leather.description>
-  <PolarBear_Leather.stuffProps.stuffAdjective>polarbearskin</PolarBear_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: GrizzlyBear -->
-  <PolarBear_Corpse.label>polar bear corpse</PolarBear_Corpse.label>
-  <PolarBear_Corpse.description>polar bear corpse</PolarBear_Corpse.description>
+  <Meat_Bear_Grizzly.label>MeatLabel</Meat_Bear_Grizzly.label>
+  <Meat_Bear_Grizzly.description>MeatDesc</Meat_Bear_Grizzly.description>
+
+  <Corpse_Bear_Grizzly.label>CorpseLabel</Corpse_Bear_Grizzly.label>
+  <Corpse_Bear_Grizzly.description>CorpseDesc</Corpse_Bear_Grizzly.description>
+
+  <Bear_Polar.label>polar bear</Bear_Polar.label>
+  <Bear_Polar.description>A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</Bear_Polar.description>
+  <Bear_Polar.tools.0.label>left claw</Bear_Polar.tools.0.label>
+  <Bear_Polar.tools.1.label>right claw</Bear_Polar.tools.1.label>
+  <Bear_Polar.tools.3.label>head</Bear_Polar.tools.3.label>
+
+  <Meat_Bear_Polar.label>MeatLabel</Meat_Bear_Polar.label>
+  <Meat_Bear_Polar.description>MeatDesc</Meat_Bear_Polar.description>
+
+  <Corpse_Bear_Polar.label>CorpseLabel</Corpse_Bear_Polar.label>
+  <Corpse_Bear_Polar.description>CorpseDesc</Corpse_Bear_Polar.description>
 
 
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
@@ -10,10 +10,10 @@
   <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
 
   <Arrow.label>arrow</Arrow.label>
-  <Arrow.deathMessage>{0} has been shot to death.</Arrow.deathMessage>
+  <Arrow.deathMessage>{0} has been shot to death by an arrow.</Arrow.deathMessage>
 
   <ArrowHighVelocity.label>arrow</ArrowHighVelocity.label>
-  <ArrowHighVelocity.deathMessage>{0} has been shot to death.</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>{0} has been shot to death by an arrow.</ArrowHighVelocity.deathMessage>
 
 
 </LanguageData>

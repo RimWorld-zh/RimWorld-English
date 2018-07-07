@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
@@ -10,6 +10,8 @@
   <LoadGame>Load game</LoadGame>
   <Options>Options</Options>
   <Mods>Mods</Mods>
+  <SaveTranslationReport>Save translation report</SaveTranslationReport>
+  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
   <Credits>Credits</Credits>
   <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
@@ -24,6 +26,11 @@
   <HelpTranslate>Help translate RimWorld</HelpTranslate>
   <BuySoundtrack>Buy soundtrack</BuySoundtrack>
   <CreateWorld>Create world</CreateWorld>
+
+  <!--=========== Main menu translations info window ===========-->
+  <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers.</TranslationThanks>
+  <TranslationHowToContribute>You can contribute too. Click below to learn more (opens web browser).</TranslationHowToContribute>
+  <LearnMore>Learn more</LearnMore>
 
   <!--=========== Create/review world ================-->
   <ReviewWorld>Review world</ReviewWorld>
@@ -48,12 +55,12 @@
   <SelectWorld>Select world</SelectWorld>
   <WorldChooseButton>Select</WorldChooseButton>
   <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
-
+  
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-  <BuildUpToDate>This is the latest version.</BuildUpToDate>
-  <ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+	<BuildUpToDate>This is the latest version.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Generate world</GenerateWorld>
@@ -62,6 +69,7 @@
   <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
+  <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
   <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
   <Unsubscribe>Unsubscribe</Unsubscribe>
@@ -79,14 +87,14 @@
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Drag to reorder</DragToReorder>
-
+  
   <!--=========== Select scenario =============-->
   <ChooseScenario>Choose scenario</ChooseScenario>
   <ScenariosCustom>Custom</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Scenario editor</ScenarioEditor>
   <Delete>Delete</Delete>
-
+  
   <!--============ Scenario editor ===============-->
   <Seed>seed</Seed>
   <Load>Load</Load>
@@ -99,7 +107,7 @@
   <Incompatible>Incompatible</Incompatible>
   <TooMany>Too many (max {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
-
+  
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
   <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
@@ -125,9 +133,7 @@
   <Elevation>Elevation</Elevation>
   <Fertility>Fertility</Fertility>
   <AvgTemp>Average temperature</AvgTemp>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-  <AvgWinterTemp>Winter temperature</AvgWinterTemp>
-  <Rainfall>Rainfall</Rainfall>
+	<Rainfall>Rainfall</Rainfall>
   <SpecialFeatures>Special features</SpecialFeatures>
   <HasCoast0>northern coast</HasCoast0>
   <HasCoast1>eastern coast</HasCoast1>
@@ -137,15 +143,15 @@
   <FactionBase>Faction base</FactionBase>
   <StoneTypesHere>Stone types</StoneTypesHere>
   <TimeZone>Time zone</TimeZone>
-  <MovementTimeNow>Current movement time</MovementTimeNow>
-  <MovementTimeSummer>Summer movement time</MovementTimeSummer>
-  <MovementTimeWinter>Winter movement time</MovementTimeWinter>
+	<MovementDifficulty>Movement difficulty</MovementDifficulty>
   <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
   <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
   <PerYear>per year</PerYear>
+  <Forageability>Forageability</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
 
-  <!--=========== Character chooser ==========-->
+	<!--=========== Character chooser ==========-->
   <CreateCharacters>Create characters</CreateCharacters>
   <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
   <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
@@ -160,6 +166,7 @@
   <NoneLower>none</NoneLower>
   <Adulthood>Adulthood</Adulthood>
   <Childhood>Childhood</Childhood>
+  <Current>Current</Current>
   <Male>male</Male>
   <Female>female</Female>
   <Pain>Pain</Pain>
@@ -168,7 +175,7 @@
   <TeamSkills>Team skills</TeamSkills>
   <StartingPawnsSelected>Selected</StartingPawnsSelected>
   <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
-
+  
   <!--=========== Misc ==========-->
   <Start>Start</Start>
   <Advanced>Advanced</Advanced>
@@ -177,9 +184,10 @@
   <Gameplay>Gameplay</Gameplay>
   <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
   <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
   <Quit>Quit</Quit>
   <Ignore>Ignore</Ignore>
-
+  
   <!--============ Progress bar==============-->
   <GeneratingWorld>Generating world</GeneratingWorld>
   <GeneratingPlanet>Generating planet</GeneratingPlanet>

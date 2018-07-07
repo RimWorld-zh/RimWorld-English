@@ -1,20 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <WorkToBuild.label>work to build</WorkToBuild.label>
+  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
+
   <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
-  <DoorOpenSpeed.description>The speed at which the door opens.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>The speed at which the door opens. Slow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
 
   <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
   <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
 
   <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
-  <TrapMeleeDamage.description>How much damage this trap typically does. The actual damage may vary somewhat.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>How much damage this trap does on average. The actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
 
   <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
   <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
 
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-  <ResearchSpeedFactor.description>Speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
   <ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
 
   <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
@@ -26,11 +29,14 @@
   <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
   <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
 
-  <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
+  <WorkTableEfficiencyFactor.label>work efficiency factor</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.description>Work efficiency is multiplied by this value.</WorkTableEfficiencyFactor.description>
+
+  <JoyGainFactor.label>recreation power</JoyGainFactor.label>
+  <JoyGainFactor.description>How effectively this item entertains people and fulfills the need for recreation.</JoyGainFactor.description>
 
   <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
-  <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by the surgeon and medicine used.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
   <SurgerySuccessChanceFactor.parts.0.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.0.customLabel>
 
 

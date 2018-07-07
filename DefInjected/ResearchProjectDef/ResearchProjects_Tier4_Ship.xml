@@ -1,25 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+  <ShipBasics.label>starflight basics</ShipBasics.label>
+  <ShipBasics.description>Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system.</ShipBasics.description>
 
-  <ShipBasics.label>shipbuilding basics</ShipBasics.label>
-  <ShipBasics.description>Allows you to start researching more advanced shipbuilding technologies and eventually build a ship to escape the planet.</ShipBasics.description>
+  <ShipCryptosleep.label>vacuum cryptosleep casket</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars.</ShipCryptosleep.description>
 
-  <ShipCryptosleep.label>ship cryptosleep caskets</ShipCryptosleep.label>
-  <ShipCryptosleep.description>Allows you to construct ship cryptosleep caskets for transporting cryptosleeping colonists between the stars.</ShipCryptosleep.description>
+  <ShipReactor.label>starship reactor</ShipReactor.label>
+  <ShipReactor.description>Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders.</ShipReactor.description>
 
-  <ShipReactor.label>ship antimatter reactor</ShipReactor.label>
-  <ShipReactor.description>Allows you to use an antimatter containment core to build a reactor to power a ship.</ShipReactor.description>
+  <ShipEngine.label>Johnson-Tanaka drive</ShipEngine.label>
+  <ShipEngine.description>Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere.</ShipEngine.description>
 
-  <ShipEngine.label>ship antimatter propulsion</ShipEngine.label>
-  <ShipEngine.description>Allows you to construct an engine for a ship.</ShipEngine.description>
+  <ShipComputerCore.label>AI persuasion</ShipComputerCore.label>
+  <ShipComputerCore.description>Build a reward-signal system to persuade an existing AI persona core into serving as a ship's AI captain. Since people sleep during interstellar travel, an AI core is necessary to handle the complex decisions of a years-long starflight.</ShipComputerCore.description>
 
-  <ShipComputerCore.label>ship computer core</ShipComputerCore.label>
-  <ShipComputerCore.description>Allows coercing an existing AI persona into a usable AI computer core for ship guidance.</ShipComputerCore.description>
-
-  <ShipSensorCluster.label>ship sensor cluster</ShipSensorCluster.label>
-  <ShipSensorCluster.description>Allows you to construct long-range sensors for a ship.</ShipSensorCluster.description>
+  <ShipSensorCluster.label>starflight sensors</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance.</ShipSensorCluster.description>
 
 
 </LanguageData>

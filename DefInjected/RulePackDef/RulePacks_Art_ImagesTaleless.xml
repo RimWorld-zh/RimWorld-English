@@ -1,35 +1,42 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <TalelessImages.rulePack.rulesStrings.0>image->a [outlander] surrounded by [outlander]s</TalelessImages.rulePack.rulesStrings.0>
-  <TalelessImages.rulePack.rulesStrings.1>image->a [outlander] playing [game] with [quantity_adjphrase] [outlander]s</TalelessImages.rulePack.rulesStrings.1>
-  <TalelessImages.rulePack.rulesStrings.2>image->a [outlander] [subject_desc] holding a [weapon]</TalelessImages.rulePack.rulesStrings.2>
-  <TalelessImages.rulePack.rulesStrings.3>image->a solitary [outlander]</TalelessImages.rulePack.rulesStrings.3>
-  <TalelessImages.rulePack.rulesStrings.4>image->a [adjective] [outlander] wearing a [apparel]</TalelessImages.rulePack.rulesStrings.4>
-  <TalelessImages.rulePack.rulesStrings.5>image->a [outlander] eating a [vegetable]</TalelessImages.rulePack.rulesStrings.5>
-  <TalelessImages.rulePack.rulesStrings.6>image->[quantity_adjphrase] [outlander]s and [outlander]s eating [vegetable]s together</TalelessImages.rulePack.rulesStrings.6>
-  <TalelessImages.rulePack.rulesStrings.7>image->an empty [apparel] [subject_desc]</TalelessImages.rulePack.rulesStrings.7>
-  <TalelessImages.rulePack.rulesStrings.8>image->a [adjective] [terrainfeature]</TalelessImages.rulePack.rulesStrings.8>
-  <TalelessImages.rulePack.rulesStrings.9>image->[animal]s playing [game]</TalelessImages.rulePack.rulesStrings.9>
-  <TalelessImages.rulePack.rulesStrings.10>image->a [animal] wearing a [apparel] [subject_desc]</TalelessImages.rulePack.rulesStrings.10>
-  <TalelessImages.rulePack.rulesStrings.11>image->a [terrainfeature]</TalelessImages.rulePack.rulesStrings.11>
-  <TalelessImages.rulePack.rulesStrings.12>image->an abstracted depiction of [concept]</TalelessImages.rulePack.rulesStrings.12>
-  <TalelessImages.rulePack.rulesStrings.13>image->a [community]</TalelessImages.rulePack.rulesStrings.13>
-  <TalelessImages.rulePack.rulesStrings.14>image->a [weapon]</TalelessImages.rulePack.rulesStrings.14>
-  <TalelessImages.rulePack.rulesStrings.15>image->[quantity_adjphrase] [weapon]s</TalelessImages.rulePack.rulesStrings.15>
-  <TalelessImages.rulePack.rulesStrings.16>image->[quantity_adjphrase] [vegetable]s</TalelessImages.rulePack.rulesStrings.16>
-  <TalelessImages.rulePack.rulesStrings.17>image->the minor celebrity [personname] [subject_desc]</TalelessImages.rulePack.rulesStrings.17>
-  <TalelessImages.rulePack.rulesStrings.18>image->a [animal] in the [apparel] of a [outlander]</TalelessImages.rulePack.rulesStrings.18>
-  <TalelessImages.rulePack.rulesStrings.19>subject_desc->flying through the air</TalelessImages.rulePack.rulesStrings.19>
-  <TalelessImages.rulePack.rulesStrings.20>subject_desc->suspended in the air</TalelessImages.rulePack.rulesStrings.20>
-  <TalelessImages.rulePack.rulesStrings.21>subject_desc->standing on the ground</TalelessImages.rulePack.rulesStrings.21>
-  <TalelessImages.rulePack.rulesStrings.22>subject_desc->moving to the left</TalelessImages.rulePack.rulesStrings.22>
-  <TalelessImages.rulePack.rulesStrings.23>subject_desc->moving to the right</TalelessImages.rulePack.rulesStrings.23>
-  <TalelessImages.rulePack.rulesStrings.24>subject_desc->sitting on a table</TalelessImages.rulePack.rulesStrings.24>
-  <TalelessImages.rulePack.rulesStrings.25>subject_desc->seen through a looking glass</TalelessImages.rulePack.rulesStrings.25>
-  <TalelessImages.rulePack.rulesStrings.26>subject_desc->rendered in silhouette</TalelessImages.rulePack.rulesStrings.26>
-  <TalelessImages.rulePack.rulesStrings.27>subject_desc->riding on a [animal] wearing a [apparel]</TalelessImages.rulePack.rulesStrings.27>
-  <TalelessImages.rulePack.rulesStrings.28>subject_desc->looking [adjective]</TalelessImages.rulePack.rulesStrings.28>
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  </TalelessImages.rulePack.rulesStrings>
 
 
 </LanguageData>

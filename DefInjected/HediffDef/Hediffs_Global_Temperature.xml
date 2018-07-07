@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Heatstroke.label>heatstroke</Heatstroke.label>
@@ -14,6 +14,13 @@
   <Hypothermia.stages.2.label>minor</Hypothermia.stages.2.label>
   <Hypothermia.stages.3.label>serious</Hypothermia.stages.3.label>
   <Hypothermia.stages.4.label>extreme</Hypothermia.stages.4.label>
+
+  <HypothermicSlowdown.label>hypothermic slowdown</HypothermicSlowdown.label>
+  <HypothermicSlowdown.stages.0.label>minor</HypothermicSlowdown.stages.0.label>
+  <HypothermicSlowdown.stages.1.label>minor</HypothermicSlowdown.stages.1.label>
+  <HypothermicSlowdown.stages.2.label>moderate</HypothermicSlowdown.stages.2.label>
+  <HypothermicSlowdown.stages.3.label>serious</HypothermicSlowdown.stages.3.label>
+  <HypothermicSlowdown.stages.4.label>extreme</HypothermicSlowdown.stages.4.label>
 
 
 </LanguageData>

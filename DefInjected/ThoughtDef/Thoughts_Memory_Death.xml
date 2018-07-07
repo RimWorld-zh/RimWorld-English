@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- executions and prisoner deaths -->
+  <!--=================== executions and prisoner deaths ===================-->
 
   <KnowGuestExecuted.stages.0.label>justified execution</KnowGuestExecuted.stages.0.label>
   <KnowGuestExecuted.stages.0.description>A guilty prisoner or guest was executed. It was justified, but still sad.</KnowGuestExecuted.stages.0.description>
@@ -28,22 +28,19 @@
   <KnowColonistDied.stages.0.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.0.description>
 
 
-  <!-- bonded animal died -->
+  <!--===================== bonded animal died =====================-->
 
   <BondedAnimalDied.stages.0.label>bonded animal {0} died</BondedAnimalDied.stages.0.label>
   <BondedAnimalDied.stages.0.description>Such a tender, unique animal. This universe is evil!</BondedAnimalDied.stages.0.description>
 
 
-  <!-- friend/rival died -->
+  <!--===================== friend/rival died =====================-->
 
   <PawnWithGoodOpinionDied.stages.0.label>my friend {0} died</PawnWithGoodOpinionDied.stages.0.label>
-  <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
+  <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person, gone forever. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
 
   <PawnWithBadOpinionDied.stages.0.label>my rival {0} died</PawnWithBadOpinionDied.stages.0.label>
-  <PawnWithBadOpinionDied.stages.0.description>Serves them right. Things are looking up.</PawnWithBadOpinionDied.stages.0.description>
-
-
-  <!-- Family member died thoughts -->
+  <PawnWithBadOpinionDied.stages.0.description>Serves them right. At least there's some justice in this world.</PawnWithBadOpinionDied.stages.0.description>
 
   <MySonDied.stages.0.label>my son {0} died</MySonDied.stages.0.label>
   <MySonDied.stages.0.description>My son is dead. My own flesh and blood...</MySonDied.stages.0.description>

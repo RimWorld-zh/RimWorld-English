@@ -1,21 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <AccuracyTouch.label>Accuracy (touch)</AccuracyTouch.label>
-  <AccuracyTouch.description>Accuracy multiplier at touch range.</AccuracyTouch.description>
+  <AccuracyTouch.description>The weapon's effect on accuracy at a distance of 4 cells or less.</AccuracyTouch.description>
 
   <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
-  <AccuracyShort.description>Accuracy multiplier at short range.</AccuracyShort.description>
+  <AccuracyShort.description>The weapon's effect on accuracy at a distance of 15 cells.</AccuracyShort.description>
 
   <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
-  <AccuracyMedium.description>Accuracy multiplier at medium range.</AccuracyMedium.description>
+  <AccuracyMedium.description>The weapon's effect on accuracy at a distance of 30 cells.</AccuracyMedium.description>
 
   <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
-  <AccuracyLong.description>Accuracy multiplier at long range.</AccuracyLong.description>
+  <AccuracyLong.description>The weapon's effect on accuracy at a distance of 50 cells or more.</AccuracyLong.description>
 
   <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
   <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
   <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
+
+  <RangedWeapon_DamageMultiplier.label>damage multiplier</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.description>A damage multiplier applied to projectiles fired from this weapon.</RangedWeapon_DamageMultiplier.description>
 
 
 </LanguageData>

@@ -1,37 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Medicine -->
+  <!--=============== Medicine ====================-->
 
-  <HerbalMedicine.label>herbal medicine</HerbalMedicine.label>
-  <HerbalMedicine.description>A pack of herbal concoctions typically extracted from the healroot plant. Less potent than industrial pharmaceuticals, but much better than nothing.</HerbalMedicine.description>
+  <MedicineHerbal.label>herbal medicine</MedicineHerbal.label>
+  <MedicineHerbal.description>A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing.</MedicineHerbal.description>
 
-  <Medicine.label>medicine</Medicine.label>
-  <Medicine.description>Medical staff use these supplies to heal the wounded.</Medicine.description>
+  <MedicineIndustrial.label>medicine</MedicineIndustrial.label>
+  <MedicineIndustrial.description>A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids.</MedicineIndustrial.description>
 
-  <GlitterworldMedicine.label>glitterworld medicine</GlitterworldMedicine.label>
-  <GlitterworldMedicine.description>Advanced medical supplies from a high-tech glitterworld.</GlitterworldMedicine.description>
-
-
-  <!-- Component -->
-
-  <Component.label>component</Component.label>
-  <Component.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</Component.description>
-
-  <AdvancedComponent.label>advanced component</AdvancedComponent.label>
-  <AdvancedComponent.description>High-quality electronic equipment, miniaturized and hardened for the most stressful applications.</AdvancedComponent.description>
+  <MedicineUltratech.label>glitterworld medicine</MedicineUltratech.label>
+  <MedicineUltratech.description>A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools.</MedicineUltratech.description>
 
 
-  <!-- Neutroamine -->
+  <!--=============== ComponentIndustrial ====================-->
+
+  <ComponentIndustrial.label>component</ComponentIndustrial.label>
+  <ComponentIndustrial.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</ComponentIndustrial.description>
+
+  <ComponentSpacer.label>advanced component</ComponentSpacer.label>
+  <ComponentSpacer.description>Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications.</ComponentSpacer.description>
+
+
+  <!--=============== Neutroamine ====================-->
 
   <Neutroamine.label>neutroamine</Neutroamine.label>
-  <Neutroamine.description>A synthetic precursor chemical. Useless on its own, many drugs require neutroamine as an ingredient.</Neutroamine.description>
+  <Neutroamine.description>A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient.</Neutroamine.description>
 
 
-  <!-- Chemfuel -->
+  <!--=============== Chemfuel ====================-->
 
   <Chemfuel.label>chemfuel</Chemfuel.label>
-  <Chemfuel.description>Volatile liquid chemical compound. Used to fuel rockets and other machines.</Chemfuel.description>
+  <Chemfuel.description>A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon.</Chemfuel.description>
 
 
 </LanguageData>

@@ -1,23 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- player pawn filters -->
+  <!--================= player pawn filters =================-->
 
   <GameStartDialog.label>game start dialog</GameStartDialog.label>
+
+
+  <!--================= player pawn filters =================-->
+
   <PawnFilter_Age.label>allowed age range</PawnFilter_Age.label>
 
 
-  <!-- player pawn modifier -->
+  <!--================== player pawn modifier ================-->
 
   <OnPawnDeathExplode.label>characters explode on death</OnPawnDeathExplode.label>
   <ForcedTrait.label>forced trait</ForcedTrait.label>
   <ForcedHediff.label>forced health condition</ForcedHediff.label>
+  <Naked.label>naked</Naked.label>
   <SetNeedLevel.label>set need level</SetNeedLevel.label>
   <StartingResearch.label>start with research</StartingResearch.label>
   <GameCondition_Planetkiller.label>planetkiller weapon incoming</GameCondition_Planetkiller.label>
-
-
-  <!-- rules changes -->
 
   <Rule_DisallowDesignator_ZoneAdd_Growing.label>cannot sow</Rule_DisallowDesignator_ZoneAdd_Growing.label>
   <Rule_DisallowDesignator_ZoneAdd_Growing.description>Cannot sow plants on the ground.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
@@ -34,7 +36,7 @@
   <StatFactor.label>stat multiplier</StatFactor.label>
 
 
-  <!-- grouped -->
+  <!--==================== grouped ==================-->
 
   <DisableIncident.label>disable incident</DisableIncident.label>
   <CreateIncident.label>create incident</CreateIncident.label>

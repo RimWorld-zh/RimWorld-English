@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <OrganicStandard.hediffGivers.4.letterLabel>Trauma savant</OrganicStandard.hediffGivers.4.letterLabel>
-  <OrganicStandard.hediffGivers.4.letter>NAME's brain injury has caused HIM to develop strange savant-like abilities.</OrganicStandard.hediffGivers.4.letter>
+  <Human.hediffGivers.0.letter>[PAWN_nameDef]'s brain injury has caused [PAWN_objective] to develop strange savant-like abilities.</Human.hediffGivers.0.letter>
+  <Human.hediffGivers.0.letterLabel>Trauma savant</Human.hediffGivers.0.letterLabel>
 
 
 </LanguageData>

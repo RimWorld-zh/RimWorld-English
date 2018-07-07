@@ -1,5 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+  <!--======= Primary stats (calcualated from physical conditions) =======-->
 
   <Impressiveness.label>impressiveness</Impressiveness.label>
   <Impressiveness.scoreStages.0.label>awful</Impressiveness.scoreStages.0.label>
@@ -50,11 +52,14 @@
   <Cleanliness.scoreStages.3.label>clean</Cleanliness.scoreStages.3.label>
   <Cleanliness.scoreStages.4.label>sterile</Cleanliness.scoreStages.4.label>
 
+
+  <!--======= Dependent stats (calculated from other stats) =======-->
+
   <InfectionChanceFactor.label>infection chance factor</InfectionChanceFactor.label>
   <SurgerySuccessChanceCleanlinessFactor.label>surgery success chance cleanliness factor</SurgerySuccessChanceCleanlinessFactor.label>
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>grave visiting joy gain factor</GraveVisitingJoyGainFactor.label>
-  <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
+  <GraveVisitingJoyGainFactor.label>grave visiting recreation factor</GraveVisitingJoyGainFactor.label>
+  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
 
 
 </LanguageData>

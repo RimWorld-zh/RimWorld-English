@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Peaceful.label>Peaceful</Peaceful.label>
-  <Peaceful.description>For those who want to relax and build a colony in a sandbox-like environment.\n\nMajor threatening events are disabled, but colonists can still get grumpy and animals can still go crazy from time to time.</Peaceful.description>
+  <Peaceful.description>Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
 
-  <VeryEasy.label>Base builder</VeryEasy.label>
-  <VeryEasy.description>For those who want to build a colony with a taste of danger.\n\nMajor threats appear, but they're weakened. Some of the extremely dangerous events are disabled.</VeryEasy.description>
+  <Easy.label>Base builder</Easy.label>
+  <Easy.description>Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to relax.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled.</Easy.description>
 
-  <Easy.label>Some challenge</Easy.label>
-  <Easy.description>For players on their first game, or casual players who still want a challenge.\n\nThreats are dangerous but not brutal.</Easy.description>
+  <Medium.label>Medium</Medium.label>
+  <Medium.description>Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.</Medium.description>
 
-  <Medium.label>Rough</Medium.label>
-  <Medium.description>It's a rough planet.\n\nThreats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
+  <Hard.label>Hard</Hard.label>
+  <Hard.description>Struggle to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play an intense story requiring significant skill to survive.\n\nThere is no perfect game here - some challenges will be impossible to overcome without losses, so you'll have to fight wounded, sacrifice to survive, and recover.</Hard.description>
 
-  <Hard.label>Intense</Hard.label>
-  <Hard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</Hard.description>
+  <ExtraHard.label>Extra hard</ExtraHard.label>
+  <ExtraHard.description>Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Players with a lot of experience who want to push themselves beyond Hard mode.\n\nSucceeding at this level requires a well-rounded understanding of diverse strategies, an eye towards preparation, and some luck. Threats can spike and combine in vicious ways, so sometimes you'll have to accept serious losses to survive.</ExtraHard.description>
 
-  <VeryHard.label>Extreme</VeryHard.label>
-  <VeryHard.description>As hard as a diamond-bladed dagger.\n\nEnemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
+  <Extreme.label>Extreme</Extreme.label>
+  <Extreme.description>Apply mastery of every RimWorld skill to survive a harrowing trial against a cruel, unfair world.\n\nRecommended for: Players who want to face brutal, unfair situations that require the deployment of fluent and well-rounded skills just to avoid losing everything.\n\nThere is no clean game here. You'll spend a lot of time fighting wounded and recovering, you'll need to prepare carefully, and you'll need to sacrifice things you love to avoid death.</Extreme.description>
 
 
 </LanguageData>

@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Concepts taught through the learning readout, when opportunities arise -->
+  <!--===================== Concepts taught through the learning readout, when opportunities arise ===================-->
 
   <ReformCaravan.label>Reforming caravans</ReformCaravan.label>
   <ReformCaravan.helpText>After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view.</ReformCaravan.helpText>
@@ -53,6 +53,9 @@
 
   <DoorOpenSpeed.label>Door opening speeds</DoorOpenSpeed.label>
   <DoorOpenSpeed.helpText>Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.</DoorOpenSpeed.helpText>
+
+  <QueueOrders.label>Order queueing</QueueOrders.label>
+  <QueueOrders.helpText>When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.</QueueOrders.helpText>
 
 
 </LanguageData>

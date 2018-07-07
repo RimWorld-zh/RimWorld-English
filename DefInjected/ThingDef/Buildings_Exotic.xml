@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <CrashedPsychicEmanatorShipPart.label>ancient ship part (psychic)</CrashedPsychicEmanatorShipPart.label>
-  <CrashedPsychicEmanatorShipPart.description>A mysterious crashed piece of a spaceship. It may contain exotic materials and computers. This one seems to be emanating psychic waves.</CrashedPsychicEmanatorShipPart.description>
+  <CrashedPsychicEmanatorShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves.</CrashedPsychicEmanatorShipPart.description>
 
   <CrashedPoisonShipPart.label>ancient ship part (poison)</CrashedPoisonShipPart.label>
-  <CrashedPoisonShipPart.description>A mysterious crashed piece of a spaceship. It may contain exotic materials and computers. This one seems to be poisoning the ground around it.</CrashedPoisonShipPart.description>
+  <CrashedPoisonShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be poisoning the ground around it.</CrashedPoisonShipPart.description>
 
 
-  <!-- Misc -->
+  <!-- =============================== Misc ============================ -->
 
   <ShipChunk.label>ship chunk</ShipChunk.label>
-  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful steel and components.</ShipChunk.description>
+  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful resources.</ShipChunk.description>
 
 
 </LanguageData>

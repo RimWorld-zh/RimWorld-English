@@ -1,24 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <CookMealSimple.label>cook simple meal</CookMealSimple.label>
-  <CookMealSimple.description>Cooks a straightforward meal from one ingredient.</CookMealSimple.description>
+  <CookMealSimple.description>Cook a straightforward meal from one ingredient.</CookMealSimple.description>
   <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
 
-  <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
-  <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>
-  <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
-
   <CookMealFine.label>cook fine meal</CookMealFine.label>
-  <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>
+  <CookMealFine.description>Cook a somewhat complex meal from a combination of meat and plant ingredients.</CookMealFine.description>
   <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
 
   <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
-  <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
+  <CookMealLavish.description>Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
   <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
 
   <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
-  <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
+  <CookMealSurvival.description>Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvival.description>
   <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
 
 

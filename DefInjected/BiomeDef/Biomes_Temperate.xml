@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <TemperateForest.label>temperate forest</TemperateForest.label>
-  <TemperateForest.description>Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around in the trees and on the plains. Because of snow, it is slow to travel in winter.</TemperateForest.description>
+  <TemperateForest.description>Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains.</TemperateForest.description>
 
   <TemperateSwamp.label>temperate swamp</TemperateSwamp.label>
-  <TemperateSwamp.description>Extremely dense vegetation and marshy terrain make it very difficult to move around here and build big structures. Many species of animals live in this area.</TemperateSwamp.description>
+  <TemperateSwamp.description>Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures.</TemperateSwamp.description>
 
 
 </LanguageData>

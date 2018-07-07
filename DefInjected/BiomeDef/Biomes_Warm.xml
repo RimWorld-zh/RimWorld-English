@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <TropicalRainforest.label>tropical rainforest</TropicalRainforest.label>
-  <TropicalRainforest.description>A thick, moist jungle. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant disease are why some explorers call this the "green hell".</TropicalRainforest.description>
+  <TropicalRainforest.description>A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell".</TropicalRainforest.description>
 
   <TropicalSwamp.label>tropical swamp</TropicalSwamp.label>
-  <TropicalSwamp.description>A thick jungle with lots of marsh and mud. Difficult movement, little space to build heavy structures, aggresive animals, and constant diseases make living here a nightmare.</TropicalSwamp.description>
+  <TropicalSwamp.description>A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare.</TropicalSwamp.description>
 
 
 </LanguageData>
