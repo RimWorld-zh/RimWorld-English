@@ -31,6 +31,9 @@
   <ElectricSmelting.label>electric smelting</ElectricSmelting.label>
   <ElectricSmelting.description>Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelter extracts useful metal from slag chunks and other items.</ElectricSmelting.description>
 
+  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <TubeTelevision.description>Produce tube televisions for recreational watching.</TubeTelevision.description>
+
   <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
   <PackagedSurvivalMeal.description>Produce packaged survival meals which never go bad. Great for traveling.</PackagedSurvivalMeal.description>
 
@@ -45,6 +48,9 @@
 
   <GeothermalPower.label>geothermal power</GeothermalPower.label>
   <GeothermalPower.description>Build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
+
+  <SterileMaterials.label>sterile materials</SterileMaterials.label>
+  <SterileMaterials.description>Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking.</SterileMaterials.description>
 
 
   <!--===================== Machining and its children sub-tier ======================-->
@@ -62,7 +68,7 @@
   <Gunsmithing.description>Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers.</Gunsmithing.description>
 
   <FlakArmor.label>flak armor</FlakArmor.label>
-  <FlakArmor.description>Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor so slows movement somewhat.</FlakArmor.description>
+  <FlakArmor.description>Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly.</FlakArmor.description>
 
   <Mortars.label>mortars</Mortars.label>
   <Mortars.description>Build mortars which can lob shells long distances - even over walls.</Mortars.description>
@@ -86,7 +92,7 @@
   <MultibarrelWeapons.description>Assemble miniguns.</MultibarrelWeapons.description>
 
   <SniperTurret.label>sniper turret</SniperTurret.label>
-  <SniperTurret.description>Produce the extremely long-ranged sniper turret.</SniperTurret.description>
+  <SniperTurret.description>Produce the extremely long-ranged sniper cannon turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range.</SniperTurret.description>
 
 
 </LanguageData>

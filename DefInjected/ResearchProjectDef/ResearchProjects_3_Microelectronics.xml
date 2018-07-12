@@ -4,9 +4,6 @@
   <MicroelectronicsBasics.label>microelectronics</MicroelectronicsBasics.label>
   <MicroelectronicsBasics.description>Work with complex microelectronics. This unlocks the high-tech research bench and comms console.</MicroelectronicsBasics.description>
 
-  <TubeTelevision.label>tube television</TubeTelevision.label>
-  <TubeTelevision.description>Produce tube televisions for recreational watching.</TubeTelevision.description>
-
   <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
   <FlatscreenTelevision.description>Produce high-resolution flatscreen televisions for greater enjoyment.</FlatscreenTelevision.description>
 
@@ -15,9 +12,6 @@
 
   <MoisturePump.label>moisture pump</MoisturePump.label>
   <MoisturePump.description>Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand.</MoisturePump.description>
-
-  <SterileMaterials.label>sterile materials</SterileMaterials.label>
-  <SterileMaterials.description>Construct sterile tiles to make cleanrooms for more effective medical treatment and research.</SterileMaterials.description>
 
   <HospitalBed.label>hospital bed</HospitalBed.label>
   <HospitalBed.description>Construct hospital beds which improve medical outcomes.</HospitalBed.description>

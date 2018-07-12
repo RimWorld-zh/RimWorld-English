@@ -5,6 +5,7 @@
   <Cassowary.description>A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers.</Cassowary.description>
   <Cassowary.race.meatLabel>bird meat</Cassowary.race.meatLabel>
   <Cassowary.tools.0.label>claws</Cassowary.tools.0.label>
+  <Cassowary.tools.1.label>beak</Cassowary.tools.1.label>
   <Cassowary.tools.2.label>head</Cassowary.tools.2.label>
 
   <Meat_Cassowary.label>MeatLabel</Meat_Cassowary.label>
@@ -16,6 +17,7 @@
   <Emu.label>emu</Emu.label>
   <Emu.description>A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge.</Emu.description>
   <Emu.tools.0.label>claws</Emu.tools.0.label>
+  <Emu.tools.1.label>beak</Emu.tools.1.label>
   <Emu.tools.2.label>head</Emu.tools.2.label>
 
   <Meat_Emu.label>MeatLabel</Meat_Emu.label>
@@ -27,6 +29,7 @@
   <Ostrich.label>ostrich</Ostrich.label>
   <Ostrich.description>The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered.</Ostrich.description>
   <Ostrich.tools.0.label>claws</Ostrich.tools.0.label>
+  <Ostrich.tools.1.label>beak</Ostrich.tools.1.label>
   <Ostrich.tools.2.label>head</Ostrich.tools.2.label>
 
   <Meat_Ostrich.label>MeatLabel</Meat_Ostrich.label>
@@ -38,6 +41,7 @@
   <Turkey.label>turkey</Turkey.label>
   <Turkey.description>A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild.</Turkey.description>
   <Turkey.tools.0.label>claws</Turkey.tools.0.label>
+  <Turkey.tools.1.label>beak</Turkey.tools.1.label>
   <Turkey.tools.2.label>head</Turkey.tools.2.label>
 
   <Meat_Turkey.label>MeatLabel</Meat_Turkey.label>

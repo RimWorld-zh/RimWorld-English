@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-
-  <Weapon_Bulk.label>weapon melee bulk</Weapon_Bulk.label>
-  <Weapon_Bulk.description>How difficult it is to wield this weapon in melee combat. Less-bulky weapons will strike more often in melee.</Weapon_Bulk.description>
-
-
-</LanguageData>

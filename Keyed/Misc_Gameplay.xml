@@ -136,7 +136,6 @@
   <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
   <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
   <ItemStashContents>Contents: {0}</ItemStashContents>
-  <SomeItemStashContents>Some contents: {0}</SomeItemStashContents>
   <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
   <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
   <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>

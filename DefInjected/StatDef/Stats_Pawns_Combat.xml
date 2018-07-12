@@ -18,8 +18,8 @@
 
   <!-- ================================== Shooting =======================================-->
 
-  <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracy.description>
+  <ShootingAccuracyPawn.label>shooting accuracy</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.description>Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyPawn.description>
 
   <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
   <AimingDelayFactor.description>How long it takes to shoot after choosing a target.</AimingDelayFactor.description>

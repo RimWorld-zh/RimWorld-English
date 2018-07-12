@@ -11,7 +11,7 @@
   <Rest.description>Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
 
   <Joy.label>recreation</Joy.label>
-  <Joy.description>Recreation is the need have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
+  <Joy.description>Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
 
   <Beauty.label>beauty</Beauty.label>
   <Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it.</Beauty.description>

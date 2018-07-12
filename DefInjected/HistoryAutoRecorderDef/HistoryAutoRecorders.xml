@@ -23,4 +23,10 @@
   <ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
 
 
+  <!-- Dev mode recorders -->
+
+  <RampUp.label>ramp-up</RampUp.label>
+  <RampUp.graphLabelY>Days</RampUp.graphLabelY>
+
+
 </LanguageData>

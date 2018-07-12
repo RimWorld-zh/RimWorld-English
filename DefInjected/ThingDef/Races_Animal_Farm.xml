@@ -4,6 +4,7 @@
   <Chicken.label>chicken</Chicken.label>
   <Chicken.description>The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often.</Chicken.description>
   <Chicken.tools.0.label>claws</Chicken.tools.0.label>
+  <Chicken.tools.1.label>beak</Chicken.tools.1.label>
   <Chicken.tools.2.label>head</Chicken.tools.2.label>
 
   <Meat_Chicken.label>MeatLabel</Meat_Chicken.label>

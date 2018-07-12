@@ -6,6 +6,7 @@
   <Deer.race.meatLabel>venison</Deer.race.meatLabel>
   <Deer.tools.0.label>left hoof</Deer.tools.0.label>
   <Deer.tools.1.label>right hoof</Deer.tools.1.label>
+  <Deer.tools.2.label>teeth</Deer.tools.2.label>
   <Deer.tools.3.label>head</Deer.tools.3.label>
 
   <Meat_Deer.label>MeatLabel</Meat_Deer.label>
@@ -63,6 +64,7 @@
 
   <Tortoise.label>tortoise</Tortoise.label>
   <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
+  <Tortoise.tools.0.label>beak</Tortoise.tools.0.label>
   <Tortoise.tools.1.label>head</Tortoise.tools.1.label>
 
   <Meat_Tortoise.label>MeatLabel</Meat_Tortoise.label>

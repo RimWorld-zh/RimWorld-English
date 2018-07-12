@@ -163,4 +163,12 @@
   <FoodPoisonCause_Rotten>rotten food</FoodPoisonCause_Rotten>
   <FoodPoisonCause_DangerousFoodType>dangerous food type</FoodPoisonCause_DangerousFoodType>
 
+  <!-- Psychic drone level -->
+  <PsychicDroneLevel_None>none</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>medium</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>low</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>medium</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>high</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>extreme</PsychicDroneLevel_BadExtreme>
+
 </LanguageData>

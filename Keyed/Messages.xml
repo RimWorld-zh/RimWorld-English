@@ -306,4 +306,6 @@
 
   <MessageEnterCooldownBlocksEntering>You can't re-enter for another {0} days.</MessageEnterCooldownBlocksEntering>
 
+  <MessagePredatorHuntingPlayerAnimal>{0} is hunting {1} for food!</MessagePredatorHuntingPlayerAnimal>
+
 </LanguageData>

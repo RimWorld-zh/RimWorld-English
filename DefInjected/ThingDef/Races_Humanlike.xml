@@ -5,7 +5,8 @@
   <Human.description>A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.</Human.description>
   <Human.tools.0.label>left fist</Human.tools.0.label>
   <Human.tools.1.label>right fist</Human.tools.1.label>
-  <Human.tools.2.label>head</Human.tools.2.label>
+  <Human.tools.2.label>teeth</Human.tools.2.label>
+  <Human.tools.3.label>head</Human.tools.3.label>
 
 
 </LanguageData>

@@ -4,6 +4,7 @@
   <Wealth.label>wealth</Wealth.label>
   <Population.label>population</Population.label>
   <ColonistMood.label>colonist mood</ColonistMood.label>
+  <Debug.label>debug</Debug.label>
 
 
 </LanguageData>

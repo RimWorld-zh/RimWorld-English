@@ -4,6 +4,7 @@
   <Cobra.label>cobra</Cobra.label>
   <Cobra.description>A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</Cobra.description>
   <Cobra.race.meatLabel>cobraflesh</Cobra.race.meatLabel>
+  <Cobra.tools.0.label>venom-fangs</Cobra.tools.0.label>
   <Cobra.tools.1.label>head</Cobra.tools.1.label>
 
   <Meat_Cobra.label>MeatLabel</Meat_Cobra.label>

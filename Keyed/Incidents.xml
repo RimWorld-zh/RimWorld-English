@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <LetterLabelAnimalInsanitySingle>Mad animal</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>Mad {0}</LetterLabelAnimalInsanitySingle>
   <AnimalInsanitySingle>A local {0} has gone mad. It will attack everyone it sees.</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>Mad animals!</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>Mad {0}</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Blight</LetterLabelCropBlight>
@@ -60,10 +60,6 @@
   <LetterShipPartDroveColonistInsane>The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Awoke {0} days ago</AwokeDaysAgo>
   <PsychicDroneLevel>Psychic drone level: {0}</PsychicDroneLevel>
-  <PsychicDroneLevelLow>Low</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Medium</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>High</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Extreme</PsychicDroneLevelExtreme>
   <LetterLabelPsychicDroneLevelIncreased>Drone intensifies</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid.</LetterPsychicDroneLevelIncreased>
   
@@ -73,7 +69,7 @@
 
   <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>Psychic drone</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>Psychic soothe</LetterLabelPsychicSoothe>
   <LetterIncidentPsychicSoothe>Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better.</LetterIncidentPsychicSoothe>

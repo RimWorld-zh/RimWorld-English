@@ -19,6 +19,7 @@
   <WoodLog.label>wood</WoodLog.label>
   <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
   <WoodLog.stuffProps.stuffAdjective>wooden</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.tools.0.label>log</WoodLog.tools.0.label>
 
   <Uranium.label>uranium</Uranium.label>
   <Uranium.description>An dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain primitive weapons and armor.</Uranium.description>

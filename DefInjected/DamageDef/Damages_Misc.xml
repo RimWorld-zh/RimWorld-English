@@ -16,6 +16,9 @@
   <Bomb.label>bomb</Bomb.label>
   <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
 
+  <BombSuper.label>bomb</BombSuper.label>
+  <BombSuper.deathMessage>{0} has died in an explosion.</BombSuper.deathMessage>
+
   <Smoke.label>smoke</Smoke.label>
   <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
 
